@@ -1,0 +1,57 @@
+{
+  "id": 6746,
+  "name": "Xmas Princess in Black",
+  "type_id": 21,
+  "type_label": "[Weapon Crysta]",
+  "sell": 1,
+  "process": 6,
+  "process_amount": 100,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 4,
+      "effect_name": "STR %",
+      "amount": 3,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 6,
+      "effect_name": "INT %",
+      "amount": 3,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 21,
+      "effect_name": "ATK %",
+      "amount": 9,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 23,
+      "effect_name": "MATK %",
+      "amount": 9,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 61,
+      "effect_name": "Aggro %",
+      "amount": -50,
+      "applies_to": 1
+    },
+    {
+      "effect_id": 70,
+      "effect_name": "Long Range Damage %",
+      "amount": -6,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 125,
+      "effect_name": "Tumble Unavailable",
+      "amount": 1,
+      "applies_to": 0
+    }
+  ]
+}

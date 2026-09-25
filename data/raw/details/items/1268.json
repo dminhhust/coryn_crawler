@@ -1,0 +1,39 @@
+{
+  "id": 1268,
+  "name": "Gladiator Armor",
+  "type_id": 8,
+  "type_label": "[Armor]",
+  "sell": -1,
+  "process": -1,
+  "process_amount": -1,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 16,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 59,
+      "effect_name": "Guard Recharge %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 60,
+      "effect_name": "Evasion Recharge %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 74,
+      "effect_name": "Weapon ATK %",
+      "amount": 10,
+      "applies_to": 0
+    }
+  ]
+}

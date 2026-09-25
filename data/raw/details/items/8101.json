@@ -1,0 +1,45 @@
+{
+  "id": 8101,
+  "name": "Gingerbread Man Santa",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 137,
+  "process": 4,
+  "process_amount": 68,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 200,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 6,
+      "effect_name": "INT %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 17,
+      "effect_name": "MaxHP",
+      "amount": 9000,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 23,
+      "effect_name": "MATK %",
+      "amount": 11,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 56,
+      "effect_name": "Dark resistance %",
+      "amount": 8,
+      "applies_to": 0
+    }
+  ]
+}

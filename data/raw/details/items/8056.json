@@ -1,0 +1,39 @@
+{
+  "id": 8056,
+  "name": "Pillorocas",
+  "type_id": 230,
+  "type_label": "[Enhancer Crysta (Yellow)]",
+  "sell": 1,
+  "process": 6,
+  "process_amount": 100,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 31,
+      "effect_name": "Physical Resistance %",
+      "amount": 5,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 32,
+      "effect_name": "Magic Resistance %",
+      "amount": 5,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 41,
+      "effect_name": "Critical Rate",
+      "amount": -5,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 42,
+      "effect_name": "Critical Rate %",
+      "amount": 50,
+      "applies_to": 0
+    }
+  ]
+}

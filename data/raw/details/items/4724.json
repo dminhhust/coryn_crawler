@@ -1,0 +1,57 @@
+{
+  "id": 4724,
+  "name": "5th Anniv Sword III",
+  "type_id": 4,
+  "type_label": "[1 Handed Sword]",
+  "sell": 145,
+  "process": 3,
+  "process_amount": 72,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 209,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 4,
+      "effect_name": "STR %",
+      "amount": 6,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 21,
+      "effect_name": "ATK %",
+      "amount": 6,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 32,
+      "effect_name": "Magic Resistance %",
+      "amount": 30,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 41,
+      "effect_name": "Critical Rate",
+      "amount": 7,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 68,
+      "effect_name": "Attack MP Recovery",
+      "amount": 11,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 80,
+      "applies_to": 0
+    }
+  ]
+}

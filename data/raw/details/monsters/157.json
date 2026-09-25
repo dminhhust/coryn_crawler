@@ -1,0 +1,46 @@
+{
+  "id": 157,
+  "name": "Crow Killer",
+  "level": 21,
+  "map_id": 45,
+  "map_name": "Douce Hamlet",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 300,
+  "exp": 13,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 28,
+      "name": "Broken Farm Tool",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 30,
+      "name": "Broken Linen Thread",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 118,
+      "name": "Linen Cloth",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 519,
+      "name": "Market Hat",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

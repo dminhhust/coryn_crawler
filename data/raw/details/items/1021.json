@@ -1,0 +1,39 @@
+{
+  "id": 1021,
+  "name": "Fox Ears",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 22,
+  "process": 1,
+  "process_amount": 11,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 4,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 6,
+      "effect_name": "INT %",
+      "amount": 3,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 19,
+      "effect_name": "MaxMP",
+      "amount": 200,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 51,
+      "effect_name": "Fire resistance %",
+      "amount": 6,
+      "applies_to": 0
+    }
+  ]
+}

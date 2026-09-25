@@ -1,0 +1,33 @@
+{
+  "id": 1847,
+  "name": "Cookie Ring",
+  "type_id": 18,
+  "type_label": "[Special]",
+  "sell": 1,
+  "process": -1,
+  "process_amount": -1,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 19,
+      "effect_name": "MaxMP",
+      "amount": 350,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 22,
+      "effect_name": "MATK",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 39,
+      "effect_name": "CSPD",
+      "amount": 100,
+      "applies_to": 0
+    }
+  ]
+}

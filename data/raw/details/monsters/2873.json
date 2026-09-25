@@ -1,0 +1,58 @@
+{
+  "id": 2873,
+  "name": "Guard Golem (Megiston 2022)",
+  "level": 250,
+  "map_id": 87,
+  "map_name": "Event",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 11500000,
+  "exp": 48200,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6781,
+      "name": "Cat Claw Guardkissa",
+      "type_id": 210,
+      "type_label": "[Enhancer Crysta (Red)]"
+    },
+    {
+      "id": 6780,
+      "name": "Dragon Guard Arrow",
+      "type_id": 7,
+      "type_label": "[Arrow]"
+    },
+    {
+      "id": 6777,
+      "name": "Guard Bone Bow",
+      "type_id": 9,
+      "type_label": "[Bow]"
+    },
+    {
+      "id": 6778,
+      "name": "Guard Bone Lance",
+      "type_id": 26,
+      "type_label": "[Halberd]"
+    },
+    {
+      "id": 6357,
+      "name": "Guard Golem",
+      "type_id": 200,
+      "type_label": "[Enhancer Crysta (Blue)]"
+    },
+    {
+      "id": 6776,
+      "name": "Laureate Outfit",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    }
+  ]
+}

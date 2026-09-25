@@ -1,0 +1,39 @@
+{
+  "id": 4193,
+  "name": "Fluffy Kinaco Onesie",
+  "type_id": 8,
+  "type_label": "[Armor]",
+  "sell": 2,
+  "process": -1,
+  "process_amount": 2,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 125,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 17,
+      "effect_name": "MaxHP",
+      "amount": 7500,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 71,
+      "effect_name": "Motion Speed %",
+      "amount": 1,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 127,
+      "effect_name": "Fractional Barrier %",
+      "amount": 20,
+      "applies_to": 0
+    }
+  ]
+}

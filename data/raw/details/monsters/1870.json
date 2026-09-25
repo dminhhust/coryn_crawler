@@ -1,0 +1,34 @@
+{
+  "id": 1870,
+  "name": "Nuthoreth",
+  "level": 210,
+  "map_id": 87,
+  "map_name": "Event",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Nightmare",
+  "hp": 45000000,
+  "exp": 115000,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4307,
+      "name": "Nuthoreth",
+      "type_id": 200,
+      "type_label": "[Enhancer Crysta (Blue)]"
+    },
+    {
+      "id": 4305,
+      "name": "Pineapple Hat",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

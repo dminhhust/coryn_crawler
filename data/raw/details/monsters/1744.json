@@ -1,0 +1,46 @@
+{
+  "id": 1744,
+  "name": "Tulin",
+  "level": 144,
+  "map_id": 300,
+  "map_name": "Wazeero Street",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 7500,
+  "exp": 176,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4051,
+      "name": "Accuracy+12",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 4049,
+      "name": "Big Tuber",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4048,
+      "name": "Strong Stem",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4050,
+      "name": "Tasty Honey",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

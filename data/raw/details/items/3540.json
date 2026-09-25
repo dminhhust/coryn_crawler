@@ -1,0 +1,33 @@
+{
+  "id": 3540,
+  "name": "Chocolate Ring II",
+  "type_id": 18,
+  "type_label": "[Special]",
+  "sell": 1,
+  "process": -1,
+  "process_amount": -1,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 19,
+      "effect_name": "MaxMP",
+      "amount": 450,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 20,
+      "effect_name": "ATK",
+      "amount": 20,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 37,
+      "effect_name": "ASPD",
+      "amount": 200,
+      "applies_to": 0
+    }
+  ]
+}

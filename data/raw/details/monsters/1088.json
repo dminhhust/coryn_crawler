@@ -1,0 +1,46 @@
+{
+  "id": 1088,
+  "name": "Killer Mouse",
+  "level": 109,
+  "map_id": 212,
+  "map_name": "Ultimea Sewer: East",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 7000,
+  "exp": 125,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2718,
+      "name": "Black Rat Hair",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2710,
+      "name": "Hair Turban",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 2720,
+      "name": "Steel Mask",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2719,
+      "name": "Underground Rat Tail",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

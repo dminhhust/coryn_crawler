@@ -1,0 +1,14 @@
+{
+  "id": 7479,
+  "name": "Clamor Stone",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 22,
+  "process": 3,
+  "process_amount": 22,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

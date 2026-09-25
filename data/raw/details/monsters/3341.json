@@ -1,0 +1,46 @@
+{
+  "id": 3341,
+  "name": "Malum",
+  "level": 220,
+  "map_id": 642,
+  "map_name": "Day Sakura Garden: Mountains",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 22500,
+  "exp": 352,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 78,
+      "name": "Flower Nectar",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 8109,
+      "name": "Mountain Humus",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7636,
+      "name": "Smart Puppy Talisman",
+      "type_id": 18,
+      "type_label": "[Special]"
+    },
+    {
+      "id": 1927,
+      "name": "Tricolor Dango II",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

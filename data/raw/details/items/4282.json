@@ -1,0 +1,14 @@
+{
+  "id": 4282,
+  "name": "Inner Eye",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 19,
+  "process": 6,
+  "process_amount": 4,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

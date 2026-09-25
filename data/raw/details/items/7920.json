@@ -1,0 +1,63 @@
+{
+  "id": 7920,
+  "name": "Raiden",
+  "type_id": 27,
+  "type_label": "[Katana]",
+  "sell": 275,
+  "process": 3,
+  "process_amount": 137,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 198,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 37,
+      "effect_name": "ASPD",
+      "amount": 1000,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 40,
+      "effect_name": "CSPD %",
+      "amount": 75,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 52,
+      "effect_name": "Water resistance %",
+      "amount": -30,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 64,
+      "effect_name": "Wind Element",
+      "amount": 1,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 68,
+      "effect_name": "Attack MP Recovery",
+      "amount": 25,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 80,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 117,
+      "effect_name": "Unsheathe Attack %",
+      "amount": 10,
+      "applies_to": 32768
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 978,
+  "name": "Magi Klug",
+  "type_id": 15,
+  "type_label": "[Magic Device]",
+  "sell": 1,
+  "process": 6,
+  "process_amount": 2,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 5,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 70,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 113,
+      "effect_name": "Potential",
+      "amount": 16,
+      "applies_to": 0
+    }
+  ]
+}

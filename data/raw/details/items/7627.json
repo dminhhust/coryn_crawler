@@ -1,0 +1,39 @@
+{
+  "id": 7627,
+  "name": "Corynkuchen",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 117,
+  "process": 5,
+  "process_amount": 58,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 38,
+      "effect_name": "ASPD %",
+      "amount": 40,
+      "applies_to": 32768
+    },
+    {
+      "effect_id": 40,
+      "effect_name": "CSPD %",
+      "amount": 40,
+      "applies_to": 16384
+    },
+    {
+      "effect_id": 57,
+      "effect_name": "Ailment Resistance %",
+      "amount": 40,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 268,
+      "effect_name": "Ailment Resistance %",
+      "amount": -20,
+      "applies_to": 32768
+    }
+  ]
+}

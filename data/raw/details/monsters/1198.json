@@ -1,0 +1,82 @@
+{
+  "id": 1198,
+  "name": "Ornlarf",
+  "level": 152,
+  "map_id": 237,
+  "map_name": "Ultimea Palace: Corridor",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Hard",
+  "hp": 1900000,
+  "exp": 17400,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2948,
+      "name": "Chief BK Emblem",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2946,
+      "name": "Chief BK Glove Bit",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2947,
+      "name": "Chief BK Loincloth",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2949,
+      "name": "Chief BK Shoulder Armor",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2951,
+      "name": "Clarity Rose",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    },
+    {
+      "id": 2950,
+      "name": "Ether Metal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2953,
+      "name": "Gwai Reaper",
+      "type_id": 26,
+      "type_label": "[Halberd]"
+    },
+    {
+      "id": 816,
+      "name": "Mithril Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 2952,
+      "name": "Order Espada",
+      "type_id": 5,
+      "type_label": "[2 Handed Sword]"
+    },
+    {
+      "id": 2954,
+      "name": "Ornlarf",
+      "type_id": 220,
+      "type_label": "[Enhancer Crysta (Green)]"
+    }
+  ]
+}

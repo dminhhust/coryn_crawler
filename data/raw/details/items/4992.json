@@ -1,0 +1,51 @@
+{
+  "id": 4992,
+  "name": "Ghoulfish Buckler",
+  "type_id": 17,
+  "type_label": "[Shield]",
+  "sell": 195,
+  "process": 1,
+  "process_amount": 97,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 120,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 12,
+      "effect_name": "DEX %",
+      "amount": 3,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 25,
+      "effect_name": "Physical Pierce %",
+      "amount": 6,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 32,
+      "effect_name": "Magic Resistance %",
+      "amount": 20,
+      "applies_to": 8
+    },
+    {
+      "effect_id": 37,
+      "effect_name": "ASPD",
+      "amount": 600,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 52,
+      "effect_name": "Water resistance %",
+      "amount": 15,
+      "applies_to": 0
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": 4518,
+  "name": "Poison Needle",
+  "type_id": 7,
+  "type_label": "[Arrow]",
+  "sell": 170,
+  "process": 5,
+  "process_amount": 85,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 106,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 41,
+      "effect_name": "Critical Rate",
+      "amount": 15,
+      "applies_to": 128
+    },
+    {
+      "effect_id": 57,
+      "effect_name": "Ailment Resistance %",
+      "amount": -3,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 69,
+      "effect_name": "Short Range Damage %",
+      "amount": 1,
+      "applies_to": 0
+    }
+  ]
+}

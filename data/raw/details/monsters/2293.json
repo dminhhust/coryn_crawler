@@ -1,0 +1,46 @@
+{
+  "id": 2293,
+  "name": "Flystida",
+  "level": 187,
+  "map_id": 400,
+  "map_name": "Nov Diela Area 1",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 31600,
+  "exp": 536,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5431,
+      "name": "Ether Lipid",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5432,
+      "name": "Heat Crossbow",
+      "type_id": 10,
+      "type_label": "[Bowgun]"
+    },
+    {
+      "id": 5429,
+      "name": "Mysterious Meringue",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5430,
+      "name": "Soft-Boiled Egg",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

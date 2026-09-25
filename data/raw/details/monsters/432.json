@@ -1,0 +1,46 @@
+{
+  "id": 432,
+  "name": "Shell Mask",
+  "level": 75,
+  "map_id": 123,
+  "map_name": "Abyss of No Return: Area 2",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 132,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1448,
+      "name": "Growing Root",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1450,
+      "name": "Hard Leaf",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1451,
+      "name": "INT+3",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 1449,
+      "name": "Twisted Vine",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

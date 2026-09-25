@@ -1,0 +1,63 @@
+{
+  "id": 7836,
+  "name": "9th Anniv Wings III",
+  "type_id": 15,
+  "type_label": "[Magic Device]",
+  "sell": 0,
+  "process": -1,
+  "process_amount": 0,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 183,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 6,
+      "effect_name": "INT %",
+      "amount": 8,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 17,
+      "effect_name": "MaxHP",
+      "amount": 7000,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 23,
+      "effect_name": "MATK %",
+      "amount": 8,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 41,
+      "effect_name": "Critical Rate",
+      "amount": 40,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 57,
+      "effect_name": "Ailment Resistance %",
+      "amount": 25,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 127,
+      "effect_name": "Fractional Barrier %",
+      "amount": 17,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 164,
+      "effect_name": "MATK UP (AGI %)",
+      "amount": 100,
+      "applies_to": 0
+    }
+  ]
+}

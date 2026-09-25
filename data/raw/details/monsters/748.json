@@ -1,0 +1,46 @@
+{
+  "id": 748,
+  "name": "Slime",
+  "level": 38,
+  "map_id": 53,
+  "map_name": "Lutaros Cavern: B1",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 1100,
+  "exp": 52,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 121,
+      "name": "Living Liquid",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 518,
+      "name": "Magic Scarf",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 139,
+      "name": "Mint Gummy",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 208,
+      "name": "Sticky Liquid",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

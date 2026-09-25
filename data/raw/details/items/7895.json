@@ -1,0 +1,51 @@
+{
+  "id": 7895,
+  "name": "Fubbit",
+  "type_id": 210,
+  "type_label": "[Enhancer Crysta (Red)]",
+  "sell": 1,
+  "process": 6,
+  "process_amount": 100,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 19,
+      "effect_name": "MaxMP",
+      "amount": -200,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 21,
+      "effect_name": "ATK %",
+      "amount": 6,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 25,
+      "effect_name": "Physical Pierce %",
+      "amount": 20,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 57,
+      "effect_name": "Ailment Resistance %",
+      "amount": -15,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 61,
+      "effect_name": "Aggro %",
+      "amount": -15,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 148,
+      "effect_name": "Upgrade for",
+      "amount": 5768,
+      "applies_to": 0
+    }
+  ]
+}

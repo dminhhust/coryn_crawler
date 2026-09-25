@@ -1,0 +1,46 @@
+{
+  "id": 468,
+  "name": "Skeleton",
+  "level": 81,
+  "map_id": 132,
+  "map_name": "Fort Solfini: Wall",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 6000,
+  "exp": 161,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1588,
+      "name": "Dead's Backbone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1586,
+      "name": "Katar",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    },
+    {
+      "id": 1587,
+      "name": "Old Helem",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1589,
+      "name": "Wood Board",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

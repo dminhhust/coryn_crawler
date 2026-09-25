@@ -1,0 +1,14 @@
+{
+  "id": 104,
+  "name": "Heaven Bird Claw",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 9,
+  "process": 1,
+  "process_amount": 9,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

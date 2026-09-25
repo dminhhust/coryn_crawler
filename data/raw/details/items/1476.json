@@ -1,0 +1,45 @@
+{
+  "id": 1476,
+  "name": "Mithril Arrow",
+  "type_id": 7,
+  "type_label": "[Arrow]",
+  "sell": 70,
+  "process": 3,
+  "process_amount": 35,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 32,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 42,
+      "effect_name": "Critical Rate %",
+      "amount": 1,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 43,
+      "effect_name": "Critical Damage",
+      "amount": 3,
+      "applies_to": 32
+    },
+    {
+      "effect_id": 70,
+      "effect_name": "Long Range Damage %",
+      "amount": 1,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 20,
+      "applies_to": 0
+    }
+  ]
+}

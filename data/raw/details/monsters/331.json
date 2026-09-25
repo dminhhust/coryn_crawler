@@ -1,0 +1,46 @@
+{
+  "id": 331,
+  "name": "Golden Coryn (2016)",
+  "level": 100,
+  "map_id": 70,
+  "map_name": "Darkanon Plain",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "Normal",
+  "hp": 10000,
+  "exp": 20,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1127,
+      "name": "Adventurer's Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 245,
+      "name": "Apple",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1128,
+      "name": "Mage Hat",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 1129,
+      "name": "Ribbon",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

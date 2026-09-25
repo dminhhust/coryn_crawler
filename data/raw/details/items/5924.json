@@ -1,0 +1,39 @@
+{
+  "id": 5924,
+  "name": "Santa Scarf",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": -1,
+  "process": -1,
+  "process_amount": -1,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 90,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 17,
+      "effect_name": "MaxHP",
+      "amount": 1500,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 23,
+      "effect_name": "MATK %",
+      "amount": 7,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 42,
+      "effect_name": "Critical Rate %",
+      "amount": 20,
+      "applies_to": 0
+    }
+  ]
+}

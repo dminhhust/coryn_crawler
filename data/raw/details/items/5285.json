@@ -1,0 +1,51 @@
+{
+  "id": 5285,
+  "name": "Superbia Head Chain",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 1,
+  "process": 3,
+  "process_amount": 2,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 50,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 18,
+      "effect_name": "MaxHP %",
+      "amount": -5,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 19,
+      "effect_name": "MaxMP",
+      "amount": 500,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 32,
+      "effect_name": "Magic Resistance %",
+      "amount": 20,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 42,
+      "effect_name": "Critical Rate %",
+      "amount": 30,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 141,
+      "effect_name": "Barrier Cooldown %",
+      "amount": 10,
+      "applies_to": 0
+    }
+  ]
+}

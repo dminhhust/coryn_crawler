@@ -1,0 +1,46 @@
+{
+  "id": 830,
+  "name": "Rat Scavenger",
+  "level": 90,
+  "map_id": 168,
+  "map_name": "Klaspe Slum",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 65,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2266,
+      "name": "Damaged Fruit",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 2265,
+      "name": "Dirty Tail",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2267,
+      "name": "Ninja Hat",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 2264,
+      "name": "Rat Whisker",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

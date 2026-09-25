@@ -1,0 +1,34 @@
+{
+  "id": 3106,
+  "name": "Altadar",
+  "level": 290,
+  "map_id": 404,
+  "map_name": "High Difficulty Boss Battle Event Venue",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": -1,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7422,
+      "name": "Altadar",
+      "type_id": 22,
+      "type_label": "[Armor Crysta]"
+    },
+    {
+      "id": 7421,
+      "name": "Vintage Iron Box",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

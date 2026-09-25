@@ -1,0 +1,46 @@
+{
+  "id": 1898,
+  "name": "Puppet Dragon",
+  "level": 163,
+  "map_id": 329,
+  "map_name": "Joulu House: Gift Room (Lv 150)",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 40000,
+  "exp": 428,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": true,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3645,
+      "name": "Divine Metal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4317,
+      "name": "Gift Plushie",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4320,
+      "name": "Sacred Blue Candle",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4076,
+      "name": "Shotel",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": 5117,
+  "name": "Icy Dagger",
+  "type_id": 11,
+  "type_label": "[Dagger]",
+  "sell": 150,
+  "process": 3,
+  "process_amount": 75,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 110,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 45,
+      "effect_name": "% stronger against Fire",
+      "amount": 5,
+      "applies_to": 128
+    },
+    {
+      "effect_id": 52,
+      "effect_name": "Water resistance %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 125,
+      "effect_name": "Tumble Unavailable",
+      "amount": 1,
+      "applies_to": 0
+    }
+  ]
+}

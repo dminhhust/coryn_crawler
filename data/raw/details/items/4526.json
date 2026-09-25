@@ -1,0 +1,45 @@
+{
+  "id": 4526,
+  "name": "Waist Armor",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 85,
+  "process": 4,
+  "process_amount": 42,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 95,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 19,
+      "effect_name": "MaxMP",
+      "amount": 300,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 38,
+      "effect_name": "ASPD %",
+      "amount": 15,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 75,
+      "effect_name": "Neutral Resistance %",
+      "amount": 18,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 110,
+      "effect_name": "% stronger against Neutral",
+      "amount": 9,
+      "applies_to": 0
+    }
+  ]
+}

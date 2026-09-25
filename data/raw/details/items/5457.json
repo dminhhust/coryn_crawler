@@ -1,0 +1,14 @@
+{
+  "id": 5457,
+  "name": "Irestida's Tail",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 22,
+  "process": 1,
+  "process_amount": 23,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

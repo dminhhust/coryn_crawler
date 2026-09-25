@@ -1,0 +1,46 @@
+{
+  "id": 2925,
+  "name": "Scheff",
+  "level": 216,
+  "map_id": 519,
+  "map_name": "Kabla Jabali",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 19800,
+  "exp": 273,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6988,
+      "name": "Bitter Leaf",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6989,
+      "name": "Bleached Branch",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6990,
+      "name": "Dark Brown Seed",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6991,
+      "name": "Tomtits Gathering Spot",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

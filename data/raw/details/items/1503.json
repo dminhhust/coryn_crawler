@@ -1,0 +1,45 @@
+{
+  "id": 1503,
+  "name": "Shell Buckler",
+  "type_id": 17,
+  "type_label": "[Shield]",
+  "sell": 70,
+  "process": 1,
+  "process_amount": 35,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 9,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 8,
+      "effect_name": "VIT %",
+      "amount": 1,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 34,
+      "effect_name": "Accuracy %",
+      "amount": 8,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 58,
+      "effect_name": "Guard Power %",
+      "amount": 30,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 59,
+      "effect_name": "Guard Recharge %",
+      "amount": 7,
+      "applies_to": 0
+    }
+  ]
+}

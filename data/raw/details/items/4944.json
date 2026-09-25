@@ -1,0 +1,51 @@
+{
+  "id": 4944,
+  "name": "Sugar Cookie",
+  "type_id": 17,
+  "type_label": "[Shield]",
+  "sell": 390,
+  "process": 5,
+  "process_amount": 190,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 5,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 55,
+      "effect_name": "Light resistance %",
+      "amount": 25,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 57,
+      "effect_name": "Ailment Resistance %",
+      "amount": 5,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 58,
+      "effect_name": "Guard Power %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 59,
+      "effect_name": "Guard Recharge %",
+      "amount": 45,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 173,
+      "effect_name": "Reduce Dmg (Floor) %",
+      "amount": 25,
+      "applies_to": 0
+    }
+  ]
+}

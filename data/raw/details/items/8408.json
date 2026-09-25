@@ -1,0 +1,39 @@
+{
+  "id": 8408,
+  "name": "Blue Detachable Collar",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 1,
+  "process": 0,
+  "process_amount": -1,
+  "meta": {
+    "badge": "Update 02/26/26",
+    "note": "Crafted at NPC Blacksmith. Untradable."
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 93,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 40,
+      "effect_name": "CSPD %",
+      "amount": 30,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 71,
+      "effect_name": "Motion Speed %",
+      "amount": 5,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 179,
+      "effect_name": "Invincible Aid (sec)",
+      "amount": 2,
+      "applies_to": 0
+    }
+  ]
+}

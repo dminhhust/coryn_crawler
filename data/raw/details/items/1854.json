@@ -1,0 +1,57 @@
+{
+  "id": 1854,
+  "name": "Assassin Garb",
+  "type_id": 8,
+  "type_label": "[Armor]",
+  "sell": 100,
+  "process": 4,
+  "process_amount": 50,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 38,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 25,
+      "effect_name": "Physical Pierce %",
+      "amount": 15,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 35,
+      "effect_name": "Dodge",
+      "amount": 15,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 41,
+      "effect_name": "Critical Rate",
+      "amount": 15,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 60,
+      "effect_name": "Evasion Recharge %",
+      "amount": 15,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 61,
+      "effect_name": "Aggro %",
+      "amount": -15,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 139,
+      "effect_name": "Anticipate %",
+      "amount": 15,
+      "applies_to": 0
+    }
+  ]
+}

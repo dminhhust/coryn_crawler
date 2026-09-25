@@ -1,0 +1,46 @@
+{
+  "id": 3284,
+  "name": "Povidone",
+  "level": 258,
+  "map_id": 621,
+  "map_name": "Aquastida Entrance",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 67400,
+  "exp": 1016,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 8008,
+      "name": "Corroded Epidermis",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 8009,
+      "name": "Creepy Big Molar",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 8011,
+      "name": "Cursed Gun",
+      "type_id": 10,
+      "type_label": "[Bowgun]"
+    },
+    {
+      "id": 8010,
+      "name": "Hidden Eyeball",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

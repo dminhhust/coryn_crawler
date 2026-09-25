@@ -1,0 +1,21 @@
+{
+  "id": 3614,
+  "name": "Cookie Talisman II",
+  "type_id": 18,
+  "type_label": "[Special]",
+  "sell": -1,
+  "process": -1,
+  "process_amount": -1,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 17,
+      "effect_name": "MaxHP",
+      "amount": 1800,
+      "applies_to": 0
+    }
+  ]
+}

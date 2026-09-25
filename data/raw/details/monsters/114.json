@@ -1,0 +1,46 @@
+{
+  "id": 114,
+  "name": "Goblin (slingshot)",
+  "level": 23,
+  "map_id": 32,
+  "map_name": "Rinom Plains",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 700,
+  "exp": 26,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 54,
+      "name": "Crushed Woodchip",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 61,
+      "name": "Dirty Cloth",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 243,
+      "name": "Hematite",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 494,
+      "name": "Iron Barrel",
+      "type_id": 10,
+      "type_label": "[Bowgun]"
+    }
+  ]
+}

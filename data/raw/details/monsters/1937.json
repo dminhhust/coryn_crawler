@@ -1,0 +1,64 @@
+{
+  "id": 1937,
+  "name": "Kuzto",
+  "level": 218,
+  "map_id": 337,
+  "map_name": "Labilans Sector: Square",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Ultimate",
+  "hp": 35000000,
+  "exp": 182000,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4396,
+      "name": "Bark Mail",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 4394,
+      "name": "Broken Kuzto Mask",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4398,
+      "name": "Kuzto",
+      "type_id": 21,
+      "type_label": "[Weapon Crysta]"
+    },
+    {
+      "id": 4395,
+      "name": "Kuzto Mask",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 4392,
+      "name": "Kuzto Splinter",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4397,
+      "name": "Mystical Nut",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4393,
+      "name": "Quality Herb",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

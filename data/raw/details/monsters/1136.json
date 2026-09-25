@@ -1,0 +1,46 @@
+{
+  "id": 1136,
+  "name": "Squnail",
+  "level": 115,
+  "map_id": 224,
+  "map_name": "Ultimea Sewer: South",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 6000,
+  "exp": 124,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2798,
+      "name": "Cracked Spiral Shell",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2799,
+      "name": "Curved Lance",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2800,
+      "name": "Green Pearl",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2801,
+      "name": "Hard Shell Talisman",
+      "type_id": 18,
+      "type_label": "[Special]"
+    }
+  ]
+}

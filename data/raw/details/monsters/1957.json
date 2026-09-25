@@ -1,0 +1,46 @@
+{
+  "id": 1957,
+  "name": "Corroded Goblin",
+  "level": 166,
+  "map_id": 341,
+  "map_name": "Avant Plastida: Area 2",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 22000,
+  "exp": 442,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4457,
+      "name": "Damaged Pants",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4460,
+      "name": "Ghastly Edge",
+      "type_id": 5,
+      "type_label": "[2 Handed Sword]"
+    },
+    {
+      "id": 4459,
+      "name": "Goblin Crystal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4458,
+      "name": "Tough Waistband",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

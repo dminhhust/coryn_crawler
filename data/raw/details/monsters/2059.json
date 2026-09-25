@@ -1,0 +1,46 @@
+{
+  "id": 2059,
+  "name": "Corphibi",
+  "level": 172,
+  "map_id": 358,
+  "map_name": "Deltzon Research Zone: Area 1",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 25000,
+  "exp": 421,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4620,
+      "name": "Adamantine Katana",
+      "type_id": 27,
+      "type_label": "[Katana]"
+    },
+    {
+      "id": 4619,
+      "name": "Condenser Lens",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4617,
+      "name": "Diaphragm",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4618,
+      "name": "Electrified Lightning Rod",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

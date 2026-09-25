@@ -1,0 +1,57 @@
+{
+  "id": 4945,
+  "name": "Pseudopumpkin Katana",
+  "type_id": 27,
+  "type_label": "[Katana]",
+  "sell": 390,
+  "process": 5,
+  "process_amount": 190,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 120,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 27,
+      "effect_name": "DEF",
+      "amount": 60,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 66,
+      "effect_name": "Light Element",
+      "amount": 1,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 70,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 117,
+      "effect_name": "Unsheathe Attack %",
+      "amount": 7,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 124,
+      "effect_name": "Physical Barrier",
+      "amount": 2000,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 159,
+      "effect_name": "ATK UP (AGI %)",
+      "amount": 250,
+      "applies_to": 0
+    }
+  ]
+}

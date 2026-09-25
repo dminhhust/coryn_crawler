@@ -1,0 +1,64 @@
+{
+  "id": 1241,
+  "name": "Hellfire Scrap Golem",
+  "level": 100,
+  "map_id": 240,
+  "map_name": "Anniversary Arena: 2nd Venue",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 250000,
+  "exp": 3000,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 436,
+      "name": "Adventurer's Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 2241,
+      "name": "Anniversary Cloth",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 485,
+      "name": "Headband",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 2970,
+      "name": "Pom 3rd Anniv Medal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1717,
+      "name": "Regera IV",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 902,
+      "name": "Revita IV",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 543,
+      "name": "Ribbon",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

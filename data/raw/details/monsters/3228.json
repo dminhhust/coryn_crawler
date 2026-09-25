@@ -1,0 +1,52 @@
+{
+  "id": 3228,
+  "name": "Wiltileaf",
+  "level": 305,
+  "map_id": 599,
+  "map_name": "Eumano Village Ruins: Area 2",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "Easy",
+  "hp": 0,
+  "exp": 6538,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7728,
+      "name": "Lyre Bow",
+      "type_id": 9,
+      "type_label": "[Bow]"
+    },
+    {
+      "id": 7727,
+      "name": "Old Tree Sap",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7710,
+      "name": "Spiral Tree Bark",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7709,
+      "name": "Tangled Roots",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7729,
+      "name": "Wiltileaf",
+      "type_id": 200,
+      "type_label": "[Enhancer Crysta (Blue)]"
+    }
+  ]
+}

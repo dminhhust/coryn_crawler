@@ -1,0 +1,27 @@
+{
+  "id": 7551,
+  "name": "Bone-In Short Rib",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 27,
+  "process": 5,
+  "process_amount": 27,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 18,
+      "effect_name": "MaxHP %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 20,
+      "effect_name": "ATK",
+      "amount": 25,
+      "applies_to": 0
+    }
+  ]
+}

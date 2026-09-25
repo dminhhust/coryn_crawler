@@ -1,0 +1,39 @@
+{
+  "id": 5002,
+  "name": "Lil Wonder Rat",
+  "type_id": 21,
+  "type_label": "[Weapon Crysta]",
+  "sell": 1,
+  "process": 6,
+  "process_amount": 100,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 23,
+      "effect_name": "MATK %",
+      "amount": 6,
+      "applies_to": 8
+    },
+    {
+      "effect_id": 61,
+      "effect_name": "Aggro %",
+      "amount": -20,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 70,
+      "effect_name": "Long Range Damage %",
+      "amount": 4,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 117,
+      "effect_name": "Unsheathe Attack %",
+      "amount": 4,
+      "applies_to": 0
+    }
+  ]
+}

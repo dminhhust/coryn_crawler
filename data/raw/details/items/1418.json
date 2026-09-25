@@ -1,0 +1,45 @@
+{
+  "id": 1418,
+  "name": "Traveler's Cape",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 35,
+  "process": 4,
+  "process_amount": 17,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 27,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 10,
+      "effect_name": "AGI %",
+      "amount": 3,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 14,
+      "effect_name": "Natural HP Regen %",
+      "amount": 12,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 21,
+      "effect_name": "ATK %",
+      "amount": 2,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 33,
+      "effect_name": "Accuracy",
+      "amount": 24,
+      "applies_to": 0
+    }
+  ]
+}

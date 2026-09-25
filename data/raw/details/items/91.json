@@ -1,0 +1,14 @@
+{
+  "id": 91,
+  "name": "Goblin Claw",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 6,
+  "process": 1,
+  "process_amount": 7,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

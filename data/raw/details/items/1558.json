@@ -1,0 +1,33 @@
+{
+  "id": 1558,
+  "name": "Water Protection Charm",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 8,
+  "process": 5,
+  "process_amount": 9,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 28,
+      "effect_name": "DEF %",
+      "amount": 5,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 30,
+      "effect_name": "MDEF %",
+      "amount": 5,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 52,
+      "effect_name": "Water resistance %",
+      "amount": 10,
+      "applies_to": 0
+    }
+  ]
+}

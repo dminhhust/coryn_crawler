@@ -1,0 +1,51 @@
+{
+  "id": 1081,
+  "name": "Golden Fake Greatsword",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 1,
+  "process": 6,
+  "process_amount": 10,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 5,
+      "effect_name": "INT",
+      "amount": 3,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 17,
+      "effect_name": "MaxHP",
+      "amount": 250,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 33,
+      "effect_name": "Accuracy",
+      "amount": 5,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 37,
+      "effect_name": "ASPD",
+      "amount": 250,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 59,
+      "effect_name": "Guard Recharge %",
+      "amount": 5,
+      "applies_to": 0
+    }
+  ]
+}

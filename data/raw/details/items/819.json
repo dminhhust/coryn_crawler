@@ -1,0 +1,39 @@
+{
+  "id": 819,
+  "name": "Fur Cape",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 25,
+  "process": 1,
+  "process_amount": 12,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 20,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 38,
+      "effect_name": "ASPD %",
+      "amount": 5,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 44,
+      "effect_name": "Critical Damage %",
+      "amount": 3,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 51,
+      "effect_name": "Fire resistance %",
+      "amount": -7,
+      "applies_to": 0
+    }
+  ]
+}

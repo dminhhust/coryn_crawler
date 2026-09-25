@@ -1,0 +1,40 @@
+{
+  "id": 1349,
+  "name": "Usakichi (New Moon Lv30+)",
+  "level": 50,
+  "map_id": 253,
+  "map_name": "Otsukimi Event Venue",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Nightmare",
+  "hp": 160000,
+  "exp": 4000,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3256,
+      "name": "Joshin Powder",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3244,
+      "name": "Otsukimi Dango",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 3259,
+      "name": "Usakichi",
+      "type_id": 22,
+      "type_label": "[Armor Crysta]"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1864,
+  "name": "Pyxtica",
+  "level": 195,
+  "map_id": 318,
+  "map_name": "Fractum Sector: Area 3",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Nightmare",
+  "hp": 12850000,
+  "exp": 101000,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4302,
+      "name": "Indigo Jet Sword",
+      "type_id": 5,
+      "type_label": "[2 Handed Sword]"
+    },
+    {
+      "id": 4300,
+      "name": "Pyxtica",
+      "type_id": 220,
+      "type_label": "[Enhancer Crysta (Green)]"
+    },
+    {
+      "id": 4297,
+      "name": "Pyxtica's Crystal Fang",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4299,
+      "name": "Pyxtica's Eyeball",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4298,
+      "name": "Pyxtica's Fragment",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4303,
+      "name": "Pyxtica's Tail",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4301,
+      "name": "Rilevatore",
+      "type_id": 15,
+      "type_label": "[Magic Device]"
+    }
+  ]
+}

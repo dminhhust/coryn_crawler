@@ -1,0 +1,14 @@
+{
+  "id": 4699,
+  "name": "Vulture Core",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 28,
+  "process": 6,
+  "process_amount": -1,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

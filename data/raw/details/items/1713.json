@@ -1,0 +1,39 @@
+{
+  "id": 1713,
+  "name": "Ooze Helmet",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 22,
+  "process": 3,
+  "process_amount": 11,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 15,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 14,
+      "effect_name": "Natural HP Regen %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 18,
+      "effect_name": "MaxHP %",
+      "amount": 5,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 57,
+      "effect_name": "Ailment Resistance %",
+      "amount": 15,
+      "applies_to": 0
+    }
+  ]
+}

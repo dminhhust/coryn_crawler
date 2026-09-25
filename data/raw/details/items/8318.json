@@ -1,0 +1,57 @@
+{
+  "id": 8318,
+  "name": "Gingerbread Man",
+  "type_id": 8,
+  "type_label": "[Armor]",
+  "sell": 1,
+  "process": 1,
+  "process_amount": 1,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 300,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 17,
+      "effect_name": "MaxHP",
+      "amount": 10000,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 39,
+      "effect_name": "CSPD",
+      "amount": 1000,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 41,
+      "effect_name": "Critical Rate",
+      "amount": 40,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 95,
+      "effect_name": "EXP Gain %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 127,
+      "effect_name": "Fractional Barrier %",
+      "amount": 30,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 141,
+      "effect_name": "Barrier Cooldown %",
+      "amount": 20,
+      "applies_to": 0
+    }
+  ]
+}

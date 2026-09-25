@@ -1,0 +1,46 @@
+{
+  "id": 3173,
+  "name": "Corroded Rana",
+  "level": 249,
+  "map_id": 587,
+  "map_name": "Marinatown: Area 1",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 0,
+  "exp": 673,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7589,
+      "name": "City Wood",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7591,
+      "name": "Creepy Mask",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7592,
+      "name": "Light Trident",
+      "type_id": 26,
+      "type_label": "[Halberd]"
+    },
+    {
+      "id": 7587,
+      "name": "Mutated Claw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

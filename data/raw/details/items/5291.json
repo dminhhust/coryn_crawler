@@ -1,0 +1,63 @@
+{
+  "id": 5291,
+  "name": "Golden Candy Greatsword",
+  "type_id": 5,
+  "type_label": "[2 Handed Sword]",
+  "sell": 180,
+  "process": 5,
+  "process_amount": 90,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 390,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 33,
+      "effect_name": "Accuracy",
+      "amount": 90,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 41,
+      "effect_name": "Critical Rate",
+      "amount": 60,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 46,
+      "effect_name": "% stronger against Water",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 51,
+      "effect_name": "Fire resistance %",
+      "amount": -30,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 64,
+      "effect_name": "Wind Element",
+      "amount": 1,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 71,
+      "effect_name": "Motion Speed %",
+      "amount": 3,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 80,
+      "applies_to": 0
+    }
+  ]
+}

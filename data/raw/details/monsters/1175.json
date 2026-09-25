@@ -1,0 +1,64 @@
+{
+  "id": 1175,
+  "name": "Ultimate Machina",
+  "level": 129,
+  "map_id": 233,
+  "map_name": "Droma Square",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Easy",
+  "hp": 125000,
+  "exp": 1050,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2897,
+      "name": "Amcrie",
+      "type_id": 26,
+      "type_label": "[Halberd]"
+    },
+    {
+      "id": 2899,
+      "name": "Iradium",
+      "type_id": 27,
+      "type_label": "[Katana]"
+    },
+    {
+      "id": 2896,
+      "name": "Machina Ring",
+      "type_id": 18,
+      "type_label": "[Special]"
+    },
+    {
+      "id": 2893,
+      "name": "Patched Flesh",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2895,
+      "name": "Sealed Eyeball",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2894,
+      "name": "Ultimate Machina Arm",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2898,
+      "name": "Ultimate Machina Claw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

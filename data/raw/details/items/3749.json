@@ -1,0 +1,45 @@
+{
+  "id": 3749,
+  "name": "Bullet Shield",
+  "type_id": 17,
+  "type_label": "[Shield]",
+  "sell": 120,
+  "process": 3,
+  "process_amount": 60,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 25,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 58,
+      "effect_name": "Guard Power %",
+      "amount": 19,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 59,
+      "effect_name": "Guard Recharge %",
+      "amount": 30,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 176,
+      "effect_name": "Reduce Dmg (Bullet) %",
+      "amount": 12,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 177,
+      "effect_name": "Reduce Dmg (Bowling) %",
+      "amount": 12,
+      "applies_to": 0
+    }
+  ]
+}

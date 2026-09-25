@@ -1,0 +1,87 @@
+{
+  "id": 6320,
+  "name": "Yatagarasu",
+  "type_id": 27,
+  "type_label": "[Katana]",
+  "sell": -1,
+  "process": -1,
+  "process_amount": -1,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 194,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 18,
+      "effect_name": "MaxHP %",
+      "amount": -40,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 21,
+      "effect_name": "ATK %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 34,
+      "effect_name": "Accuracy %",
+      "amount": 30,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 40,
+      "effect_name": "CSPD %",
+      "amount": 100,
+      "applies_to": 524288
+    },
+    {
+      "effect_id": 42,
+      "effect_name": "Critical Rate %",
+      "amount": 100,
+      "applies_to": 524288
+    },
+    {
+      "effect_id": 61,
+      "effect_name": "Aggro %",
+      "amount": -50,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 63,
+      "effect_name": "Water Element",
+      "amount": 1,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 110,
+      "effect_name": "% stronger against Neutral",
+      "amount": 35,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 80,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 181,
+      "effect_name": "Absolute Dodge %",
+      "amount": 20,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 211,
+      "effect_name": "Attack Range (m)",
+      "amount": 2,
+      "applies_to": 0
+    }
+  ]
+}

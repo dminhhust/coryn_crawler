@@ -1,0 +1,226 @@
+{
+  "id": 964,
+  "name": "Golden Potum (7M DL)",
+  "level": 100,
+  "map_id": 70,
+  "map_name": "Darkanon Plain",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "Normal",
+  "hp": 30,
+  "exp": 100,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 436,
+      "name": "Adventurer's Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 436,
+      "name": "Adventurer's Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 436,
+      "name": "Adventurer's Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 436,
+      "name": "Adventurer's Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 436,
+      "name": "Adventurer's Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 436,
+      "name": "Adventurer's Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 436,
+      "name": "Adventurer's Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 436,
+      "name": "Adventurer's Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 1342,
+      "name": "Beast Pack (L)",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1341,
+      "name": "Beast Pack (M)",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1340,
+      "name": "Beast Pack (S)",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 867,
+      "name": "Fabric Pack (L)",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 866,
+      "name": "Fabric Pack (M)",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 865,
+      "name": "Fabric Pack (S)",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1978,
+      "name": "Hyper Refinement Powder",
+      "type_id": 2,
+      "type_label": "[Refinement Support]"
+    },
+    {
+      "id": 864,
+      "name": "Medicine Pack (L)",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 863,
+      "name": "Medicine Pack (M)",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 862,
+      "name": "Medicine Pack (S)",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 873,
+      "name": "Metal Pack (L)",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 872,
+      "name": "Metal Pack (M)",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 871,
+      "name": "Metal Pack (S)",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 859,
+      "name": "Potum Bronze Coin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 861,
+      "name": "Potum Gold Coin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1009,
+      "name": "Potum Hat",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 1009,
+      "name": "Potum Hat",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 1009,
+      "name": "Potum Hat",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 1009,
+      "name": "Potum Hat",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 860,
+      "name": "Potum Silver Coin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 366,
+      "name": "Refinement Powder",
+      "type_id": 2,
+      "type_label": "[Refinement Support]"
+    },
+    {
+      "id": 902,
+      "name": "Revita IV",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1120,
+      "name": "Super Refinement Powder",
+      "type_id": 2,
+      "type_label": "[Refinement Support]"
+    },
+    {
+      "id": 870,
+      "name": "Wood Pack (L)",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 869,
+      "name": "Wood Pack (M)",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 868,
+      "name": "Wood Pack (S)",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

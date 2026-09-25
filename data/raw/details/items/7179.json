@@ -1,0 +1,45 @@
+{
+  "id": 7179,
+  "name": "Collared Short Cape",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": -1,
+  "process": -1,
+  "process_amount": -1,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 175,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 4,
+      "effect_name": "STR %",
+      "amount": 9,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 21,
+      "effect_name": "ATK %",
+      "amount": 9,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 134,
+      "effect_name": "ATK DOWN (AGI %)",
+      "amount": 100,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 139,
+      "effect_name": "Anticipate %",
+      "amount": 18,
+      "applies_to": 0
+    }
+  ]
+}

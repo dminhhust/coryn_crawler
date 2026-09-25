@@ -1,0 +1,52 @@
+{
+  "id": 1563,
+  "name": "Carbuncle",
+  "level": 183,
+  "map_id": 282,
+  "map_name": "Hall of Construction Gods",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "",
+  "hp": -1,
+  "exp": 27200,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3652,
+      "name": "Carbuncle",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 3649,
+      "name": "Carbuncle Claw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3651,
+      "name": "Carbuncle Edge",
+      "type_id": 5,
+      "type_label": "[2 Handed Sword]"
+    },
+    {
+      "id": 3648,
+      "name": "Carbuncle Fur",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3650,
+      "name": "Shining Mirror",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

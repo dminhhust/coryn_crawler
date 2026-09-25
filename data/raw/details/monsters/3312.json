@@ -1,0 +1,46 @@
+{
+  "id": 3312,
+  "name": "Galactopi",
+  "level": 213,
+  "map_id": 631,
+  "map_name": "Tower of Clamor: Area 3 (210-214)",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 57590,
+  "exp": 932,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5235,
+      "name": "Black Obsidian",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 242,
+      "name": "Damascus Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 8026,
+      "name": "Gift Box Earrings",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 5073,
+      "name": "Metal Shackles",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

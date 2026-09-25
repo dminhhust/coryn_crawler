@@ -1,0 +1,39 @@
+{
+  "id": 4987,
+  "name": "Devil Half Mask",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 75,
+  "process": 3,
+  "process_amount": 37,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 80,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 25,
+      "effect_name": "Physical Pierce %",
+      "amount": 9,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 44,
+      "effect_name": "Critical Damage %",
+      "amount": 3,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 128,
+      "effect_name": "Magic Barrier",
+      "amount": 100,
+      "applies_to": 0
+    }
+  ]
+}

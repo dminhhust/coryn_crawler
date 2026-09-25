@@ -1,0 +1,58 @@
+{
+  "id": 1626,
+  "name": "Festival Golem A",
+  "level": 35,
+  "map_id": 239,
+  "map_name": "Anniversary Arena: 1st Venue",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Hard",
+  "hp": 24000,
+  "exp": 640,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 436,
+      "name": "Adventurer's Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 4001,
+      "name": "Bronze 4th Anniv Medal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 476,
+      "name": "Golemet",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 485,
+      "name": "Headband",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 259,
+      "name": "Regera I",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 260,
+      "name": "Revita I",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

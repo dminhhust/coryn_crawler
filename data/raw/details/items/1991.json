@@ -1,0 +1,27 @@
+{
+  "id": 1991,
+  "name": "Shiny Powder",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 9,
+  "process": 5,
+  "process_amount": 10,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 29,
+      "effect_name": "MDEF",
+      "amount": 100,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 61,
+      "effect_name": "Aggro %",
+      "amount": 10,
+      "applies_to": 0
+    }
+  ]
+}

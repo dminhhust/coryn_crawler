@@ -1,0 +1,46 @@
+{
+  "id": 3337,
+  "name": "Cream Alpoca",
+  "level": 222,
+  "map_id": 640,
+  "map_name": "Anglaise Forest",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "",
+  "hp": 27100,
+  "exp": 856,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 8072,
+      "name": "Cream Fur",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4386,
+      "name": "Cushy Tail",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 8071,
+      "name": "Medicated Cream",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 8049,
+      "name": "Warm Talisman",
+      "type_id": 18,
+      "type_label": "[Special]"
+    }
+  ]
+}

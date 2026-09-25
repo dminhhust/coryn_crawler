@@ -1,0 +1,75 @@
+{
+  "id": 8420,
+  "name": "10th Anniv Bowgun",
+  "type_id": 10,
+  "type_label": "[Bowgun]",
+  "sell": -1,
+  "process": 3,
+  "process_amount": -1,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 509,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 12,
+      "effect_name": "DEX %",
+      "amount": 11,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 19,
+      "effect_name": "MaxMP",
+      "amount": 600,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 21,
+      "effect_name": "ATK %",
+      "amount": 11,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 24,
+      "effect_name": "Stability %",
+      "amount": 10,
+      "applies_to": 65536
+    },
+    {
+      "effect_id": 38,
+      "effect_name": "ASPD %",
+      "amount": 100,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 41,
+      "effect_name": "Critical Rate",
+      "amount": 45,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 50,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 177,
+      "effect_name": "Reduce Dmg (Bowling) %",
+      "amount": 40,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 320,
+      "effect_name": "Mana Element",
+      "amount": 1,
+      "applies_to": 4
+    }
+  ]
+}

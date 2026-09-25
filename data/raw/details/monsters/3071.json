@@ -1,0 +1,52 @@
+{
+  "id": 3071,
+  "name": "Falburrows (High Difficulty)",
+  "level": 275,
+  "map_id": 539,
+  "map_name": "Saltau's Beach (Night)",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Nightmare",
+  "hp": 68000000,
+  "exp": 275000,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7333,
+      "name": "Falburrows",
+      "type_id": 23,
+      "type_label": "[Additional Crysta]"
+    },
+    {
+      "id": 911,
+      "name": "Orichalcum Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 7332,
+      "name": "Sea Ghost Bone Fragment",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7331,
+      "name": "Sea Ghost Tentacle",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7340,
+      "name": "Sea Ghost Wooden Box",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

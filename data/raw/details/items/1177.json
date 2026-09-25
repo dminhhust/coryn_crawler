@@ -1,0 +1,39 @@
+{
+  "id": 1177,
+  "name": "White Clover Headband",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 27,
+  "process": 5,
+  "process_amount": 13,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 9,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 33,
+      "effect_name": "Accuracy",
+      "amount": -20,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 41,
+      "effect_name": "Critical Rate",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 54,
+      "effect_name": "Earth resistance %",
+      "amount": 3,
+      "applies_to": 0
+    }
+  ]
+}

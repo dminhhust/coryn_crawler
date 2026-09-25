@@ -1,0 +1,14 @@
+{
+  "id": 5811,
+  "name": "Gender Switch Stone",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": -1,
+  "process": 6,
+  "process_amount": 0,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

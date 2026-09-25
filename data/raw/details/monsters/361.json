@@ -1,0 +1,64 @@
+{
+  "id": 361,
+  "name": "Jade Raptor",
+  "level": 79,
+  "map_id": 104,
+  "map_name": "Gravel Terrace",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 620000,
+  "exp": 8400,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 436,
+      "name": "Adventurer's Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 1210,
+      "name": "Emeldia",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    },
+    {
+      "id": 1212,
+      "name": "Jade Raptor",
+      "type_id": 22,
+      "type_label": "[Armor Crysta]"
+    },
+    {
+      "id": 1207,
+      "name": "Jade Raptor Armor Fur",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1208,
+      "name": "Jade Raptor Beak",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1209,
+      "name": "Jade Raptor Horn",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1211,
+      "name": "Jade Wings",
+      "type_id": 15,
+      "type_label": "[Magic Device]"
+    }
+  ]
+}

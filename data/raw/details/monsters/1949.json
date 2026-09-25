@@ -1,0 +1,46 @@
+{
+  "id": 1949,
+  "name": "Coryn",
+  "level": 156,
+  "map_id": 339,
+  "map_name": "Dikkit Sector",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 10380,
+  "exp": 160,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4442,
+      "name": "Apple Arrow",
+      "type_id": 7,
+      "type_label": "[Arrow]"
+    },
+    {
+      "id": 4439,
+      "name": "Pliant Pedicel",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4440,
+      "name": "Soft Green Leaf",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4441,
+      "name": "Yellow Apple",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 2767,
+  "name": "Tungkin",
+  "level": 168,
+  "map_id": 487,
+  "map_name": "Phasma Forest: Area 1",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 24018,
+  "exp": 360,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6583,
+      "name": "Floating Pumpkin Lanterns",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 6582,
+      "name": "Melting Candy",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 6580,
+      "name": "Protruding Tongue",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6581,
+      "name": "Pumpkin Waistband",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

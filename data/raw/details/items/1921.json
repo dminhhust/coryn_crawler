@@ -1,0 +1,27 @@
+{
+  "id": 1921,
+  "name": "Marchitar",
+  "type_id": 21,
+  "type_label": "[Weapon Crysta]",
+  "sell": 1,
+  "process": 6,
+  "process_amount": 100,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 24,
+      "effect_name": "Stability %",
+      "amount": 5,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 36,
+      "effect_name": "Dodge %",
+      "amount": 15,
+      "applies_to": 0
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1764,
+  "name": "Giant Moon Crab",
+  "level": 50,
+  "map_id": 305,
+  "map_name": "Otsukimi Event Venue: Crater Zone",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 100000,
+  "exp": 1520,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 436,
+      "name": "Adventurer's Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 4091,
+      "name": "Crab Pincers",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    },
+    {
+      "id": 4092,
+      "name": "Giant Moon Crab",
+      "type_id": 210,
+      "type_label": "[Enhancer Crysta (Red)]"
+    },
+    {
+      "id": 243,
+      "name": "Hematite",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 3244,
+      "name": "Otsukimi Dango",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 261,
+      "name": "Rich Crab Butter",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 4089,
+      "name": "Soft Crabmeat",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

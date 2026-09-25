@@ -1,0 +1,46 @@
+{
+  "id": 1635,
+  "name": "Fighter Mochelo",
+  "level": 50,
+  "map_id": 239,
+  "map_name": "Anniversary Arena: 1st Venue",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 60000,
+  "exp": 1200,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4001,
+      "name": "Bronze 4th Anniv Medal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 526,
+      "name": "Mochelo Hat",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 587,
+      "name": "Regera II",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 588,
+      "name": "Revita II",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": 46,
+  "name": "Guardian Statue",
+  "level": 22,
+  "map_id": 13,
+  "map_name": "Ruined Temple: Area 2",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 910,
+  "exp": 39,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 11,
+      "name": "Bead Fragment",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1931,
+      "name": "Heavy Spear",
+      "type_id": 26,
+      "type_label": "[Halberd]"
+    },
+    {
+      "id": 502,
+      "name": "Kite Shield",
+      "type_id": 17,
+      "type_label": "[Shield]"
+    },
+    {
+      "id": 146,
+      "name": "Moving Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 237,
+      "name": "Wood Stick",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

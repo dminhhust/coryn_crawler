@@ -1,0 +1,46 @@
+{
+  "id": 326,
+  "name": "Abyss Eye",
+  "level": 58,
+  "map_id": 97,
+  "map_name": "Vyshed the Tainted Land: Area 2",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 6000,
+  "exp": 166,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 843,
+      "name": "Fire Staff",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    },
+    {
+      "id": 1107,
+      "name": "Hideous Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1108,
+      "name": "Huge Sinister Tooth",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1109,
+      "name": "Moving Eyeball",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

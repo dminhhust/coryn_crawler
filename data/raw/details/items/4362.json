@@ -1,0 +1,39 @@
+{
+  "id": 4362,
+  "name": "Flower Earrings",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": -1,
+  "process": -1,
+  "process_amount": -1,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 38,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 24,
+      "effect_name": "Stability %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 32,
+      "effect_name": "Magic Resistance %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 55,
+      "effect_name": "Light resistance %",
+      "amount": 10,
+      "applies_to": 0
+    }
+  ]
+}

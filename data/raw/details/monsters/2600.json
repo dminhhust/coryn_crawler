@@ -1,0 +1,46 @@
+{
+  "id": 2600,
+  "name": "Dodos",
+  "level": 195,
+  "map_id": 461,
+  "map_name": "Vulcani Foothills",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 17200,
+  "exp": 288,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6112,
+      "name": "Armorlike Feather",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6113,
+      "name": "Beak Knife",
+      "type_id": 11,
+      "type_label": "[Dagger]"
+    },
+    {
+      "id": 6110,
+      "name": "Broken Naruko",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6111,
+      "name": "Hornlike Beak",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": 150,
+  "name": "Nicked Blade",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 2,
+  "process": 3,
+  "process_amount": 2,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

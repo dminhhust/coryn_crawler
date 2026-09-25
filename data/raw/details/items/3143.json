@@ -1,0 +1,45 @@
+{
+  "id": 3143,
+  "name": "Marine Headband",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 1,
+  "process": 4,
+  "process_amount": 2,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 30,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 17,
+      "effect_name": "MaxHP",
+      "amount": 500,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 29,
+      "effect_name": "MDEF",
+      "amount": 30,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 32,
+      "effect_name": "Magic Resistance %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 170,
+      "effect_name": "Reduce Dmg (Player Epicenter) %",
+      "amount": 10,
+      "applies_to": 0
+    }
+  ]
+}

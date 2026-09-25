@@ -1,0 +1,27 @@
+{
+  "id": 1990,
+  "name": "Blade Oil",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 9,
+  "process": 5,
+  "process_amount": 10,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 116,
+      "effect_name": "Unsheathe Attack",
+      "amount": 100,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 117,
+      "effect_name": "Unsheathe Attack %",
+      "amount": 5,
+      "applies_to": 0
+    }
+  ]
+}

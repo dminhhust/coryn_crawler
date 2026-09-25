@@ -1,0 +1,52 @@
+{
+  "id": 62,
+  "name": "Silver Roar",
+  "level": 42,
+  "map_id": 17,
+  "map_name": "Debakcy Channel: B1",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "Normal",
+  "hp": 14570,
+  "exp": 590,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 436,
+      "name": "Adventurer's Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 11,
+      "name": "Bead Fragment",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 458,
+      "name": "Crystal Earrings",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 67,
+      "name": "Fairy Feather",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 324,
+      "name": "Silver Roar",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    }
+  ]
+}

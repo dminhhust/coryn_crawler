@@ -1,0 +1,46 @@
+{
+  "id": 779,
+  "name": "Fighter Mochelo",
+  "level": 60,
+  "map_id": 87,
+  "map_name": "Event",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Hard",
+  "hp": 120000,
+  "exp": 2400,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 526,
+      "name": "Mochelo Hat",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 588,
+      "name": "Revita II",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 2237,
+      "name": "Silver 2nd Anniv Medal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 595,
+      "name": "Vita Plus II",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

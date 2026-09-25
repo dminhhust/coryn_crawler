@@ -1,0 +1,46 @@
+{
+  "id": 2605,
+  "name": "Grigori",
+  "level": 206,
+  "map_id": 463,
+  "map_name": "Arstida: Area 2",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 32000,
+  "exp": 542,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6123,
+      "name": "Geometric Arm",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6124,
+      "name": "Mutated Floating Body",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6122,
+      "name": "Strange Wing",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6125,
+      "name": "Windchanter Staff",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    }
+  ]
+}

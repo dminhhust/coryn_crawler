@@ -1,0 +1,51 @@
+{
+  "id": 5686,
+  "name": "Yuveria",
+  "type_id": 220,
+  "type_label": "[Enhancer Crysta (Green)]",
+  "sell": 1,
+  "process": 6,
+  "process_amount": 100,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 19,
+      "effect_name": "MaxMP",
+      "amount": 300,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 31,
+      "effect_name": "Physical Resistance %",
+      "amount": 3,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 32,
+      "effect_name": "Magic Resistance %",
+      "amount": 3,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 61,
+      "effect_name": "Aggro %",
+      "amount": -15,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 69,
+      "effect_name": "Short Range Damage %",
+      "amount": 6,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 148,
+      "effect_name": "Upgrade for",
+      "amount": 4872,
+      "applies_to": 0
+    }
+  ]
+}

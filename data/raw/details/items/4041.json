@@ -1,0 +1,51 @@
+{
+  "id": 4041,
+  "name": "Katze Gloves",
+  "type_id": 13,
+  "type_label": "[Knuckles]",
+  "sell": 150,
+  "process": 4,
+  "process_amount": 75,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 155,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 21,
+      "effect_name": "ATK %",
+      "amount": 6,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 36,
+      "effect_name": "Dodge %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 65,
+      "effect_name": "Earth Element",
+      "amount": 1,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 90,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 181,
+      "effect_name": "Absolute Dodge %",
+      "amount": 5,
+      "applies_to": 0
+    }
+  ]
+}

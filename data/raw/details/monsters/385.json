@@ -1,0 +1,46 @@
+{
+  "id": 385,
+  "name": "Murdosche",
+  "level": 68,
+  "map_id": 106,
+  "map_name": "Akaku Desert: Area 2",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 125,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1305,
+      "name": "Cool Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1307,
+      "name": "Frog Ointment",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1306,
+      "name": "Stretchy Tongue",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1308,
+      "name": "Traveler's Cape",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

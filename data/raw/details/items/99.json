@@ -1,0 +1,14 @@
+{
+  "id": 99,
+  "name": "Hard Dragon Skin",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 3,
+  "process": 4,
+  "process_amount": 3,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

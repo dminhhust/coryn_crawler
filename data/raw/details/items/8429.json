@@ -1,0 +1,39 @@
+{
+  "id": 8429,
+  "name": "Grandanbit",
+  "type_id": 230,
+  "type_label": "[Enhancer Crysta (Yellow)]",
+  "sell": 1,
+  "process": 0,
+  "process_amount": -1,
+  "meta": {
+    "badge": "Update 03/26/26",
+    "note": "Jiva can be upgraded."
+  },
+  "stats": [
+    {
+      "effect_id": 12,
+      "effect_name": "DEX %",
+      "amount": 5,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 23,
+      "effect_name": "MATK %",
+      "amount": 12,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 34,
+      "effect_name": "Accuracy %",
+      "amount": -20,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 43,
+      "effect_name": "Critical Damage",
+      "amount": 8,
+      "applies_to": 0
+    }
+  ]
+}

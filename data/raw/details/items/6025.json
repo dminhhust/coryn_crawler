@@ -1,0 +1,14 @@
+{
+  "id": 6025,
+  "name": "Wisdom Charm",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 23,
+  "process": 6,
+  "process_amount": 5,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

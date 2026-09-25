@@ -1,0 +1,46 @@
+{
+  "id": 1886,
+  "name": "Santabby",
+  "level": 136,
+  "map_id": 325,
+  "map_name": "Joulu House: Depot (Lv 130)",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 30000,
+  "exp": 715,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": true,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 242,
+      "name": "Damascus Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 3409,
+      "name": "Round Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4319,
+      "name": "Sacred Red Candle",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4322,
+      "name": "Santa Hood",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

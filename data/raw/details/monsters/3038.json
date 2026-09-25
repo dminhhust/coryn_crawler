@@ -1,0 +1,46 @@
+{
+  "id": 3038,
+  "name": "Melkid",
+  "level": 236,
+  "map_id": 536,
+  "map_name": "Puerta Islands: Area 3",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 56455,
+  "exp": 871,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7152,
+      "name": "Baby Frog Oil",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7151,
+      "name": "Drifting Tattered Cloth",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7150,
+      "name": "Small Island Grass",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7153,
+      "name": "Waistlet",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 557,
+  "name": "Kijimu (Hanami 2017)",
+  "level": 56,
+  "map_id": 151,
+  "map_name": "Hanami Mountain Path",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": -1,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": true,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 115,
+      "name": "Kijimu Splinter",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

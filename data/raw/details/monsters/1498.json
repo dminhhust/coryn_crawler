@@ -1,0 +1,52 @@
+{
+  "id": 1498,
+  "name": "Altoblepas",
+  "level": 174,
+  "map_id": 261,
+  "map_name": "Rokoko Plains",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 27500,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3477,
+      "name": "Altoblepas",
+      "type_id": 23,
+      "type_label": "[Additional Crysta]"
+    },
+    {
+      "id": 3403,
+      "name": "Cracked Hunting Horn",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3476,
+      "name": "Double Barrel",
+      "type_id": 10,
+      "type_label": "[Bowgun]"
+    },
+    {
+      "id": 3475,
+      "name": "Squawker Horn",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3402,
+      "name": "Vocal Sac",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

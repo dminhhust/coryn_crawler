@@ -1,0 +1,52 @@
+{
+  "id": 2196,
+  "name": "Pumpking",
+  "level": 50,
+  "map_id": 485,
+  "map_name": "Tir Na Nog Square",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 82000,
+  "exp": 2300,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 242,
+      "name": "Damascus Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 5090,
+      "name": "Pumpkin Mask",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 1500,
+      "name": "Pumpking",
+      "type_id": 23,
+      "type_label": "[Additional Crysta]"
+    },
+    {
+      "id": 671,
+      "name": "Straye Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 1463,
+      "name": "Sweets Box",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

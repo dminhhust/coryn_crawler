@@ -1,0 +1,46 @@
+{
+  "id": 1164,
+  "name": "Petarma",
+  "level": 115,
+  "map_id": 229,
+  "map_name": "Ultimea City: Roof",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 5000,
+  "exp": 112,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2874,
+      "name": "Black Butterfly Scale",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2873,
+      "name": "Cracked Stone Figure",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2876,
+      "name": "Dodge+10",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 2875,
+      "name": "Floating Ghost Bit",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

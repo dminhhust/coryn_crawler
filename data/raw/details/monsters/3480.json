@@ -1,0 +1,70 @@
+{
+  "id": 3480,
+  "name": "Event Guide Potum",
+  "level": 0,
+  "map_id": 694,
+  "map_name": "Grieving Souls Collab Venue For Lv40-140",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 0,
+  "exp": 0,
+  "element_id": -1,
+  "element_label": "Unknown",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 8532,
+      "name": "Aspiration Manifest",
+      "type_id": 15,
+      "type_label": "[Magic Device]"
+    },
+    {
+      "id": 8533,
+      "name": "Hail's Tusk",
+      "type_id": 26,
+      "type_label": "[Halberd]"
+    },
+    {
+      "id": 8525,
+      "name": "Historia",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    },
+    {
+      "id": 8535,
+      "name": "Lucia's Cane",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    },
+    {
+      "id": 8534,
+      "name": "Luke's Wooden Sword",
+      "type_id": 27,
+      "type_label": "[Katana]"
+    },
+    {
+      "id": 8529,
+      "name": "Purgatorial Sword",
+      "type_id": 5,
+      "type_label": "[2 Handed Sword]"
+    },
+    {
+      "id": 8531,
+      "name": "Sitri's Water Gun",
+      "type_id": 10,
+      "type_label": "[Bowgun]"
+    },
+    {
+      "id": 8530,
+      "name": "Sven's Bow",
+      "type_id": 9,
+      "type_label": "[Bow]"
+    }
+  ]
+}

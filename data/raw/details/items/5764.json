@@ -1,0 +1,45 @@
+{
+  "id": 5764,
+  "name": "Dango Hat",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 100,
+  "process": 6,
+  "process_amount": 50,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 125,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 17,
+      "effect_name": "MaxHP",
+      "amount": 4000,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 41,
+      "effect_name": "Critical Rate",
+      "amount": 15,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 139,
+      "effect_name": "Anticipate %",
+      "amount": 15,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 140,
+      "effect_name": "Guard Break %",
+      "amount": 15,
+      "applies_to": 0
+    }
+  ]
+}

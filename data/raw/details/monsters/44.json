@@ -1,0 +1,58 @@
+{
+  "id": 44,
+  "name": "Beak",
+  "level": 19,
+  "map_id": 12,
+  "map_name": "Ruined Temple: Area 1",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 550,
+  "exp": 22,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2540,
+      "name": "Aobato",
+      "type_id": 27,
+      "type_label": "[Katana]"
+    },
+    {
+      "id": 15,
+      "name": "Bird Wing",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 250,
+      "name": "Chicken Meat",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 464,
+      "name": "Feather",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 326,
+      "name": "STR+1",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 216,
+      "name": "Thick Beak",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

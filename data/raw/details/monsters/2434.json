@@ -1,0 +1,70 @@
+{
+  "id": 2434,
+  "name": "Devil Dango",
+  "level": 220,
+  "map_id": 305,
+  "map_name": "Otsukimi Event Venue: Crater Zone",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Nightmare",
+  "hp": 4790000,
+  "exp": 21700,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5732,
+      "name": "Broken Dango Stand",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5704,
+      "name": "Cosmic Spear",
+      "type_id": 26,
+      "type_label": "[Halberd]"
+    },
+    {
+      "id": 5703,
+      "name": "Cosmic Sword",
+      "type_id": 5,
+      "type_label": "[2 Handed Sword]"
+    },
+    {
+      "id": 5768,
+      "name": "Devil Dango",
+      "type_id": 21,
+      "type_label": "[Weapon Crysta]"
+    },
+    {
+      "id": 5731,
+      "name": "Devil Dango's Heart",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 911,
+      "name": "Orichalcum Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 3244,
+      "name": "Otsukimi Dango",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 5767,
+      "name": "Usamochi",
+      "type_id": 220,
+      "type_label": "[Enhancer Crysta (Green)]"
+    }
+  ]
+}

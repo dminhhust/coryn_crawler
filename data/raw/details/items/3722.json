@@ -1,0 +1,14 @@
+{
+  "id": 3722,
+  "name": "Frozen Fir Tree",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 15,
+  "process": 2,
+  "process_amount": 15,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

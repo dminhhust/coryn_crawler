@@ -1,0 +1,34 @@
+{
+  "id": 2879,
+  "name": "Lunadore",
+  "level": 50,
+  "map_id": 87,
+  "map_name": "Event",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Ultimate",
+  "hp": 400000,
+  "exp": 3000,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6783,
+      "name": "Lunadore",
+      "type_id": 23,
+      "type_label": "[Additional Crysta]"
+    },
+    {
+      "id": 6782,
+      "name": "Zodiac Rabbit Box",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

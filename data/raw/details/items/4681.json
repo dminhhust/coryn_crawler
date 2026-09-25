@@ -1,0 +1,14 @@
+{
+  "id": 4681,
+  "name": "Sandstone Tiny Horn",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 15,
+  "process": 1,
+  "process_amount": 15,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

@@ -1,0 +1,52 @@
+{
+  "id": 359,
+  "name": "Mewte",
+  "level": 67,
+  "map_id": 104,
+  "map_name": "Gravel Terrace",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 202,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1782,
+      "name": "Mezraq",
+      "type_id": 26,
+      "type_label": "[Halberd]"
+    },
+    {
+      "id": 1202,
+      "name": "Nekomimi",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 1200,
+      "name": "Twisted Wood Stick",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1198,
+      "name": "White Petal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1199,
+      "name": "Worn-out Hemp Cloth",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

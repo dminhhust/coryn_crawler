@@ -1,0 +1,46 @@
+{
+  "id": 1776,
+  "name": "Lilliset",
+  "level": 144,
+  "map_id": 306,
+  "map_name": "Forest of Ein",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 8000,
+  "exp": 176,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4100,
+      "name": "Book Holder",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 4099,
+      "name": "Carnivorous Plant Seed",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4098,
+      "name": "Ein Wood",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4097,
+      "name": "Tough Branch",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

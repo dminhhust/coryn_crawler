@@ -1,0 +1,46 @@
+{
+  "id": 1098,
+  "name": "Bio Launcher",
+  "level": 117,
+  "map_id": 214,
+  "map_name": "Brahe Laboratory: 1st Building",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 12000,
+  "exp": 254,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2741,
+      "name": "Accuracy+10",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 911,
+      "name": "Orichalcum Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 2738,
+      "name": "Warped Nut",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2739,
+      "name": "Warped Venom Bomb",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

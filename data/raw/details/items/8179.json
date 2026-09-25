@@ -1,0 +1,45 @@
+{
+  "id": 8179,
+  "name": "Top-Star Potum",
+  "type_id": 230,
+  "type_label": "[Enhancer Crysta (Yellow)]",
+  "sell": 100,
+  "process": 6,
+  "process_amount": 167,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 18,
+      "effect_name": "MaxHP %",
+      "amount": -10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 19,
+      "effect_name": "MaxMP",
+      "amount": -150,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 37,
+      "effect_name": "ASPD",
+      "amount": 900,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 39,
+      "effect_name": "CSPD",
+      "amount": 900,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 148,
+      "effect_name": "Upgrade for",
+      "amount": 1283,
+      "applies_to": 0
+    }
+  ]
+}

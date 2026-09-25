@@ -1,0 +1,39 @@
+{
+  "id": 3416,
+  "name": "Colon Earrings",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 62,
+  "process": 2,
+  "process_amount": 31,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 20,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 19,
+      "effect_name": "MaxMP",
+      "amount": 100,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 51,
+      "effect_name": "Fire resistance %",
+      "amount": -7,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 128,
+      "effect_name": "Magic Barrier",
+      "amount": 2500,
+      "applies_to": 0
+    }
+  ]
+}

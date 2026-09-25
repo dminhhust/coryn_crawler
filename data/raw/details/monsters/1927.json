@@ -1,0 +1,46 @@
+{
+  "id": 1927,
+  "name": "Toretta",
+  "level": 165,
+  "map_id": 335,
+  "map_name": "Labilans Sector: Area 2",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 18000,
+  "exp": 438,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4378,
+      "name": "Elf Berry",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 4379,
+      "name": "Elfin Bow",
+      "type_id": 9,
+      "type_label": "[Bow]"
+    },
+    {
+      "id": 4377,
+      "name": "Labilans Wood",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4376,
+      "name": "Old Tree Bark",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

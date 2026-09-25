@@ -1,0 +1,21 @@
+{
+  "id": 2388,
+  "name": "Rampaging Grass Dragon",
+  "level": 230,
+  "map_id": 413,
+  "map_name": "Anniversary Arena: 6th Venue",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "NIghtmare",
+  "hp": 12000000,
+  "exp": 50000,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": []
+}

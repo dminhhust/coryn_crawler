@@ -1,0 +1,40 @@
+{
+  "id": 564,
+  "name": "Super Night Mushroom (Hanami 2017)",
+  "level": 80,
+  "map_id": 152,
+  "map_name": "Hanami Venue: Summit",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 640000,
+  "exp": 1500,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1920,
+      "name": "Mana Clod",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1922,
+      "name": "Night Mushroom Mask",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 1923,
+      "name": "Super Night Mushroom",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    }
+  ]
+}

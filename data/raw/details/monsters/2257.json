@@ -1,0 +1,46 @@
+{
+  "id": 2257,
+  "name": "Honeybee",
+  "level": 128,
+  "map_id": 393,
+  "map_name": "Cookie Road",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 9300,
+  "exp": 146,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5270,
+      "name": "Buzz Ring",
+      "type_id": 18,
+      "type_label": "[Special]"
+    },
+    {
+      "id": 5296,
+      "name": "Royal Syrup",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5302,
+      "name": "Shiny Shell",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4050,
+      "name": "Tasty Honey",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 2296,
+  "name": "Trocostida",
+  "level": 230,
+  "map_id": 400,
+  "map_name": "Nov Diela Area 1",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 40000,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5439,
+      "name": "Energy Bottle EX",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 5438,
+      "name": "Glowing Liposome",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5442,
+      "name": "Trocostida",
+      "type_id": 230,
+      "type_label": "[Enhancer Crysta (Yellow)]"
+    },
+    {
+      "id": 5441,
+      "name": "Wriggling Latebra",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": 2245,
+  "name": "Grim Reaper Scarecrow",
+  "level": 224,
+  "map_id": 390,
+  "map_name": "Witch's Woods Area 2",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 35140,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5265,
+      "name": "Crow Feather",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5252,
+      "name": "Grim Reaper Scarecrow",
+      "type_id": 22,
+      "type_label": "[Armor Crysta]"
+    },
+    {
+      "id": 5267,
+      "name": "Scarecrow's Emotion",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5266,
+      "name": "Sturdy Core",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5268,
+      "name": "Tattered Cloak",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": 3154,
+  "name": "3rd Anniv Champion Holder",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 300,
+  "process": -1,
+  "process_amount": -1,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

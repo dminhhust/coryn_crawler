@@ -1,0 +1,39 @@
+{
+  "id": 5423,
+  "name": "Head Plop Coryn",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 1,
+  "process": 4,
+  "process_amount": 100,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 37,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 17,
+      "effect_name": "MaxHP",
+      "amount": 2000,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 31,
+      "effect_name": "Physical Resistance %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 32,
+      "effect_name": "Magic Resistance %",
+      "amount": 10,
+      "applies_to": 0
+    }
+  ]
+}

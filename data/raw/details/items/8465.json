@@ -1,0 +1,69 @@
+{
+  "id": 8465,
+  "name": "Happy Champagne",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 1,
+  "process": 0,
+  "process_amount": -1,
+  "meta": {
+    "badge": "",
+    "note": "Exclusive equipment to celebrate BeMMO Channel reaching 100,000 subscribers.\nUntradable."
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 1,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 4,
+      "effect_name": "STR %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 6,
+      "effect_name": "INT %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 8,
+      "effect_name": "VIT %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 10,
+      "effect_name": "AGI %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 12,
+      "effect_name": "DEX %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 95,
+      "effect_name": "EXP Gain %",
+      "amount": 20,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 96,
+      "effect_name": "Drop Rate %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 104,
+      "effect_name": "Revive Time %",
+      "amount": -40,
+      "applies_to": 131072
+    }
+  ]
+}

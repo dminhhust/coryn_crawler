@@ -1,0 +1,46 @@
+{
+  "id": 382,
+  "name": "Tulin",
+  "level": 55,
+  "map_id": 110,
+  "map_name": "Wanderer's Plain",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 47,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 78,
+      "name": "Flower Nectar",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1328,
+      "name": "Growing Vine",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1329,
+      "name": "MP+150",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 1327,
+      "name": "Thick Root",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

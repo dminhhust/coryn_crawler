@@ -1,0 +1,58 @@
+{
+  "id": 501,
+  "name": "Nightmare Potum",
+  "level": 120,
+  "map_id": 137,
+  "map_name": "Garden of Beginning",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "Normal",
+  "hp": 1500000,
+  "exp": 15800,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1720,
+      "name": "Adventurer's Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 1505,
+      "name": "Filthy Bandage",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 816,
+      "name": "Mithril Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 1506,
+      "name": "Potum's Soul",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1504,
+      "name": "Purification Salt",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1760,
+      "name": "Toy Hammer",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    }
+  ]
+}

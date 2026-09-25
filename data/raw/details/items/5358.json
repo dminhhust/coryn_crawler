@@ -1,0 +1,45 @@
+{
+  "id": 5358,
+  "name": "Shark Hood",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 87,
+  "process": 4,
+  "process_amount": 43,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 21,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 10,
+      "effect_name": "AGI %",
+      "amount": 5,
+      "applies_to": 131072
+    },
+    {
+      "effect_id": 41,
+      "effect_name": "Critical Rate",
+      "amount": 20,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 52,
+      "effect_name": "Water resistance %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 61,
+      "effect_name": "Aggro %",
+      "amount": -10,
+      "applies_to": 0
+    }
+  ]
+}

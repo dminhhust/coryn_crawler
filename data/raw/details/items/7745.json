@@ -1,0 +1,14 @@
+{
+  "id": 7745,
+  "name": "Ancient Fish Gill",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 28,
+  "process": 1,
+  "process_amount": 28,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

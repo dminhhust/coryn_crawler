@@ -1,0 +1,46 @@
+{
+  "id": 3180,
+  "name": "Fladorga",
+  "level": 248,
+  "map_id": 582,
+  "map_name": "Little Shrine of Grace: Area 2",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 0,
+  "exp": 725,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7552,
+      "name": "Assassin Blade",
+      "type_id": 27,
+      "type_label": "[Katana]"
+    },
+    {
+      "id": 7551,
+      "name": "Bone-In Short Rib",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 7542,
+      "name": "Divine Building Supply",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7546,
+      "name": "Glowing Blue Claw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

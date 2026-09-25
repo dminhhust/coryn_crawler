@@ -1,0 +1,58 @@
+{
+  "id": 1021,
+  "name": "Baphomela",
+  "level": 120,
+  "map_id": 192,
+  "map_name": "Navida City: Central Square",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Easy",
+  "hp": 71700,
+  "exp": 700,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2493,
+      "name": "Baphomela",
+      "type_id": 230,
+      "type_label": "[Enhancer Crysta (Yellow)]"
+    },
+    {
+      "id": 2491,
+      "name": "Baphomela's Horn",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2490,
+      "name": "Baphomela's Scary Claw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2489,
+      "name": "Baphomela's Soul",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2492,
+      "name": "Devil Hood",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 2494,
+      "name": "Frozen Treasure Box",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

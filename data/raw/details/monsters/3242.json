@@ -1,0 +1,64 @@
+{
+  "id": 3242,
+  "name": "Bemoz",
+  "level": 275,
+  "map_id": 613,
+  "map_name": "Deusania's Lab Innermost Chambers ",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Hard",
+  "hp": 30000000,
+  "exp": 62440,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7903,
+      "name": "Bemoz",
+      "type_id": 220,
+      "type_label": "[Enhancer Crysta (Green)]"
+    },
+    {
+      "id": 7916,
+      "name": "Lightning Machete",
+      "type_id": 5,
+      "type_label": "[2 Handed Sword]"
+    },
+    {
+      "id": 7918,
+      "name": "Lightning Sword",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    },
+    {
+      "id": 816,
+      "name": "Mithril Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 7914,
+      "name": "Patched Artificial Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7920,
+      "name": "Raiden",
+      "type_id": 27,
+      "type_label": "[Katana]"
+    },
+    {
+      "id": 1463,
+      "name": "Sweets Box",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

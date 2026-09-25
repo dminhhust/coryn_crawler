@@ -1,0 +1,46 @@
+{
+  "id": 860,
+  "name": "Floral Bee",
+  "level": 91,
+  "map_id": 172,
+  "map_name": "Site of Simcracker",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 3500,
+  "exp": 78,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2324,
+      "name": "AGI+4",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 2323,
+      "name": "Bee Thin Wing",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1440,
+      "name": "Flower Nectar (Bouquet)",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 2322,
+      "name": "Soft Tree Bark",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

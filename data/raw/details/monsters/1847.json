@@ -1,0 +1,46 @@
+{
+  "id": 1847,
+  "name": "Sentreast",
+  "level": 147,
+  "map_id": 315,
+  "map_name": "Fabriska Sector",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 9000,
+  "exp": 194,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4279,
+      "name": "Dirty Leather Shoes",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4278,
+      "name": "Stoat Fur",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4268,
+      "name": "Tail Fur",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 4277,
+      "name": "Warning Bell",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

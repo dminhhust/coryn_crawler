@@ -1,0 +1,57 @@
+{
+  "id": 7304,
+  "name": "8th Anniv Ribbon",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 1,
+  "process": 4,
+  "process_amount": 2,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 80,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 4,
+      "effect_name": "STR %",
+      "amount": 8,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 6,
+      "effect_name": "INT %",
+      "amount": 8,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 8,
+      "effect_name": "VIT %",
+      "amount": 8,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 10,
+      "effect_name": "AGI %",
+      "amount": 8,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 12,
+      "effect_name": "DEX %",
+      "amount": 8,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 128,
+      "effect_name": "Magic Barrier",
+      "amount": 800,
+      "applies_to": 0
+    }
+  ]
+}

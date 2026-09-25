@@ -1,0 +1,21 @@
+{
+  "id": 5407,
+  "name": "[Book of Ninja]",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": -1,
+  "process": -1,
+  "process_amount": -1,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 209,
+      "effect_name": "Learn Ninja Skill Lv1",
+      "amount": 1,
+      "applies_to": 0
+    }
+  ]
+}

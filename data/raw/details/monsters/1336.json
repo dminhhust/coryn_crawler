@@ -1,0 +1,46 @@
+{
+  "id": 1336,
+  "name": "Rockmadillo",
+  "level": 132,
+  "map_id": 252,
+  "map_name": "Turnus Mine: Hall",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 15000,
+  "exp": 306,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3224,
+      "name": "Golden Sting",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3222,
+      "name": "Sharp Scale",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3223,
+      "name": "Small Claw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3212,
+      "name": "Stingy Shoulder Pads",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

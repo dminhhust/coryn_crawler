@@ -1,0 +1,64 @@
+{
+  "id": 632,
+  "name": "Iconos",
+  "level": 108,
+  "map_id": 163,
+  "map_name": "Artillery Defense Line",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 404000,
+  "exp": 4200,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2064,
+      "name": "Fuel Pipe",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2069,
+      "name": "Iconos",
+      "type_id": 220,
+      "type_label": "[Enhancer Crysta (Green)]"
+    },
+    {
+      "id": 2066,
+      "name": "Iconos Core",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2063,
+      "name": "Iconos Metal Bit",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2065,
+      "name": "Repair Tool Kit",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2068,
+      "name": "Sinergatis",
+      "type_id": 5,
+      "type_label": "[2 Handed Sword]"
+    },
+    {
+      "id": 2067,
+      "name": "Zaif Sadik",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    }
+  ]
+}

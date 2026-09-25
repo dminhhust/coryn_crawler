@@ -1,0 +1,57 @@
+{
+  "id": 1614,
+  "name": "Desert Anfel",
+  "type_id": 5,
+  "type_label": "[2 Handed Sword]",
+  "sell": -1,
+  "process": -1,
+  "process_amount": -1,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 124,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 19,
+      "effect_name": "MaxMP",
+      "amount": 150,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 21,
+      "effect_name": "ATK %",
+      "amount": 3,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 32,
+      "effect_name": "Magic Resistance %",
+      "amount": 12,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 43,
+      "effect_name": "Critical Damage",
+      "amount": 1,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 75,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 116,
+      "effect_name": "Unsheathe Attack",
+      "amount": 20,
+      "applies_to": 0
+    }
+  ]
+}

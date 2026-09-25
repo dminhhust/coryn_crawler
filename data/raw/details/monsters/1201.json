@@ -1,0 +1,46 @@
+{
+  "id": 1201,
+  "name": "Pond Snake",
+  "level": 115,
+  "map_id": 238,
+  "map_name": "Copia Reservoir",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 6000,
+  "exp": 124,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2958,
+      "name": "Arrow of Penetration",
+      "type_id": 7,
+      "type_label": "[Arrow]"
+    },
+    {
+      "id": 2956,
+      "name": "Long Snake Tongue",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2957,
+      "name": "Snake Blood",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2955,
+      "name": "Snake Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

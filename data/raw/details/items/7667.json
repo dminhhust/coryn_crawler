@@ -1,0 +1,39 @@
+{
+  "id": 7667,
+  "name": "Happy Flower",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 125,
+  "process": 5,
+  "process_amount": 62,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 181,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 61,
+      "effect_name": "Aggro %",
+      "amount": -100,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 104,
+      "effect_name": "Revive Time %",
+      "amount": -50,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 179,
+      "effect_name": "Invincible Aid (sec)",
+      "amount": 3,
+      "applies_to": 0
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 5476,
+  "name": "Sorcery Revita",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 1,
+  "process": 5,
+  "process_amount": 10,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 79,
+      "effect_name": "HP",
+      "amount": 5000,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 80,
+      "effect_name": "MP",
+      "amount": 50,
+      "applies_to": 0
+    }
+  ]
+}

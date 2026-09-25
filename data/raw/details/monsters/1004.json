@@ -1,0 +1,21 @@
+{
+  "id": 1004,
+  "name": "Santa Potum",
+  "level": 90,
+  "map_id": 192,
+  "map_name": "Navida City: Central Square",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 189,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": true,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": []
+}

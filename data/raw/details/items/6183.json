@@ -1,0 +1,27 @@
+{
+  "id": 6183,
+  "name": "Earth Ninjutsu Scroll",
+  "type_id": 28,
+  "type_label": "[Ninjutsu Scroll]",
+  "sell": 1,
+  "process": 2,
+  "process_amount": 2,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 18,
+      "effect_name": "MaxHP %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 127,
+      "effect_name": "Fractional Barrier %",
+      "amount": 10,
+      "applies_to": 128
+    }
+  ]
+}

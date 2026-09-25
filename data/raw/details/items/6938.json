@@ -1,0 +1,45 @@
+{
+  "id": 6938,
+  "name": "Ribbon Kanzashi",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 117,
+  "process": 3,
+  "process_amount": 58,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 82,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 23,
+      "effect_name": "MATK %",
+      "amount": 8,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 41,
+      "effect_name": "Critical Rate",
+      "amount": 25,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 110,
+      "effect_name": "% stronger against Neutral",
+      "amount": 4,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 250,
+      "effect_name": "Critical Rate",
+      "amount": 25,
+      "applies_to": 8
+    }
+  ]
+}

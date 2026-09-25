@@ -1,0 +1,14 @@
+{
+  "id": 8437,
+  "name": "Dualblight Halo",
+  "type_id": 16,
+  "type_label": "[Ore]",
+  "sell": 1,
+  "process": 0,
+  "process_amount": -1,
+  "meta": {
+    "badge": "Update 03/26/26",
+    "note": ""
+  },
+  "stats": []
+}

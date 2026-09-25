@@ -1,0 +1,46 @@
+{
+  "id": 1564,
+  "name": "Sanctuary Guardian",
+  "level": 148,
+  "map_id": 283,
+  "map_name": "Hall of Special Gods",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "",
+  "hp": 23000,
+  "exp": 442,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3645,
+      "name": "Divine Metal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3643,
+      "name": "Guardian Armor Bit",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3646,
+      "name": "Seiun",
+      "type_id": 27,
+      "type_label": "[Katana]"
+    },
+    {
+      "id": 3644,
+      "name": "Stone of Godly Domain",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

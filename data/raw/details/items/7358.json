@@ -1,0 +1,27 @@
+{
+  "id": 7358,
+  "name": "Eggplant Tempura",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 1,
+  "process": 5,
+  "process_amount": 10,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 17,
+      "effect_name": "MaxHP",
+      "amount": 1000,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 95,
+      "effect_name": "EXP Gain %",
+      "amount": 10,
+      "applies_to": 0
+    }
+  ]
+}

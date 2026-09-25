@@ -1,0 +1,27 @@
+{
+  "id": 583,
+  "name": "Fruit Cake",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 0,
+  "process": 0,
+  "process_amount": 0,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 19,
+      "effect_name": "MaxMP",
+      "amount": 100,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 54,
+      "effect_name": "Earth resistance %",
+      "amount": 50,
+      "applies_to": 0
+    }
+  ]
+}

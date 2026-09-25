@@ -1,0 +1,21 @@
+{
+  "id": 4254,
+  "name": "Corn Snack",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 63,
+  "process": -1,
+  "process_amount": 63,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 79,
+      "effect_name": "HP",
+      "amount": 3000,
+      "applies_to": 0
+    }
+  ]
+}

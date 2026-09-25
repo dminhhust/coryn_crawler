@@ -1,0 +1,46 @@
+{
+  "id": 2949,
+  "name": "Inoz",
+  "level": 223,
+  "map_id": 524,
+  "map_name": "Boma Konda: Entrance",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 25250,
+  "exp": 396,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7028,
+      "name": "Big Black Claw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7027,
+      "name": "Blackish Brown Bristles",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7029,
+      "name": "Gorgeous Nose",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7030,
+      "name": "Thick Determined Eyebrows",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

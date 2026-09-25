@@ -1,0 +1,46 @@
+{
+  "id": 2528,
+  "name": "Iceberg",
+  "level": 182,
+  "map_id": 446,
+  "map_name": "Noeliel Castle: B3F (170-190)",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": -1,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4983,
+      "name": "Distinct Pebble",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5935,
+      "name": "Dull Crest",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5508,
+      "name": "Hard Armor Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4696,
+      "name": "Ignis Glaive",
+      "type_id": 26,
+      "type_label": "[Halberd]"
+    }
+  ]
+}

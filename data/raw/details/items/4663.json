@@ -1,0 +1,39 @@
+{
+  "id": 4663,
+  "name": "Warlock Face Cover",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 87,
+  "process": 4,
+  "process_amount": 43,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 50,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 26,
+      "effect_name": "Magic Pierce %",
+      "amount": 8,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 40,
+      "effect_name": "CSPD %",
+      "amount": 40,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 61,
+      "effect_name": "Aggro %",
+      "amount": -15,
+      "applies_to": 0
+    }
+  ]
+}

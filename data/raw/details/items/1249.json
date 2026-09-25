@@ -1,0 +1,39 @@
+{
+  "id": 1249,
+  "name": "1st Anniv Bow III",
+  "type_id": 9,
+  "type_label": "[Bow]",
+  "sell": 75,
+  "process": 2,
+  "process_amount": 37,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 52,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 60,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 113,
+      "effect_name": "Potential",
+      "amount": 27,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 211,
+      "effect_name": "Attack Range (m)",
+      "amount": 10,
+      "applies_to": 0
+    }
+  ]
+}

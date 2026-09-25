@@ -1,0 +1,52 @@
+{
+  "id": 826,
+  "name": "Daddy Finpen",
+  "level": 123,
+  "map_id": 139,
+  "map_name": "Spring of Rebirth: Middle",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 8000,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 436,
+      "name": "Adventurer's Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 1763,
+      "name": "Clean Water",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2250,
+      "name": "Daddy Finpen",
+      "type_id": 220,
+      "type_label": "[Enhancer Crysta (Green)]"
+    },
+    {
+      "id": 2251,
+      "name": "Daddy Soul",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1762,
+      "name": "Yellow Beak",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

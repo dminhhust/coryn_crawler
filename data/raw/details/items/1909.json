@@ -1,0 +1,39 @@
+{
+  "id": 1909,
+  "name": "Hanami Lanterns",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 90,
+  "process": 6,
+  "process_amount": 300,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 37,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 23,
+      "effect_name": "MATK %",
+      "amount": 4,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 24,
+      "effect_name": "Stability %",
+      "amount": 4,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 26,
+      "effect_name": "Magic Pierce %",
+      "amount": 4,
+      "applies_to": 0
+    }
+  ]
+}

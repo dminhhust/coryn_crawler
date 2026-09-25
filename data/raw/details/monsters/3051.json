@@ -1,0 +1,88 @@
+{
+  "id": 3051,
+  "name": "Anniv Equipment Box II",
+  "level": 0,
+  "map_id": 88,
+  "map_name": "-",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 0,
+  "exp": 0,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2154,
+      "name": "2nd Anniv Bow",
+      "type_id": 9,
+      "type_label": "[Bow]"
+    },
+    {
+      "id": 2159,
+      "name": "2nd Anniv Bowgun",
+      "type_id": 10,
+      "type_label": "[Bowgun]"
+    },
+    {
+      "id": 2149,
+      "name": "2nd Anniv Greatsword",
+      "type_id": 5,
+      "type_label": "[2 Handed Sword]"
+    },
+    {
+      "id": 2179,
+      "name": "2nd Anniv Halberd",
+      "type_id": 26,
+      "type_label": "[Halberd]"
+    },
+    {
+      "id": 2174,
+      "name": "2nd Anniv Knuckles",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    },
+    {
+      "id": 2184,
+      "name": "2nd Anniv Shield",
+      "type_id": 17,
+      "type_label": "[Shield]"
+    },
+    {
+      "id": 2164,
+      "name": "2nd Anniv Staff",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    },
+    {
+      "id": 2144,
+      "name": "2nd Anniv Sword",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    },
+    {
+      "id": 2169,
+      "name": "2nd Anniv Wings",
+      "type_id": 15,
+      "type_label": "[Magic Device]"
+    },
+    {
+      "id": 4884,
+      "name": "Anniv Festive Bangle",
+      "type_id": 18,
+      "type_label": "[Special]"
+    },
+    {
+      "id": 4885,
+      "name": "Anniv Festive Ring",
+      "type_id": 18,
+      "type_label": "[Special]"
+    }
+  ]
+}

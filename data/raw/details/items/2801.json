@@ -1,0 +1,51 @@
+{
+  "id": 2801,
+  "name": "Hard Shell Talisman",
+  "type_id": 18,
+  "type_label": "[Special]",
+  "sell": 57,
+  "process": 1,
+  "process_amount": 28,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 21,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 28,
+      "effect_name": "DEF %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 30,
+      "effect_name": "MDEF %",
+      "amount": -30,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 31,
+      "effect_name": "Physical Resistance %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 61,
+      "effect_name": "Aggro %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 124,
+      "effect_name": "Physical Barrier",
+      "amount": 1000,
+      "applies_to": 0
+    }
+  ]
+}

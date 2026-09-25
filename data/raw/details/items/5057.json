@@ -1,0 +1,14 @@
+{
+  "id": 5057,
+  "name": "Mushroom Log Piece",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 16,
+  "process": 2,
+  "process_amount": 16,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

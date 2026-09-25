@@ -1,0 +1,75 @@
+{
+  "id": 5181,
+  "name": "Baldi Saber",
+  "type_id": 5,
+  "type_label": "[2 Handed Sword]",
+  "sell": -1,
+  "process": -1,
+  "process_amount": -1,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 529,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 17,
+      "effect_name": "MaxHP",
+      "amount": 8000,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 47,
+      "effect_name": "% stronger against Wind",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 51,
+      "effect_name": "Fire resistance %",
+      "amount": -30,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 58,
+      "effect_name": "Guard Power %",
+      "amount": 40,
+      "applies_to": 16384
+    },
+    {
+      "effect_id": 59,
+      "effect_name": "Guard Recharge %",
+      "amount": 20,
+      "applies_to": 16384
+    },
+    {
+      "effect_id": 65,
+      "effect_name": "Earth Element",
+      "amount": 1,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 69,
+      "effect_name": "Short Range Damage %",
+      "amount": 8,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 60,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 163,
+      "effect_name": "MATK UP (STR %)",
+      "amount": 300,
+      "applies_to": 0
+    }
+  ]
+}

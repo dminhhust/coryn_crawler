@@ -1,0 +1,70 @@
+{
+  "id": 1085,
+  "name": "Candela Soda (White Day 2018)",
+  "level": 130,
+  "map_id": 45,
+  "map_name": "Douce Hamlet",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 2180000,
+  "exp": 28000,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2686,
+      "name": "Candela II",
+      "type_id": 230,
+      "type_label": "[Enhancer Crysta (Yellow)]"
+    },
+    {
+      "id": 2688,
+      "name": "Crystal Earrings",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 2687,
+      "name": "Magic Coarse Sugar",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2689,
+      "name": "Magic Crystal Armor",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 1851,
+      "name": "Mysterious Fruit",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 911,
+      "name": "Orichalcum Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 1024,
+      "name": "Parasite Crystal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1198,
+      "name": "White Petal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

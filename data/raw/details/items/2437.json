@@ -1,0 +1,27 @@
+{
+  "id": 2437,
+  "name": "Beast Fang Talisman",
+  "type_id": 18,
+  "type_label": "[Special]",
+  "sell": 50,
+  "process": 2,
+  "process_amount": 25,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 19,
+      "effect_name": "MaxMP",
+      "amount": 400,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 68,
+      "effect_name": "Attack MP Recovery",
+      "amount": 1,
+      "applies_to": 0
+    }
+  ]
+}

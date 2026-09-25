@@ -1,0 +1,46 @@
+{
+  "id": 2458,
+  "name": "Alchemia Story: Collab Prize Exchange",
+  "level": 0,
+  "map_id": 1,
+  "map_name": "Sofya City",
+  "type_code": "C",
+  "type_label": "NPC",
+  "mode": "Normal",
+  "hp": 0,
+  "exp": 0,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4161,
+      "name": "Gerumi Head",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 5758,
+      "name": "Rainbow Orb",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1777,
+      "name": "Refinement Ticket (+9)",
+      "type_id": 2,
+      "type_label": "[Refinement Support]"
+    },
+    {
+      "id": 382,
+      "name": "Revive Droplet",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

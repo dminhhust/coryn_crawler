@@ -1,0 +1,57 @@
+{
+  "id": 5215,
+  "name": "Valentine's Day Costume",
+  "type_id": 8,
+  "type_label": "[Armor]",
+  "sell": -1,
+  "process": -1,
+  "process_amount": -1,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 90,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 12,
+      "effect_name": "DEX %",
+      "amount": 6,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 41,
+      "effect_name": "Critical Rate",
+      "amount": 25,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 54,
+      "effect_name": "Earth resistance %",
+      "amount": -40,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 70,
+      "effect_name": "Long Range Damage %",
+      "amount": 3,
+      "applies_to": 16384
+    },
+    {
+      "effect_id": 117,
+      "effect_name": "Unsheathe Attack %",
+      "amount": 6,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 140,
+      "effect_name": "Guard Break %",
+      "amount": 20,
+      "applies_to": 0
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2353,
+  "name": "Shield Plus",
+  "type_id": 18,
+  "type_label": "[Special]",
+  "sell": -1,
+  "process": -1,
+  "process_amount": -1,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 58,
+      "effect_name": "Guard Power %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 59,
+      "effect_name": "Guard Recharge %",
+      "amount": 10,
+      "applies_to": 0
+    }
+  ]
+}

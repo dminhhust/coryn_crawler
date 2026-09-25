@@ -1,0 +1,33 @@
+{
+  "id": 4152,
+  "name": "Dragon Claw Katana",
+  "type_id": 27,
+  "type_label": "[Katana]",
+  "sell": 165,
+  "process": 6,
+  "process_amount": 82,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 100,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 70,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 113,
+      "effect_name": "Potential",
+      "amount": 41,
+      "applies_to": 0
+    }
+  ]
+}

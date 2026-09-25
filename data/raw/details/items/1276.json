@@ -1,0 +1,45 @@
+{
+  "id": 1276,
+  "name": "Bandage Eyepatch",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": -1,
+  "process": -1,
+  "process_amount": -1,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 25,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 6,
+      "effect_name": "INT %",
+      "amount": 3,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 8,
+      "effect_name": "VIT %",
+      "amount": -9,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 23,
+      "effect_name": "MATK %",
+      "amount": 3,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 74,
+      "effect_name": "Weapon ATK %",
+      "amount": 3,
+      "applies_to": 0
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": 6865,
+  "name": "Heart Chocolate Biscuit",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": -1,
+  "process": -1,
+  "process_amount": -1,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 60,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 19,
+      "effect_name": "MaxMP",
+      "amount": 400,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 24,
+      "effect_name": "Stability %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 140,
+      "effect_name": "Guard Break %",
+      "amount": 14,
+      "applies_to": 0
+    }
+  ]
+}

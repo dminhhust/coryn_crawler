@@ -1,0 +1,46 @@
+{
+  "id": 2079,
+  "name": "Sand Bandits Potum",
+  "level": 174,
+  "map_id": 363,
+  "map_name": "Geist Desert: Area 1",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 23000,
+  "exp": 380,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4686,
+      "name": "Broken Sand Bandits Mask",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4687,
+      "name": "Coarse Fur",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4688,
+      "name": "Spirit Staff",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    },
+    {
+      "id": 4685,
+      "name": "Torn Red Cloth",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": 1019,
+  "name": "Gas Mask",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 25,
+  "process": 3,
+  "process_amount": 11,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 15,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 3,
+      "effect_name": "STR",
+      "amount": 6,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 57,
+      "effect_name": "Ailment Resistance %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 68,
+      "effect_name": "Attack MP Recovery",
+      "amount": 1,
+      "applies_to": 0
+    }
+  ]
+}

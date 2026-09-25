@@ -1,0 +1,57 @@
+{
+  "id": 4111,
+  "name": "Natra Bowgun",
+  "type_id": 10,
+  "type_label": "[Bowgun]",
+  "sell": 150,
+  "process": 3,
+  "process_amount": 65,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 176,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 12,
+      "effect_name": "DEX %",
+      "amount": 3,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 38,
+      "effect_name": "ASPD %",
+      "amount": -15,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 65,
+      "effect_name": "Earth Element",
+      "amount": 1,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 70,
+      "effect_name": "Long Range Damage %",
+      "amount": 6,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 50,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 211,
+      "effect_name": "Attack Range (m)",
+      "amount": 10,
+      "applies_to": 0
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": 3545,
+  "name": "Parasol Choco Lance",
+  "type_id": 26,
+  "type_label": "[Halberd]",
+  "sell": 1,
+  "process": 6,
+  "process_amount": 100,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 387,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 21,
+      "effect_name": "ATK %",
+      "amount": 6,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 41,
+      "effect_name": "Critical Rate",
+      "amount": 30,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 66,
+      "effect_name": "Light Element",
+      "amount": 1,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 60,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 176,
+      "effect_name": "Reduce Dmg (Bullet) %",
+      "amount": 30,
+      "applies_to": 0
+    }
+  ]
+}

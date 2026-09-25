@@ -1,0 +1,75 @@
+{
+  "id": 3361,
+  "name": "Watching Mom II",
+  "type_id": 15,
+  "type_label": "[Magic Device]",
+  "sell": 90,
+  "process": 5,
+  "process_amount": 45,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 45,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 18,
+      "effect_name": "MaxHP %",
+      "amount": 15,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 45,
+      "effect_name": "% stronger against Fire",
+      "amount": 15,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 46,
+      "effect_name": "% stronger against Water",
+      "amount": 15,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 47,
+      "effect_name": "% stronger against Wind",
+      "amount": 15,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 48,
+      "effect_name": "% stronger against Earth",
+      "amount": 15,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 49,
+      "effect_name": "% stronger against Light",
+      "amount": 15,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 50,
+      "effect_name": "% stronger against Dark",
+      "amount": 15,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 61,
+      "effect_name": "Aggro %",
+      "amount": -15,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 80,
+      "applies_to": 0
+    }
+  ]
+}

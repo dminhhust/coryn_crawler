@@ -1,0 +1,45 @@
+{
+  "id": 540,
+  "name": "Relic Shield",
+  "type_id": 17,
+  "type_label": "[Shield]",
+  "sell": 40,
+  "process": 3,
+  "process_amount": 20,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 3,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 31,
+      "effect_name": "Physical Resistance %",
+      "amount": 1,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 33,
+      "effect_name": "Accuracy",
+      "amount": 5,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 58,
+      "effect_name": "Guard Power %",
+      "amount": 15,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 59,
+      "effect_name": "Guard Recharge %",
+      "amount": 22,
+      "applies_to": 0
+    }
+  ]
+}

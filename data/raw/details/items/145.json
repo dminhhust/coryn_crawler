@@ -1,0 +1,14 @@
+{
+  "id": 145,
+  "name": "Moss Stone",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 5,
+  "process": 5,
+  "process_amount": 3,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

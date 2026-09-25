@@ -1,0 +1,46 @@
+{
+  "id": 2665,
+  "name": "Octoceras",
+  "level": 201,
+  "map_id": 472,
+  "map_name": "Vulcani Underground Passage",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 17200,
+  "exp": 273,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6283,
+      "name": "Conch Crown",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6282,
+      "name": "Flexible Tentacle",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6284,
+      "name": "Octo Bubble",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6285,
+      "name": "Scoop Eyepatch",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

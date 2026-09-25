@@ -1,0 +1,46 @@
+{
+  "id": 1443,
+  "name": "Kijimu (Purple Grape)",
+  "level": 127,
+  "map_id": 261,
+  "map_name": "Rokoko Plains",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 8000,
+  "exp": 130,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3420,
+      "name": "Fresh Scarf",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 3417,
+      "name": "Grape Seed",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3418,
+      "name": "Rokoko Grape",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 3419,
+      "name": "Rokoko Plains",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

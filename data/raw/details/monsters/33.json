@@ -1,0 +1,52 @@
+{
+  "id": 33,
+  "name": "Pain Leaf",
+  "level": 14,
+  "map_id": 9,
+  "map_name": "Isthmus Of Kaus",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 530,
+  "exp": 22,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 78,
+      "name": "Flower Nectar",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1785,
+      "name": "Glaive",
+      "type_id": 26,
+      "type_label": "[Halberd]"
+    },
+    {
+      "id": 498,
+      "name": "Iron Knuckles",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    },
+    {
+      "id": 226,
+      "name": "Tree Root",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 231,
+      "name": "Vine",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

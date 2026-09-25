@@ -1,0 +1,45 @@
+{
+  "id": 7312,
+  "name": "Anniv Festive Arrow II",
+  "type_id": 7,
+  "type_label": "[Arrow]",
+  "sell": 165,
+  "process": 2,
+  "process_amount": 82,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 101,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 37,
+      "effect_name": "ASPD",
+      "amount": 200,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 61,
+      "effect_name": "Aggro %",
+      "amount": -12,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 20,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 127,
+      "effect_name": "Fractional Barrier %",
+      "amount": 10,
+      "applies_to": 0
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": 3714,
+  "name": "Sakura Staff",
+  "type_id": 19,
+  "type_label": "[Staff]",
+  "sell": 60,
+  "process": 2,
+  "process_amount": 30,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 67,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 18,
+      "effect_name": "MaxHP %",
+      "amount": 20,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 19,
+      "effect_name": "MaxMP",
+      "amount": 400,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 23,
+      "effect_name": "MATK %",
+      "amount": 4,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 66,
+      "effect_name": "Light Element",
+      "amount": 1,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 68,
+      "effect_name": "Attack MP Recovery",
+      "amount": 3,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 73,
+      "effect_name": "Weapon ATK",
+      "amount": 300,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 60,
+      "applies_to": 0
+    }
+  ]
+}

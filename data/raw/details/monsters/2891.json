@@ -1,0 +1,64 @@
+{
+  "id": 2891,
+  "name": "Mage Filecia (Choco)",
+  "level": 250,
+  "map_id": 511,
+  "map_name": "El Scaro: Back Alley",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Nightmare",
+  "hp": 13000000,
+  "exp": 53000,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6854,
+      "name": "Biscuit Horns",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6860,
+      "name": "Crust Plate",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 6855,
+      "name": "Heart-Shaped Spit Piece",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6856,
+      "name": "Mage Filecia",
+      "type_id": 23,
+      "type_label": "[Additional Crysta]"
+    },
+    {
+      "id": 6858,
+      "name": "Rolling Pin Staff",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    },
+    {
+      "id": 6857,
+      "name": "Rolling Pin Sword",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    },
+    {
+      "id": 6853,
+      "name": "Star-Shaped Cookie",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

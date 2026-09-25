@@ -1,0 +1,64 @@
+{
+  "id": 3045,
+  "name": "Zapo",
+  "level": 296,
+  "map_id": 537,
+  "map_name": "Puerta Islands: Adit",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Ultimate",
+  "hp": 57000000,
+  "exp": 221000,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7165,
+      "name": "Frog Warrior Armor Bit",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7170,
+      "name": "Frog Warrior Dagger",
+      "type_id": 11,
+      "type_label": "[Dagger]"
+    },
+    {
+      "id": 7166,
+      "name": "Frog Warrior Kung Fu Book",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7164,
+      "name": "Frog Warrior Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7167,
+      "name": "Water Priest Draconic Horns",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 7169,
+      "name": "Water Priest Robe",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 7168,
+      "name": "Zapo",
+      "type_id": 220,
+      "type_label": "[Enhancer Crysta (Green)]"
+    }
+  ]
+}

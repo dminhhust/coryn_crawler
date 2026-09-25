@@ -1,0 +1,14 @@
+{
+  "id": 936,
+  "name": "Xmas Stocking",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 0,
+  "process": 0,
+  "process_amount": 0,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

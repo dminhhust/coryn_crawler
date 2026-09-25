@@ -1,0 +1,33 @@
+{
+  "id": 7845,
+  "name": "9th Anniv Knuckles",
+  "type_id": 13,
+  "type_label": "[Knuckles]",
+  "sell": 0,
+  "process": -1,
+  "process_amount": 0,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 193,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 90,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 113,
+      "effect_name": "Potential",
+      "amount": 43,
+      "applies_to": 0
+    }
+  ]
+}

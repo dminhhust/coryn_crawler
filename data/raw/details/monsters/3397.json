@@ -1,0 +1,21 @@
+{
+  "id": 3397,
+  "name": "Gioco",
+  "level": 337,
+  "map_id": 665,
+  "map_name": "Fango Village",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Nightmare",
+  "hp": 0,
+  "exp": 0,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": []
+}

@@ -1,0 +1,51 @@
+{
+  "id": 1787,
+  "name": "Valentia",
+  "type_id": 15,
+  "type_label": "[Magic Device]",
+  "sell": 1,
+  "process": 6,
+  "process_amount": 100,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 27,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 37,
+      "effect_name": "ASPD",
+      "amount": 350,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 52,
+      "effect_name": "Water resistance %",
+      "amount": -15,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 62,
+      "effect_name": "Fire Element",
+      "amount": 1,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 68,
+      "effect_name": "Attack MP Recovery",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 90,
+      "applies_to": 0
+    }
+  ]
+}

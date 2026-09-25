@@ -1,0 +1,39 @@
+{
+  "id": 6148,
+  "name": "Clingy Snow Fox",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": -1,
+  "process": -1,
+  "process_amount": -1,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 150,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 17,
+      "effect_name": "MaxHP",
+      "amount": 1400,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 117,
+      "effect_name": "Unsheathe Attack %",
+      "amount": 7,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 179,
+      "effect_name": "Invincible Aid (sec)",
+      "amount": 2,
+      "applies_to": 0
+    }
+  ]
+}

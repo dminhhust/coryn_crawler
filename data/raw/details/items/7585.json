@@ -1,0 +1,33 @@
+{
+  "id": 7585,
+  "name": "Talisman of Deep Silence",
+  "type_id": 18,
+  "type_label": "[Special]",
+  "sell": 120,
+  "process": 1,
+  "process_amount": 60,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 19,
+      "effect_name": "MaxMP",
+      "amount": 300,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 54,
+      "effect_name": "Earth resistance %",
+      "amount": 30,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 75,
+      "effect_name": "Neutral Resistance %",
+      "amount": 15,
+      "applies_to": 0
+    }
+  ]
+}

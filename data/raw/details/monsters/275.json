@@ -1,0 +1,46 @@
+{
+  "id": 275,
+  "name": "Lime Potum",
+  "level": 54,
+  "map_id": 82,
+  "map_name": "Land Under Cultivation: Area 2",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 84,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 820,
+      "name": "Hunter's Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 808,
+      "name": "Lime",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 809,
+      "name": "Wooden Doll",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 810,
+      "name": "Yellow Green Potum Hair",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

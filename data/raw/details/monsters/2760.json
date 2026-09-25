@@ -1,0 +1,64 @@
+{
+  "id": 2760,
+  "name": "Devil Dango",
+  "level": 250,
+  "map_id": 305,
+  "map_name": "Otsukimi Event Venue: Crater Zone",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Ultimate",
+  "hp": 6530000,
+  "exp": 27000,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6563,
+      "name": "Bunny Button Hood",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 6564,
+      "name": "Bunny Ribbon Hood",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 6566,
+      "name": "Dango & Dango",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    },
+    {
+      "id": 5768,
+      "name": "Devil Dango",
+      "type_id": 21,
+      "type_label": "[Weapon Crysta]"
+    },
+    {
+      "id": 6565,
+      "name": "Lively Dango",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 911,
+      "name": "Orichalcum Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 3244,
+      "name": "Otsukimi Dango",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

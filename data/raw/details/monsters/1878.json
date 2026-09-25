@@ -1,0 +1,46 @@
+{
+  "id": 1878,
+  "name": "Toy Bolg",
+  "level": 118,
+  "map_id": 322,
+  "map_name": "Joulu House: Depot (Lv 100)",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 15000,
+  "exp": 417,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": true,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3636,
+      "name": "Cracked Spear Tip",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4318,
+      "name": "Gift Toy",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3337,
+      "name": "Lupus Claws",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    },
+    {
+      "id": 4319,
+      "name": "Sacred Red Candle",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

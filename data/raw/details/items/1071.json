@@ -1,0 +1,63 @@
+{
+  "id": 1071,
+  "name": "Sakura Wings",
+  "type_id": 15,
+  "type_label": "[Magic Device]",
+  "sell": 60,
+  "process": 6,
+  "process_amount": 30,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 33,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 19,
+      "effect_name": "MaxMP",
+      "amount": 100,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 21,
+      "effect_name": "ATK %",
+      "amount": 1,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 23,
+      "effect_name": "MATK %",
+      "amount": 1,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 57,
+      "effect_name": "Ailment Resistance %",
+      "amount": 15,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 66,
+      "effect_name": "Light Element",
+      "amount": 1,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 68,
+      "effect_name": "Attack MP Recovery",
+      "amount": 1,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 70,
+      "applies_to": 0
+    }
+  ]
+}

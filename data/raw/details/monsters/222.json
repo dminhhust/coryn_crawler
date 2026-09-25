@@ -1,0 +1,46 @@
+{
+  "id": 222,
+  "name": "Gob Roga",
+  "level": 48,
+  "map_id": 68,
+  "map_name": "Saham Underground Cave: B3",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 5000,
+  "exp": 173,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 440,
+      "name": "Axe Bowgun",
+      "type_id": 10,
+      "type_label": "[Bowgun]"
+    },
+    {
+      "id": 114,
+      "name": "Jagged Fang",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 187,
+      "name": "Saw-toothed Edge",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 220,
+      "name": "Torn Belt",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

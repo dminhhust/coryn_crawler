@@ -1,0 +1,46 @@
+{
+  "id": 471,
+  "name": "Goblin",
+  "level": 80,
+  "map_id": 133,
+  "map_name": "Fort Solfini: Outside",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 5500,
+  "exp": 144,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1581,
+      "name": "Ear Cuff",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 1585,
+      "name": "Goblin's Big Nail",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1579,
+      "name": "Goblin's Fang",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1580,
+      "name": "Thick Cloth",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

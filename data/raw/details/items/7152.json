@@ -1,0 +1,14 @@
+{
+  "id": 7152,
+  "name": "Baby Frog Oil",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 27,
+  "process": 5,
+  "process_amount": 28,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

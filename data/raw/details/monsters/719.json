@@ -1,0 +1,64 @@
+{
+  "id": 719,
+  "name": "Ruin Golem",
+  "level": 35,
+  "map_id": 44,
+  "map_name": "Zoktzda ruins : Reversed Hall",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Easy",
+  "hp": 4120,
+  "exp": 66,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3,
+      "name": "Ancient Stone Slab",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 31,
+      "name": "Broken Magic Lantern",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 467,
+      "name": "Fightwear",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 475,
+      "name": "Golem Arm",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    },
+    {
+      "id": 540,
+      "name": "Relic Shield",
+      "type_id": 17,
+      "type_label": "[Shield]"
+    },
+    {
+      "id": 541,
+      "name": "Relic Sword",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    },
+    {
+      "id": 241,
+      "name": "Zoktzda Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

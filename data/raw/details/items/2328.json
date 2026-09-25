@@ -1,0 +1,39 @@
+{
+  "id": 2328,
+  "name": "Beak Mask",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 47,
+  "process": 1,
+  "process_amount": 23,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 40,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 23,
+      "effect_name": "MATK %",
+      "amount": 4,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 39,
+      "effect_name": "CSPD",
+      "amount": 300,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 140,
+      "effect_name": "Guard Break %",
+      "amount": 5,
+      "applies_to": 0
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 2549,
+  "name": "Langur",
+  "level": 201,
+  "map_id": 453,
+  "map_name": "Prime Ramus: Area 2",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 36000,
+  "exp": 625,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5963,
+      "name": "Bloody Claw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5964,
+      "name": "Bundled Tail",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5965,
+      "name": "Rugged Beard",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5922,
+      "name": "Viking Helmet",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

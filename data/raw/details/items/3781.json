@@ -1,0 +1,51 @@
+{
+  "id": 3781,
+  "name": "Lightning Bolt Spear",
+  "type_id": 26,
+  "type_label": "[Halberd]",
+  "sell": 140,
+  "process": 3,
+  "process_amount": 70,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 318,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 33,
+      "effect_name": "Accuracy",
+      "amount": 30,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 38,
+      "effect_name": "ASPD %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 44,
+      "effect_name": "Critical Damage %",
+      "amount": 5,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 64,
+      "effect_name": "Wind Element",
+      "amount": 1,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 60,
+      "applies_to": 0
+    }
+  ]
+}

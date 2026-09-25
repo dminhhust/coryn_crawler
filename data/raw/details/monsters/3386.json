@@ -1,0 +1,21 @@
+{
+  "id": 3386,
+  "name": "Goudvis",
+  "level": 311,
+  "map_id": 663,
+  "map_name": "Raden Tower: Air Vent Exit",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Hard",
+  "hp": 0,
+  "exp": 0,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": []
+}

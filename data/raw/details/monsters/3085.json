@@ -1,0 +1,46 @@
+{
+  "id": 3085,
+  "name": "Famarin",
+  "level": 239,
+  "map_id": 541,
+  "map_name": "Espuma Dome: Area 1",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 891,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7452,
+      "name": "Circular Plate",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7453,
+      "name": "Coral Rock",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7454,
+      "name": "Seahorse Bangle",
+      "type_id": 18,
+      "type_label": "[Special]"
+    },
+    {
+      "id": 7451,
+      "name": "Thin Snout",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

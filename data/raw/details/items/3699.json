@@ -1,0 +1,33 @@
+{
+  "id": 3699,
+  "name": "Sakura Princess Arrow",
+  "type_id": 7,
+  "type_label": "[Arrow]",
+  "sell": 1,
+  "process": 2,
+  "process_amount": 2,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 88,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 17,
+      "effect_name": "MaxHP",
+      "amount": 1000,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 20,
+      "applies_to": 0
+    }
+  ]
+}

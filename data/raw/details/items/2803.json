@@ -1,0 +1,14 @@
+{
+  "id": 2803,
+  "name": "Frog Venom",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 11,
+  "process": 5,
+  "process_amount": 12,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

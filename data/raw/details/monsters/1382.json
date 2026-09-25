@@ -1,0 +1,46 @@
+{
+  "id": 1382,
+  "name": "Leaf Ghost",
+  "level": 133,
+  "map_id": 257,
+  "map_name": "Curonne Forest: North Area 1",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 10000,
+  "exp": 248,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3351,
+      "name": "Forest Spirit Powder",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3348,
+      "name": "Mysterious Hood",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 3349,
+      "name": "White Tree Branch",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3350,
+      "name": "White Wood",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

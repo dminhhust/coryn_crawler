@@ -1,0 +1,33 @@
+{
+  "id": 1846,
+  "name": "Rose in Mouth",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 1,
+  "process": 6,
+  "process_amount": 100,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 1,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 18,
+      "effect_name": "MaxHP %",
+      "amount": 20,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 61,
+      "effect_name": "Aggro %",
+      "amount": 20,
+      "applies_to": 0
+    }
+  ]
+}

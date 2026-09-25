@@ -1,0 +1,40 @@
+{
+  "id": 512,
+  "name": "Grand Pojo",
+  "level": 10,
+  "map_id": 87,
+  "map_name": "Event",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": -1,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3607,
+      "name": "Grand Pojo",
+      "type_id": 23,
+      "type_label": "[Additional Crysta]"
+    },
+    {
+      "id": 1773,
+      "name": "Otoshidama",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1772,
+      "name": "Zodiac Hat: Rooster",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 1608,
+  "name": "Soul Reaper",
+  "level": 151,
+  "map_id": 294,
+  "map_name": "Dark Dragon Shrine: Lower",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 17500,
+  "exp": 380,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3790,
+      "name": "Dusky Fabric",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3791,
+      "name": "Fading Soul",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3781,
+      "name": "Lightning Bolt Spear",
+      "type_id": 26,
+      "type_label": "[Halberd]"
+    },
+    {
+      "id": 3789,
+      "name": "Reaper Blade",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

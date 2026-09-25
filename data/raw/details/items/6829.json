@@ -1,0 +1,75 @@
+{
+  "id": 6829,
+  "name": "Eternal Melody Staff",
+  "type_id": 19,
+  "type_label": "[Staff]",
+  "sell": 1,
+  "process": 6,
+  "process_amount": 100,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 485,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 6,
+      "effect_name": "INT %",
+      "amount": 5,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 19,
+      "effect_name": "MaxMP",
+      "amount": 400,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 23,
+      "effect_name": "MATK %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 54,
+      "effect_name": "Earth resistance %",
+      "amount": 15,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 62,
+      "effect_name": "Fire Element",
+      "amount": 1,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 60,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 124,
+      "effect_name": "Physical Barrier",
+      "amount": 4000,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 180,
+      "effect_name": "Reduce Dmg (Meteor) %",
+      "amount": 15,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 211,
+      "effect_name": "Attack Range (m)",
+      "amount": 2,
+      "applies_to": 0
+    }
+  ]
+}

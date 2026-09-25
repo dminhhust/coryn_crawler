@@ -1,0 +1,75 @@
+{
+  "id": 8078,
+  "name": "Blue Rose Umbrella Sword",
+  "type_id": 5,
+  "type_label": "[2 Handed Sword]",
+  "sell": 280,
+  "process": 4,
+  "process_amount": 140,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 790,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 34,
+      "effect_name": "Accuracy %",
+      "amount": 20,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 42,
+      "effect_name": "Critical Rate %",
+      "amount": 160,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 50,
+      "effect_name": "% stronger against Dark",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 61,
+      "effect_name": "Aggro %",
+      "amount": -60,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 66,
+      "effect_name": "Light Element",
+      "amount": 1,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 68,
+      "effect_name": "Attack MP Recovery",
+      "amount": 20,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 80,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 176,
+      "effect_name": "Reduce Dmg (Bullet) %",
+      "amount": 20,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 180,
+      "effect_name": "Reduce Dmg (Meteor) %",
+      "amount": 40,
+      "applies_to": 0
+    }
+  ]
+}

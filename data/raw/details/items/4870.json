@@ -1,0 +1,14 @@
+{
+  "id": 4870,
+  "name": "Mysterious Clam",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 20,
+  "process": 6,
+  "process_amount": 1,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

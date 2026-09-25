@@ -1,0 +1,46 @@
+{
+  "id": 955,
+  "name": "Dusk Machina",
+  "level": 142,
+  "map_id": 181,
+  "map_name": "Small Demi Machina Factory: Area 2",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 17338,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2422,
+      "name": "Crimson Huge Bone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2423,
+      "name": "Dusk Machina",
+      "type_id": 23,
+      "type_label": "[Additional Crysta]"
+    },
+    {
+      "id": 2412,
+      "name": "Giant Hand Print",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2411,
+      "name": "Monster's Big Arm",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 2886,
+  "name": "Rodentail",
+  "level": 180,
+  "map_id": 512,
+  "map_name": "Sable Plains",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 16500,
+  "exp": 252,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6846,
+      "name": "Candy Paper Bag",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 1190,
+      "name": "Squirrel Fur",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6844,
+      "name": "Unsalted Butter",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6845,
+      "name": "Walnut Milk",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

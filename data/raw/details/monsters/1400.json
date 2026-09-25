@@ -1,0 +1,40 @@
+{
+  "id": 1400,
+  "name": "Pomie Chan (10M DL)",
+  "level": 180,
+  "map_id": 79,
+  "map_name": "Sofya City: Government Office",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Nightmare",
+  "hp": 5000000,
+  "exp": 43500,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3530,
+      "name": "Golden Pom Liquor",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 3355,
+      "name": "Pomie Chan",
+      "type_id": 21,
+      "type_label": "[Weapon Crysta]"
+    },
+    {
+      "id": 3354,
+      "name": "Twin Eagles",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    }
+  ]
+}

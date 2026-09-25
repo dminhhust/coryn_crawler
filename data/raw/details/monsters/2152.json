@@ -1,0 +1,46 @@
+{
+  "id": 2152,
+  "name": "Lanbat",
+  "level": 120,
+  "map_id": 372,
+  "map_name": "Phantom Wisp's Hideout",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 11500,
+  "exp": -1,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": true,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4929,
+      "name": "Chiroptera Tiara",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 4936,
+      "name": "Lantern Cake",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 4933,
+      "name": "Pumpkin Seeds",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4932,
+      "name": "Torn Playing Card",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

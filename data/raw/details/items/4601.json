@@ -1,0 +1,63 @@
+{
+  "id": 4601,
+  "name": "Gravitar",
+  "type_id": 15,
+  "type_label": "[Magic Device]",
+  "sell": -1,
+  "process": -1,
+  "process_amount": -1,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 150,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 23,
+      "effect_name": "MATK %",
+      "amount": 7,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 26,
+      "effect_name": "Magic Pierce %",
+      "amount": 40,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 40,
+      "effect_name": "CSPD %",
+      "amount": 30,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 60,
+      "effect_name": "Evasion Recharge %",
+      "amount": 20,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 75,
+      "effect_name": "Neutral Resistance %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 110,
+      "effect_name": "% stronger against Neutral",
+      "amount": 25,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 70,
+      "applies_to": 0
+    }
+  ]
+}

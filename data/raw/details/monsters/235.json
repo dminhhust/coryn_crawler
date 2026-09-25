@@ -1,0 +1,46 @@
+{
+  "id": 235,
+  "name": "Berry Pomum",
+  "level": 40,
+  "map_id": 71,
+  "map_name": "Harde Hill",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 20,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 619,
+      "name": "Aromatic Bangle",
+      "type_id": 18,
+      "type_label": "[Special]"
+    },
+    {
+      "id": 616,
+      "name": "Poisonous-looking Nut",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 617,
+      "name": "Pomum Hard Leaf",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 618,
+      "name": "Spider Silk",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

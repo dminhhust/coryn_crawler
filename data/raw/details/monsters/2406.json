@@ -1,0 +1,21 @@
+{
+  "id": 2406,
+  "name": "Cerberus",
+  "level": 215,
+  "map_id": 413,
+  "map_name": "Anniversary Arena: 6th Venue",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 6000000,
+  "exp": 0,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": []
+}

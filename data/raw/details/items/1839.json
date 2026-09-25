@@ -1,0 +1,63 @@
+{
+  "id": 1839,
+  "name": "Aranea Ore",
+  "type_id": 15,
+  "type_label": "[Magic Device]",
+  "sell": 100,
+  "process": 6,
+  "process_amount": 50,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 60,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 10,
+      "effect_name": "AGI %",
+      "amount": 14,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 19,
+      "effect_name": "MaxMP",
+      "amount": 500,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 51,
+      "effect_name": "Fire resistance %",
+      "amount": 9,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 58,
+      "effect_name": "Guard Power %",
+      "amount": 15,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 59,
+      "effect_name": "Guard Recharge %",
+      "amount": 20,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 65,
+      "effect_name": "Earth Element",
+      "amount": 1,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 70,
+      "applies_to": 0
+    }
+  ]
+}

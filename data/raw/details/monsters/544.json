@@ -1,0 +1,52 @@
+{
+  "id": 544,
+  "name": "Pecora",
+  "level": 90,
+  "map_id": 148,
+  "map_name": "Cradle of Soldier: Entrance",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 241,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1882,
+      "name": "Crystalized Fur",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1884,
+      "name": "Grand Horn Bow",
+      "type_id": 9,
+      "type_label": "[Bow]"
+    },
+    {
+      "id": 1890,
+      "name": "STR+4",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 1883,
+      "name": "Tough Lamb Meat",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1881,
+      "name": "Transparent Tail",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

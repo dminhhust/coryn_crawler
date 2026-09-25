@@ -1,0 +1,27 @@
+{
+  "id": 1001,
+  "name": "Green Dragon Garb",
+  "type_id": 8,
+  "type_label": "[Armor]",
+  "sell": 40,
+  "process": 4,
+  "process_amount": 20,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 30,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 113,
+      "effect_name": "Potential",
+      "amount": 21,
+      "applies_to": 0
+    }
+  ]
+}

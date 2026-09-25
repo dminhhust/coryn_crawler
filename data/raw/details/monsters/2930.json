@@ -1,0 +1,46 @@
+{
+  "id": 2930,
+  "name": "Orictoceras",
+  "level": 272,
+  "map_id": 519,
+  "map_name": "Kabla Jabali",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "Normal",
+  "hp": 13500000,
+  "exp": 51200,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6994,
+      "name": "Deadly Claw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6993,
+      "name": "Growing Ore",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7001,
+      "name": "Orictoceras",
+      "type_id": 200,
+      "type_label": "[Enhancer Crysta (Blue)]"
+    },
+    {
+      "id": 7000,
+      "name": "Stone Sternal Bone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

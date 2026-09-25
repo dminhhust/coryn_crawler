@@ -1,0 +1,69 @@
+{
+  "id": 5050,
+  "name": "Eternal Melody Staff",
+  "type_id": 19,
+  "type_label": "[Staff]",
+  "sell": 1,
+  "process": 6,
+  "process_amount": 100,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 340,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 23,
+      "effect_name": "MATK %",
+      "amount": 8,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 41,
+      "effect_name": "Critical Rate",
+      "amount": 20,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 42,
+      "effect_name": "Critical Rate %",
+      "amount": 20,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 55,
+      "effect_name": "Light resistance %",
+      "amount": 20,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 67,
+      "effect_name": "Dark Element",
+      "amount": 1,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 60,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 130,
+      "effect_name": "Additional Magic %",
+      "amount": 50,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 180,
+      "effect_name": "Reduce Dmg (Meteor) %",
+      "amount": 20,
+      "applies_to": 0
+    }
+  ]
+}

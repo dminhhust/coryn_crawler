@@ -1,0 +1,52 @@
+{
+  "id": 216,
+  "name": "Gigant Knight",
+  "level": 76,
+  "map_id": 65,
+  "map_name": "Saham Crater",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 2680,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 436,
+      "name": "Adventurer's Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 242,
+      "name": "Damascus Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 306,
+      "name": "Gigant Knight",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 102,
+      "name": "Hard Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 565,
+      "name": "Tomahawk",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    }
+  ]
+}

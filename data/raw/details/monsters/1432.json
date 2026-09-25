@@ -1,0 +1,52 @@
+{
+  "id": 1432,
+  "name": "Yashiro Azuki (Lv150)",
+  "level": 160,
+  "map_id": 87,
+  "map_name": "Event",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Hard",
+  "hp": 4800000,
+  "exp": 24000,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3356,
+      "name": "Dark Page",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1977,
+      "name": "Hyper Anti-Degradation",
+      "type_id": 2,
+      "type_label": "[Refinement Support]"
+    },
+    {
+      "id": 3357,
+      "name": "Plastic Fragment",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3108,
+      "name": "Revita VI",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 3363,
+      "name": "Yashiro Azuki",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": 3288,
+  "name": "Lil Empress Staff",
+  "type_id": 19,
+  "type_label": "[Staff]",
+  "sell": 145,
+  "process": 6,
+  "process_amount": 72,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 229,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 23,
+      "effect_name": "MATK %",
+      "amount": 6,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 39,
+      "effect_name": "CSPD",
+      "amount": 600,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 41,
+      "effect_name": "Critical Rate",
+      "amount": 20,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 61,
+      "effect_name": "Aggro %",
+      "amount": -10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 62,
+      "effect_name": "Fire Element",
+      "amount": 1,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 55,
+      "applies_to": 0
+    }
+  ]
+}

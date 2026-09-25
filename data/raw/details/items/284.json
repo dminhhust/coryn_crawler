@@ -1,0 +1,27 @@
+{
+  "id": 284,
+  "name": "Boss Roga",
+  "type_id": 22,
+  "type_label": "[Armor Crysta]",
+  "sell": 1,
+  "process": 6,
+  "process_amount": 2,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 17,
+      "effect_name": "MaxHP",
+      "amount": 1000,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 74,
+      "effect_name": "Weapon ATK %",
+      "amount": 1,
+      "applies_to": 0
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": 4605,
+  "name": "Corroded Tail Thorn",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 20,
+  "process": 1,
+  "process_amount": 20,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

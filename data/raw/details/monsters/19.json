@@ -1,0 +1,52 @@
+{
+  "id": 19,
+  "name": "Lavarca",
+  "level": 21,
+  "map_id": 7,
+  "map_name": "Rakau Plains",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 850,
+  "exp": 32,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 436,
+      "name": "Adventurer's Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 5,
+      "name": "Animal Horn",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 80,
+      "name": "Fluffy Fur",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 95,
+      "name": "Gorgeous Fur",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 488,
+      "name": "Horns",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

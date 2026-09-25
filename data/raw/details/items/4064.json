@@ -1,0 +1,21 @@
+{
+  "id": 4064,
+  "name": "Cilantro",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 19,
+  "process": 5,
+  "process_amount": 18,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 80,
+      "effect_name": "MP",
+      "amount": 50,
+      "applies_to": 0
+    }
+  ]
+}

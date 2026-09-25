@@ -1,0 +1,46 @@
+{
+  "id": 1062,
+  "name": "Tigris Machina",
+  "level": 105,
+  "map_id": 207,
+  "map_name": "Lufenas Mansion: Garden",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 4500,
+  "exp": 129,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2649,
+      "name": "Dodge+8",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 2648,
+      "name": "Huge Metal Fang",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 816,
+      "name": "Mithril Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 2647,
+      "name": "Steel Claw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

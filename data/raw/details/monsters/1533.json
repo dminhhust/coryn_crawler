@@ -1,0 +1,46 @@
+{
+  "id": 1533,
+  "name": "Gods of Blessing's Guardian",
+  "level": 143,
+  "map_id": 278,
+  "map_name": "Shrine of The Gods: Area 3",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 15000,
+  "exp": 278,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3582,
+      "name": "Blessings Gods Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3581,
+      "name": "Broken Green Shield",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3584,
+      "name": "Calibur",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    },
+    {
+      "id": 3583,
+      "name": "Green Engine Crystal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

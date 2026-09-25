@@ -1,0 +1,46 @@
+{
+  "id": 2208,
+  "name": "Santaby",
+  "level": 159,
+  "map_id": 386,
+  "map_name": "Tomte Pavillion (150-170)",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": -1,
+  "element_id": -1,
+  "element_label": "Unknown",
+  "tameable": true,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4110,
+      "name": "Aroma Herb",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5109,
+      "name": "Holy Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5114,
+      "name": "Holy Tree Arrow",
+      "type_id": 7,
+      "type_label": "[Arrow]"
+    },
+    {
+      "id": 4050,
+      "name": "Tasty Honey",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

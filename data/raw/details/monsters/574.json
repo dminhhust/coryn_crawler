@@ -1,0 +1,46 @@
+{
+  "id": 574,
+  "name": "Evil Dark Book",
+  "level": 90,
+  "map_id": 154,
+  "map_name": "Dark Manor: Area 2",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 155,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1952,
+      "name": "CSPD+80",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 1953,
+      "name": "Dark Manor",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1951,
+      "name": "Dark Page",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1950,
+      "name": "Torn Book Cover",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

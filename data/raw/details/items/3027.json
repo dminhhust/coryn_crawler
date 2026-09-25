@@ -1,0 +1,63 @@
+{
+  "id": 3027,
+  "name": "3rd Anniv Bowgun VI",
+  "type_id": 10,
+  "type_label": "[Bowgun]",
+  "sell": -1,
+  "process": 2,
+  "process_amount": 65,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 143,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 12,
+      "effect_name": "DEX %",
+      "amount": 6,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 21,
+      "effect_name": "ATK %",
+      "amount": 6,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 25,
+      "effect_name": "Physical Pierce %",
+      "amount": 15,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 37,
+      "effect_name": "ASPD",
+      "amount": 600,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 50,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 175,
+      "effect_name": "Absolute Accuracy %",
+      "amount": 2,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 211,
+      "effect_name": "Attack Range (m)",
+      "amount": 8,
+      "applies_to": 0
+    }
+  ]
+}

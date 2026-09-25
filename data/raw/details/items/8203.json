@@ -1,0 +1,75 @@
+{
+  "id": 8203,
+  "name": "Shamshir",
+  "type_id": 4,
+  "type_label": "[1 Handed Sword]",
+  "sell": 1,
+  "process": 1,
+  "process_amount": 1,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 567,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 12,
+      "effect_name": "DEX %",
+      "amount": 12,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 19,
+      "effect_name": "MaxMP",
+      "amount": 300,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 60,
+      "effect_name": "Evasion Recharge %",
+      "amount": 25,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 69,
+      "effect_name": "Short Range Damage %",
+      "amount": 12,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 110,
+      "effect_name": "% stronger against Neutral",
+      "amount": 35,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 90,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 181,
+      "effect_name": "Absolute Dodge %",
+      "amount": 5,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 234,
+      "effect_name": "Physical Pierce %",
+      "amount": 25,
+      "applies_to": 2
+    },
+    {
+      "effect_id": 250,
+      "effect_name": "Critical Rate",
+      "amount": 75,
+      "applies_to": 2
+    }
+  ]
+}

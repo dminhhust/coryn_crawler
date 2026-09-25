@@ -1,0 +1,21 @@
+{
+  "id": 616,
+  "name": "Poisonous-looking Nut",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 7,
+  "process": 5,
+  "process_amount": 8,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 79,
+      "effect_name": "HP",
+      "amount": 80,
+      "applies_to": 0
+    }
+  ]
+}

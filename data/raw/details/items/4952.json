@@ -1,0 +1,21 @@
+{
+  "id": 4952,
+  "name": "STR+6",
+  "type_id": 20,
+  "type_label": "[Normal Crysta]",
+  "sell": 1,
+  "process": 6,
+  "process_amount": 2,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 3,
+      "effect_name": "STR",
+      "amount": 6,
+      "applies_to": 0
+    }
+  ]
+}

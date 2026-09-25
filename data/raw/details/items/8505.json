@@ -1,0 +1,14 @@
+{
+  "id": 8505,
+  "name": "Sakura Butterfly Hair Ornament",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 130,
+  "process": 4,
+  "process_amount": 65,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

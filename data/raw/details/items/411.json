@@ -1,0 +1,27 @@
+{
+  "id": 411,
+  "name": "Tenert's Book II",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 0,
+  "process": 0,
+  "process_amount": 0,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 95,
+      "effect_name": "EXP Gain %",
+      "amount": 100,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 96,
+      "effect_name": "Drop Rate %",
+      "amount": 100,
+      "applies_to": 0
+    }
+  ]
+}

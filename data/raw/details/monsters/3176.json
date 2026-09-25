@@ -1,0 +1,46 @@
+{
+  "id": 3176,
+  "name": "Holocan",
+  "level": 243,
+  "map_id": 585,
+  "map_name": "Carretera Mar",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 0,
+  "exp": 271,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7580,
+      "name": "Luminous Sphere",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7577,
+      "name": "Mutated Feather Fin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7576,
+      "name": "Sharp Thorn",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7584,
+      "name": "Stroom Helm",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

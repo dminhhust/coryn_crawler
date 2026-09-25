@@ -1,0 +1,63 @@
+{
+  "id": 6568,
+  "name": "Moonlight Shield II",
+  "type_id": 17,
+  "type_label": "[Shield]",
+  "sell": 225,
+  "process": 6,
+  "process_amount": 112,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 88,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 26,
+      "effect_name": "Magic Pierce %",
+      "amount": 5,
+      "applies_to": 8
+    },
+    {
+      "effect_id": 32,
+      "effect_name": "Magic Resistance %",
+      "amount": 25,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 51,
+      "effect_name": "Fire resistance %",
+      "amount": 20,
+      "applies_to": 128
+    },
+    {
+      "effect_id": 61,
+      "effect_name": "Aggro %",
+      "amount": 10,
+      "applies_to": 8
+    },
+    {
+      "effect_id": 128,
+      "effect_name": "Magic Barrier",
+      "amount": 1500,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 140,
+      "effect_name": "Guard Break %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 241,
+      "effect_name": "Magic Resistance %",
+      "amount": 5,
+      "applies_to": 128
+    }
+  ]
+}

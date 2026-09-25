@@ -1,0 +1,46 @@
+{
+  "id": 2183,
+  "name": "Arbonymon",
+  "level": 170,
+  "map_id": 380,
+  "map_name": "Celarra Plateau",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 13000,
+  "exp": 235,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5087,
+      "name": "Evil Nymph Pollen",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5086,
+      "name": "Fat Trunk",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5088,
+      "name": "INT +6",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 5085,
+      "name": "Solid Wood",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

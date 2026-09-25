@@ -1,0 +1,46 @@
+{
+  "id": 1929,
+  "name": "Insector",
+  "level": 164,
+  "map_id": 336,
+  "map_name": "Labilans Sector: Area 3",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 30000,
+  "exp": 561,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4365,
+      "name": "Broken Ocarina",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4380,
+      "name": "Insect Energy",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4381,
+      "name": "Insect Knife",
+      "type_id": 11,
+      "type_label": "[Dagger]"
+    },
+    {
+      "id": 4364,
+      "name": "Luminous Robe Scrap",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

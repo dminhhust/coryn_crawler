@@ -1,0 +1,58 @@
+{
+  "id": 1341,
+  "name": "Shampy",
+  "level": 165,
+  "map_id": 252,
+  "map_name": "Turnus Mine: Hall",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Nightmare",
+  "hp": 4250000,
+  "exp": 36500,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3229,
+      "name": "Broken Mushroom Hammer",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3208,
+      "name": "Luminous Mushroom Staff",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    },
+    {
+      "id": 3237,
+      "name": "Medicinal Mushroom",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 3243,
+      "name": "Shampy",
+      "type_id": 210,
+      "type_label": "[Enhancer Crysta (Red)]"
+    },
+    {
+      "id": 3245,
+      "name": "Shampy Doll",
+      "type_id": 17,
+      "type_label": "[Shield]"
+    },
+    {
+      "id": 3227,
+      "name": "Shampy's Fluffy Hair",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

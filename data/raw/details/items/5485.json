@@ -1,0 +1,39 @@
+{
+  "id": 5485,
+  "name": "Iron Witch Veil",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 105,
+  "process": 4,
+  "process_amount": 52,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 67,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 19,
+      "effect_name": "MaxMP",
+      "amount": 300,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 26,
+      "effect_name": "Magic Pierce %",
+      "amount": 20,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 39,
+      "effect_name": "CSPD",
+      "amount": 400,
+      "applies_to": 0
+    }
+  ]
+}

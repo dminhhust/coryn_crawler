@@ -1,0 +1,46 @@
+{
+  "id": 2951,
+  "name": "Charuga",
+  "level": 229,
+  "map_id": 525,
+  "map_name": "Boma Konda: Underground Area",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 66480,
+  "exp": 1056,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7037,
+      "name": "Burnt Wood Board",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7038,
+      "name": "Flamma Blade",
+      "type_id": 5,
+      "type_label": "[2 Handed Sword]"
+    },
+    {
+      "id": 7035,
+      "name": "Hot Dragon Claw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7036,
+      "name": "Hot Dragon Scale",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

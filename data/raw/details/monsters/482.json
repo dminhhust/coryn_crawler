@@ -1,0 +1,46 @@
+{
+  "id": 482,
+  "name": "Ancient Empress Mezzaluna (Megiston 2016)",
+  "level": 110,
+  "map_id": 87,
+  "map_name": "Event",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 500000,
+  "exp": 19500,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 641,
+      "name": "Ancient Empress",
+      "type_id": 23,
+      "type_label": "[Additional Crysta]"
+    },
+    {
+      "id": 1709,
+      "name": "Empress Bowgun",
+      "type_id": 10,
+      "type_label": "[Bowgun]"
+    },
+    {
+      "id": 1710,
+      "name": "Empress Mail",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 1708,
+      "name": "Empress Soul",
+      "type_id": 15,
+      "type_label": "[Magic Device]"
+    }
+  ]
+}

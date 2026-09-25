@@ -1,0 +1,75 @@
+{
+  "id": 8374,
+  "name": "Confeito Katana",
+  "type_id": 27,
+  "type_label": "[Katana]",
+  "sell": 1,
+  "process": 1,
+  "process_amount": 1,
+  "meta": {
+    "badge": "White Day 2026",
+    "note": "White Day 2026 event blacksmith item.\nUntradable.\n\nBlacksmith outcome tiers:\nUnsheathe Attack +10% / +11% / +12%\nDEX +10% / +11% / +12%\nMagic Barrier +2000 / +4000 / +6000"
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 262,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 12,
+      "effect_name": "DEX %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 19,
+      "effect_name": "MaxMP",
+      "amount": 400,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 37,
+      "effect_name": "ASPD",
+      "amount": 1100,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 47,
+      "effect_name": "% stronger against Wind",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 65,
+      "effect_name": "Earth Element",
+      "amount": 1,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 70,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 117,
+      "effect_name": "Unsheathe Attack %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 128,
+      "effect_name": "Magic Barrier",
+      "amount": 2000,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 141,
+      "effect_name": "Barrier Cooldown %",
+      "amount": 15,
+      "applies_to": 0
+    }
+  ]
+}

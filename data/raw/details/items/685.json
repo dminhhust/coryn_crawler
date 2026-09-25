@@ -1,0 +1,33 @@
+{
+  "id": 685,
+  "name": "Hachimaki",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 2,
+  "process": 4,
+  "process_amount": 2,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 1,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 3,
+      "effect_name": "STR",
+      "amount": 1,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 9,
+      "effect_name": "AGI",
+      "amount": 2,
+      "applies_to": 0
+    }
+  ]
+}

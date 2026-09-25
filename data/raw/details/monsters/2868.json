@@ -1,0 +1,46 @@
+{
+  "id": 2868,
+  "name": "Tailgon",
+  "level": 216,
+  "map_id": 509,
+  "map_name": "Tunnel of Trials",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 19737,
+  "exp": 307,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6761,
+      "name": "Blazing Tail Arrow",
+      "type_id": 7,
+      "type_label": "[Arrow]"
+    },
+    {
+      "id": 6759,
+      "name": "Fervent Horn",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6758,
+      "name": "Fervent Tail",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6760,
+      "name": "Scorching Liquid",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

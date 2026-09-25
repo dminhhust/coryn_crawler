@@ -1,0 +1,46 @@
+{
+  "id": 213,
+  "name": "Orc",
+  "level": 46,
+  "map_id": 65,
+  "map_name": "Saham Crater",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 7000,
+  "exp": 252,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 25,
+      "name": "Broadcloth",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 51,
+      "name": "Cracked Stick",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 530,
+      "name": "Needle Helmet",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 260,
+      "name": "Revita I",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

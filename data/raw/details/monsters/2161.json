@@ -1,0 +1,46 @@
+{
+  "id": 2161,
+  "name": "Porgy",
+  "level": 163,
+  "map_id": 374,
+  "map_name": "Lunagent Cliff Base",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 17000,
+  "exp": 278,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4954,
+      "name": "Fish Tusk",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4955,
+      "name": "Heinous Soul",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4956,
+      "name": "Sashimi Knife",
+      "type_id": 11,
+      "type_label": "[Dagger]"
+    },
+    {
+      "id": 4953,
+      "name": "Transparent Fin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

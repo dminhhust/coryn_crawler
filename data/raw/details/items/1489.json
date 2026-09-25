@@ -1,0 +1,33 @@
+{
+  "id": 1489,
+  "name": "Spooky Mask",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": -1,
+  "process": -1,
+  "process_amount": -1,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 30,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 17,
+      "effect_name": "MaxHP",
+      "amount": 1000,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 55,
+      "effect_name": "Light resistance %",
+      "amount": -50,
+      "applies_to": 0
+    }
+  ]
+}

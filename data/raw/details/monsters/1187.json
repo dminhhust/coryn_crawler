@@ -1,0 +1,46 @@
+{
+  "id": 1187,
+  "name": "High Tigris",
+  "level": 128,
+  "map_id": 234,
+  "map_name": "Ultimea Palace: Storage Area 1",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 16000,
+  "exp": 350,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2932,
+      "name": "Hard Armor Bit",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2933,
+      "name": "Hard Beast Fang",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2934,
+      "name": "Machina Blood",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2935,
+      "name": "Rifled Musket",
+      "type_id": 10,
+      "type_label": "[Bowgun]"
+    }
+  ]
+}

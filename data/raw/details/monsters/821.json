@@ -1,0 +1,46 @@
+{
+  "id": 821,
+  "name": "Vatendeth the Dark General",
+  "level": 165,
+  "map_id": 87,
+  "map_name": "Event",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Ultimate",
+  "hp": 3400000,
+  "exp": 34000,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 436,
+      "name": "Adventurer's Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 2240,
+      "name": "Golpom 2nd Anniv Medal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2253,
+      "name": "Magiadd V",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1716,
+      "name": "Revita V",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

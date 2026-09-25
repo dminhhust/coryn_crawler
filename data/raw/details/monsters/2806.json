@@ -1,0 +1,46 @@
+{
+  "id": 2806,
+  "name": "Corroded Dragist",
+  "level": 214,
+  "map_id": 495,
+  "map_name": "Stairway to Vital Point",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 17440,
+  "exp": 235,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6690,
+      "name": "Corroded Dragon Claw Sword",
+      "type_id": 11,
+      "type_label": "[Dagger]"
+    },
+    {
+      "id": 6689,
+      "name": "Corroded Red Crystal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6687,
+      "name": "Mutated Dragon Claw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6688,
+      "name": "Mutated Fang",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

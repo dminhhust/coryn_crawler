@@ -1,0 +1,46 @@
+{
+  "id": 1330,
+  "name": "Molemet",
+  "level": 131,
+  "map_id": 250,
+  "map_name": "Turnus Mine: Area 2",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 15000,
+  "exp": 332,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3215,
+      "name": "Crushed Helmet",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3210,
+      "name": "Elfin Shield",
+      "type_id": 17,
+      "type_label": "[Shield]"
+    },
+    {
+      "id": 3220,
+      "name": "Mole Whisker",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3217,
+      "name": "Turnus Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

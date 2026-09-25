@@ -1,0 +1,46 @@
+{
+  "id": 2439,
+  "name": "Guttata",
+  "level": 182,
+  "map_id": 418,
+  "map_name": "Movere Specula",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 13000,
+  "exp": 206,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5714,
+      "name": "Bird Thigh",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5713,
+      "name": "Green Feather",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5712,
+      "name": "Hard Beak",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5715,
+      "name": "Insect Cage",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 1615,
+  "name": "Baby Finstern",
+  "level": 154,
+  "map_id": 296,
+  "map_name": "Dark Dragon Shrine: Upper",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 17500,
+  "exp": 431,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3792,
+      "name": "Baby Fang",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3795,
+      "name": "Critical Rate +5",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 3794,
+      "name": "Dark Dragon Shrine Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3793,
+      "name": "Shining Tail",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

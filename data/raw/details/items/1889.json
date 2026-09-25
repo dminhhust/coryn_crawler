@@ -1,0 +1,45 @@
+{
+  "id": 1889,
+  "name": "Forehead Guard",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 42,
+  "process": 4,
+  "process_amount": 21,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 51,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 4,
+      "effect_name": "STR %",
+      "amount": 4,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 58,
+      "effect_name": "Guard Power %",
+      "amount": 7,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 59,
+      "effect_name": "Guard Recharge %",
+      "amount": 3,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 74,
+      "effect_name": "Weapon ATK %",
+      "amount": 8,
+      "applies_to": 0
+    }
+  ]
+}

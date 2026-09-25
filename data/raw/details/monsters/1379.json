@@ -1,0 +1,46 @@
+{
+  "id": 1379,
+  "name": "Tehon",
+  "level": 122,
+  "map_id": 255,
+  "map_name": "Curonne Forest: East",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 6500,
+  "exp": 135,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3324,
+      "name": "Fur Vest",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 3322,
+      "name": "Light Red Hair",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3323,
+      "name": "Pompoko Meat",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 3321,
+      "name": "Vertical Stripe Fur",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": 8037,
+  "name": "Dango Hat (Skewer)",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 120,
+  "process": 4,
+  "process_amount": 60,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 169,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 4,
+      "effect_name": "STR %",
+      "amount": 9,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 17,
+      "effect_name": "MaxHP",
+      "amount": 3600,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 25,
+      "effect_name": "Physical Pierce %",
+      "amount": 15,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 117,
+      "effect_name": "Unsheathe Attack %",
+      "amount": 12,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 173,
+      "effect_name": "Reduce Dmg (Floor) %",
+      "amount": -36,
+      "applies_to": 0
+    }
+  ]
+}

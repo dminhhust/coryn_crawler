@@ -1,0 +1,34 @@
+{
+  "id": 823,
+  "name": "Zolban the Dark Captain of Wind",
+  "level": 135,
+  "map_id": 87,
+  "map_name": "Event",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Hard",
+  "hp": 680000,
+  "exp": 6800,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2240,
+      "name": "Golpom 2nd Anniv Medal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1716,
+      "name": "Revita V",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": 1553,
+  "name": "Handmade Cookie (Choco)",
+  "level": 160,
+  "map_id": 111,
+  "map_name": "El Scaro",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Nightmare",
+  "hp": 3500000,
+  "exp": 39000,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3621,
+      "name": "Broken Cookie",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3623,
+      "name": "Fightwear",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 3620,
+      "name": "Handmade Cookie",
+      "type_id": 23,
+      "type_label": "[Additional Crysta]"
+    },
+    {
+      "id": 3622,
+      "name": "Icing Sugar",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 911,
+      "name": "Orichalcum Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 3624,
+      "name": "Wrapping Ribbon",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

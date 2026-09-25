@@ -1,0 +1,39 @@
+{
+  "id": 1632,
+  "name": "Knitted Scarf",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 1,
+  "process": 4,
+  "process_amount": 2,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 16,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 24,
+      "effect_name": "Stability %",
+      "amount": 5,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 41,
+      "effect_name": "Critical Rate",
+      "amount": 5,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 52,
+      "effect_name": "Water resistance %",
+      "amount": 5,
+      "applies_to": 0
+    }
+  ]
+}

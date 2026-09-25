@@ -1,0 +1,39 @@
+{
+  "id": 4480,
+  "name": "Sling Bag with Gift",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 1,
+  "process": 4,
+  "process_amount": 2,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 85,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 23,
+      "effect_name": "MATK %",
+      "amount": 5,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 26,
+      "effect_name": "Magic Pierce %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 55,
+      "effect_name": "Light resistance %",
+      "amount": 10,
+      "applies_to": 0
+    }
+  ]
+}

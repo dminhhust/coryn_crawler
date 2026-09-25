@@ -1,0 +1,46 @@
+{
+  "id": 2866,
+  "name": "Laduro",
+  "level": 214,
+  "map_id": 509,
+  "map_name": "Tunnel of Trials",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 17438,
+  "exp": 269,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6763,
+      "name": "Beautiful Mineral",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6762,
+      "name": "Burglar's Cloth",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6764,
+      "name": "Dim Eyeball",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6765,
+      "name": "Shady Hoodie",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

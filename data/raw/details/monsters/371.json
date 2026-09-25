@@ -1,0 +1,40 @@
+{
+  "id": 371,
+  "name": "Outer World Soldier",
+  "level": 75,
+  "map_id": 87,
+  "map_name": "Event",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 2700,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 436,
+      "name": "Adventurer's Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 1264,
+      "name": "Gold 1st Anniv Medal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 589,
+      "name": "Revita III",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

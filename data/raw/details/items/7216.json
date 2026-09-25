@@ -1,0 +1,69 @@
+{
+  "id": 7216,
+  "name": "8th Anniv Bow III",
+  "type_id": 9,
+  "type_label": "[Bow]",
+  "sell": 195,
+  "process": 2,
+  "process_amount": 97,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 196,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 12,
+      "effect_name": "DEX %",
+      "amount": 7,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 17,
+      "effect_name": "MaxHP",
+      "amount": 3500,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 21,
+      "effect_name": "ATK %",
+      "amount": 7,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 34,
+      "effect_name": "Accuracy %",
+      "amount": 25,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 41,
+      "effect_name": "Critical Rate",
+      "amount": 35,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 60,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 176,
+      "effect_name": "Reduce Dmg (Bullet) %",
+      "amount": 35,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 211,
+      "effect_name": "Attack Range (m)",
+      "amount": 10,
+      "applies_to": 0
+    }
+  ]
+}

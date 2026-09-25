@@ -1,0 +1,45 @@
+{
+  "id": 3788,
+  "name": "Spiky Arrow",
+  "type_id": 7,
+  "type_label": "[Arrow]",
+  "sell": 140,
+  "process": 2,
+  "process_amount": 70,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 79,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 32,
+      "effect_name": "Magic Resistance %",
+      "amount": 5,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 67,
+      "effect_name": "Dark Element",
+      "amount": 1,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 20,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 173,
+      "effect_name": "Reduce Dmg (Floor) %",
+      "amount": 5,
+      "applies_to": 0
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 1509,
+  "name": "Ardvan",
+  "level": 140,
+  "map_id": 272,
+  "map_name": "Ruins of Mt. Mithurna: Stylobate",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 20000,
+  "exp": 336,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3503,
+      "name": "Beautiful Pebble",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3452,
+      "name": "Elfin Sword",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    },
+    {
+      "id": 816,
+      "name": "Mithril Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 3504,
+      "name": "Mithurna Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

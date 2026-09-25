@@ -1,0 +1,40 @@
+{
+  "id": 138,
+  "name": "Stone Knight",
+  "level": 29,
+  "map_id": 38,
+  "map_name": "Fiery Volcano: Area 1",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 1300,
+  "exp": 53,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 52,
+      "name": "Cracked Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 116,
+      "name": "Lava Crystal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 546,
+      "name": "Sabre",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    }
+  ]
+}

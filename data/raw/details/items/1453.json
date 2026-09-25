@@ -1,0 +1,14 @@
+{
+  "id": 1453,
+  "name": "Sludgy Liquid",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 9,
+  "process": 5,
+  "process_amount": 9,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

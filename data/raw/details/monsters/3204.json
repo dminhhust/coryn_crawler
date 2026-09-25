@@ -1,0 +1,46 @@
+{
+  "id": 3204,
+  "name": "Mesoside",
+  "level": 245,
+  "map_id": 592,
+  "map_name": "Menabra Plains",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 0,
+  "exp": 399,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7659,
+      "name": "Falling Star Talisman",
+      "type_id": 18,
+      "type_label": "[Special]"
+    },
+    {
+      "id": 7658,
+      "name": "Meteoric Iron",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7656,
+      "name": "Rough Rock",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7657,
+      "name": "Tektite",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

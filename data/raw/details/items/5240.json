@@ -1,0 +1,45 @@
+{
+  "id": 5240,
+  "name": "Catafnia Shield",
+  "type_id": 17,
+  "type_label": "[Shield]",
+  "sell": 170,
+  "process": 3,
+  "process_amount": 85,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 51,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 19,
+      "effect_name": "MaxMP",
+      "amount": 200,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 58,
+      "effect_name": "Guard Power %",
+      "amount": 34,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 59,
+      "effect_name": "Guard Recharge %",
+      "amount": 20,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 139,
+      "effect_name": "Anticipate %",
+      "amount": 6,
+      "applies_to": 0
+    }
+  ]
+}

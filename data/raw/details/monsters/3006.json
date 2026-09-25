@@ -1,0 +1,46 @@
+{
+  "id": 3006,
+  "name": "Wolfelar",
+  "level": 224,
+  "map_id": 528,
+  "map_name": "Algid Passage",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 19090,
+  "exp": 290,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7098,
+      "name": "Cold Branch",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7101,
+      "name": "Dodge+16",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 7099,
+      "name": "Ice Wolf Fur",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7100,
+      "name": "Ice Wolf Whiskers",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

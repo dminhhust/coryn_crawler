@@ -1,0 +1,46 @@
+{
+  "id": 360,
+  "name": "Rock Stinger",
+  "level": 66,
+  "map_id": 104,
+  "map_name": "Gravel Terrace",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 385,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1205,
+      "name": "Hard Scissor",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1206,
+      "name": "Scimitar",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    },
+    {
+      "id": 1204,
+      "name": "Scorpion Shell",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1203,
+      "name": "Scorpion Tail",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

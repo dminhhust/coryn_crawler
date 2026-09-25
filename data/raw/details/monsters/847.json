@@ -1,0 +1,76 @@
+{
+  "id": 847,
+  "name": "Proto Leon",
+  "level": 155,
+  "map_id": 171,
+  "map_name": "Singolare Ruins: 3rd Floor",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Ultimate",
+  "hp": 5850000,
+  "exp": 62500,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2297,
+      "name": "Ancient Fabric",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2296,
+      "name": "Beast Talisman",
+      "type_id": 18,
+      "type_label": "[Special]"
+    },
+    {
+      "id": 2292,
+      "name": "Crystal Lion Fang",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2293,
+      "name": "Crystalized Huge Claw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2299,
+      "name": "Leve Bow",
+      "type_id": 9,
+      "type_label": "[Bow]"
+    },
+    {
+      "id": 2298,
+      "name": "Leve Fang",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    },
+    {
+      "id": 2291,
+      "name": "Proto Leon",
+      "type_id": 230,
+      "type_label": "[Enhancer Crysta (Yellow)]"
+    },
+    {
+      "id": 2295,
+      "name": "Proto Leon's Hammer Bit",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2294,
+      "name": "Savage Beast Mane",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

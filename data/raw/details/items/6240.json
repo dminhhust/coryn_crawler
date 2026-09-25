@@ -1,0 +1,63 @@
+{
+  "id": 6240,
+  "name": "Pearl Sakura Mystic Sword",
+  "type_id": 27,
+  "type_label": "[Katana]",
+  "sell": -1,
+  "process": 2,
+  "process_amount": -1,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 150,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 18,
+      "effect_name": "MaxHP %",
+      "amount": 30,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 40,
+      "effect_name": "CSPD %",
+      "amount": 50,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 41,
+      "effect_name": "Critical Rate",
+      "amount": 50,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 42,
+      "effect_name": "Critical Rate %",
+      "amount": 25,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 48,
+      "effect_name": "% stronger against Earth",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 62,
+      "effect_name": "Fire Element",
+      "amount": 1,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 70,
+      "applies_to": 0
+    }
+  ]
+}

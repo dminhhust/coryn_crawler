@@ -1,0 +1,39 @@
+{
+  "id": 8483,
+  "name": "Sakura Beast Horn",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 122,
+  "process": 1,
+  "process_amount": 61,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 175,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 23,
+      "effect_name": "MATK %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 40,
+      "effect_name": "CSPD %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 130,
+      "effect_name": "Additional Magic %",
+      "amount": 100,
+      "applies_to": 0
+    }
+  ]
+}

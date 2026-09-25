@@ -1,0 +1,45 @@
+{
+  "id": 6743,
+  "name": "Black Velly",
+  "type_id": 220,
+  "type_label": "[Enhancer Crysta (Green)]",
+  "sell": 1,
+  "process": 6,
+  "process_amount": 100,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 17,
+      "effect_name": "MaxHP",
+      "amount": 3000,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 19,
+      "effect_name": "MaxMP",
+      "amount": 400,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 23,
+      "effect_name": "MATK %",
+      "amount": 9,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 60,
+      "effect_name": "Evasion Recharge %",
+      "amount": -20,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 148,
+      "effect_name": "Upgrade for",
+      "amount": 4327,
+      "applies_to": 0
+    }
+  ]
+}

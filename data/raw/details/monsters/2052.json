@@ -1,0 +1,58 @@
+{
+  "id": 2052,
+  "name": "Amalgam",
+  "level": 200,
+  "map_id": 351,
+  "map_name": "Twilight Sakura Castle: Top",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Nightmare",
+  "hp": 10000000,
+  "exp": 46000,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 436,
+      "name": "Adventurer's Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 4548,
+      "name": "Amalgam",
+      "type_id": 240,
+      "type_label": "[Enhancer Crysta (Purple)]"
+    },
+    {
+      "id": 4549,
+      "name": "Corroded Yozakura",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4550,
+      "name": "Sakura Eater Crystal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4593,
+      "name": "Scarlet Sakura Fairy Sword",
+      "type_id": 27,
+      "type_label": "[Katana]"
+    },
+    {
+      "id": 4594,
+      "name": "Yozakura Wings",
+      "type_id": 15,
+      "type_label": "[Magic Device]"
+    }
+  ]
+}

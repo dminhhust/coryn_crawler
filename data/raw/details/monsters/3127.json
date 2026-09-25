@@ -1,0 +1,64 @@
+{
+  "id": 3127,
+  "name": "Don Profundo",
+  "level": 282,
+  "map_id": 554,
+  "map_name": "Abandoned District: Ruins Summit",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Nightmare",
+  "hp": 34000000,
+  "exp": 130000,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7472,
+      "name": "Abyssal Creature Exoskeleton",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7467,
+      "name": "Abyssal Creature Giant Horn",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7466,
+      "name": "Abyssal Creature Hard Claw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7468,
+      "name": "Abyssal Jewel",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7469,
+      "name": "Don Knuckles",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    },
+    {
+      "id": 7471,
+      "name": "Don Profundo",
+      "type_id": 210,
+      "type_label": "[Enhancer Crysta (Red)]"
+    },
+    {
+      "id": 7470,
+      "name": "Don Shield",
+      "type_id": 17,
+      "type_label": "[Shield]"
+    }
+  ]
+}

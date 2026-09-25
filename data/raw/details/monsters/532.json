@@ -1,0 +1,52 @@
+{
+  "id": 532,
+  "name": "Candela (Melon)",
+  "level": 40,
+  "map_id": 45,
+  "map_name": "Douce Hamlet",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 54000,
+  "exp": 4300,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 78,
+      "name": "Flower Nectar",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 243,
+      "name": "Hematite",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 110,
+      "name": "Huge Iron Ball",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 132,
+      "name": "Magic Marionette Heart",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 588,
+      "name": "Revita II",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

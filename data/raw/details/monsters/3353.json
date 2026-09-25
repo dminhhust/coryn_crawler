@@ -1,0 +1,21 @@
+{
+  "id": 3353,
+  "name": "Chefiluro",
+  "level": 242,
+  "map_id": 654,
+  "map_name": "Dycan Lake Swamp",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": -1,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": true,
+  "limited": true,
+  "meta": {
+    "badge": "White Day 2026",
+    "note": "White Day 2026 event tameable monster."
+  },
+  "drops": []
+}

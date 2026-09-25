@@ -1,0 +1,39 @@
+{
+  "id": 4606,
+  "name": "Fruit Cap",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 77,
+  "process": 4,
+  "process_amount": 38,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 40,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 19,
+      "effect_name": "MaxMP",
+      "amount": 100,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 30,
+      "effect_name": "MDEF %",
+      "amount": 80,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 57,
+      "effect_name": "Ailment Resistance %",
+      "amount": 15,
+      "applies_to": 0
+    }
+  ]
+}

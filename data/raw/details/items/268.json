@@ -1,0 +1,21 @@
+{
+  "id": 268,
+  "name": "Sofya City",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 1,
+  "process": 6,
+  "process_amount": 1,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 82,
+      "effect_name": "Teleport to Sofya City",
+      "amount": 0,
+      "applies_to": 0
+    }
+  ]
+}

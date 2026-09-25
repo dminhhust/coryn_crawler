@@ -1,0 +1,40 @@
+{
+  "id": 9,
+  "name": "Ruin Rat",
+  "level": 10,
+  "map_id": 4,
+  "map_name": "Underground Ruins: B1",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 195,
+  "exp": 9,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 197,
+      "name": "Small Gloves",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 198,
+      "name": "Small Hilt",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 573,
+      "name": "Warrior Helm",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

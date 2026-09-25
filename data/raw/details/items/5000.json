@@ -1,0 +1,51 @@
+{
+  "id": 5000,
+  "name": "Phantom Thief Ricotta",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 200,
+  "process": 6,
+  "process_amount": 100,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 30,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 19,
+      "effect_name": "MaxMP",
+      "amount": 100,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 21,
+      "effect_name": "ATK %",
+      "amount": 8,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 42,
+      "effect_name": "Critical Rate %",
+      "amount": 50,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 168,
+      "effect_name": "Stun Unavailable",
+      "amount": 1,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 177,
+      "effect_name": "Reduce Dmg (Bowling) %",
+      "amount": 25,
+      "applies_to": 0
+    }
+  ]
+}

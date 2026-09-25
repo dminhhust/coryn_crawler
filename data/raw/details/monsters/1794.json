@@ -1,0 +1,34 @@
+{
+  "id": 1794,
+  "name": "Gerumi",
+  "level": 180,
+  "map_id": 87,
+  "map_name": "Event",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 5000000,
+  "exp": 50000,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4157,
+      "name": "Gerumi",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 4156,
+      "name": "Zell Wooden Box",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

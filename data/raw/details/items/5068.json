@@ -1,0 +1,51 @@
+{
+  "id": 5068,
+  "name": "Wind Slayer Chakram",
+  "type_id": 13,
+  "type_label": "[Knuckles]",
+  "sell": 170,
+  "process": 3,
+  "process_amount": 85,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 185,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 21,
+      "effect_name": "ATK %",
+      "amount": 6,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 38,
+      "effect_name": "ASPD %",
+      "amount": 40,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 64,
+      "effect_name": "Wind Element",
+      "amount": 1,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 90,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 129,
+      "effect_name": "Additional Melee %",
+      "amount": 30,
+      "applies_to": 0
+    }
+  ]
+}

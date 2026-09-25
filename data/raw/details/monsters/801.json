@@ -1,0 +1,40 @@
+{
+  "id": 801,
+  "name": "Outer World Soldier",
+  "level": 115,
+  "map_id": 87,
+  "map_name": "Event",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Ultimate",
+  "hp": 1800000,
+  "exp": 27000,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2238,
+      "name": "Gold 2nd Anniv Medal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 589,
+      "name": "Revita III",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1286,
+      "name": "Vita Plus III",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

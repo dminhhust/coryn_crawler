@@ -1,0 +1,45 @@
+{
+  "id": 7593,
+  "name": "Nero Saber",
+  "type_id": 5,
+  "type_label": "[2 Handed Sword]",
+  "sell": 230,
+  "process": 3,
+  "process_amount": 115,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 636,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 19,
+      "effect_name": "MaxMP",
+      "amount": 300,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 45,
+      "effect_name": "% stronger against Fire",
+      "amount": 9,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 57,
+      "effect_name": "Ailment Resistance %",
+      "amount": 15,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 63,
+      "effect_name": "Water Element",
+      "amount": 1,
+      "applies_to": 0
+    }
+  ]
+}

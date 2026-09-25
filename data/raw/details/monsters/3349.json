@@ -1,0 +1,40 @@
+{
+  "id": 3349,
+  "name": "Mycodian",
+  "level": 270,
+  "map_id": 653,
+  "map_name": "Ancient Exhibition Grounds",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Hard",
+  "hp": -1,
+  "exp": -1,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "White Day 2026",
+    "note": "White Day 2026 event boss."
+  },
+  "drops": [
+    {
+      "id": 8376,
+      "name": "Chocolate Sprinkles",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 8375,
+      "name": "Mycostarch",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 8377,
+      "name": "Sparkly Sugar Candy",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

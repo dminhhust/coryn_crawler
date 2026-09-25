@@ -1,0 +1,46 @@
+{
+  "id": 2081,
+  "name": "Sand Bandits Chopper",
+  "level": 175,
+  "map_id": 364,
+  "map_name": "Geist Desert: Area 2",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 50000,
+  "exp": 867,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4691,
+      "name": "Blood Stained Billhook",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4692,
+      "name": "Punisher Bow",
+      "type_id": 9,
+      "type_label": "[Bow]"
+    },
+    {
+      "id": 4689,
+      "name": "Ripped Pants",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4690,
+      "name": "Sand Bandits Bandage",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

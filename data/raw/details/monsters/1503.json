@@ -1,0 +1,52 @@
+{
+  "id": 1503,
+  "name": "Zega (Megiston 2018)",
+  "level": 180,
+  "map_id": 87,
+  "map_name": "Event",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 2300000,
+  "exp": 53000,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 816,
+      "name": "Mithril Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 335,
+      "name": "Orichalcum",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 911,
+      "name": "Orichalcum Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 1699,
+      "name": "Revita Box",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 3479,
+      "name": "Zega III",
+      "type_id": 210,
+      "type_label": "[Enhancer Crysta (Red)]"
+    }
+  ]
+}

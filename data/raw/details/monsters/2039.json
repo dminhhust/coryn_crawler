@@ -1,0 +1,46 @@
+{
+  "id": 2039,
+  "name": "Evil Eye",
+  "level": 169,
+  "map_id": 353,
+  "map_name": "Morga Wasteland: Area 1",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 80000,
+  "exp": 1362,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4564,
+      "name": "Bizarre Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4565,
+      "name": "Cursed Evil Eye",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4566,
+      "name": "Demon Serum",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4572,
+      "name": "Little Fang",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

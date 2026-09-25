@@ -1,0 +1,46 @@
+{
+  "id": 3286,
+  "name": "Selachi",
+  "level": 260,
+  "map_id": 622,
+  "map_name": "Aquastida Corridor",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 60300,
+  "exp": 895,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 8006,
+      "name": "Dangerous Shark Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 8005,
+      "name": "Rough Placoid Scale",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 8007,
+      "name": "Sacred Axe",
+      "type_id": 5,
+      "type_label": "[2 Handed Sword]"
+    },
+    {
+      "id": 8004,
+      "name": "Tangled Kelp ",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

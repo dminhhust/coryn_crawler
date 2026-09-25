@@ -1,0 +1,39 @@
+{
+  "id": 6648,
+  "name": "Trickster Dragon Mimyugon",
+  "type_id": 210,
+  "type_label": "[Enhancer Crysta (Red)]",
+  "sell": 1,
+  "process": 6,
+  "process_amount": 100,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 12,
+      "effect_name": "DEX %",
+      "amount": 7,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 21,
+      "effect_name": "ATK %",
+      "amount": 9,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 38,
+      "effect_name": "ASPD %",
+      "amount": 5,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 148,
+      "effect_name": "Upgrade for",
+      "amount": 4672,
+      "applies_to": 0
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": 6977,
+  "name": "Broker Goblin",
+  "type_id": 24,
+  "type_label": "[Special Crysta]",
+  "sell": 1,
+  "process": 6,
+  "process_amount": 100,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 12,
+      "effect_name": "DEX %",
+      "amount": 3,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 19,
+      "effect_name": "MaxMP",
+      "amount": 300,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 61,
+      "effect_name": "Aggro %",
+      "amount": 25,
+      "applies_to": 1
+    },
+    {
+      "effect_id": 70,
+      "effect_name": "Long Range Damage %",
+      "amount": 3,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 129,
+      "effect_name": "Additional Melee %",
+      "amount": 50,
+      "applies_to": 65536
+    },
+    {
+      "effect_id": 275,
+      "effect_name": "Long Range Damage %",
+      "amount": 5,
+      "applies_to": 262144
+    }
+  ]
+}

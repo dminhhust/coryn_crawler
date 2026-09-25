@@ -1,0 +1,46 @@
+{
+  "id": 3365,
+  "name": "Grazen Guard",
+  "level": 287,
+  "map_id": 658,
+  "map_name": "Grazen Tower : Level 1",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 960,
+  "element_id": -1,
+  "element_label": "Unknown",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "Update 02/26/26",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 8404,
+      "name": "Guard Armor Fragment",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 8405,
+      "name": "Guard Cape",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 8406,
+      "name": "Guard Crystal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 8407,
+      "name": "Turquoise Sword",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    }
+  ]
+}

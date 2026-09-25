@@ -1,0 +1,14 @@
+{
+  "id": 1499,
+  "name": "[Treat] Book",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 20,
+  "process": 6,
+  "process_amount": 40,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

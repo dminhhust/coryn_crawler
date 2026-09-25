@@ -1,0 +1,21 @@
+{
+  "id": 3448,
+  "name": "Anemona",
+  "level": 242,
+  "map_id": 680,
+  "map_name": "Pirates' Hideout: Area 3",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 64280,
+  "exp": -1,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "Summer Event 2025",
+    "note": ""
+  },
+  "drops": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": 1284,
+  "name": "Forehead Protector",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 17,
+  "process": 4,
+  "process_amount": 8,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 12,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 17,
+      "effect_name": "MaxHP",
+      "amount": 1500,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 27,
+      "effect_name": "DEF",
+      "amount": 15,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 31,
+      "effect_name": "Physical Resistance %",
+      "amount": 1,
+      "applies_to": 0
+    }
+  ]
+}

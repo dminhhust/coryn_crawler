@@ -1,0 +1,39 @@
+{
+  "id": 6147,
+  "name": "Long-Tailed Tit",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": -1,
+  "process": -1,
+  "process_amount": -1,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 38,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 61,
+      "effect_name": "Aggro %",
+      "amount": -6,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 69,
+      "effect_name": "Short Range Damage %",
+      "amount": 6,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 131,
+      "effect_name": "ATK UP (INT %)",
+      "amount": 60,
+      "applies_to": 0
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 10,
+  "name": "Torpo",
+  "level": 9,
+  "map_id": 4,
+  "map_name": "Underground Ruins: B1",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 180,
+  "exp": 7,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 52,
+      "name": "Cracked Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 539,
+      "name": "Pointed Hat",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 170,
+      "name": "Rat Hair",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 266,
+      "name": "Save Point",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

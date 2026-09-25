@@ -1,0 +1,58 @@
+{
+  "id": 2068,
+  "name": "Repthon",
+  "level": 177,
+  "map_id": 361,
+  "map_name": "Deltzon Research Zone: Deepest Area",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Easy",
+  "hp": 500000,
+  "exp": 2476,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4633,
+      "name": "Citric Essence",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4629,
+      "name": "Crystal Shell Fragment",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4601,
+      "name": "Gravitar",
+      "type_id": 15,
+      "type_label": "[Magic Device]"
+    },
+    {
+      "id": 4602,
+      "name": "Graviton Glaive",
+      "type_id": 26,
+      "type_label": "[Halberd]"
+    },
+    {
+      "id": 4631,
+      "name": "Repthon Crystal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4630,
+      "name": "Repthon Wings",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

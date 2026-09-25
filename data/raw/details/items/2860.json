@@ -1,0 +1,45 @@
+{
+  "id": 2860,
+  "name": "Charm Belt",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 60,
+  "process": 3,
+  "process_amount": 30,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 30,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 19,
+      "effect_name": "MaxMP",
+      "amount": 350,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 32,
+      "effect_name": "Magic Resistance %",
+      "amount": 20,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 61,
+      "effect_name": "Aggro %",
+      "amount": 30,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 75,
+      "effect_name": "Neutral Resistance %",
+      "amount": 10,
+      "applies_to": 0
+    }
+  ]
+}

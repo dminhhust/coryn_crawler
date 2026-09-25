@@ -1,0 +1,58 @@
+{
+  "id": 204,
+  "name": "Moonlight Potum",
+  "level": 72,
+  "map_id": 62,
+  "map_name": "New Moon Palace: Innermost",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 1860,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 436,
+      "name": "Adventurer's Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 245,
+      "name": "Apple",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 463,
+      "name": "Drills",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    },
+    {
+      "id": 144,
+      "name": "Moonlight Flower",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 315,
+      "name": "Moonlight Potum",
+      "type_id": 21,
+      "type_label": "[Weapon Crysta]"
+    },
+    {
+      "id": 164,
+      "name": "Potum Nail",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

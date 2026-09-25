@@ -1,0 +1,46 @@
+{
+  "id": 2606,
+  "name": "Glaucio",
+  "level": 207,
+  "map_id": 463,
+  "map_name": "Arstida: Area 2",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 36000,
+  "exp": 622,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6128,
+      "name": "Dangerous Cnidoblast",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6126,
+      "name": "Geometric Outer Shell",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6129,
+      "name": "Lluvia Bow",
+      "type_id": 9,
+      "type_label": "[Bow]"
+    },
+    {
+      "id": 6127,
+      "name": "Strange Claw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": 5584,
+  "name": "6th Anniv Bowgun IV",
+  "type_id": 10,
+  "type_label": "[Bowgun]",
+  "sell": 175,
+  "process": 2,
+  "process_amount": 87,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 221,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 12,
+      "effect_name": "DEX %",
+      "amount": 7,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 24,
+      "effect_name": "Stability %",
+      "amount": 10,
+      "applies_to": 4
+    },
+    {
+      "effect_id": 25,
+      "effect_name": "Physical Pierce %",
+      "amount": 15,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 37,
+      "effect_name": "ASPD",
+      "amount": 1000,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 70,
+      "effect_name": "Long Range Damage %",
+      "amount": 7,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 50,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 175,
+      "effect_name": "Absolute Accuracy %",
+      "amount": 14,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 177,
+      "effect_name": "Reduce Dmg (Bowling) %",
+      "amount": 4,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 211,
+      "effect_name": "Attack Range (m)",
+      "amount": 8,
+      "applies_to": 0
+    }
+  ]
+}

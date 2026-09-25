@@ -1,0 +1,52 @@
+{
+  "id": 756,
+  "name": "Salamander",
+  "level": 132,
+  "map_id": 165,
+  "map_name": "Blazing Graben: Upper",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "Normal",
+  "hp": 2000000,
+  "exp": 20242,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2078,
+      "name": "Heated Sword Fin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2127,
+      "name": "Ignis Horns",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 2243,
+      "name": "Salamander",
+      "type_id": 200,
+      "type_label": "[Enhancer Crysta (Blue)]"
+    },
+    {
+      "id": 2079,
+      "name": "Scorching Orange",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 2123,
+      "name": "Scorching Scale",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

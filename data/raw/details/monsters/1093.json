@@ -1,0 +1,46 @@
+{
+  "id": 1093,
+  "name": "Singing Eye",
+  "level": 108,
+  "map_id": 213,
+  "map_name": "Ultimea Sewer: Southeast",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 7000,
+  "exp": 146,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2727,
+      "name": "Broken Headphones",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2713,
+      "name": "Crystal Rod",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    },
+    {
+      "id": 2726,
+      "name": "Dancing Tentacle",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2728,
+      "name": "Noisy Music Note",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

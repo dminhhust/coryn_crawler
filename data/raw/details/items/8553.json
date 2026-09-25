@@ -1,0 +1,33 @@
+{
+  "id": 8553,
+  "name": "Aba",
+  "type_id": 23,
+  "type_label": "[Additional Crysta]",
+  "sell": 67,
+  "process": 6,
+  "process_amount": 100,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 61,
+      "effect_name": "Aggro %",
+      "amount": 15,
+      "applies_to": 1
+    },
+    {
+      "effect_id": 69,
+      "effect_name": "Short Range Damage %",
+      "amount": 12,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 140,
+      "effect_name": "Guard Break %",
+      "amount": 15,
+      "applies_to": 0
+    }
+  ]
+}

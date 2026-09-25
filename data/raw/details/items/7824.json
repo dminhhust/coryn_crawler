@@ -1,0 +1,69 @@
+{
+  "id": 7824,
+  "name": "9th Anniv Staff IV",
+  "type_id": 19,
+  "type_label": "[Staff]",
+  "sell": 0,
+  "process": -1,
+  "process_amount": 0,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 424,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 6,
+      "effect_name": "INT %",
+      "amount": 9,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 23,
+      "effect_name": "MATK %",
+      "amount": 9,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 25,
+      "effect_name": "Physical Pierce %",
+      "amount": 13,
+      "applies_to": 2
+    },
+    {
+      "effect_id": 26,
+      "effect_name": "Magic Pierce %",
+      "amount": 19,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 40,
+      "effect_name": "CSPD %",
+      "amount": 65,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 41,
+      "effect_name": "Critical Rate",
+      "amount": 40,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 176,
+      "effect_name": "Reduce Dmg (Bullet) %",
+      "amount": 40,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 235,
+      "effect_name": "Magic Pierce %",
+      "amount": -6,
+      "applies_to": 2
+    }
+  ]
+}

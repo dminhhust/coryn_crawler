@@ -1,0 +1,46 @@
+{
+  "id": 3338,
+  "name": "Floral Bee",
+  "level": 200,
+  "map_id": 641,
+  "map_name": "Madeleine Plains",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "",
+  "hp": 17000,
+  "exp": 270,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": true,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 800,
+      "name": "Bee Wing",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 8086,
+      "name": "Flora Honey",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 8087,
+      "name": "Honeybee Cake",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 8088,
+      "name": "Honeybee Sting Dagger",
+      "type_id": 11,
+      "type_label": "[Dagger]"
+    }
+  ]
+}

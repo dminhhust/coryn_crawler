@@ -1,0 +1,46 @@
+{
+  "id": 1337,
+  "name": "Comraby",
+  "level": 131,
+  "map_id": 252,
+  "map_name": "Turnus Mine: Hall",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 12000,
+  "exp": 211,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3228,
+      "name": "Broken Mushroom Staff",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3209,
+      "name": "Plant Arm",
+      "type_id": 15,
+      "type_label": "[Magic Device]"
+    },
+    {
+      "id": 3233,
+      "name": "Tasty Mushroom",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3218,
+      "name": "Tweed Fabric",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

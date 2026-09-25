@@ -1,0 +1,46 @@
+{
+  "id": 149,
+  "name": "Green Jelly",
+  "level": 30,
+  "map_id": 43,
+  "map_name": "Zoktzda Ruins : Abnormal Space",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 1075,
+  "exp": 44,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 11,
+      "name": "Bead Fragment",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 98,
+      "name": "Green Gelatin",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 543,
+      "name": "Ribbon",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 208,
+      "name": "Sticky Liquid",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

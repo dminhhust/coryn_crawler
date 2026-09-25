@@ -1,0 +1,39 @@
+{
+  "id": 4947,
+  "name": "Magic Cone",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 1,
+  "process": 5,
+  "process_amount": 2,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 90,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 19,
+      "effect_name": "MaxMP",
+      "amount": 400,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 39,
+      "effect_name": "CSPD",
+      "amount": 600,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 128,
+      "effect_name": "Magic Barrier",
+      "amount": 1000,
+      "applies_to": 0
+    }
+  ]
+}

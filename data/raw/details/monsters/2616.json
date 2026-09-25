@@ -1,0 +1,58 @@
+{
+  "id": 2616,
+  "name": "Garnache (Sweet)",
+  "level": 170,
+  "map_id": 388,
+  "map_name": "Creme Cliff (Valentine's Day Event)",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Hard",
+  "hp": 4000000,
+  "exp": 22700,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5225,
+      "name": "Berry Scaly Horn",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 5226,
+      "name": "Cute Wrapping Paper",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5218,
+      "name": "Garnache",
+      "type_id": 230,
+      "type_label": "[Enhancer Crysta (Yellow)]"
+    },
+    {
+      "id": 911,
+      "name": "Orichalcum Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 5219,
+      "name": "Strawberry Beret",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 5224,
+      "name": "Whipped Cream",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

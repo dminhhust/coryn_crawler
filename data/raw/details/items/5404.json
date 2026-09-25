@@ -1,0 +1,45 @@
+{
+  "id": 5404,
+  "name": "Sakura Kimono V",
+  "type_id": 8,
+  "type_label": "[Armor]",
+  "sell": 200,
+  "process": 4,
+  "process_amount": 100,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 160,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 18,
+      "effect_name": "MaxHP %",
+      "amount": 20,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 57,
+      "effect_name": "Ailment Resistance %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 104,
+      "effect_name": "Revive Time %",
+      "amount": -10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 127,
+      "effect_name": "Fractional Barrier %",
+      "amount": 20,
+      "applies_to": 0
+    }
+  ]
+}

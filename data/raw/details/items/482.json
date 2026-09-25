@@ -1,0 +1,33 @@
+{
+  "id": 482,
+  "name": "Hair Band",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 7,
+  "process": 4,
+  "process_amount": 3,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 1,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 16,
+      "effect_name": "Natural MP Regen %",
+      "amount": 5,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 33,
+      "effect_name": "Accuracy",
+      "amount": 3,
+      "applies_to": 0
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": 7151,
+  "name": "Drifting Tattered Cloth",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 25,
+  "process": 4,
+  "process_amount": 24,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

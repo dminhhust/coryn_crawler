@@ -1,0 +1,40 @@
+{
+  "id": 2961,
+  "name": "Dr. Leonardo (Bachelor)",
+  "level": 20,
+  "map_id": 527,
+  "map_name": "Eagle Talon Collab Venue",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Easy",
+  "hp": 1600,
+  "exp": 40,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 364,
+      "name": "Anti-Degradation",
+      "type_id": 2,
+      "type_label": "[Refinement Support]"
+    },
+    {
+      "id": 588,
+      "name": "Revita II",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 7083,
+      "name": "Vanquisher Mecha Wreck",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

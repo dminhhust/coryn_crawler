@@ -1,0 +1,46 @@
+{
+  "id": 3285,
+  "name": "Hydro",
+  "level": 260,
+  "map_id": 621,
+  "map_name": "Aquastida Entrance",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 59900,
+  "exp": 889,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 8015,
+      "name": "Accessory Twin Tails",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 8014,
+      "name": "Gelatinous Umbrella",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 8012,
+      "name": "Jellyfish Cloth Scrap",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 8013,
+      "name": "Seashell Palm",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

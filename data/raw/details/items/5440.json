@@ -1,0 +1,39 @@
+{
+  "id": 5440,
+  "name": "Specistida",
+  "type_id": 18,
+  "type_label": "[Special]",
+  "sell": 95,
+  "process": 5,
+  "process_amount": 47,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 15,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 18,
+      "effect_name": "MaxHP %",
+      "amount": 5,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 25,
+      "effect_name": "Physical Pierce %",
+      "amount": 5,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 61,
+      "effect_name": "Aggro %",
+      "amount": -5,
+      "applies_to": 0
+    }
+  ]
+}

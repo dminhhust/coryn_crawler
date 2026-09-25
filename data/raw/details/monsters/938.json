@@ -1,0 +1,58 @@
+{
+  "id": 938,
+  "name": "Goldoon (Fall 2017)",
+  "level": 140,
+  "map_id": 104,
+  "map_name": "Gravel Terrace",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 3000000,
+  "exp": 70000,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 436,
+      "name": "Adventurer's Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 2368,
+      "name": "Evil Claw Crystal Bottle",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 2366,
+      "name": "Fighter Uniform",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 2367,
+      "name": "Goldoon",
+      "type_id": 22,
+      "type_label": "[Armor Crysta]"
+    },
+    {
+      "id": 2365,
+      "name": "Headgear",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 911,
+      "name": "Orichalcum Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    }
+  ]
+}

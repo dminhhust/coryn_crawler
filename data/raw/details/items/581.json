@@ -1,0 +1,27 @@
+{
+  "id": 581,
+  "name": "Chocolate Cake",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 0,
+  "process": 0,
+  "process_amount": 0,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 19,
+      "effect_name": "MaxMP",
+      "amount": 100,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 51,
+      "effect_name": "Fire resistance %",
+      "amount": 50,
+      "applies_to": 0
+    }
+  ]
+}

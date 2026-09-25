@@ -1,0 +1,39 @@
+{
+  "id": 4610,
+  "name": "Gladiator Helmet",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 82,
+  "process": 3,
+  "process_amount": 41,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 182,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 18,
+      "effect_name": "MaxHP %",
+      "amount": 21,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 24,
+      "effect_name": "Stability %",
+      "amount": 14,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 41,
+      "effect_name": "Critical Rate",
+      "amount": 5,
+      "applies_to": 0
+    }
+  ]
+}

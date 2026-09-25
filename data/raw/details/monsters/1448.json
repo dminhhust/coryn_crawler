@@ -1,0 +1,46 @@
+{
+  "id": 1448,
+  "name": "Fluck",
+  "level": 139,
+  "map_id": 262,
+  "map_name": "Forgotten Cave",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 16000,
+  "exp": 413,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3429,
+      "name": "Fluck Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3431,
+      "name": "Tadpole Tail",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3430,
+      "name": "Tasty Water",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 3432,
+      "name": "Water Guardian Bow",
+      "type_id": 9,
+      "type_label": "[Bow]"
+    }
+  ]
+}

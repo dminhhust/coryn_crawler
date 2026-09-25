@@ -1,0 +1,39 @@
+{
+  "id": 6176,
+  "name": "Viking Helmet",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 100,
+  "process": 1,
+  "process_amount": 50,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 125,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 18,
+      "effect_name": "MaxHP %",
+      "amount": 20,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 25,
+      "effect_name": "Physical Pierce %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 38,
+      "effect_name": "ASPD %",
+      "amount": 15,
+      "applies_to": 0
+    }
+  ]
+}

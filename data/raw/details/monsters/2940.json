@@ -1,0 +1,58 @@
+{
+  "id": 2940,
+  "name": "Walican",
+  "level": 237,
+  "map_id": 523,
+  "map_name": "Jabali Kubwa: Summit",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Easy",
+  "hp": 626000,
+  "exp": 2640,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7014,
+      "name": "Mysterious Soap Liquid",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7016,
+      "name": "Savon Bow",
+      "type_id": 9,
+      "type_label": "[Bow]"
+    },
+    {
+      "id": 7015,
+      "name": "Savon Spada",
+      "type_id": 5,
+      "type_label": "[2 Handed Sword]"
+    },
+    {
+      "id": 7012,
+      "name": "Tough Pelt Sack",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7013,
+      "name": "Walican Feather",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7018,
+      "name": "Walican Horn",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

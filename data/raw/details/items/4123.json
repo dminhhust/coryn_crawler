@@ -1,0 +1,45 @@
+{
+  "id": 4123,
+  "name": "Mushies Fam",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 80,
+  "process": 5,
+  "process_amount": 40,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 44,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 23,
+      "effect_name": "MATK %",
+      "amount": 7,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 40,
+      "effect_name": "CSPD %",
+      "amount": 45,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 162,
+      "effect_name": "MATK UP (VIT %)",
+      "amount": 100,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 172,
+      "effect_name": "Recoil %",
+      "amount": 1,
+      "applies_to": 0
+    }
+  ]
+}

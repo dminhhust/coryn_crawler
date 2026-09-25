@@ -1,0 +1,45 @@
+{
+  "id": 454,
+  "name": "Claws",
+  "type_id": 13,
+  "type_label": "[Knuckles]",
+  "sell": 30,
+  "process": 3,
+  "process_amount": 15,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 23,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 10,
+      "effect_name": "AGI %",
+      "amount": 1,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 44,
+      "effect_name": "Critical Damage %",
+      "amount": 1,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 68,
+      "effect_name": "Attack MP Recovery",
+      "amount": 2,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 90,
+      "applies_to": 0
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": 1910,
+  "name": "Blancanine the White Fang (Megiston 2019)",
+  "level": 195,
+  "map_id": 87,
+  "map_name": "Event",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 4150000,
+  "exp": 48400,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4353,
+      "name": "Blancanine Armor",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 4354,
+      "name": "Blancanine Ears",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 4352,
+      "name": "Blancanine the White Fang",
+      "type_id": 21,
+      "type_label": "[Weapon Crysta]"
+    }
+  ]
+}

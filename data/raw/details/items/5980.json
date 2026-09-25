@@ -1,0 +1,57 @@
+{
+  "id": 5980,
+  "name": "Antler Glaive",
+  "type_id": 26,
+  "type_label": "[Halberd]",
+  "sell": 180,
+  "process": 1,
+  "process_amount": 90,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 462,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 21,
+      "effect_name": "ATK %",
+      "amount": 7,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 43,
+      "effect_name": "Critical Damage",
+      "amount": 7,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 67,
+      "effect_name": "Dark Element",
+      "amount": 1,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 60,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 127,
+      "effect_name": "Fractional Barrier %",
+      "amount": 14,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 140,
+      "effect_name": "Guard Break %",
+      "amount": 10,
+      "applies_to": 0
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 113,
+  "name": "Goblin (sword)",
+  "level": 22,
+  "map_id": 32,
+  "map_name": "Rinom Plains",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 700,
+  "exp": 26,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 32,
+      "name": "Broken Metal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 452,
+      "name": "Cape",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 150,
+      "name": "Nicked Blade",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 259,
+      "name": "Regera I",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

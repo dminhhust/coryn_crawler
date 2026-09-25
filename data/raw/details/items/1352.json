@@ -1,0 +1,14 @@
+{
+  "id": 1352,
+  "name": "Proof of Victory",
+  "type_id": 18,
+  "type_label": "[Special]",
+  "sell": 0,
+  "process": 0,
+  "process_amount": 0,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

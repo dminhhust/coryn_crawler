@@ -1,0 +1,14 @@
+{
+  "id": 103,
+  "name": "Heated Fang",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 7,
+  "process": 1,
+  "process_amount": 8,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

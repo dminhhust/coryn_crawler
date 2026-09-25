@@ -1,0 +1,46 @@
+{
+  "id": 1381,
+  "name": "Fanalizard",
+  "level": 132,
+  "map_id": 257,
+  "map_name": "Curonne Forest: North Area 1",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 18000,
+  "exp": 337,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3333,
+      "name": "Fleur Rod",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    },
+    {
+      "id": 3332,
+      "name": "Lizard Dango",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 3326,
+      "name": "Red and White Shide",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3331,
+      "name": "Split Mask",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

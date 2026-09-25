@@ -1,0 +1,39 @@
+{
+  "id": 4411,
+  "name": "Seashell Choco Talisman",
+  "type_id": 18,
+  "type_label": "[Special]",
+  "sell": 120,
+  "process": 5,
+  "process_amount": 60,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 19,
+      "effect_name": "MaxMP",
+      "amount": 300,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 39,
+      "effect_name": "CSPD",
+      "amount": 300,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 122,
+      "effect_name": "Flinch Unavailable",
+      "amount": 1,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 125,
+      "effect_name": "Tumble Unavailable",
+      "amount": 1,
+      "applies_to": 0
+    }
+  ]
+}

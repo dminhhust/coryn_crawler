@@ -1,0 +1,34 @@
+{
+  "id": 3371,
+  "name": "Bakuzan",
+  "level": 302,
+  "map_id": 660,
+  "map_name": "Afdal Uplands: Summit",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Hard",
+  "hp": 0,
+  "exp": 0,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 8527,
+      "name": "Black Steel",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 8526,
+      "name": "Formulated Explosive",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

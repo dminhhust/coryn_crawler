@@ -1,0 +1,45 @@
+{
+  "id": 7939,
+  "name": "Starhammer Arrow",
+  "type_id": 7,
+  "type_label": "[Arrow]",
+  "sell": 245,
+  "process": 3,
+  "process_amount": 122,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 187,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 34,
+      "effect_name": "Accuracy %",
+      "amount": -10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 41,
+      "effect_name": "Critical Rate",
+      "amount": 20,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 66,
+      "effect_name": "Light Element",
+      "amount": 1,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 10,
+      "applies_to": 0
+    }
+  ]
+}

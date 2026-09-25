@@ -1,0 +1,46 @@
+{
+  "id": 198,
+  "name": "Sword Marionette",
+  "level": 40,
+  "map_id": 59,
+  "map_name": "New Moon Palace",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 3200,
+  "exp": 106,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 443,
+      "name": "Bone Blade",
+      "type_id": 5,
+      "type_label": "[2 Handed Sword]"
+    },
+    {
+      "id": 132,
+      "name": "Magic Marionette Heart",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 209,
+      "name": "Stone Blade",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 215,
+      "name": "Swordsman Stone Coin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

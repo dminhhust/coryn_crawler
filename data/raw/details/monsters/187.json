@@ -1,0 +1,46 @@
+{
+  "id": 187,
+  "name": "Turquoise Lionfish",
+  "level": 39,
+  "map_id": 54,
+  "map_name": "Lutaros Cavern: B2",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 2900,
+  "exp": -1,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 74,
+      "name": "Fish Scale",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 500,
+      "name": "Jamadhar",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    },
+    {
+      "id": 160,
+      "name": "Poison Essence",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 265,
+      "name": "Sashimi",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

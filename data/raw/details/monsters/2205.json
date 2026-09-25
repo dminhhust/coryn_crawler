@@ -1,0 +1,52 @@
+{
+  "id": 2205,
+  "name": "Santaby",
+  "level": 182,
+  "map_id": 385,
+  "map_name": "Tomte Pavillion (170-190)",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": -1,
+  "element_id": -1,
+  "element_label": "Unknown",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5072,
+      "name": "Catafnia Sword",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    },
+    {
+      "id": 4517,
+      "name": "Grape Juice",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 5109,
+      "name": "Holy Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4622,
+      "name": "Quality Parchment",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5237,
+      "name": "Red Spider Lily",
+      "type_id": 27,
+      "type_label": "[Katana]"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": 3073,
+  "name": "Sea Ghost Wooden Box",
+  "level": 0,
+  "map_id": 88,
+  "map_name": "-",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 0,
+  "exp": 0,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7343,
+      "name": "Cursed Gold Coin",
+      "type_id": 18,
+      "type_label": "[Special]"
+    },
+    {
+      "id": 7341,
+      "name": "Dragon Palace Arrow",
+      "type_id": 7,
+      "type_label": "[Arrow]"
+    },
+    {
+      "id": 7344,
+      "name": "Ghost Telescope",
+      "type_id": 18,
+      "type_label": "[Special]"
+    },
+    {
+      "id": 7342,
+      "name": "Ocean Explorer",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 6499,
+      "name": "Octopus Tentacle",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7346,
+      "name": "Sand-Covered Coin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7345,
+      "name": "Sea Fog Compass",
+      "type_id": 18,
+      "type_label": "[Special]"
+    }
+  ]
+}

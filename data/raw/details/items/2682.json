@@ -1,0 +1,39 @@
+{
+  "id": 2682,
+  "name": "Biscuit Knife",
+  "type_id": 11,
+  "type_label": "[Dagger]",
+  "sell": 1,
+  "process": 5,
+  "process_amount": 2,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 70,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 14,
+      "effect_name": "Natural HP Regen %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 19,
+      "effect_name": "MaxMP",
+      "amount": 200,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 61,
+      "effect_name": "Aggro %",
+      "amount": -20,
+      "applies_to": 0
+    }
+  ]
+}

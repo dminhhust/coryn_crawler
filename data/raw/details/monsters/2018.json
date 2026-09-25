@@ -1,0 +1,46 @@
+{
+  "id": 2018,
+  "name": "Squire",
+  "level": 140,
+  "map_id": 349,
+  "map_name": "Twilight Sakura Castle: Inside",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 8000,
+  "exp": 187,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": true,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 78,
+      "name": "Flower Nectar",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 3694,
+      "name": "Sakura Cloud Pyroxene",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1064,
+      "name": "Tricolor Dango",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 4551,
+      "name": "Twilight Sakura Red Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

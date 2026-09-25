@@ -1,0 +1,46 @@
+{
+  "id": 3340,
+  "name": "Crow Destroyer",
+  "level": 202,
+  "map_id": 641,
+  "map_name": "Madeleine Plains",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "",
+  "hp": 26000,
+  "exp": 427,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": true,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 8092,
+      "name": "Agros Sugar",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 8093,
+      "name": "Chelomka",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 797,
+      "name": "Dried Straw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7628,
+      "name": "Waffle Hair Ornament",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

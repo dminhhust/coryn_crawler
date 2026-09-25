@@ -1,0 +1,46 @@
+{
+  "id": 2127,
+  "name": "Sharneon",
+  "level": 150,
+  "map_id": 368,
+  "map_name": "Underwater Ruins",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 55000,
+  "exp": 1030,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": true,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4875,
+      "name": "Cute Octopus Hat",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 4868,
+      "name": "Deep Ocean Water",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 4876,
+      "name": "Shark Steak",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 4866,
+      "name": "Underwater Ruins Pebble",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 3368,
+  "name": "Ophy",
+  "level": 0,
+  "map_id": 659,
+  "map_name": "Avanclain Shrine",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Easy",
+  "hp": 0,
+  "exp": 0,
+  "element_id": -1,
+  "element_label": "Unknown",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": 2745,
+  "name": "Broken Feather Duster",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 12,
+  "process": 2,
+  "process_amount": 13,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

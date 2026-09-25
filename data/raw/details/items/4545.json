@@ -1,0 +1,27 @@
+{
+  "id": 4545,
+  "name": "Sakura Kimono IV",
+  "type_id": 8,
+  "type_label": "[Armor]",
+  "sell": 180,
+  "process": 4,
+  "process_amount": 90,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 80,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 113,
+      "effect_name": "Potential",
+      "amount": 41,
+      "applies_to": 0
+    }
+  ]
+}

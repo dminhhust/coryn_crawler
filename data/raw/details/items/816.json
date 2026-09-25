@@ -1,0 +1,14 @@
+{
+  "id": 816,
+  "name": "Mithril Ore",
+  "type_id": 16,
+  "type_label": "[Ore]",
+  "sell": 8,
+  "process": 3,
+  "process_amount": 13,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

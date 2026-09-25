@@ -1,0 +1,14 @@
+{
+  "id": 2802,
+  "name": "Poisonous Needles",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 11,
+  "process": 1,
+  "process_amount": 10,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

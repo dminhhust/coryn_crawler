@@ -1,0 +1,46 @@
+{
+  "id": 1993,
+  "name": "Earustica",
+  "level": 158,
+  "map_id": 344,
+  "map_name": "Pupalov Sector",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 10000,
+  "exp": 163,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4510,
+      "name": "Dark Night Talisman",
+      "type_id": 18,
+      "type_label": "[Special]"
+    },
+    {
+      "id": 4508,
+      "name": "Flapping Hell Ears",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4509,
+      "name": "Homunculus Skeleton",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4507,
+      "name": "Shining Pebble",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

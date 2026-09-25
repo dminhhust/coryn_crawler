@@ -1,0 +1,40 @@
+{
+  "id": 90,
+  "name": "Pico",
+  "level": 22,
+  "map_id": 24,
+  "map_name": "Marbaro Forest",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 300,
+  "exp": 13,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 15,
+      "name": "Bird Wing",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 122,
+      "name": "Long Beak",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 550,
+      "name": "Scarf",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

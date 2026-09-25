@@ -1,0 +1,46 @@
+{
+  "id": 694,
+  "name": "Heat Pufferfish",
+  "level": 75,
+  "map_id": 142,
+  "map_name": "Dark Mirror",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 3000,
+  "exp": 66,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1805,
+      "name": "Broiled Puffer Fish Meat",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1807,
+      "name": "Hot Thorn",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1806,
+      "name": "Insulated Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1808,
+      "name": "Sunglasses",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

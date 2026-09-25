@@ -1,0 +1,46 @@
+{
+  "id": 2206,
+  "name": "Schnee",
+  "level": 182,
+  "map_id": 385,
+  "map_name": "Tomte Pavillion (170-190)",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": -1,
+  "element_id": -1,
+  "element_label": "Unknown",
+  "tameable": true,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5109,
+      "name": "Holy Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4973,
+      "name": "Pure White Paper",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5110,
+      "name": "Roaring Gale",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5111,
+      "name": "Snowman Kit",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

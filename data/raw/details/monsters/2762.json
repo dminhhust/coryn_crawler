@@ -1,0 +1,82 @@
+{
+  "id": 2762,
+  "name": "Teertocrit",
+  "level": 200,
+  "map_id": 427,
+  "map_name": "Manor of Surprises",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "Normal",
+  "hp": 7050000,
+  "exp": 46200,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1493,
+      "name": "Barmbrack",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1440,
+      "name": "Flower Nectar (Bouquet)",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1491,
+      "name": "Ginger Cake",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1492,
+      "name": "Jack Pudding",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 5905,
+      "name": "Potum Ghost Behind U",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 1494,
+      "name": "Pumpkin Candy",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1490,
+      "name": "Pumpkin Cookie",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1496,
+      "name": "Pumpkin Soup",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 5902,
+      "name": "Teertocrit",
+      "type_id": 240,
+      "type_label": "[Enhancer Crysta (Purple)]"
+    },
+    {
+      "id": 1495,
+      "name": "Zombie Cake",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

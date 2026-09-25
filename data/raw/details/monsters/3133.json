@@ -1,0 +1,46 @@
+{
+  "id": 3133,
+  "name": "Brekz",
+  "level": 241,
+  "map_id": 580,
+  "map_name": "Pipeline Corridor",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 0,
+  "exp": 352,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7538,
+      "name": "Crusty Hard Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7752,
+      "name": "HP+800",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 816,
+      "name": "Mithril Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 7539,
+      "name": "Rough Patagium",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

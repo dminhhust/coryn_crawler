@@ -1,0 +1,27 @@
+{
+  "id": 2317,
+  "name": "Monster Pot",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 10,
+  "process": 5,
+  "process_amount": 11,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 22,
+      "effect_name": "MATK",
+      "amount": 40,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 23,
+      "effect_name": "MATK %",
+      "amount": 4,
+      "applies_to": 0
+    }
+  ]
+}

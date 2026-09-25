@@ -1,0 +1,45 @@
+{
+  "id": 4894,
+  "name": "Demon Empress Cape",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 97,
+  "process": 1,
+  "process_amount": 48,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 60,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 17,
+      "effect_name": "MaxHP",
+      "amount": -3000,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 23,
+      "effect_name": "MATK %",
+      "amount": 3,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 41,
+      "effect_name": "Critical Rate",
+      "amount": 5,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 70,
+      "effect_name": "Long Range Damage %",
+      "amount": 4,
+      "applies_to": 0
+    }
+  ]
+}

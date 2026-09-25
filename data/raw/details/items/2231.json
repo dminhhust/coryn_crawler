@@ -1,0 +1,39 @@
+{
+  "id": 2231,
+  "name": "Double Strings",
+  "type_id": 10,
+  "type_label": "[Bowgun]",
+  "sell": 90,
+  "process": 2,
+  "process_amount": 45,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 85,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 60,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 113,
+      "effect_name": "Potential",
+      "amount": 29,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 211,
+      "effect_name": "Attack Range (m)",
+      "amount": 6,
+      "applies_to": 0
+    }
+  ]
+}

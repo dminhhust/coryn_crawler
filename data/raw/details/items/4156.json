@@ -1,0 +1,21 @@
+{
+  "id": 4156,
+  "name": "Zell Wooden Box",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 10,
+  "process": 0,
+  "process_amount": 0,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 194,
+      "effect_name": "Gives random items: Zell Bag(s)/Pom Refine",
+      "amount": 1,
+      "applies_to": 0
+    }
+  ]
+}

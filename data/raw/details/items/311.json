@@ -1,0 +1,33 @@
+{
+  "id": 311,
+  "name": "Mauez",
+  "type_id": 20,
+  "type_label": "[Normal Crysta]",
+  "sell": 1,
+  "process": 6,
+  "process_amount": 2,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 19,
+      "effect_name": "MaxMP",
+      "amount": 150,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 34,
+      "effect_name": "Accuracy %",
+      "amount": -4,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 41,
+      "effect_name": "Critical Rate",
+      "amount": 2,
+      "applies_to": 0
+    }
+  ]
+}

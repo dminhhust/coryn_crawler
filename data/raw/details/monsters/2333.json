@@ -1,0 +1,40 @@
+{
+  "id": 2333,
+  "name": "Patissia",
+  "level": 220,
+  "map_id": 404,
+  "map_name": "High Difficulty Boss Battle Event Venue",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Ultimate",
+  "hp": -1,
+  "exp": -1,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4645,
+      "name": "Maple Coat",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 4644,
+      "name": "Patissia",
+      "type_id": 240,
+      "type_label": "[Enhancer Crysta (Purple)]"
+    },
+    {
+      "id": 4643,
+      "name": "Patissia's Hat",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

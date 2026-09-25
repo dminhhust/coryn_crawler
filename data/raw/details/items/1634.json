@@ -1,0 +1,45 @@
+{
+  "id": 1634,
+  "name": "Yummy Chicken",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 1,
+  "process": 1,
+  "process_amount": 2,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 1,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 8,
+      "effect_name": "VIT %",
+      "amount": 3,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 57,
+      "effect_name": "Ailment Resistance %",
+      "amount": 12,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 61,
+      "effect_name": "Aggro %",
+      "amount": 6,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 68,
+      "effect_name": "Attack MP Recovery",
+      "amount": 1,
+      "applies_to": 0
+    }
+  ]
+}

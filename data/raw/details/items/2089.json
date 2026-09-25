@@ -1,0 +1,14 @@
+{
+  "id": 2089,
+  "name": "Red Agate",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 1,
+  "process": 6,
+  "process_amount": 3,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

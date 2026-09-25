@@ -1,0 +1,51 @@
+{
+  "id": 5907,
+  "name": "Crimson One-Eyed Wolf",
+  "type_id": 21,
+  "type_label": "[Weapon Crysta]",
+  "sell": 1,
+  "process": 6,
+  "process_amount": 100,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 31,
+      "effect_name": "Physical Resistance %",
+      "amount": -16,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 32,
+      "effect_name": "Magic Resistance %",
+      "amount": -8,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 44,
+      "effect_name": "Critical Damage %",
+      "amount": 1,
+      "applies_to": 65536
+    },
+    {
+      "effect_id": 61,
+      "effect_name": "Aggro %",
+      "amount": -20,
+      "applies_to": 131072
+    },
+    {
+      "effect_id": 69,
+      "effect_name": "Short Range Damage %",
+      "amount": 8,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 139,
+      "effect_name": "Anticipate %",
+      "amount": 4,
+      "applies_to": 0
+    }
+  ]
+}

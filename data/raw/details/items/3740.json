@@ -1,0 +1,14 @@
+{
+  "id": 3740,
+  "name": "Golden Stinging Hair",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 21,
+  "process": 1,
+  "process_amount": 20,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

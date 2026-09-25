@@ -1,0 +1,40 @@
+{
+  "id": 1421,
+  "name": "Yashiro Azuki's Mom (Lv60)",
+  "level": 95,
+  "map_id": 87,
+  "map_name": "Event",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 200000,
+  "exp": 3900,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3361,
+      "name": "Watching Mom II",
+      "type_id": 15,
+      "type_label": "[Magic Device]"
+    },
+    {
+      "id": 3364,
+      "name": "Yashiro Azuki's Mom",
+      "type_id": 23,
+      "type_label": "[Additional Crysta]"
+    },
+    {
+      "id": 3359,
+      "name": "Yashiro Mom Mask",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

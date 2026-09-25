@@ -1,0 +1,39 @@
+{
+  "id": 8294,
+  "name": "Rondine",
+  "type_id": 210,
+  "type_label": "[Enhancer Crysta (Red)]",
+  "sell": 1,
+  "process": 1,
+  "process_amount": 1,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 12,
+      "effect_name": "DEX %",
+      "amount": 9,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 23,
+      "effect_name": "MATK %",
+      "amount": 11,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 40,
+      "effect_name": "CSPD %",
+      "amount": 7,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 148,
+      "effect_name": "Upgrade for",
+      "amount": 6962,
+      "applies_to": 0
+    }
+  ]
+}

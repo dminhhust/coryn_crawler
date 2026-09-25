@@ -1,0 +1,28 @@
+{
+  "id": 2339,
+  "name": "Patissia High Difficulty Exchange",
+  "level": 0,
+  "map_id": 404,
+  "map_name": "High Difficulty Boss Battle Event Venue",
+  "type_code": "n",
+  "type_label": "",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": -1,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4644,
+      "name": "Patissia",
+      "type_id": 240,
+      "type_label": "[Enhancer Crysta (Purple)]"
+    }
+  ]
+}

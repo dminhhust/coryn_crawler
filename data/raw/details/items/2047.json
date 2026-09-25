@@ -1,0 +1,39 @@
+{
+  "id": 2047,
+  "name": "Sailor's Talisman",
+  "type_id": 18,
+  "type_label": "[Special]",
+  "sell": 30,
+  "process": 2,
+  "process_amount": 15,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 17,
+      "effect_name": "MaxHP",
+      "amount": 500,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 19,
+      "effect_name": "MaxMP",
+      "amount": 250,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 46,
+      "effect_name": "% stronger against Water",
+      "amount": 2,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 51,
+      "effect_name": "Fire resistance %",
+      "amount": 4,
+      "applies_to": 0
+    }
+  ]
+}

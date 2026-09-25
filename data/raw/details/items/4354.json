@@ -1,0 +1,45 @@
+{
+  "id": 4354,
+  "name": "Blancanine Ears",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 97,
+  "process": 1,
+  "process_amount": 48,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 50,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 21,
+      "effect_name": "ATK %",
+      "amount": 7,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 24,
+      "effect_name": "Stability %",
+      "amount": 5,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 37,
+      "effect_name": "ASPD",
+      "amount": 250,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 110,
+      "effect_name": "% stronger against Neutral",
+      "amount": -5,
+      "applies_to": 0
+    }
+  ]
+}

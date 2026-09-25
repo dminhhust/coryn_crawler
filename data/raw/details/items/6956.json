@@ -1,0 +1,45 @@
+{
+  "id": 6956,
+  "name": "Trus",
+  "type_id": 24,
+  "type_label": "[Special Crysta]",
+  "sell": 1,
+  "process": 6,
+  "process_amount": 100,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 25,
+      "effect_name": "Physical Pierce %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 58,
+      "effect_name": "Guard Power %",
+      "amount": 25,
+      "applies_to": 64
+    },
+    {
+      "effect_id": 59,
+      "effect_name": "Guard Recharge %",
+      "amount": 25,
+      "applies_to": 64
+    },
+    {
+      "effect_id": 140,
+      "effect_name": "Guard Break %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 168,
+      "effect_name": "Stun Unavailable",
+      "amount": 1,
+      "applies_to": 0
+    }
+  ]
+}

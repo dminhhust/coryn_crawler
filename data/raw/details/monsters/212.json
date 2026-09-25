@@ -1,0 +1,52 @@
+{
+  "id": 212,
+  "name": "Soda Potum",
+  "level": 45,
+  "map_id": 64,
+  "map_name": "Korda Basin",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 5000,
+  "exp": 185,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 45,
+      "name": "Clear Water",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 163,
+      "name": "Potum Fin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 555,
+      "name": "Soda Potum Hat",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 267,
+      "name": "Soda Water",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1932,
+      "name": "Trident",
+      "type_id": 26,
+      "type_label": "[Halberd]"
+    }
+  ]
+}

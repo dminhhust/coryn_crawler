@@ -1,0 +1,33 @@
+{
+  "id": 3477,
+  "name": "Altoblepas",
+  "type_id": 23,
+  "type_label": "[Additional Crysta]",
+  "sell": 1,
+  "process": 6,
+  "process_amount": 100,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 12,
+      "effect_name": "DEX %",
+      "amount": 1,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 34,
+      "effect_name": "Accuracy %",
+      "amount": -20,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 43,
+      "effect_name": "Critical Damage",
+      "amount": 4,
+      "applies_to": 0
+    }
+  ]
+}

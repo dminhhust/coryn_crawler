@@ -1,0 +1,154 @@
+{
+  "id": 1384,
+  "name": "General Store: Litoa",
+  "level": 0,
+  "map_id": 256,
+  "map_name": "Nov Saterica",
+  "type_code": "C",
+  "type_label": "NPC",
+  "mode": "Normal",
+  "hp": 0,
+  "exp": 0,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 430,
+      "name": "Agile Gem",
+      "type_id": 12,
+      "type_label": "[Gem]"
+    },
+    {
+      "id": 331,
+      "name": "Damascus Steel",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 431,
+      "name": "Dex Gem",
+      "type_id": 12,
+      "type_label": "[Gem]"
+    },
+    {
+      "id": 1355,
+      "name": "El Scaro",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 2642,
+      "name": "Hora Diomedea",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 428,
+      "name": "Intellectual Gem",
+      "type_id": 12,
+      "type_label": "[Gem]"
+    },
+    {
+      "id": 244,
+      "name": "Iron",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 1287,
+      "name": "Magiadd III",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 332,
+      "name": "Mithril",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 3316,
+      "name": "Nov Saterica",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 335,
+      "name": "Orichalcum",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 1892,
+      "name": "Pet Cage",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 589,
+      "name": "Revita III",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 902,
+      "name": "Revita IV",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1716,
+      "name": "Revita V",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 266,
+      "name": "Save Point",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 268,
+      "name": "Sofya City",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 427,
+      "name": "Strength Gem",
+      "type_id": 12,
+      "type_label": "[Gem]"
+    },
+    {
+      "id": 910,
+      "name": "Talisman",
+      "type_id": 18,
+      "type_label": "[Special]"
+    },
+    {
+      "id": 1533,
+      "name": "Vaccine III",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1286,
+      "name": "Vita Plus III",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 429,
+      "name": "Vital Gem",
+      "type_id": 12,
+      "type_label": "[Gem]"
+    }
+  ]
+}

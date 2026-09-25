@@ -1,0 +1,40 @@
+{
+  "id": 1648,
+  "name": "Faithful Guardian",
+  "level": 75,
+  "map_id": 239,
+  "map_name": "Anniversary Arena: 1st Venue",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 180000,
+  "exp": 2700,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4001,
+      "name": "Bronze 4th Anniv Medal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1287,
+      "name": "Magiadd III",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 589,
+      "name": "Revita III",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

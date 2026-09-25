@@ -1,0 +1,33 @@
+{
+  "id": 8400,
+  "name": "Baratok",
+  "type_id": 23,
+  "type_label": "[Additional Crysta]",
+  "sell": 1,
+  "process": 1,
+  "process_amount": 1,
+  "meta": {
+    "badge": "Update 02/26/26",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 17,
+      "effect_name": "MaxHP",
+      "amount": 7000,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 74,
+      "effect_name": "Weapon ATK %",
+      "amount": 7,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 7,
+      "applies_to": 0
+    }
+  ]
+}

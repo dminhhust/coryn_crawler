@@ -1,0 +1,46 @@
+{
+  "id": 2252,
+  "name": "Enty",
+  "level": 186,
+  "map_id": 390,
+  "map_name": "Witch's Woods Area 2",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 29000,
+  "exp": 479,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5235,
+      "name": "Black Obsidian",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5236,
+      "name": "Enty Cloth",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5234,
+      "name": "Enty Mask ",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5237,
+      "name": "Red Spider Lily",
+      "type_id": 27,
+      "type_label": "[Katana]"
+    }
+  ]
+}

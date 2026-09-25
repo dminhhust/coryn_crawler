@@ -1,0 +1,40 @@
+{
+  "id": 496,
+  "name": "Corroded Knight",
+  "level": 72,
+  "map_id": 136,
+  "map_name": "Dark Wasteland",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 3500,
+  "exp": 87,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1747,
+      "name": "Corroded Shield",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1748,
+      "name": "Corroded Spear",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1749,
+      "name": "Cross Shield",
+      "type_id": 17,
+      "type_label": "[Shield]"
+    }
+  ]
+}

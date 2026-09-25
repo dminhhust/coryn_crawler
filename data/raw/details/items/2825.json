@@ -1,0 +1,14 @@
+{
+  "id": 2825,
+  "name": "Black Knight Armor Bit",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 14,
+  "process": 3,
+  "process_amount": 13,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

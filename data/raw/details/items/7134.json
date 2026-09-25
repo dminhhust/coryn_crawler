@@ -1,0 +1,45 @@
+{
+  "id": 7134,
+  "name": "Etoise",
+  "type_id": 240,
+  "type_label": "[Enhancer Crysta (Purple)]",
+  "sell": 1,
+  "process": 6,
+  "process_amount": 100,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 37,
+      "effect_name": "ASPD",
+      "amount": 1100,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 40,
+      "effect_name": "CSPD %",
+      "amount": -70,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 42,
+      "effect_name": "Critical Rate %",
+      "amount": 40,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 71,
+      "effect_name": "Motion Speed %",
+      "amount": 5,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 148,
+      "effect_name": "Upgrade for",
+      "amount": 4304,
+      "applies_to": 0
+    }
+  ]
+}

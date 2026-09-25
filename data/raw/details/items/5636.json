@@ -1,0 +1,69 @@
+{
+  "id": 5636,
+  "name": "6th Anniv Halberd VI",
+  "type_id": 26,
+  "type_label": "[Halberd]",
+  "sell": 210,
+  "process": 3,
+  "process_amount": 105,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 587,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 10,
+      "effect_name": "AGI %",
+      "amount": 8,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 19,
+      "effect_name": "MaxMP",
+      "amount": 300,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 21,
+      "effect_name": "ATK %",
+      "amount": 8,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 34,
+      "effect_name": "Accuracy %",
+      "amount": 30,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 68,
+      "effect_name": "Attack MP Recovery",
+      "amount": 20,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 60,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 129,
+      "effect_name": "Additional Melee %",
+      "amount": 100,
+      "applies_to": 65536
+    },
+    {
+      "effect_id": 180,
+      "effect_name": "Reduce Dmg (Meteor) %",
+      "amount": 8,
+      "applies_to": 0
+    }
+  ]
+}

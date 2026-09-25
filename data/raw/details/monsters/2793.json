@@ -1,0 +1,46 @@
+{
+  "id": 2793,
+  "name": "Brasso",
+  "level": 220,
+  "map_id": 493,
+  "map_name": "Operation Zone: Climate Control Area",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 51167,
+  "exp": 739,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6627,
+      "name": "Brasso Claw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6628,
+      "name": "Dragon Helmet",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 6625,
+      "name": "Torn Dragon Wing",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6626,
+      "name": "Wyvern Horn",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

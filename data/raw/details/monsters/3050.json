@@ -1,0 +1,82 @@
+{
+  "id": 3050,
+  "name": "Anniv Equipment Box I",
+  "level": 0,
+  "map_id": 88,
+  "map_name": "-",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 0,
+  "exp": 0,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1226,
+      "name": "1st Anniv Bow",
+      "type_id": 9,
+      "type_label": "[Bow]"
+    },
+    {
+      "id": 1229,
+      "name": "1st Anniv Bowgun",
+      "type_id": 10,
+      "type_label": "[Bowgun]"
+    },
+    {
+      "id": 1223,
+      "name": "1st Anniv Greatsword",
+      "type_id": 5,
+      "type_label": "[2 Handed Sword]"
+    },
+    {
+      "id": 1238,
+      "name": "1st Anniv Knuckles",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    },
+    {
+      "id": 1265,
+      "name": "1st Anniv Shield",
+      "type_id": 17,
+      "type_label": "[Shield]"
+    },
+    {
+      "id": 1232,
+      "name": "1st Anniv Staff",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    },
+    {
+      "id": 1220,
+      "name": "1st Anniv Sword",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    },
+    {
+      "id": 1235,
+      "name": "1st Anniv Wings",
+      "type_id": 15,
+      "type_label": "[Magic Device]"
+    },
+    {
+      "id": 7311,
+      "name": "Anniv Festive Arrow",
+      "type_id": 7,
+      "type_label": "[Arrow]"
+    },
+    {
+      "id": 5420,
+      "name": "Anniv Festive Dagger",
+      "type_id": 11,
+      "type_label": "[Dagger]"
+    }
+  ]
+}

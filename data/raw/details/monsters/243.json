@@ -1,0 +1,46 @@
+{
+  "id": 243,
+  "name": "Cassy",
+  "level": 47,
+  "map_id": 74,
+  "map_name": "Ancient Empress Tomb: Area 3",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 70,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 630,
+      "name": "Fairy Peace",
+      "type_id": 15,
+      "type_label": "[Magic Device]"
+    },
+    {
+      "id": 628,
+      "name": "Sheeting Fabric",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 627,
+      "name": "Spiritual Gem",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 222,
+      "name": "Torn Cloth",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

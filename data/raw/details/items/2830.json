@@ -1,0 +1,45 @@
+{
+  "id": 2830,
+  "name": "Gwaimol",
+  "type_id": 210,
+  "type_label": "[Enhancer Crysta (Red)]",
+  "sell": 1,
+  "process": 6,
+  "process_amount": 100,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 4,
+      "effect_name": "STR %",
+      "amount": 5,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 21,
+      "effect_name": "ATK %",
+      "amount": 6,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 28,
+      "effect_name": "DEF %",
+      "amount": -15,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 42,
+      "effect_name": "Critical Rate %",
+      "amount": 4,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 148,
+      "effect_name": "Upgrade for",
+      "amount": 1470,
+      "applies_to": 0
+    }
+  ]
+}

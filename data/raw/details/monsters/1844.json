@@ -1,0 +1,46 @@
+{
+  "id": 1844,
+  "name": "Bombermeow",
+  "level": 149,
+  "map_id": 315,
+  "map_name": "Fabriska Sector",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 11000,
+  "exp": 204,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4271,
+      "name": "Broken Flame Arrester",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4270,
+      "name": "Burnt Nozzle",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4272,
+      "name": "Good Heavy Oil",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4273,
+      "name": "Scorching Talisman",
+      "type_id": 18,
+      "type_label": "[Special]"
+    }
+  ]
+}

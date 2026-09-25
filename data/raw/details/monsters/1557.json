@@ -1,0 +1,46 @@
+{
+  "id": 1557,
+  "name": "Bubble Angel (White)",
+  "level": 136,
+  "map_id": 280,
+  "map_name": "Heresy Corridor",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "",
+  "hp": -1,
+  "exp": 320,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3585,
+      "name": "God Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3634,
+      "name": "Knit Fabric",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3587,
+      "name": "Mysterious Shiny Cloth",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3626,
+      "name": "Prism Ring (Light)",
+      "type_id": 15,
+      "type_label": "[Magic Device]"
+    }
+  ]
+}

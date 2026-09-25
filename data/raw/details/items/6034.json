@@ -1,0 +1,39 @@
+{
+  "id": 6034,
+  "name": "Great Nature Talisman",
+  "type_id": 18,
+  "type_label": "[Special]",
+  "sell": 95,
+  "process": 2,
+  "process_amount": 47,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 0,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 17,
+      "effect_name": "MaxHP",
+      "amount": 2000,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 61,
+      "effect_name": "Aggro %",
+      "amount": -10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 104,
+      "effect_name": "Revive Time %",
+      "amount": -10,
+      "applies_to": 0
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 3081,
+  "name": "Forbigosta",
+  "level": 231,
+  "map_id": 540,
+  "map_name": "Subma Cave",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 382,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7370,
+      "name": "Big Red Claw",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 7371,
+      "name": "Boiled Lobster",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 7369,
+      "name": "Horned Carapace",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7372,
+      "name": "Luxurie Shield",
+      "type_id": 17,
+      "type_label": "[Shield]"
+    }
+  ]
+}

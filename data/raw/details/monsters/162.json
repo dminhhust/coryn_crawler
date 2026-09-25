@@ -1,0 +1,52 @@
+{
+  "id": 162,
+  "name": "Beak",
+  "level": 32,
+  "map_id": 46,
+  "map_name": "Scaro Town: Area 1",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 1200,
+  "exp": 42,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 250,
+      "name": "Chicken Meat",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 298,
+      "name": "Dodge+4",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 100,
+      "name": "Hard Fur",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 491,
+      "name": "Hunter's Arrow",
+      "type_id": 7,
+      "type_label": "[Arrow]"
+    },
+    {
+      "id": 216,
+      "name": "Thick Beak",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

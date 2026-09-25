@@ -1,0 +1,58 @@
+{
+  "id": 1084,
+  "name": "Candela Mint (White Day 2018)",
+  "level": 100,
+  "map_id": 45,
+  "map_name": "Douce Hamlet",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 1200000,
+  "exp": 19000,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1849,
+      "name": "Candela",
+      "type_id": 23,
+      "type_label": "[Additional Crysta]"
+    },
+    {
+      "id": 1850,
+      "name": "Candy Fragment",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 816,
+      "name": "Mithril Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 1851,
+      "name": "Mysterious Fruit",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 633,
+      "name": "Nightmare Crystal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 809,
+      "name": "Wooden Doll",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

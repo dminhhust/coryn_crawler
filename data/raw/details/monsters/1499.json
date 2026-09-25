@@ -1,0 +1,46 @@
+{
+  "id": 1499,
+  "name": "Pillar Golem (Megiston 2018)",
+  "level": 140,
+  "map_id": 87,
+  "map_name": "Event",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 500000,
+  "exp": 7050,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3484,
+      "name": "Blaster Bow",
+      "type_id": 9,
+      "type_label": "[Bow]"
+    },
+    {
+      "id": 3483,
+      "name": "Knight Armor",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 3485,
+      "name": "Marble Shield",
+      "type_id": 17,
+      "type_label": "[Shield]"
+    },
+    {
+      "id": 1051,
+      "name": "Pillar Golem",
+      "type_id": 21,
+      "type_label": "[Weapon Crysta]"
+    }
+  ]
+}

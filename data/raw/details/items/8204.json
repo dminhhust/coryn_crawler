@@ -1,0 +1,51 @@
+{
+  "id": 8204,
+  "name": "Duat Mask",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 1,
+  "process": 1,
+  "process_amount": 1,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 127,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 40,
+      "effect_name": "CSPD %",
+      "amount": 20,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 71,
+      "effect_name": "Motion Speed %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 181,
+      "effect_name": "Absolute Dodge %",
+      "amount": 15,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 250,
+      "effect_name": "Critical Rate",
+      "amount": 30,
+      "applies_to": 8
+    },
+    {
+      "effect_id": 287,
+      "effect_name": "Anticipate %",
+      "amount": 15,
+      "applies_to": 128
+    }
+  ]
+}

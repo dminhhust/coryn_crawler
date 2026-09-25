@@ -1,0 +1,45 @@
+{
+  "id": 5893,
+  "name": "Mischievous Pocket Watch",
+  "type_id": 18,
+  "type_label": "[Special]",
+  "sell": 95,
+  "process": 6,
+  "process_amount": 47,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 0,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 19,
+      "effect_name": "MaxMP",
+      "amount": 200,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 31,
+      "effect_name": "Physical Resistance %",
+      "amount": -90,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 32,
+      "effect_name": "Magic Resistance %",
+      "amount": -90,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 37,
+      "effect_name": "ASPD",
+      "amount": 1000,
+      "applies_to": 0
+    }
+  ]
+}

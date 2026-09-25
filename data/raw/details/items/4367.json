@@ -1,0 +1,39 @@
+{
+  "id": 4367,
+  "name": "Mysterious Hood",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 65,
+  "process": 4,
+  "process_amount": 32,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 55,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 6,
+      "effect_name": "INT %",
+      "amount": 5,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 19,
+      "effect_name": "MaxMP",
+      "amount": 450,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 39,
+      "effect_name": "CSPD",
+      "amount": 400,
+      "applies_to": 0
+    }
+  ]
+}

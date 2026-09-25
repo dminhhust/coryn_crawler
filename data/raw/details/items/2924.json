@@ -1,0 +1,39 @@
+{
+  "id": 2924,
+  "name": "Cat Hairband",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 67,
+  "process": 4,
+  "process_amount": 33,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 67,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 23,
+      "effect_name": "MATK %",
+      "amount": 5,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 163,
+      "effect_name": "MATK UP (STR %)",
+      "amount": 40,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 179,
+      "effect_name": "Invincible Aid (sec)",
+      "amount": 3,
+      "applies_to": 0
+    }
+  ]
+}

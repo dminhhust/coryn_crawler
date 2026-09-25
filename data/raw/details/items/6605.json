@@ -1,0 +1,51 @@
+{
+  "id": 6605,
+  "name": "Guide Ghost",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": -1,
+  "process": -1,
+  "process_amount": -1,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 55,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 31,
+      "effect_name": "Physical Resistance %",
+      "amount": 5,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 32,
+      "effect_name": "Magic Resistance %",
+      "amount": 5,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 61,
+      "effect_name": "Aggro %",
+      "amount": 50,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 173,
+      "effect_name": "Reduce Dmg (Floor) %",
+      "amount": 30,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 177,
+      "effect_name": "Reduce Dmg (Bowling) %",
+      "amount": 30,
+      "applies_to": 0
+    }
+  ]
+}

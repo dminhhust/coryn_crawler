@@ -1,0 +1,45 @@
+{
+  "id": 4065,
+  "name": "Explorer Canteen",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 80,
+  "process": 3,
+  "process_amount": 40,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 82,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 19,
+      "effect_name": "MaxMP",
+      "amount": 300,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 45,
+      "effect_name": "% stronger against Fire",
+      "amount": 9,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 51,
+      "effect_name": "Fire resistance %",
+      "amount": 18,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 61,
+      "effect_name": "Aggro %",
+      "amount": -15,
+      "applies_to": 0
+    }
+  ]
+}

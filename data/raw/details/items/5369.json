@@ -1,0 +1,45 @@
+{
+  "id": 5369,
+  "name": "Crystal Horns",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 110,
+  "process": 1,
+  "process_amount": 55,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 145,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 17,
+      "effect_name": "MaxHP",
+      "amount": 3000,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 40,
+      "effect_name": "CSPD %",
+      "amount": 30,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 54,
+      "effect_name": "Earth resistance %",
+      "amount": -15,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 61,
+      "effect_name": "Aggro %",
+      "amount": -30,
+      "applies_to": 0
+    }
+  ]
+}

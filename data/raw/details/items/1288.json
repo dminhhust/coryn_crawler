@@ -1,0 +1,33 @@
+{
+  "id": 1288,
+  "name": "Ice Candy",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 1,
+  "process": 2,
+  "process_amount": 10,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 1,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 41,
+      "effect_name": "Critical Rate",
+      "amount": 5,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 51,
+      "effect_name": "Fire resistance %",
+      "amount": 10,
+      "applies_to": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": 1599,
+  "name": "King Piton",
+  "level": 153,
+  "map_id": 293,
+  "map_name": "Elf Mountains: Shrine",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Easy",
+  "hp": 160000,
+  "exp": 1200,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3743,
+      "name": "King Piton Claw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3742,
+      "name": "King Piton Fang",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3745,
+      "name": "King Piton Fur",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3746,
+      "name": "Piton Staff",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    },
+    {
+      "id": 3747,
+      "name": "Piton Wristband",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    },
+    {
+      "id": 3744,
+      "name": "White Heart",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

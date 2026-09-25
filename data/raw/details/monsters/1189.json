@@ -1,0 +1,46 @@
+{
+  "id": 1189,
+  "name": "Lyard Defender",
+  "level": 129,
+  "map_id": 235,
+  "map_name": "Ultimea Palace: Storage Area 2",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 15000,
+  "exp": 326,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2937,
+      "name": "Bent Screw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2936,
+      "name": "Broken Bat",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2939,
+      "name": "Elegia Staff",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    },
+    {
+      "id": 2938,
+      "name": "Maintenance Oil",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

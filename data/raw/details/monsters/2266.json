@@ -1,0 +1,46 @@
+{
+  "id": 2266,
+  "name": "Kappadon",
+  "level": 175,
+  "map_id": 396,
+  "map_name": "Nezim Wetlands",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 14320,
+  "exp": 241,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5356,
+      "name": "Broken Goggles",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5357,
+      "name": "Cucumber Rice Bowl",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5321,
+      "name": "Kappa's Plate",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5358,
+      "name": "Shark Hood",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

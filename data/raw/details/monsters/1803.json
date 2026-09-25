@@ -1,0 +1,46 @@
+{
+  "id": 1803,
+  "name": "Sorcerabbit",
+  "level": 105,
+  "map_id": 311,
+  "map_name": "Zarth's Mansion: Entrance",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 151,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": true,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4186,
+      "name": "Mini Witch Hat",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 4176,
+      "name": "Moving Carrot Cake",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 2085,
+      "name": "Stiff Fur",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2592,
+      "name": "Tough Wood",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

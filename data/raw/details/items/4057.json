@@ -1,0 +1,21 @@
+{
+  "id": 4057,
+  "name": "Frog Meat",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 16,
+  "process": 5,
+  "process_amount": 16,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 17,
+      "effect_name": "MaxHP",
+      "amount": 800,
+      "applies_to": 0
+    }
+  ]
+}

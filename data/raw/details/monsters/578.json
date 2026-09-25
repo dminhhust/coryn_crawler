@@ -1,0 +1,46 @@
+{
+  "id": 578,
+  "name": "Wandering Life Form",
+  "level": 80,
+  "map_id": 155,
+  "map_name": "Plastida: Area 1",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 173,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1956,
+      "name": "Jelly Beans",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1954,
+      "name": "Jelly Like Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 816,
+      "name": "Mithril Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 1955,
+      "name": "Slimy Fin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": 51,
+  "name": "Roar",
+  "level": 21,
+  "map_id": 14,
+  "map_name": "Ruined Temple: Area 3",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 570,
+  "exp": 23,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 67,
+      "name": "Fairy Feather",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 88,
+      "name": "Glowing Dust",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 308,
+      "name": "HP+100",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 514,
+      "name": "Mage Rod",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    },
+    {
+      "id": 254,
+      "name": "Magiadd I",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

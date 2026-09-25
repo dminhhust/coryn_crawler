@@ -1,0 +1,39 @@
+{
+  "id": 5898,
+  "name": "Frankenstein Bolt",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": -1,
+  "process": -1,
+  "process_amount": -1,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 240,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 34,
+      "effect_name": "Accuracy %",
+      "amount": 40,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 57,
+      "effect_name": "Ailment Resistance %",
+      "amount": 20,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 143,
+      "effect_name": "ATK UP (VIT %)",
+      "amount": 80,
+      "applies_to": 0
+    }
+  ]
+}

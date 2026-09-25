@@ -1,0 +1,51 @@
+{
+  "id": 7741,
+  "name": "Epaulet Cape",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 135,
+  "process": 4,
+  "process_amount": 67,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 200,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 37,
+      "effect_name": "ASPD",
+      "amount": 500,
+      "applies_to": 16
+    },
+    {
+      "effect_id": 69,
+      "effect_name": "Short Range Damage %",
+      "amount": 10,
+      "applies_to": 65536
+    },
+    {
+      "effect_id": 70,
+      "effect_name": "Long Range Damage %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 129,
+      "effect_name": "Additional Melee %",
+      "amount": 100,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 246,
+      "effect_name": "ASPD",
+      "amount": 500,
+      "applies_to": 0
+    }
+  ]
+}

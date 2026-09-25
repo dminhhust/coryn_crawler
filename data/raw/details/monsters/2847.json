@@ -1,0 +1,46 @@
+{
+  "id": 2847,
+  "name": "Nix",
+  "level": 202,
+  "map_id": 504,
+  "map_name": "Illuminare City: Route 3 (190-210)",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 671,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": true,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5781,
+      "name": "Big Ear",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6739,
+      "name": "Scratch Knife",
+      "type_id": 11,
+      "type_label": "[Dagger]"
+    },
+    {
+      "id": 6736,
+      "name": "Stolen Box (Red)",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5723,
+      "name": "Striped Fur",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

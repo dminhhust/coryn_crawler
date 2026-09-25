@@ -1,0 +1,45 @@
+{
+  "id": 8100,
+  "name": "Terrestrial Talisman",
+  "type_id": 18,
+  "type_label": "[Special]",
+  "sell": 132,
+  "process": 3,
+  "process_amount": 66,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 0,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 17,
+      "effect_name": "MaxHP",
+      "amount": 3000,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 18,
+      "effect_name": "MaxHP %",
+      "amount": 20,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 57,
+      "effect_name": "Ailment Resistance %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 179,
+      "effect_name": "Invincible Aid (sec)",
+      "amount": 1,
+      "applies_to": 0
+    }
+  ]
+}

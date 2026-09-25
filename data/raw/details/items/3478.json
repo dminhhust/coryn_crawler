@@ -1,0 +1,39 @@
+{
+  "id": 3478,
+  "name": "Gapapa!",
+  "type_id": 18,
+  "type_label": "[Special]",
+  "sell": 10000,
+  "process": 0,
+  "process_amount": 0,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 17,
+      "effect_name": "MaxHP",
+      "amount": 588,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 19,
+      "effect_name": "MaxMP",
+      "amount": 588,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 124,
+      "effect_name": "Physical Barrier",
+      "amount": 588,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 128,
+      "effect_name": "Magic Barrier",
+      "amount": 588,
+      "applies_to": 0
+    }
+  ]
+}

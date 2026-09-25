@@ -1,0 +1,45 @@
+{
+  "id": 5766,
+  "name": "Rabbit Lantern",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 102,
+  "process": 2,
+  "process_amount": 51,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 65,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 19,
+      "effect_name": "MaxMP",
+      "amount": 400,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 26,
+      "effect_name": "Magic Pierce %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 70,
+      "effect_name": "Long Range Damage %",
+      "amount": 6,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 170,
+      "effect_name": "Reduce Dmg (Player Epicenter) %",
+      "amount": 20,
+      "applies_to": 0
+    }
+  ]
+}

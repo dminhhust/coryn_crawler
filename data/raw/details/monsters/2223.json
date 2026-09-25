@@ -1,0 +1,40 @@
+{
+  "id": 2223,
+  "name": "Bonivio (New Year Event 2021)",
+  "level": 10,
+  "map_id": 87,
+  "map_name": "Event",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 40000,
+  "exp": 300,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5189,
+      "name": "Bovinio",
+      "type_id": 23,
+      "type_label": "[Additional Crysta]"
+    },
+    {
+      "id": 5192,
+      "name": "Ox Tongue Bento",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 5191,
+      "name": "Zodiac Ox Box",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

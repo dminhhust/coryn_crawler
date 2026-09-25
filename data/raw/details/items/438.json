@@ -1,0 +1,45 @@
+{
+  "id": 438,
+  "name": "Alto Ruin Bow",
+  "type_id": 9,
+  "type_label": "[Bow]",
+  "sell": 10,
+  "process": 3,
+  "process_amount": 5,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 21,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 41,
+      "effect_name": "Critical Rate",
+      "amount": 25,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 44,
+      "effect_name": "Critical Damage %",
+      "amount": -50,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 30,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 211,
+      "effect_name": "Attack Range (m)",
+      "amount": 10,
+      "applies_to": 0
+    }
+  ]
+}

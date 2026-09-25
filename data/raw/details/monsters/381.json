@@ -1,0 +1,46 @@
+{
+  "id": 381,
+  "name": "Greg",
+  "level": 58,
+  "map_id": 110,
+  "map_name": "Wanderer's Plain",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 110,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1322,
+      "name": "Magic Oil",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1320,
+      "name": "Small Gun Barrel",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1323,
+      "name": "STR+3",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 1321,
+      "name": "Tough Iron Plate",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

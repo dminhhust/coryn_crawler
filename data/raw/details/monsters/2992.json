@@ -1,0 +1,46 @@
+{
+  "id": 2992,
+  "name": "DX Fighter (Shostakovich)",
+  "level": 200,
+  "map_id": 527,
+  "map_name": "Eagle Talon Collab Venue",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Hard",
+  "hp": 10800000,
+  "exp": 52000,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5913,
+      "name": "DX Fighter",
+      "type_id": 22,
+      "type_label": "[Armor Crysta]"
+    },
+    {
+      "id": 7084,
+      "name": "Hero's Rag",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 911,
+      "name": "Orichalcum Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 3108,
+      "name": "Revita VI",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": 4013,
+  "name": "Assassin Waistcloth",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 77,
+  "process": 4,
+  "process_amount": 38,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 44,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 36,
+      "effect_name": "Dodge %",
+      "amount": 9,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 44,
+      "effect_name": "Critical Damage %",
+      "amount": 3,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 159,
+      "effect_name": "ATK UP (AGI %)",
+      "amount": 40,
+      "applies_to": 0
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": 4415,
+  "name": "Wood Choco Dagger",
+  "type_id": 11,
+  "type_label": "[Dagger]",
+  "sell": 120,
+  "process": 5,
+  "process_amount": 60,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 82,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 19,
+      "effect_name": "MaxMP",
+      "amount": 400,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 60,
+      "effect_name": "Evasion Recharge %",
+      "amount": 4,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 68,
+      "effect_name": "Attack MP Recovery",
+      "amount": 4,
+      "applies_to": 0
+    }
+  ]
+}

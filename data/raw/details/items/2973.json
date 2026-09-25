@@ -1,0 +1,14 @@
+{
+  "id": 2973,
+  "name": "Golpom 3rd Anniv Medal",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 300,
+  "process": 6,
+  "process_amount": 30,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

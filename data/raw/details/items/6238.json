@@ -1,0 +1,39 @@
+{
+  "id": 6238,
+  "name": "Robust Charmstone",
+  "type_id": 18,
+  "type_label": "[Special]",
+  "sell": -1,
+  "process": 2,
+  "process_amount": -1,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 0,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 21,
+      "effect_name": "ATK %",
+      "amount": 4,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 24,
+      "effect_name": "Stability %",
+      "amount": 3,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 42,
+      "effect_name": "Critical Rate %",
+      "amount": 20,
+      "applies_to": 0
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 4646,
+  "name": "Teleport Ticket",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 0,
+  "process": 0,
+  "process_amount": 0,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 203,
+      "effect_name": "Teleport to the map that you select on World Map",
+      "amount": 1,
+      "applies_to": 0
+    }
+  ]
+}

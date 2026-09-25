@@ -1,0 +1,46 @@
+{
+  "id": 23,
+  "name": "Piedra",
+  "level": 6,
+  "map_id": 8,
+  "map_name": "Reug Salt Plains: Wanderers Camp",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 205,
+  "exp": 6,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 99,
+      "name": "Hard Dragon Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 243,
+      "name": "Hematite",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 504,
+      "name": "Knuckles",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    },
+    {
+      "id": 157,
+      "name": "Pebble",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

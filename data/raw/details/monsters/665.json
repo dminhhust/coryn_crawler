@@ -1,0 +1,52 @@
+{
+  "id": 665,
+  "name": "Gespenst",
+  "level": 10,
+  "map_id": 16,
+  "map_name": "Underground Channel",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Easy",
+  "hp": 854,
+  "exp": 24,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 533,
+      "name": "Old Cloak",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 153,
+      "name": "Ominous Horns",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 177,
+      "name": "Remnant of Ghost",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 188,
+      "name": "Scythe Blade",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 217,
+      "name": "Thick Black Cloth",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

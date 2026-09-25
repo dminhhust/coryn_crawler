@@ -1,0 +1,46 @@
+{
+  "id": 3120,
+  "name": "Profundo",
+  "level": 242,
+  "map_id": 553,
+  "map_name": "Abandoned District: Area 3",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 828,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7447,
+      "name": "Abyssal Creature Claw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7449,
+      "name": "Abyssal Kelp",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7448,
+      "name": "Sharp Caudal Fin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7450,
+      "name": "Side Ponytail",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

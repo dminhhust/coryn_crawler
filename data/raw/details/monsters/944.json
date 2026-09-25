@@ -1,0 +1,46 @@
+{
+  "id": 944,
+  "name": "Plant Machina",
+  "level": 93,
+  "map_id": 179,
+  "map_name": "Peligro Landfill",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 2000,
+  "exp": 171,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2394,
+      "name": "ASPD+80",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 2391,
+      "name": "Contaminated Wood",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2393,
+      "name": "Peligro Landfill",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2392,
+      "name": "Peligro Wood",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

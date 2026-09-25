@@ -1,0 +1,39 @@
+{
+  "id": 664,
+  "name": "Ice Arrow",
+  "type_id": 7,
+  "type_label": "[Arrow]",
+  "sell": 40,
+  "process": 6,
+  "process_amount": 20,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 17,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 41,
+      "effect_name": "Critical Rate",
+      "amount": 2,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 63,
+      "effect_name": "Water Element",
+      "amount": 1,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 20,
+      "applies_to": 0
+    }
+  ]
+}

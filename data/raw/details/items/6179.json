@@ -1,0 +1,21 @@
+{
+  "id": 6179,
+  "name": "Metal Ninjutsu Scroll",
+  "type_id": 28,
+  "type_label": "[Ninjutsu Scroll]",
+  "sell": 1,
+  "process": 2,
+  "process_amount": 2,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 41,
+      "effect_name": "Critical Rate",
+      "amount": 5,
+      "applies_to": 0
+    }
+  ]
+}

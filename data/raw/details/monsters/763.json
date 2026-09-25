@@ -1,0 +1,70 @@
+{
+  "id": 763,
+  "name": "Ifrid",
+  "level": 132,
+  "map_id": 167,
+  "map_name": "Blazing Graben: Deepest Part",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Nightmare",
+  "hp": 2777500,
+  "exp": 30000,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2130,
+      "name": "Broken Robot Arm",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2135,
+      "name": "Ifrid",
+      "type_id": 22,
+      "type_label": "[Armor Crysta]"
+    },
+    {
+      "id": 2128,
+      "name": "Ifrid's Heated Horn",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2129,
+      "name": "Ifrid's Robot Leg",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2133,
+      "name": "Scorching Heart",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2132,
+      "name": "Vulcan Shield",
+      "type_id": 17,
+      "type_label": "[Shield]"
+    },
+    {
+      "id": 2134,
+      "name": "Vulcan Staff",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    },
+    {
+      "id": 2131,
+      "name": "Wrath of Vulcan",
+      "type_id": 15,
+      "type_label": "[Magic Device]"
+    }
+  ]
+}

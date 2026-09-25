@@ -1,0 +1,33 @@
+{
+  "id": 1796,
+  "name": "Dark Hood",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 42,
+  "process": 4,
+  "process_amount": 21,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 32,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 23,
+      "effect_name": "MATK %",
+      "amount": 5,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 61,
+      "effect_name": "Aggro %",
+      "amount": -10,
+      "applies_to": 0
+    }
+  ]
+}

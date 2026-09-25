@@ -1,0 +1,33 @@
+{
+  "id": 5216,
+  "name": "Kijimu's Arrow",
+  "type_id": 7,
+  "type_label": "[Arrow]",
+  "sell": -1,
+  "process": -1,
+  "process_amount": -1,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 106,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 26,
+      "effect_name": "Magic Pierce %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 128,
+      "effect_name": "Magic Barrier",
+      "amount": 1000,
+      "applies_to": 0
+    }
+  ]
+}

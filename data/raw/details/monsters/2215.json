@@ -1,0 +1,46 @@
+{
+  "id": 2215,
+  "name": "Yule Cat",
+  "level": 197,
+  "map_id": 385,
+  "map_name": "Tomte Pavillion (170-190)",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Hard",
+  "hp": 4230000,
+  "exp": 20300,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5125,
+      "name": "Staff of Cold Serenity",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    },
+    {
+      "id": 5124,
+      "name": "Sword of Cold Serenity",
+      "type_id": 5,
+      "type_label": "[2 Handed Sword]"
+    },
+    {
+      "id": 5126,
+      "name": "Tonfa of Cold Serenity",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    },
+    {
+      "id": 5127,
+      "name": "Yule Cat",
+      "type_id": 220,
+      "type_label": "[Enhancer Crysta (Green)]"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 384,
+  "name": "Book of Oblivion",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 0,
+  "process": 0,
+  "process_amount": 0,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 106,
+      "effect_name": "Deletes all the skill trees and resets the skill points",
+      "amount": 0,
+      "applies_to": 0
+    }
+  ]
+}

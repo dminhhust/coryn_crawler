@@ -1,0 +1,46 @@
+{
+  "id": 1899,
+  "name": "Santabby",
+  "level": 160,
+  "map_id": 329,
+  "map_name": "Joulu House: Gift Room (Lv 150)",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 20000,
+  "exp": 748,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": true,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3503,
+      "name": "Beautiful Pebble",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 816,
+      "name": "Mithril Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 4321,
+      "name": "Poinsettia Hair Ornament",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 4320,
+      "name": "Sacred Blue Candle",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": 2260,
+  "name": "Snowball Event NPC",
+  "level": 0,
+  "map_id": 394,
+  "map_name": "Snowball Mini Game Venue",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": -1,
+  "element_id": -1,
+  "element_label": "Unknown",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6148,
+      "name": "Clingy Snow Fox",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 5253,
+      "name": "Fluffy Snow Hat",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 5259,
+      "name": "Fluffy Snow Owl",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 5258,
+      "name": "Fluffy Snow Scarf",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 6147,
+      "name": "Long-Tailed Tit",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 5303,
+      "name": "Orion's Sword (Snowball Event 2021)",
+      "type_id": 27,
+      "type_label": "[Katana]"
+    },
+    {
+      "id": 6153,
+      "name": "Orion's Sword (Snowball Event 2022)",
+      "type_id": 27,
+      "type_label": "[Katana]"
+    },
+    {
+      "id": 6912,
+      "name": "Orion's Sword (Snowball Event 2023)",
+      "type_id": 27,
+      "type_label": "[Katana]"
+    },
+    {
+      "id": 6149,
+      "name": "Pile of Snow",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 6152,
+      "name": "Pom Knitted Outfit Set",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 6914,
+      "name": "Shovel Blade",
+      "type_id": 5,
+      "type_label": "[2 Handed Sword]"
+    },
+    {
+      "id": 6916,
+      "name": "Shovel Lance",
+      "type_id": 26,
+      "type_label": "[Halberd]"
+    },
+    {
+      "id": 6915,
+      "name": "Shovel Staff",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    },
+    {
+      "id": 6917,
+      "name": "Ski Gloves",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    },
+    {
+      "id": 6913,
+      "name": "Ski Pole Sword",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    }
+  ]
+}

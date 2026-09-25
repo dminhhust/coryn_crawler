@@ -1,0 +1,14 @@
+{
+  "id": 2125,
+  "name": "Hot Fang",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 11,
+  "process": 1,
+  "process_amount": 11,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

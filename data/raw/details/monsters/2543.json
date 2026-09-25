@@ -1,0 +1,46 @@
+{
+  "id": 2543,
+  "name": "Gordo",
+  "level": 242,
+  "map_id": 451,
+  "map_name": "Eumano Glade",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 43700,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5955,
+      "name": "Cracked Acorn Hat",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5956,
+      "name": "Dream Fragment",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5917,
+      "name": "Gordo",
+      "type_id": 230,
+      "type_label": "[Enhancer Crysta (Yellow)]"
+    },
+    {
+      "id": 5954,
+      "name": "Huge Acorn",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

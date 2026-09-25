@@ -1,0 +1,46 @@
+{
+  "id": 344,
+  "name": "Planet Head (Green)",
+  "level": 62,
+  "map_id": 100,
+  "map_name": "Gate to Another World: Area 1",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 4200,
+  "exp": 80,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1147,
+      "name": "Outer World Arm",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1148,
+      "name": "Outer World Planet",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1149,
+      "name": "Scale Shield",
+      "type_id": 17,
+      "type_label": "[Shield]"
+    },
+    {
+      "id": 1146,
+      "name": "Star Fragment",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

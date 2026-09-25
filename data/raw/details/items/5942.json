@@ -1,0 +1,63 @@
+{
+  "id": 5942,
+  "name": "Ice Spirit Spear",
+  "type_id": 26,
+  "type_label": "[Halberd]",
+  "sell": 225,
+  "process": 6,
+  "process_amount": 112,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 654,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 21,
+      "effect_name": "ATK %",
+      "amount": 7,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 38,
+      "effect_name": "ASPD %",
+      "amount": 70,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 61,
+      "effect_name": "Aggro %",
+      "amount": -30,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 63,
+      "effect_name": "Water Element",
+      "amount": 1,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 68,
+      "effect_name": "Attack MP Recovery",
+      "amount": 25,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 60,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 164,
+      "effect_name": "MATK UP (AGI %)",
+      "amount": 50,
+      "applies_to": 0
+    }
+  ]
+}

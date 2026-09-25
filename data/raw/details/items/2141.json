@@ -1,0 +1,57 @@
+{
+  "id": 2141,
+  "name": "Bexiz Staff",
+  "type_id": 19,
+  "type_label": "[Staff]",
+  "sell": 100,
+  "process": 3,
+  "process_amount": 50,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 125,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 10,
+      "effect_name": "AGI %",
+      "amount": 6,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 35,
+      "effect_name": "Dodge",
+      "amount": 3,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 39,
+      "effect_name": "CSPD",
+      "amount": 500,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 60,
+      "effect_name": "Evasion Recharge %",
+      "amount": 5,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 110,
+      "effect_name": "% stronger against Neutral",
+      "amount": 25,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 60,
+      "applies_to": 0
+    }
+  ]
+}

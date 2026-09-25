@@ -1,0 +1,14 @@
+{
+  "id": 4445,
+  "name": "Cracked Eggshell",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 15,
+  "process": 1,
+  "process_amount": 14,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

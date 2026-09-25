@@ -1,0 +1,58 @@
+{
+  "id": 679,
+  "name": "Inzanio the Dark Knight",
+  "level": 104,
+  "map_id": 135,
+  "map_name": "Fort Solfini: Roof",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Hard",
+  "hp": 978000,
+  "exp": 11000,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1604,
+      "name": "Cracked Magic Spear",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1596,
+      "name": "Dark Knight Emblem",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1599,
+      "name": "Inzanio Helm",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 1602,
+      "name": "Inzanio's Armor Bit",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1603,
+      "name": "Inzanio's Shoulder Pad",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1597,
+      "name": "Praetor Suit",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    }
+  ]
+}

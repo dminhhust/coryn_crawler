@@ -1,0 +1,45 @@
+{
+  "id": 2336,
+  "name": "Sealing Blade",
+  "type_id": 5,
+  "type_label": "[2 Handed Sword]",
+  "sell": 100,
+  "process": 3,
+  "process_amount": 50,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 187,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 110,
+      "effect_name": "% stronger against Neutral",
+      "amount": 25,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 70,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 124,
+      "effect_name": "Physical Barrier",
+      "amount": 800,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 128,
+      "effect_name": "Magic Barrier",
+      "amount": 800,
+      "applies_to": 0
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 192,
+  "name": "Big Mask",
+  "level": 70,
+  "map_id": 56,
+  "map_name": "Haotas Ravine",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 2400,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 172,
+      "name": "Ravine Dew",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 207,
+      "name": "Steel Seed Coat",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 559,
+      "name": "Stier",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 212,
+      "name": "Strong Vine",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

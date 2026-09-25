@@ -1,0 +1,39 @@
+{
+  "id": 7153,
+  "name": "Waistlet",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 117,
+  "process": 3,
+  "process_amount": 58,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 41,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 16,
+      "effect_name": "Natural MP Regen %",
+      "amount": 9,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 26,
+      "effect_name": "Magic Pierce %",
+      "amount": 9,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 44,
+      "effect_name": "Critical Damage %",
+      "amount": 9,
+      "applies_to": 0
+    }
+  ]
+}

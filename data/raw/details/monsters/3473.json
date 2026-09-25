@@ -1,0 +1,46 @@
+{
+  "id": 3473,
+  "name": "Plantara",
+  "level": 262,
+  "map_id": 690,
+  "map_name": "Mt. White Peach: Outskirts",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 26049,
+  "exp": 379,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 8502,
+      "name": "Chamoliryle",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 78,
+      "name": "Flower Nectar",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 8503,
+      "name": "Sakura Wind Arrow",
+      "type_id": 7,
+      "type_label": "[Arrow]"
+    },
+    {
+      "id": 1063,
+      "name": "Sakuramochi",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

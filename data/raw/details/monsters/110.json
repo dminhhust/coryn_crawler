@@ -1,0 +1,52 @@
+{
+  "id": 110,
+  "name": "Raffy",
+  "level": 10,
+  "map_id": 31,
+  "map_name": "Suedor Cliff",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 140,
+  "exp": 6,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6,
+      "name": "Animal Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 80,
+      "name": "Fluffy Fur",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 317,
+      "name": "MP+50",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 203,
+      "name": "Soft Hair",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 566,
+      "name": "Twin Ribbon",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": 3299,
+  "name": "Camouflage Scarf",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 67,
+  "process": 4,
+  "process_amount": 33,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 42,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 61,
+      "effect_name": "Aggro %",
+      "amount": -30,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 70,
+      "effect_name": "Long Range Damage %",
+      "amount": 2,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 179,
+      "effect_name": "Invincible Aid (sec)",
+      "amount": 3,
+      "applies_to": 0
+    }
+  ]
+}

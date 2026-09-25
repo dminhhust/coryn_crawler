@@ -1,0 +1,46 @@
+{
+  "id": 862,
+  "name": "Gajo",
+  "level": 93,
+  "map_id": 172,
+  "map_name": "Site of Simcracker",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 4000,
+  "exp": 90,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2328,
+      "name": "Beak Mask",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 2326,
+      "name": "Brown Beak",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2327,
+      "name": "Chicken Thigh",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 2325,
+      "name": "Fluffy Tail Feather",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

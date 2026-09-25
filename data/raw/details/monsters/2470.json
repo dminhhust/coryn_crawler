@@ -1,0 +1,52 @@
+{
+  "id": 2470,
+  "name": "Bullamius",
+  "level": 239,
+  "map_id": 424,
+  "map_name": "Storage Yard: Area 2",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 42800,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5793,
+      "name": "Bullamius",
+      "type_id": 200,
+      "type_label": "[Enhancer Crysta (Blue)]"
+    },
+    {
+      "id": 5794,
+      "name": "Ferocious Beast Claws",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    },
+    {
+      "id": 5792,
+      "name": "Monkey Energy",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 5790,
+      "name": "Monkey Fang",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5789,
+      "name": "Sharp Monkey Horn",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

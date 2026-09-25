@@ -1,0 +1,40 @@
+{
+  "id": 3025,
+  "name": "Mysterious Music Box",
+  "level": 0,
+  "map_id": 88,
+  "map_name": "-",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 0,
+  "exp": 0,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7137,
+      "name": "Stellar Fighter",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 7136,
+      "name": "Stellar Fighter (LRA)",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 7135,
+      "name": "Stellar Fighter (SRA)",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    }
+  ]
+}

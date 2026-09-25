@@ -1,0 +1,46 @@
+{
+  "id": 1065,
+  "name": "Earl Colon",
+  "level": 102,
+  "map_id": 207,
+  "map_name": "Lufenas Mansion: Garden",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 6500,
+  "exp": 134,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2650,
+      "name": "Colon Woodchip",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2651,
+      "name": "Hard Nut",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 2642,
+      "name": "Hora Diomedea",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 2652,
+      "name": "Osmanthus Barrette",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

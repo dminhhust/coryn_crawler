@@ -1,0 +1,21 @@
+{
+  "id": 1773,
+  "name": "Otoshidama",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 1000,
+  "process": -1,
+  "process_amount": -1,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 138,
+      "effect_name": "",
+      "amount": 1,
+      "applies_to": 0
+    }
+  ]
+}

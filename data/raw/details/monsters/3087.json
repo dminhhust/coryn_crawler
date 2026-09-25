@@ -1,0 +1,46 @@
+{
+  "id": 3087,
+  "name": "Madrago",
+  "level": 239,
+  "map_id": 542,
+  "map_name": "Espuma Dome: Area 2",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 810,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7462,
+      "name": "Bateria",
+      "type_id": 5,
+      "type_label": "[2 Handed Sword]"
+    },
+    {
+      "id": 7461,
+      "name": "Googly Eye",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7459,
+      "name": "Odd-Patterned Leg",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7460,
+      "name": "Spiral Curvy Horn",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

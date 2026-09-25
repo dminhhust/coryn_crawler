@@ -1,0 +1,14 @@
+{
+  "id": 3423,
+  "name": "Potum Top Fin",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 15,
+  "process": 4,
+  "process_amount": 16,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

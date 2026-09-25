@@ -1,0 +1,45 @@
+{
+  "id": 7897,
+  "name": "Menti",
+  "type_id": 210,
+  "type_label": "[Enhancer Crysta (Red)]",
+  "sell": 0,
+  "process": 6,
+  "process_amount": 0,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 19,
+      "effect_name": "MaxMP",
+      "amount": 300,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 23,
+      "effect_name": "MATK %",
+      "amount": 11,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 37,
+      "effect_name": "ASPD",
+      "amount": 250,
+      "applies_to": 1
+    },
+    {
+      "effect_id": 140,
+      "effect_name": "Guard Break %",
+      "amount": 14,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 148,
+      "effect_name": "Upgrade for",
+      "amount": 6202,
+      "applies_to": 0
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 1034,
+  "name": "York (Megiston 2017)",
+  "level": 150,
+  "map_id": 87,
+  "map_name": "Event",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 1100000,
+  "exp": 32000,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2563,
+      "name": "Clyde Luxen",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 2561,
+      "name": "Einsamkeit",
+      "type_id": 26,
+      "type_label": "[Halberd]"
+    },
+    {
+      "id": 2566,
+      "name": "Fusee Trahison",
+      "type_id": 10,
+      "type_label": "[Bowgun]"
+    },
+    {
+      "id": 2349,
+      "name": "York",
+      "type_id": 200,
+      "type_label": "[Enhancer Crysta (Blue)]"
+    }
+  ]
+}

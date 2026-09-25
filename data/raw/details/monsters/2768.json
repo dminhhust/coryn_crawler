@@ -1,0 +1,46 @@
+{
+  "id": 2768,
+  "name": "Manomare",
+  "level": 169,
+  "map_id": 487,
+  "map_name": "Phasma Forest: Area 1",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 19440,
+  "exp": 272,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6585,
+      "name": "Halloween Meteorite",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6584,
+      "name": "Holey Ragged Cloth",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6587,
+      "name": "Specter Arrow",
+      "type_id": 7,
+      "type_label": "[Arrow]"
+    },
+    {
+      "id": 6586,
+      "name": "Specter Chocolate",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

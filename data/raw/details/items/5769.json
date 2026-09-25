@@ -1,0 +1,14 @@
+{
+  "id": 5769,
+  "name": "Glossy Feather",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 18,
+  "process": 1,
+  "process_amount": 18,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

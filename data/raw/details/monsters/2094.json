@@ -1,0 +1,28 @@
+{
+  "id": 2094,
+  "name": "Mintyliebe",
+  "level": 200,
+  "map_id": 367,
+  "map_name": "Anniversary Arena: 5th Venue",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Hard",
+  "hp": 3800000,
+  "exp": 15000,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4842,
+      "name": "Silpom 5th Anniv Medal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

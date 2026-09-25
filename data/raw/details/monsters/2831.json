@@ -1,0 +1,46 @@
+{
+  "id": 2831,
+  "name": "Snorm",
+  "level": 181,
+  "map_id": 500,
+  "map_name": "Illuminare City: Route 2 (170-190)",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 508,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": true,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4983,
+      "name": "Distinct Pebble",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5354,
+      "name": "Escudo Blade",
+      "type_id": 5,
+      "type_label": "[2 Handed Sword]"
+    },
+    {
+      "id": 5070,
+      "name": "Rubbery Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6735,
+      "name": "Stolen Box (Blue)",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

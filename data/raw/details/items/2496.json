@@ -1,0 +1,57 @@
+{
+  "id": 2496,
+  "name": "Leve Bow",
+  "type_id": 9,
+  "type_label": "[Bow]",
+  "sell": 110,
+  "process": 1,
+  "process_amount": 55,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 92,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 28,
+      "effect_name": "DEF %",
+      "amount": -15,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 41,
+      "effect_name": "Critical Rate",
+      "amount": 4,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 44,
+      "effect_name": "Critical Damage %",
+      "amount": 4,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 68,
+      "effect_name": "Attack MP Recovery",
+      "amount": 8,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 70,
+      "effect_name": "Long Range Damage %",
+      "amount": 4,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 50,
+      "applies_to": 0
+    }
+  ]
+}

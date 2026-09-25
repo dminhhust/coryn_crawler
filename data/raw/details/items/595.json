@@ -1,0 +1,21 @@
+{
+  "id": 595,
+  "name": "Vita Plus II",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 3,
+  "process": 5,
+  "process_amount": 4,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 17,
+      "effect_name": "MaxHP",
+      "amount": 1000,
+      "applies_to": 0
+    }
+  ]
+}

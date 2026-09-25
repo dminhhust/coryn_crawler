@@ -1,0 +1,58 @@
+{
+  "id": 287,
+  "name": "Silver Coryn (2015)",
+  "level": 100,
+  "map_id": 87,
+  "map_name": "Event",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": -1,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 436,
+      "name": "Adventurer's Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 436,
+      "name": "Adventurer's Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 436,
+      "name": "Adventurer's Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 436,
+      "name": "Adventurer's Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 543,
+      "name": "Ribbon",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 543,
+      "name": "Ribbon",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

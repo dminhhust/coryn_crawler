@@ -1,0 +1,46 @@
+{
+  "id": 639,
+  "name": "Bestion",
+  "level": 98,
+  "map_id": 164,
+  "map_name": "Blazing Graben: Surface",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 213,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2081,
+      "name": "Charcoal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2082,
+      "name": "High Heat Tail",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2084,
+      "name": "Sage Staff",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    },
+    {
+      "id": 2083,
+      "name": "Scorching Grass",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": 2938,
+  "name": "Maintenance Oil",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 16,
+  "process": 5,
+  "process_amount": 17,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

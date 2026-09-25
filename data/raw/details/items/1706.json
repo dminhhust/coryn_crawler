@@ -1,0 +1,39 @@
+{
+  "id": 1706,
+  "name": "Brutal Dragon Crown",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 17,
+  "process": 1,
+  "process_amount": 8,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 11,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 51,
+      "effect_name": "Fire resistance %",
+      "amount": -3,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 68,
+      "effect_name": "Attack MP Recovery",
+      "amount": 4,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 73,
+      "effect_name": "Weapon ATK",
+      "amount": 7,
+      "applies_to": 0
+    }
+  ]
+}

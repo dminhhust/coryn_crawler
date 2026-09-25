@@ -1,0 +1,46 @@
+{
+  "id": 195,
+  "name": "Moss Ball",
+  "level": 29,
+  "map_id": 58,
+  "map_name": "Nehelo Swamp",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 350,
+  "exp": 19,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 78,
+      "name": "Flower Nectar",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 81,
+      "name": "Fluorescent Pond Water",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 111,
+      "name": "Huge Leaf",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 506,
+      "name": "Leaf Cape",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

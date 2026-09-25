@@ -1,0 +1,57 @@
+{
+  "id": 823,
+  "name": "Berserker Cestuses",
+  "type_id": 13,
+  "type_label": "[Knuckles]",
+  "sell": -1,
+  "process": -1,
+  "process_amount": -1,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 51,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 11,
+      "effect_name": "DEX",
+      "amount": 6,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 18,
+      "effect_name": "MaxHP %",
+      "amount": 4,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 21,
+      "effect_name": "ATK %",
+      "amount": 2,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 67,
+      "effect_name": "Dark Element",
+      "amount": 1,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 71,
+      "effect_name": "Motion Speed %",
+      "amount": 3,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 90,
+      "applies_to": 0
+    }
+  ]
+}

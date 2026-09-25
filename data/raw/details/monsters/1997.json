@@ -1,0 +1,46 @@
+{
+  "id": 1997,
+  "name": "Weltacle",
+  "level": 168,
+  "map_id": 345,
+  "map_name": "Recetacula Sector: Area 1",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 15000,
+  "exp": 360,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4516,
+      "name": "Dazzling Ruff",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4517,
+      "name": "Grape Juice",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 4515,
+      "name": "Poison Bubbles",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4518,
+      "name": "Poison Needle",
+      "type_id": 7,
+      "type_label": "[Arrow]"
+    }
+  ]
+}

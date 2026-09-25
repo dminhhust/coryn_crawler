@@ -1,0 +1,33 @@
+{
+  "id": 5201,
+  "name": "Oni Horns Headband",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": -1,
+  "process": -1,
+  "process_amount": -1,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 77,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 15,
+      "effect_name": "Natural MP Regen",
+      "amount": 20,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 26,
+      "effect_name": "Magic Pierce %",
+      "amount": 20,
+      "applies_to": 0
+    }
+  ]
+}

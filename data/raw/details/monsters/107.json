@@ -1,0 +1,46 @@
+{
+  "id": 107,
+  "name": "Rutin",
+  "level": 28,
+  "map_id": 29,
+  "map_name": "Nisel Mountain: Near The Top",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 800,
+  "exp": 36,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 99,
+      "name": "Hard Dragon Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 114,
+      "name": "Jagged Fang",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 120,
+      "name": "Little Wyvern Wing",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 509,
+      "name": "Long Bow",
+      "type_id": 9,
+      "type_label": "[Bow]"
+    }
+  ]
+}

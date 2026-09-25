@@ -1,0 +1,39 @@
+{
+  "id": 2475,
+  "name": "Snowman Head",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 1,
+  "process": 6,
+  "process_amount": 2,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 88,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 17,
+      "effect_name": "MaxHP",
+      "amount": 3000,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 45,
+      "effect_name": "% stronger against Fire",
+      "amount": 2,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 51,
+      "effect_name": "Fire resistance %",
+      "amount": -30,
+      "applies_to": 0
+    }
+  ]
+}

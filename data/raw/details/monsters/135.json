@@ -1,0 +1,46 @@
+{
+  "id": 135,
+  "name": "Savaran (small)",
+  "level": 27,
+  "map_id": 38,
+  "map_name": "Fiery Volcano: Area 1",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 825,
+  "exp": 34,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 38,
+      "name": "Burning Liquid",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 103,
+      "name": "Heated Fang",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 117,
+      "name": "Lava Fragment",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 547,
+      "name": "Sallet",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

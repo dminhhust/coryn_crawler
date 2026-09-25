@@ -1,0 +1,46 @@
+{
+  "id": 2747,
+  "name": "Serpentragon",
+  "level": 215,
+  "map_id": 481,
+  "map_name": "Boma Moja: Area 1",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 35200,
+  "exp": 542,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6539,
+      "name": "Dragon Snake Shed",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6540,
+      "name": "Purple Lightning Sword",
+      "type_id": 27,
+      "type_label": "[Katana]"
+    },
+    {
+      "id": 6537,
+      "name": "Rough Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6538,
+      "name": "Sharp Poison Fang",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

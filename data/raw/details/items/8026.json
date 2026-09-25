@@ -1,0 +1,39 @@
+{
+  "id": 8026,
+  "name": "Gift Box Earrings",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 110,
+  "process": 3,
+  "process_amount": 55,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 36,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 95,
+      "effect_name": "EXP Gain %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 188,
+      "effect_name": "Pet EXP %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 207,
+      "effect_name": "Gem Dust Drop Amount %",
+      "amount": 10,
+      "applies_to": 0
+    }
+  ]
+}

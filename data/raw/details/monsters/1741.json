@@ -1,0 +1,46 @@
+{
+  "id": 1741,
+  "name": "Biped Frog",
+  "level": 142,
+  "map_id": 300,
+  "map_name": "Wazeero Street",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 8500,
+  "exp": 172,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4058,
+      "name": "Blue Fortune",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4056,
+      "name": "Flabby Belly Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4057,
+      "name": "Frog Meat",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 4059,
+      "name": "Pirate Bandana",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

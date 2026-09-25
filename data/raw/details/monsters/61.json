@@ -1,0 +1,40 @@
+{
+  "id": 61,
+  "name": "Ruin Rat",
+  "level": 9,
+  "map_id": 17,
+  "map_name": "Debakcy Channel: B1",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 250,
+  "exp": 10,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 197,
+      "name": "Small Gloves",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 198,
+      "name": "Small Hilt",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 573,
+      "name": "Warrior Helm",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

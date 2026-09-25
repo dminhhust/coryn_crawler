@@ -1,0 +1,52 @@
+{
+  "id": 3064,
+  "name": "Megiston (8th Anniv)",
+  "level": 285,
+  "map_id": 538,
+  "map_name": "Anniversary Arena: 8th Venue",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 37000000,
+  "exp": 300000,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7337,
+      "name": "Emotion Ticket V",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 7339,
+      "name": "Megiston the Champion VI",
+      "type_id": 210,
+      "type_label": "[Enhancer Crysta (Red)]"
+    },
+    {
+      "id": 911,
+      "name": "Orichalcum Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 6488,
+      "name": "Revita VIII",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 7338,
+      "name": "Soleil The Heat Sword III",
+      "type_id": 5,
+      "type_label": "[2 Handed Sword]"
+    }
+  ]
+}

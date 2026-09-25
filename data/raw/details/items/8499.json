@@ -1,0 +1,39 @@
+{
+  "id": 8499,
+  "name": "Dango Hairpin",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 130,
+  "process": 3,
+  "process_amount": 65,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 61,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 15,
+      "effect_name": "Natural MP Regen",
+      "amount": 35,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 19,
+      "effect_name": "MaxMP",
+      "amount": 300,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 68,
+      "effect_name": "Attack MP Recovery",
+      "amount": 5,
+      "applies_to": 0
+    }
+  ]
+}

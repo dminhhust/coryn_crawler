@@ -1,0 +1,46 @@
+{
+  "id": 346,
+  "name": "Planet Head (Purple)",
+  "level": 63,
+  "map_id": 100,
+  "map_name": "Gate to Another World: Area 1",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 10000,
+  "exp": 296,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1153,
+      "name": "Curled Horns",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 1152,
+      "name": "Outer World Nail",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1151,
+      "name": "Shining Shooting Star",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1150,
+      "name": "Star Sand",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

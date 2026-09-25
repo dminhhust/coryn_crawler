@@ -1,0 +1,14 @@
+{
+  "id": 7382,
+  "name": "Dark Red Eye",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 26,
+  "process": 1,
+  "process_amount": 26,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

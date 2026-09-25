@@ -1,0 +1,39 @@
+{
+  "id": 661,
+  "name": "Wind Slash Arrow",
+  "type_id": 7,
+  "type_label": "[Arrow]",
+  "sell": -1,
+  "process": 0,
+  "process_amount": -1,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 11,
+      "effect_name": "DEX",
+      "amount": 1,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 25,
+      "effect_name": "Physical Pierce %",
+      "amount": 1,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 20,
+      "applies_to": 0
+    }
+  ]
+}

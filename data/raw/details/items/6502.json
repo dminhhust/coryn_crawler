@@ -1,0 +1,27 @@
+{
+  "id": 6502,
+  "name": "Big Takoyaki (Scallion)",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 62,
+  "process": 0,
+  "process_amount": 0,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 41,
+      "effect_name": "Critical Rate",
+      "amount": 15,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 53,
+      "effect_name": "Wind resistance %",
+      "amount": 30,
+      "applies_to": 0
+    }
+  ]
+}

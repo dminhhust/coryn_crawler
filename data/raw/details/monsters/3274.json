@@ -1,0 +1,40 @@
+{
+  "id": 3274,
+  "name": "Etoise",
+  "level": 290,
+  "map_id": 404,
+  "map_name": "High Difficulty Boss Battle Event Venue",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": -1,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7134,
+      "name": "Etoise",
+      "type_id": 240,
+      "type_label": "[Enhancer Crysta (Purple)]"
+    },
+    {
+      "id": 7132,
+      "name": "Mysterious Music Box",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 7133,
+      "name": "Mystic Star Spear",
+      "type_id": 26,
+      "type_label": "[Halberd]"
+    }
+  ]
+}

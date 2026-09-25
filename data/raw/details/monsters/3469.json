@@ -1,0 +1,58 @@
+{
+  "id": 3469,
+  "name": "Squirinja",
+  "level": 280,
+  "map_id": 689,
+  "map_name": "Mt. White Peach: Depth",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Hard",
+  "hp": 20110000,
+  "exp": 76080,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 8492,
+      "name": "Flying Squirrel Patagium",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 816,
+      "name": "Mithril Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 8491,
+      "name": "Mt. White Peach Pebble",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 8104,
+      "name": "Shadow Horn",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 8105,
+      "name": "Shadow Suit",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 8107,
+      "name": "Squirinja",
+      "type_id": 220,
+      "type_label": "[Enhancer Crysta (Green)]"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 580,
+  "name": "Flying Crystal",
+  "level": 78,
+  "map_id": 155,
+  "map_name": "Plastida: Area 1",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 110,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1961,
+      "name": "Cracked Crystal Bit",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1962,
+      "name": "Cracked Crystal Core",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1963,
+      "name": "Dully Glowing Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1964,
+      "name": "One Eye Mask",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

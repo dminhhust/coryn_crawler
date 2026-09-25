@@ -1,0 +1,46 @@
+{
+  "id": 1511,
+  "name": "Mitta Tret",
+  "level": 138,
+  "map_id": 272,
+  "map_name": "Ruins of Mt. Mithurna: Stylobate",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 16000,
+  "exp": 328,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3509,
+      "name": "Cute Tail",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3508,
+      "name": "Midnight Blue Fur",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3511,
+      "name": "Prince-nez Classes",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 3510,
+      "name": "Shining Blue Tear",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": 2108,
+  "name": "Topaz Eater",
+  "level": 210,
+  "map_id": 367,
+  "map_name": "Anniversary Arena: 5th Venue",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Hard",
+  "hp": 4440000,
+  "exp": 19800,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4008,
+      "name": "Anniversary Silk",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4843,
+      "name": "Golpom 5th Anniv Medal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4850,
+      "name": "Revita VII",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

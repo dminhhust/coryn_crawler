@@ -1,0 +1,28 @@
+{
+  "id": 2308,
+  "name": "Rainy Season Event Reception",
+  "level": 0,
+  "map_id": 87,
+  "map_name": "Event",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 0,
+  "exp": 0,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5463,
+      "name": "Weather Doll",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

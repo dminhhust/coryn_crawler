@@ -1,0 +1,21 @@
+{
+  "id": 906,
+  "name": "Giga Speed Potion",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 5,
+  "process": 5,
+  "process_amount": 6,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 37,
+      "effect_name": "ASPD",
+      "amount": 750,
+      "applies_to": 0
+    }
+  ]
+}

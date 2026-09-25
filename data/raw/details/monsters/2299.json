@@ -1,0 +1,46 @@
+{
+  "id": 2299,
+  "name": "Juvestida",
+  "level": 187,
+  "map_id": 401,
+  "map_name": "Nov Diela Area 2",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 26710,
+  "exp": 429,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5439,
+      "name": "Energy Bottle EX",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 5438,
+      "name": "Glowing Liposome",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5440,
+      "name": "Specistida",
+      "type_id": 18,
+      "type_label": "[Special]"
+    },
+    {
+      "id": 5437,
+      "name": "Viscous Liquid",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

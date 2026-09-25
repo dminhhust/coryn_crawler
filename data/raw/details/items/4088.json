@@ -1,0 +1,39 @@
+{
+  "id": 4088,
+  "name": "Moonlight Shield",
+  "type_id": 17,
+  "type_label": "[Shield]",
+  "sell": 155,
+  "process": 6,
+  "process_amount": 77,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 22,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 32,
+      "effect_name": "Magic Resistance %",
+      "amount": 25,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 51,
+      "effect_name": "Fire resistance %",
+      "amount": 15,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 128,
+      "effect_name": "Magic Barrier",
+      "amount": 1000,
+      "applies_to": 0
+    }
+  ]
+}

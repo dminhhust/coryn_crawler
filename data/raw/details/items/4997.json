@@ -1,0 +1,39 @@
+{
+  "id": 4997,
+  "name": "Riverine Barrel",
+  "type_id": 10,
+  "type_label": "[Bowgun]",
+  "sell": 170,
+  "process": 3,
+  "process_amount": 85,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 212,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 50,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 113,
+      "effect_name": "Potential",
+      "amount": 42,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 211,
+      "effect_name": "Attack Range (m)",
+      "amount": 8,
+      "applies_to": 0
+    }
+  ]
+}

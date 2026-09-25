@@ -1,0 +1,39 @@
+{
+  "id": 3773,
+  "name": "Squirrel Tail",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 80,
+  "process": 1,
+  "process_amount": 40,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 87,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 25,
+      "effect_name": "Physical Pierce %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 41,
+      "effect_name": "Critical Rate",
+      "amount": 15,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 181,
+      "effect_name": "Absolute Dodge %",
+      "amount": 5,
+      "applies_to": 0
+    }
+  ]
+}

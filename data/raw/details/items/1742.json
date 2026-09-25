@@ -1,0 +1,33 @@
+{
+  "id": 1742,
+  "name": "Cerberus",
+  "type_id": 22,
+  "type_label": "[Armor Crysta]",
+  "sell": 1,
+  "process": 6,
+  "process_amount": 2,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 25,
+      "effect_name": "Physical Pierce %",
+      "amount": 3,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 43,
+      "effect_name": "Critical Damage",
+      "amount": 3,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 117,
+      "effect_name": "Unsheathe Attack %",
+      "amount": 3,
+      "applies_to": 0
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 2901,
+  "name": "Adado",
+  "level": 204,
+  "map_id": 513,
+  "map_name": "Mt. Sakuraten",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 310,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 78,
+      "name": "Flower Nectar",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 257,
+      "name": "Onigiri",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 6918,
+      "name": "Sakura Warrior Emblem",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1065,
+      "name": "Toram Liquor",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

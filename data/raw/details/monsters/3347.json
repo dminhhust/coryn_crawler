@@ -1,0 +1,64 @@
+{
+  "id": 3347,
+  "name": "Breeta (Very Hard)",
+  "level": 280,
+  "map_id": 643,
+  "map_name": "Day Sakura Garden",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Very Hard",
+  "hp": 20000000,
+  "exp": 82000,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7639,
+      "name": "Breeta",
+      "type_id": 240,
+      "type_label": "[Enhancer Crysta (Purple)]"
+    },
+    {
+      "id": 7796,
+      "name": "Breeta Mask",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 8112,
+      "name": "Breeta's Claw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 8113,
+      "name": "Breeta's Ring Fragment",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 8122,
+      "name": "Crystalline Thread",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 8123,
+      "name": "Fine Sakura Fabric",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 8114,
+      "name": "Ominous Ash",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

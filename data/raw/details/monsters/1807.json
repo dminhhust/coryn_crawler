@@ -1,0 +1,46 @@
+{
+  "id": 1807,
+  "name": "Spooky Bat",
+  "level": 132,
+  "map_id": 312,
+  "map_name": "Zarth's Mansion: Parlor",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 286,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": true,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4178,
+      "name": "Magical Meat Pie",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 2445,
+      "name": "MP+200",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 3318,
+      "name": "Sharp Foretooth",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3223,
+      "name": "Small Claw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

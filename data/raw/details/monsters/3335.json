@@ -1,0 +1,46 @@
+{
+  "id": 3335,
+  "name": "Vebee",
+  "level": 220,
+  "map_id": 640,
+  "map_name": "Anglaise Forest",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "",
+  "hp": 20500,
+  "exp": 633,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 8062,
+      "name": "Bee Pollen",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 8063,
+      "name": "Beelittin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 8065,
+      "name": "Marshmallow Headband",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 8064,
+      "name": "Worker Bee Stash",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

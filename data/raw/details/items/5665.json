@@ -1,0 +1,27 @@
+{
+  "id": 5665,
+  "name": "Anniversary Festive Garb II",
+  "type_id": 8,
+  "type_label": "[Armor]",
+  "sell": 200,
+  "process": 4,
+  "process_amount": 100,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 200,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 113,
+      "effect_name": "Potential",
+      "amount": 45,
+      "applies_to": 0
+    }
+  ]
+}

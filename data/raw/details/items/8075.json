@@ -1,0 +1,14 @@
+{
+  "id": 8075,
+  "name": "Beautiful Corsage",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 33,
+  "process": 4,
+  "process_amount": 33,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

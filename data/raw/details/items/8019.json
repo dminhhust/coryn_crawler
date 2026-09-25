@@ -1,0 +1,14 @@
+{
+  "id": 8019,
+  "name": "Abyssal Greatsword",
+  "type_id": 5,
+  "type_label": "[2 Handed Sword]",
+  "sell": 280,
+  "process": 1,
+  "process_amount": 140,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

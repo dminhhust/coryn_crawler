@@ -1,0 +1,46 @@
+{
+  "id": 600,
+  "name": "Shadow Fly",
+  "level": 94,
+  "map_id": 159,
+  "map_name": "Dark Castle: Area 2",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 127,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2004,
+      "name": "Dark Shadow Feather",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2006,
+      "name": "Double Strings",
+      "type_id": 10,
+      "type_label": "[Bowgun]"
+    },
+    {
+      "id": 78,
+      "name": "Flower Nectar",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 2005,
+      "name": "Shadow Scale",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

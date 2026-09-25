@@ -1,0 +1,81 @@
+{
+  "id": 8120,
+  "name": "Weeping Sakura Petals",
+  "type_id": 15,
+  "type_label": "[Magic Device]",
+  "sell": 265,
+  "process": 6,
+  "process_amount": 132,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 266,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 12,
+      "effect_name": "DEX %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 23,
+      "effect_name": "MATK %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 37,
+      "effect_name": "ASPD",
+      "amount": 500,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 40,
+      "effect_name": "CSPD %",
+      "amount": 50,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 46,
+      "effect_name": "% stronger against Water",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 57,
+      "effect_name": "Ailment Resistance %",
+      "amount": 25,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 64,
+      "effect_name": "Wind Element",
+      "amount": 1,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 70,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 211,
+      "effect_name": "Attack Range (m)",
+      "amount": 3,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 266,
+      "effect_name": "Light resistance %",
+      "amount": 25,
+      "applies_to": 0
+    }
+  ]
+}

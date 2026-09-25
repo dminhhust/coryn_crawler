@@ -1,0 +1,58 @@
+{
+  "id": 978,
+  "name": "Odelon Machina",
+  "level": 146,
+  "map_id": 186,
+  "map_name": "Large Demi Machina Factory: Area 2",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 21357,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2448,
+      "name": "Huge Eyeball",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2458,
+      "name": "Lezvie",
+      "type_id": 5,
+      "type_label": "[2 Handed Sword]"
+    },
+    {
+      "id": 2459,
+      "name": "Magic Lens",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2536,
+      "name": "Odelon Machina",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 2446,
+      "name": "Strange Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2447,
+      "name": "Tough Tentacle",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

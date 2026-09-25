@@ -1,0 +1,58 @@
+{
+  "id": 1989,
+  "name": "Mercy (Strawberry)",
+  "level": 160,
+  "map_id": 121,
+  "map_name": "Dunkel Valley",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Hard",
+  "hp": 4000000,
+  "exp": 20000,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4490,
+      "name": "Fluffy Marshmallow",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4485,
+      "name": "Fortuita Vestibus",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 4489,
+      "name": "Mercy",
+      "type_id": 23,
+      "type_label": "[Additional Crysta]"
+    },
+    {
+      "id": 911,
+      "name": "Orichalcum Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 4488,
+      "name": "Piping Hot Syrup",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2075,
+      "name": "Tapir Hood",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

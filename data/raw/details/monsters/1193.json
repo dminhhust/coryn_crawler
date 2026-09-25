@@ -1,0 +1,46 @@
+{
+  "id": 1193,
+  "name": "Wheel Machina",
+  "level": 130,
+  "map_id": 236,
+  "map_name": "Ultimea Palace: Demi Machina Storage",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 19000,
+  "exp": 420,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2940,
+      "name": "Broken Light",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2941,
+      "name": "Heavy Wheel",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2943,
+      "name": "Mechanic Hat",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 2942,
+      "name": "Sticky Wax",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": 2586,
+  "name": "Blazingur",
+  "level": 245,
+  "map_id": 459,
+  "map_name": "Divido Valley: Area 3",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 43740,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6047,
+      "name": "Blazing Mane",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6049,
+      "name": "Blazingur",
+      "type_id": 200,
+      "type_label": "[Enhancer Crysta (Blue)]"
+    },
+    {
+      "id": 6048,
+      "name": "Bloody Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6050,
+      "name": "Fire Bandana",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 6046,
+      "name": "Red Claw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

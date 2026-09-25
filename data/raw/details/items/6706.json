@@ -1,0 +1,14 @@
+{
+  "id": 6706,
+  "name": "Filrocas' Blue Eye",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": -1,
+  "process": 6,
+  "process_amount": -1,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

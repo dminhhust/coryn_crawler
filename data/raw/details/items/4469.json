@@ -1,0 +1,14 @@
+{
+  "id": 4469,
+  "name": "Floating Corroded Crystal Bit",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 22,
+  "process": 3,
+  "process_amount": 21,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

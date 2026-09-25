@@ -1,0 +1,14 @@
+{
+  "id": 2356,
+  "name": "Mysterious Magic Lantern",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 17,
+  "process": 6,
+  "process_amount": 4,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

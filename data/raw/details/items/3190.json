@@ -1,0 +1,14 @@
+{
+  "id": 3190,
+  "name": "Cracked Old Type Armor",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 15,
+  "process": 3,
+  "process_amount": 15,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

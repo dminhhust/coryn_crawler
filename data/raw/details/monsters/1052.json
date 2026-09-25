@@ -1,0 +1,46 @@
+{
+  "id": 1052,
+  "name": "Pecols",
+  "level": 113,
+  "map_id": 200,
+  "map_name": "Monster's Forest: Animal Trail",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 10000,
+  "exp": 216,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2604,
+      "name": "Flower Bulb Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2606,
+      "name": "Onion",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2607,
+      "name": "Sefeed Bow",
+      "type_id": 9,
+      "type_label": "[Bow]"
+    },
+    {
+      "id": 2605,
+      "name": "Tear Liquid",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

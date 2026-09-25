@@ -1,0 +1,39 @@
+{
+  "id": 1600,
+  "name": "Inzanio",
+  "type_id": 20,
+  "type_label": "[Normal Crysta]",
+  "sell": 1,
+  "process": 6,
+  "process_amount": 2,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 59,
+      "effect_name": "Guard Recharge %",
+      "amount": 1,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 68,
+      "effect_name": "Attack MP Recovery",
+      "amount": -1,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 73,
+      "effect_name": "Weapon ATK",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 127,
+      "effect_name": "Fractional Barrier %",
+      "amount": 3,
+      "applies_to": 0
+    }
+  ]
+}

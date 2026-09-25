@@ -1,0 +1,51 @@
+{
+  "id": 7592,
+  "name": "Light Trident",
+  "type_id": 26,
+  "type_label": "[Halberd]",
+  "sell": 230,
+  "process": 3,
+  "process_amount": 115,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 678,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 21,
+      "effect_name": "ATK %",
+      "amount": 9,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 25,
+      "effect_name": "Physical Pierce %",
+      "amount": 25,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 26,
+      "effect_name": "Magic Pierce %",
+      "amount": 20,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 36,
+      "effect_name": "Dodge %",
+      "amount": 40,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 66,
+      "effect_name": "Light Element",
+      "amount": 1,
+      "applies_to": 0
+    }
+  ]
+}

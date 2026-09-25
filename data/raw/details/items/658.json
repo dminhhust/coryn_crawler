@@ -1,0 +1,39 @@
+{
+  "id": 658,
+  "name": "Army Knife",
+  "type_id": 11,
+  "type_label": "[Dagger]",
+  "sell": -1,
+  "process": 0,
+  "process_amount": -1,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 27,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 11,
+      "effect_name": "DEX",
+      "amount": 2,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 19,
+      "effect_name": "MaxMP",
+      "amount": 100,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 60,
+      "effect_name": "Evasion Recharge %",
+      "amount": 10,
+      "applies_to": 0
+    }
+  ]
+}

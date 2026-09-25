@@ -1,0 +1,21 @@
+{
+  "id": 1852,
+  "name": "Ultra High Grade Candy",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 300,
+  "process": 6,
+  "process_amount": 10,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 80,
+      "effect_name": "MP",
+      "amount": 100,
+      "applies_to": 0
+    }
+  ]
+}

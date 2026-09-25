@@ -1,0 +1,46 @@
+{
+  "id": 3157,
+  "name": "Corroded Starfish",
+  "level": 234,
+  "map_id": 572,
+  "map_name": "Path to the Deep Sea",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 0,
+  "exp": 225,
+  "element_id": -1,
+  "element_label": "Unknown",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7558,
+      "name": "Corroded Spine",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7600,
+      "name": "CSPD+160",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 7561,
+      "name": "Mass of Seaweed",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7557,
+      "name": "Starfish Fang",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

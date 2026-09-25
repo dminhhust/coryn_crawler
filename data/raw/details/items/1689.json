@@ -1,0 +1,33 @@
+{
+  "id": 1689,
+  "name": "Icebow Verglas",
+  "type_id": 9,
+  "type_label": "[Bow]",
+  "sell": 85,
+  "process": 6,
+  "process_amount": 42,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 60,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 60,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 113,
+      "effect_name": "Potential",
+      "amount": 28,
+      "applies_to": 0
+    }
+  ]
+}

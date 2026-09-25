@@ -1,0 +1,33 @@
+{
+  "id": 6493,
+  "name": "Anniv Festive Ring III",
+  "type_id": 18,
+  "type_label": "[Special]",
+  "sell": 112,
+  "process": 2,
+  "process_amount": 56,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 3,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 19,
+      "effect_name": "MaxMP",
+      "amount": 600,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 95,
+      "effect_name": "EXP Gain %",
+      "amount": 15,
+      "applies_to": 0
+    }
+  ]
+}

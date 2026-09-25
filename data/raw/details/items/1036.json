@@ -1,0 +1,14 @@
+{
+  "id": 1036,
+  "name": "Cracked Rib",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 6,
+  "process": 1,
+  "process_amount": 5,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

@@ -1,0 +1,58 @@
+{
+  "id": 1117,
+  "name": "Deniala",
+  "level": 130,
+  "map_id": 219,
+  "map_name": "Hanami Event Venue: Dock (Chapter 3 Hard)",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Hard",
+  "hp": 1900000,
+  "exp": 11000,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 436,
+      "name": "Adventurer's Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 436,
+      "name": "Adventurer's Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 436,
+      "name": "Adventurer's Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 2785,
+      "name": "Deniala",
+      "type_id": 240,
+      "type_label": "[Enhancer Crysta (Purple)]"
+    },
+    {
+      "id": 2783,
+      "name": "Moist Sakura Branch",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2784,
+      "name": "Sakura Eater Feather",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

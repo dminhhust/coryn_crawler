@@ -1,0 +1,46 @@
+{
+  "id": 2802,
+  "name": "Octaray",
+  "level": 210,
+  "map_id": 495,
+  "map_name": "Stairway to Vital Point",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 18670,
+  "exp": 267,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6679,
+      "name": "Big Soft Shell",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6682,
+      "name": "DEX+7",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 6681,
+      "name": "Poisonous Fruit",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 6680,
+      "name": "Thin Eyeball",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

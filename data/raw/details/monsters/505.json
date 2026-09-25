@@ -1,0 +1,46 @@
+{
+  "id": 505,
+  "name": "Jewel Eye",
+  "level": 84,
+  "map_id": 139,
+  "map_name": "Spring of Rebirth: Middle",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 7000,
+  "exp": 169,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1767,
+      "name": "Huge Gemstone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1768,
+      "name": "Plasma Gun",
+      "type_id": 10,
+      "type_label": "[Bowgun]"
+    },
+    {
+      "id": 1766,
+      "name": "Rainbow Glass",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1765,
+      "name": "Wavering Cloth",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

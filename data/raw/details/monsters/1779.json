@@ -1,0 +1,46 @@
+{
+  "id": 1779,
+  "name": "Nectivorider",
+  "level": 156,
+  "map_id": 307,
+  "map_name": "Morthell Swell: Area 1",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 30000,
+  "exp": 360,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4110,
+      "name": "Aroma Herb",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4111,
+      "name": "Natra Bowgun",
+      "type_id": 10,
+      "type_label": "[Bowgun]"
+    },
+    {
+      "id": 4109,
+      "name": "Spoiled Herb",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4050,
+      "name": "Tasty Honey",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

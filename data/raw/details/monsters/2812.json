@@ -1,0 +1,46 @@
+{
+  "id": 2812,
+  "name": "Voluto",
+  "level": 222,
+  "map_id": 497,
+  "map_name": "Weredragon's Vital Point: Area 2",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 37500,
+  "exp": 571,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6700,
+      "name": "Aeria Spada",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    },
+    {
+      "id": 6699,
+      "name": "Crooked Horn",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6697,
+      "name": "Strange Thin Wing",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6698,
+      "name": "Swirling Membrane",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

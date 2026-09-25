@@ -1,0 +1,33 @@
+{
+  "id": 5977,
+  "name": "Wanderflasche",
+  "type_id": 15,
+  "type_label": "[Magic Device]",
+  "sell": 205,
+  "process": 6,
+  "process_amount": 102,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 180,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 70,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 113,
+      "effect_name": "Potential",
+      "amount": 48,
+      "applies_to": 0
+    }
+  ]
+}

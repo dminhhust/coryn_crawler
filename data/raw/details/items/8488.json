@@ -1,0 +1,63 @@
+{
+  "id": 8488,
+  "name": "Shadow Horn",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 145,
+  "process": 1,
+  "process_amount": 72,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 24,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 10,
+      "effect_name": "AGI %",
+      "amount": 9,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 17,
+      "effect_name": "MaxHP",
+      "amount": 5000,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 21,
+      "effect_name": "ATK %",
+      "amount": 9,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 33,
+      "effect_name": "Accuracy",
+      "amount": 100,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 34,
+      "effect_name": "Accuracy %",
+      "amount": 40,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 75,
+      "effect_name": "Neutral Resistance %",
+      "amount": -25,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 175,
+      "effect_name": "Absolute Accuracy %",
+      "amount": 4,
+      "applies_to": 0
+    }
+  ]
+}

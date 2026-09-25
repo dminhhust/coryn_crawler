@@ -1,0 +1,45 @@
+{
+  "id": 1646,
+  "name": "Twilight Dagger",
+  "type_id": 11,
+  "type_label": "[Dagger]",
+  "sell": 90,
+  "process": 6,
+  "process_amount": 45,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 38,
+      "effect_name": "ASPD %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 40,
+      "effect_name": "CSPD %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 129,
+      "effect_name": "Additional Melee %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 130,
+      "effect_name": "Additional Magic %",
+      "amount": 10,
+      "applies_to": 0
+    }
+  ]
+}

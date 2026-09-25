@@ -1,0 +1,64 @@
+{
+  "id": 3097,
+  "name": "Red Ash Dragon Rudis",
+  "level": 299,
+  "map_id": 544,
+  "map_name": "Espuma Dome: Entrance",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Ultimate",
+  "hp": 63000000,
+  "exp": 246000,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7395,
+      "name": "Amnis Rapier",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    },
+    {
+      "id": 7394,
+      "name": "Amnis Staff",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    },
+    {
+      "id": 7390,
+      "name": "Colorful Dragon Horn",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7392,
+      "name": "Extremely Scary Face",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7393,
+      "name": "Red Ash Dragon Rudis",
+      "type_id": 200,
+      "type_label": "[Enhancer Crysta (Blue)]"
+    },
+    {
+      "id": 7389,
+      "name": "Red Ash Dragon Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7391,
+      "name": "Thorny Hammer Tail",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

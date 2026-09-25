@@ -1,0 +1,33 @@
+{
+  "id": 684,
+  "name": "Hachigane",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 2,
+  "process": 3,
+  "process_amount": 2,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 2,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 7,
+      "effect_name": "VIT",
+      "amount": 2,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 17,
+      "effect_name": "MaxHP",
+      "amount": 100,
+      "applies_to": 0
+    }
+  ]
+}

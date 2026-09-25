@@ -1,0 +1,46 @@
+{
+  "id": 408,
+  "name": "Orange Jelly",
+  "level": 69,
+  "map_id": 117,
+  "map_name": "Magic Waste Site: Area 1",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 139,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1368,
+      "name": "Greasy Liquid",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1369,
+      "name": "Magic Waste",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1367,
+      "name": "Orange Gelatin",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 543,
+      "name": "Ribbon",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

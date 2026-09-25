@@ -1,0 +1,64 @@
+{
+  "id": 2960,
+  "name": "Brass Dragon Reguita",
+  "level": 290,
+  "map_id": 526,
+  "map_name": "Boma Konda: Village Center",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Ultimate",
+  "hp": 70000000,
+  "exp": 289000,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7052,
+      "name": "Agradable",
+      "type_id": 10,
+      "type_label": "[Bowgun]"
+    },
+    {
+      "id": 7049,
+      "name": "Brass Dragon Reguita",
+      "type_id": 210,
+      "type_label": "[Enhancer Crysta (Red)]"
+    },
+    {
+      "id": 7047,
+      "name": "Brass Dragon Sharp Fang",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7050,
+      "name": "Brass Dragon Sword",
+      "type_id": 27,
+      "type_label": "[Katana]"
+    },
+    {
+      "id": 7051,
+      "name": "Brass Dragon Tail",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7048,
+      "name": "Brass Dragon Trumpet Horn",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7046,
+      "name": "Broken Accessory Chip",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 295,
+  "name": "Healing",
+  "level": 0,
+  "map_id": 86,
+  "map_name": "Daily Stamp",
+  "type_code": "O",
+  "type_label": "Orb Shop",
+  "mode": "Normal",
+  "hp": 0,
+  "exp": 0,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 921,
+      "name": "Special Revita",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": 48,
+  "name": "Miracle Potum",
+  "level": 42,
+  "map_id": 13,
+  "map_name": "Ruined Temple: Area 2",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "Normal",
+  "hp": 29000,
+  "exp": 600,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 436,
+      "name": "Adventurer's Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 252,
+      "name": "Hard Apple",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 313,
+      "name": "Miracle Potum",
+      "type_id": 21,
+      "type_label": "[Weapon Crysta]"
+    },
+    {
+      "id": 528,
+      "name": "Morning Star",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    },
+    {
+      "id": 164,
+      "name": "Potum Nail",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 266,
+      "name": "Save Point",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

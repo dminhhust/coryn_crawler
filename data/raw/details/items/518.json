@@ -1,0 +1,39 @@
+{
+  "id": 518,
+  "name": "Magic Scarf",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 20,
+  "process": 4,
+  "process_amount": 10,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 16,
+      "effect_name": "Natural MP Regen %",
+      "amount": 8,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 19,
+      "effect_name": "MaxMP",
+      "amount": 100,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 68,
+      "effect_name": "Attack MP Recovery",
+      "amount": 3,
+      "applies_to": 0
+    }
+  ]
+}

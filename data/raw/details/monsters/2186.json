@@ -1,0 +1,46 @@
+{
+  "id": 2186,
+  "name": "Espectro",
+  "level": 221,
+  "map_id": 381,
+  "map_name": "Arche Valley: Area 1",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 33600,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5076,
+      "name": "Espectro",
+      "type_id": 240,
+      "type_label": "[Enhancer Crysta (Purple)]"
+    },
+    {
+      "id": 5073,
+      "name": "Metal Shackles",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5074,
+      "name": "Skull Mask Fragment",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5075,
+      "name": "Vengeful Soul",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

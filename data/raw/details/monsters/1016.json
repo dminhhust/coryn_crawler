@@ -1,0 +1,46 @@
+{
+  "id": 1016,
+  "name": "Colton",
+  "level": 70,
+  "map_id": 197,
+  "map_name": "Navida City: West  (60-80)",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 120,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1584,
+      "name": "Frozen Twig",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1517,
+      "name": "Moist Twig",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1329,
+      "name": "MP+150",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 1458,
+      "name": "Tree Spirit Soul",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

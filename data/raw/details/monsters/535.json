@@ -1,0 +1,40 @@
+{
+  "id": 535,
+  "name": "Raffy",
+  "level": 3,
+  "map_id": 22,
+  "map_name": "Rugio Ruins",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 85,
+  "exp": 2,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6,
+      "name": "Animal Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 80,
+      "name": "Fluffy Fur",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 317,
+      "name": "MP+50",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    }
+  ]
+}

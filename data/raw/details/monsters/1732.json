@@ -1,0 +1,34 @@
+{
+  "id": 1732,
+  "name": "Vice Chief Guard Dula",
+  "level": 205,
+  "map_id": 299,
+  "map_name": "Anniversary Arena: 4th Venue",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Nightmare",
+  "hp": 7500000,
+  "exp": 35000,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4007,
+      "name": "Golpom 4th Anniv Medal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3108,
+      "name": "Revita VI",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

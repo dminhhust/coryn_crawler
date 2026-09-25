@@ -1,0 +1,33 @@
+{
+  "id": 5210,
+  "name": "Candy Hair Bow",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": -1,
+  "process": -1,
+  "process_amount": -1,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 47,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 47,
+      "effect_name": "% stronger against Wind",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 129,
+      "effect_name": "Additional Melee %",
+      "amount": 100,
+      "applies_to": 0
+    }
+  ]
+}

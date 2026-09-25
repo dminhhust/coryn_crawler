@@ -1,0 +1,46 @@
+{
+  "id": 94,
+  "name": "Frosch",
+  "level": 14,
+  "map_id": 26,
+  "map_name": "Icule Lake",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 175,
+  "exp": 8,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 86,
+      "name": "Frog Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 113,
+      "name": "Icule Water",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 125,
+      "name": "Lotus Leaf",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 561,
+      "name": "Sword Bowgun",
+      "type_id": 10,
+      "type_label": "[Bowgun]"
+    }
+  ]
+}

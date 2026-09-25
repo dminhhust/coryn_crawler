@@ -1,0 +1,33 @@
+{
+  "id": 732,
+  "name": "Magic Swordsman's Ring",
+  "type_id": 18,
+  "type_label": "[Special]",
+  "sell": -1,
+  "process": 0,
+  "process_amount": -1,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 21,
+      "effect_name": "ATK %",
+      "amount": -25,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 23,
+      "effect_name": "MATK %",
+      "amount": -25,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 68,
+      "effect_name": "Attack MP Recovery",
+      "amount": 10,
+      "applies_to": 0
+    }
+  ]
+}

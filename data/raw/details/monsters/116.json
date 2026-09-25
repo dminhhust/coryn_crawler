@@ -1,0 +1,52 @@
+{
+  "id": 116,
+  "name": "Pico",
+  "level": 18,
+  "map_id": 32,
+  "map_name": "Rinom Plains",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 235,
+  "exp": 11,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 275,
+      "name": "AGI+1",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 15,
+      "name": "Bird Wing",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 101,
+      "name": "Hard Stem",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 122,
+      "name": "Long Beak",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 550,
+      "name": "Scarf",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

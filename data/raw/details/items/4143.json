@@ -1,0 +1,27 @@
+{
+  "id": 4143,
+  "name": "Magic Talisman V",
+  "type_id": 18,
+  "type_label": "[Special]",
+  "sell": 101,
+  "process": 2,
+  "process_amount": 51,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 5,
+      "effect_name": "INT",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 19,
+      "effect_name": "MaxMP",
+      "amount": 600,
+      "applies_to": 0
+    }
+  ]
+}

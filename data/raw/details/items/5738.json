@@ -1,0 +1,33 @@
+{
+  "id": 5738,
+  "name": "Plate Armor",
+  "type_id": 8,
+  "type_label": "[Armor]",
+  "sell": 35,
+  "process": 3,
+  "process_amount": 17,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 30,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 17,
+      "effect_name": "MaxHP",
+      "amount": 5000,
+      "applies_to": 16384
+    },
+    {
+      "effect_id": 143,
+      "effect_name": "ATK UP (VIT %)",
+      "amount": 100,
+      "applies_to": 0
+    }
+  ]
+}

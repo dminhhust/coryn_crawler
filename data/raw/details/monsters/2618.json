@@ -1,0 +1,46 @@
+{
+  "id": 2618,
+  "name": "Tulin",
+  "level": 160,
+  "map_id": 465,
+  "map_name": "Sugar Plain",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 26000,
+  "exp": 458,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": true,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6156,
+      "name": "Gleeful Vine Bangle",
+      "type_id": 18,
+      "type_label": "[Special]"
+    },
+    {
+      "id": 4048,
+      "name": "Strong Stem",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6155,
+      "name": "Sweet and Sour Vine",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4050,
+      "name": "Tasty Honey",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

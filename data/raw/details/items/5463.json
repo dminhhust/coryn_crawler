@@ -1,0 +1,57 @@
+{
+  "id": 5463,
+  "name": "Weather Doll",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 200,
+  "process": 6,
+  "process_amount": 200,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 20,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 52,
+      "effect_name": "Water resistance %",
+      "amount": 20,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 124,
+      "effect_name": "Physical Barrier",
+      "amount": 1000,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 128,
+      "effect_name": "Magic Barrier",
+      "amount": 1000,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 129,
+      "effect_name": "Additional Melee %",
+      "amount": 100,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 130,
+      "effect_name": "Additional Magic %",
+      "amount": 100,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 141,
+      "effect_name": "Barrier Cooldown %",
+      "amount": 20,
+      "applies_to": 0
+    }
+  ]
+}

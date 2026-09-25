@@ -1,0 +1,51 @@
+{
+  "id": 843,
+  "name": "Fire Staff",
+  "type_id": 19,
+  "type_label": "[Staff]",
+  "sell": 50,
+  "process": 2,
+  "process_amount": 25,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 54,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 16,
+      "effect_name": "Natural MP Regen %",
+      "amount": -15,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 23,
+      "effect_name": "MATK %",
+      "amount": 2,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 51,
+      "effect_name": "Fire resistance %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 62,
+      "effect_name": "Fire Element",
+      "amount": 1,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 60,
+      "applies_to": 0
+    }
+  ]
+}

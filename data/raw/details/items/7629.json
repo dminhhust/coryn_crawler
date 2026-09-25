@@ -1,0 +1,39 @@
+{
+  "id": 7629,
+  "name": "Sakura Fan",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 125,
+  "process": 2,
+  "process_amount": 62,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 181,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 17,
+      "effect_name": "MaxHP",
+      "amount": 5000,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 19,
+      "effect_name": "MaxMP",
+      "amount": 400,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 42,
+      "effect_name": "Critical Rate %",
+      "amount": 30,
+      "applies_to": 0
+    }
+  ]
+}

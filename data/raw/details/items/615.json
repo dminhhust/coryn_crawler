@@ -1,0 +1,45 @@
+{
+  "id": 615,
+  "name": "High-Quality Wood Arrow",
+  "type_id": 7,
+  "type_label": "[Arrow]",
+  "sell": 40,
+  "process": 2,
+  "process_amount": 20,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 18,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 11,
+      "effect_name": "DEX",
+      "amount": 2,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 19,
+      "effect_name": "MaxMP",
+      "amount": 50,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 34,
+      "effect_name": "Accuracy %",
+      "amount": 4,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 20,
+      "applies_to": 0
+    }
+  ]
+}

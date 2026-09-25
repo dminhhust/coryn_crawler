@@ -1,0 +1,45 @@
+{
+  "id": 5666,
+  "name": "Anniv Festive Arrow III",
+  "type_id": 7,
+  "type_label": "[Arrow]",
+  "sell": 210,
+  "process": 2,
+  "process_amount": 105,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 146,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 37,
+      "effect_name": "ASPD",
+      "amount": 300,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 61,
+      "effect_name": "Aggro %",
+      "amount": -14,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 20,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 127,
+      "effect_name": "Fractional Barrier %",
+      "amount": 10,
+      "applies_to": 0
+    }
+  ]
+}

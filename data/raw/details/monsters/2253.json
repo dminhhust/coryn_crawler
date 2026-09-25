@@ -1,0 +1,46 @@
+{
+  "id": 2253,
+  "name": "Eerie Scarecrow",
+  "level": 184,
+  "map_id": 390,
+  "map_name": "Witch's Woods Area 2",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 34000,
+  "exp": 522,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5287,
+      "name": "Crow Feather",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5289,
+      "name": "Mana Cascade Staff",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    },
+    {
+      "id": 5288,
+      "name": "Sturdy Core",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5286,
+      "name": "Tattered Old Clothes",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

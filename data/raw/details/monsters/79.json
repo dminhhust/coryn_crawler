@@ -1,0 +1,34 @@
+{
+  "id": 79,
+  "name": "Colon",
+  "level": 5,
+  "map_id": 22,
+  "map_name": "Rugio Ruins",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 95,
+  "exp": 3,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 48,
+      "name": "Colon Leaf",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 273,
+      "name": "Unripe Nut",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

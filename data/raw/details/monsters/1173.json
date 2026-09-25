@@ -1,0 +1,52 @@
+{
+  "id": 1173,
+  "name": "Volotur",
+  "level": 160,
+  "map_id": 232,
+  "map_name": "Suburb of Droma Square: Area 3",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 24024,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2888,
+      "name": "Biting Head",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2890,
+      "name": "Cursed Secret Soul",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2892,
+      "name": "Devil Circlet",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 2887,
+      "name": "Spiky Fang",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2891,
+      "name": "Volotur",
+      "type_id": 200,
+      "type_label": "[Enhancer Crysta (Blue)]"
+    }
+  ]
+}

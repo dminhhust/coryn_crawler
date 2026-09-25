@@ -1,0 +1,46 @@
+{
+  "id": 2896,
+  "name": "Sicanokami",
+  "level": 310,
+  "map_id": 511,
+  "map_name": "El Scaro: Back Alley",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Ultimate",
+  "hp": 79000000,
+  "exp": 1100000,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3723,
+      "name": "Black Deer Antlers",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6864,
+      "name": "Emotion Ticket S",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 911,
+      "name": "Orichalcum Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 6863,
+      "name": "Sicanokami",
+      "type_id": 240,
+      "type_label": "[Enhancer Crysta (Purple)]"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 401,
+  "name": "Piercer [Staff]",
+  "type_id": 3,
+  "type_label": "[Piercer]",
+  "sell": 0,
+  "process": 0,
+  "process_amount": 0,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 93,
+      "effect_name": "Adds 1 slot to a 0-slotted Staff",
+      "amount": 1,
+      "applies_to": 8
+    }
+  ]
+}

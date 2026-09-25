@@ -1,0 +1,45 @@
+{
+  "id": 4407,
+  "name": "Donut Earmuffs",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 1,
+  "process": 4,
+  "process_amount": 2,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 44,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 32,
+      "effect_name": "Magic Resistance %",
+      "amount": 15,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 34,
+      "effect_name": "Accuracy %",
+      "amount": 20,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 60,
+      "effect_name": "Evasion Recharge %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 187,
+      "effect_name": "Reduce Dmg (Straight Line) %",
+      "amount": 30,
+      "applies_to": 0
+    }
+  ]
+}

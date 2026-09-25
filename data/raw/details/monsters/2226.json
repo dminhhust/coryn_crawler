@@ -1,0 +1,52 @@
+{
+  "id": 2226,
+  "name": "Stellar Ooze",
+  "level": 230,
+  "map_id": 87,
+  "map_name": "Event",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 40000000,
+  "exp": 75000,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5197,
+      "name": "Edgy Nova (Combat)",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    },
+    {
+      "id": 5196,
+      "name": "Edgy Nova (Magic)",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    },
+    {
+      "id": 4850,
+      "name": "Revita VII",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 5195,
+      "name": "Stellar Ooze",
+      "type_id": 230,
+      "type_label": "[Enhancer Crysta (Yellow)]"
+    },
+    {
+      "id": 4024,
+      "name": "[Book of Unarmed]",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

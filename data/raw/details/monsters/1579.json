@@ -1,0 +1,64 @@
+{
+  "id": 1579,
+  "name": "Mimesia (Normal)",
+  "level": 140,
+  "map_id": 288,
+  "map_name": "Sakura Castle Donjon: Top",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 1100000,
+  "exp": 9900,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 436,
+      "name": "Adventurer's Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 436,
+      "name": "Adventurer's Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 3696,
+      "name": "Dusky Sakura Branch",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3702,
+      "name": "Mimesia",
+      "type_id": 220,
+      "type_label": "[Enhancer Crysta (Green)]"
+    },
+    {
+      "id": 3697,
+      "name": "Sakura Petal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3699,
+      "name": "Sakura Princess Arrow",
+      "type_id": 7,
+      "type_label": "[Arrow]"
+    },
+    {
+      "id": 3698,
+      "name": "Sakura Princess Dagger",
+      "type_id": 11,
+      "type_label": "[Dagger]"
+    }
+  ]
+}

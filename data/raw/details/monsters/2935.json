@@ -1,0 +1,46 @@
+{
+  "id": 2935,
+  "name": "Konetz",
+  "level": 227,
+  "map_id": 521,
+  "map_name": "Jabali Kubwa: Area 2",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 47911,
+  "exp": 742,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7008,
+      "name": "ASPD+160",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 7006,
+      "name": "Dry Pelt",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 816,
+      "name": "Mithril Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 7007,
+      "name": "Solid Ear",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

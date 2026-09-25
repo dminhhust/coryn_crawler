@@ -1,0 +1,70 @@
+{
+  "id": 2356,
+  "name": "Reliza",
+  "level": 220,
+  "map_id": 407,
+  "map_name": "Manna Waterfront",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Hard",
+  "hp": 11000000,
+  "exp": 52400,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5481,
+      "name": "Black Crystal Wing Fragment",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5482,
+      "name": "Bloody Cursed Chain",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5487,
+      "name": "Clawed Iron Witch",
+      "type_id": 210,
+      "type_label": "[Enhancer Crysta (Red)]"
+    },
+    {
+      "id": 5483,
+      "name": "Crimson Silk",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5485,
+      "name": "Iron Witch Veil",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 5484,
+      "name": "Iron Witch Wings",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 5486,
+      "name": "Maiden",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 5480,
+      "name": "Terrifying Red Claw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

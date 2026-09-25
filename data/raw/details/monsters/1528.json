@@ -1,0 +1,64 @@
+{
+  "id": 1528,
+  "name": "Mardula",
+  "level": 157,
+  "map_id": 279,
+  "map_name": "Hall of Blessings Gods",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 1420000,
+  "exp": 8100,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3572,
+      "name": "Broken Holy Scale",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3576,
+      "name": "Mardula",
+      "type_id": 210,
+      "type_label": "[Enhancer Crysta (Red)]"
+    },
+    {
+      "id": 3570,
+      "name": "Mardula Spiritual Cloth",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3571,
+      "name": "Mardula Wing",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3573,
+      "name": "Sacred Jewel",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3575,
+      "name": "Warrior Angel Armor",
+      "type_id": 15,
+      "type_label": "[Magic Device]"
+    },
+    {
+      "id": 3574,
+      "name": "Warrior Angel Halberd",
+      "type_id": 26,
+      "type_label": "[Halberd]"
+    }
+  ]
+}

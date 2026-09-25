@@ -1,0 +1,64 @@
+{
+  "id": 3513,
+  "name": "Shawkal",
+  "level": 345,
+  "map_id": 404,
+  "map_name": "High Difficulty Boss Battle Event Venue",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "???",
+  "hp": 0,
+  "exp": 0,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 8549,
+      "name": "Imius Coat",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 8550,
+      "name": "Imius Coat (Balance)",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 8551,
+      "name": "Imius Coat (Soul)",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 8546,
+      "name": "Imius Halo",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 8545,
+      "name": "Imius Tiara",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 8548,
+      "name": "Seitengewehr",
+      "type_id": 10,
+      "type_label": "[Bowgun]"
+    },
+    {
+      "id": 8547,
+      "name": "Shawkal",
+      "type_id": 210,
+      "type_label": "[Enhancer Crysta (Red)]"
+    }
+  ]
+}

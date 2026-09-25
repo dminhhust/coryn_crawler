@@ -1,0 +1,52 @@
+{
+  "id": 2261,
+  "name": "Snow Bear Box",
+  "level": 0,
+  "map_id": 394,
+  "map_name": "Snowball Mini Game Venue",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": -1,
+  "element_id": -1,
+  "element_label": "Unknown",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5304,
+      "name": "Snow Bear Candy",
+      "type_id": 27,
+      "type_label": "[Katana]"
+    },
+    {
+      "id": 5307,
+      "name": "Snow Bear Parasol",
+      "type_id": 26,
+      "type_label": "[Halberd]"
+    },
+    {
+      "id": 5308,
+      "name": "Snow Bear Shield",
+      "type_id": 17,
+      "type_label": "[Shield]"
+    },
+    {
+      "id": 5305,
+      "name": "Snow Bear Sword",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    },
+    {
+      "id": 5306,
+      "name": "Snow Bear Toy Gun",
+      "type_id": 10,
+      "type_label": "[Bowgun]"
+    }
+  ]
+}

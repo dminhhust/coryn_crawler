@@ -1,0 +1,39 @@
+{
+  "id": 1042,
+  "name": "Ice Crystal Ring",
+  "type_id": 18,
+  "type_label": "[Special]",
+  "sell": 22,
+  "process": 3,
+  "process_amount": 11,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 0,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 45,
+      "effect_name": "% stronger against Fire",
+      "amount": 5,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 52,
+      "effect_name": "Water resistance %",
+      "amount": 5,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 53,
+      "effect_name": "Wind resistance %",
+      "amount": -5,
+      "applies_to": 0
+    }
+  ]
+}

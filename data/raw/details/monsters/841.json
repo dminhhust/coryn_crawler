@@ -1,0 +1,46 @@
+{
+  "id": 841,
+  "name": "Octaray",
+  "level": 102,
+  "map_id": 171,
+  "map_name": "Singolare Ruins: 3rd Floor",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 371,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2290,
+      "name": "El Vento",
+      "type_id": 15,
+      "type_label": "[Magic Device]"
+    },
+    {
+      "id": 2288,
+      "name": "Huge Suction Cup",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2289,
+      "name": "Octopus Ink",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2287,
+      "name": "Slippery Fin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

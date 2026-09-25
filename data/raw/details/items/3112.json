@@ -1,0 +1,45 @@
+{
+  "id": 3112,
+  "name": "Ribbon Charm",
+  "type_id": 15,
+  "type_label": "[Magic Device]",
+  "sell": 70,
+  "process": 6,
+  "process_amount": 35,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 20,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 16,
+      "effect_name": "Natural MP Regen %",
+      "amount": 30,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 19,
+      "effect_name": "MaxMP",
+      "amount": 300,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 68,
+      "effect_name": "Attack MP Recovery",
+      "amount": 3,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 80,
+      "applies_to": 0
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": 7004,
+  "name": "Rose Oil",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 26,
+  "process": 5,
+  "process_amount": 27,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

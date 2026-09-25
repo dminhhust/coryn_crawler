@@ -1,0 +1,46 @@
+{
+  "id": 631,
+  "name": "Greg",
+  "level": 84,
+  "map_id": 163,
+  "map_name": "Artillery Defense Line",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 69,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2060,
+      "name": "Broken Scope",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2061,
+      "name": "Condensed Heavy Oil",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2062,
+      "name": "HP+400",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 2059,
+      "name": "Old Pedestal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

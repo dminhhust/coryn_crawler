@@ -1,0 +1,14 @@
+{
+  "id": 5672,
+  "name": "Super Kelp",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 19,
+  "process": 2,
+  "process_amount": 20,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

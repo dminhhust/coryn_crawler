@@ -1,0 +1,39 @@
+{
+  "id": 8102,
+  "name": "Springtime Sakura",
+  "type_id": 210,
+  "type_label": "[Enhancer Crysta (Red)]",
+  "sell": 1,
+  "process": 6,
+  "process_amount": 100,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 23,
+      "effect_name": "MATK %",
+      "amount": 11,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 41,
+      "effect_name": "Critical Rate",
+      "amount": 13,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 148,
+      "effect_name": "Upgrade for",
+      "amount": 4398,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 272,
+      "effect_name": "Aggro %",
+      "amount": -15,
+      "applies_to": 0
+    }
+  ]
+}

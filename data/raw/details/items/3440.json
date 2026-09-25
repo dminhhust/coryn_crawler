@@ -1,0 +1,33 @@
+{
+  "id": 3440,
+  "name": "Mom Fluck",
+  "type_id": 220,
+  "type_label": "[Enhancer Crysta (Green)]",
+  "sell": 1,
+  "process": 6,
+  "process_amount": 100,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 19,
+      "effect_name": "MaxMP",
+      "amount": 700,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 127,
+      "effect_name": "Fractional Barrier %",
+      "amount": 15,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 148,
+      "effect_name": "Upgrade for",
+      "amount": 2135,
+      "applies_to": 0
+    }
+  ]
+}

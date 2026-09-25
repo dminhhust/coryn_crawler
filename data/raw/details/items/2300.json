@@ -1,0 +1,33 @@
+{
+  "id": 2300,
+  "name": "Evil Magic Sword",
+  "type_id": 21,
+  "type_label": "[Weapon Crysta]",
+  "sell": 1,
+  "process": 6,
+  "process_amount": 100,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 43,
+      "effect_name": "Critical Damage",
+      "amount": 5,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 61,
+      "effect_name": "Aggro %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 68,
+      "effect_name": "Attack MP Recovery",
+      "amount": 5,
+      "applies_to": 0
+    }
+  ]
+}

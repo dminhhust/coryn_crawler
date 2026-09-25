@@ -1,0 +1,33 @@
+{
+  "id": 1409,
+  "name": "Wing Gem",
+  "type_id": 12,
+  "type_label": "[Gem]",
+  "sell": 1,
+  "process": 0,
+  "process_amount": 0,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 73,
+      "effect_name": "Weapon ATK",
+      "amount": 50,
+      "applies_to": 4
+    },
+    {
+      "effect_id": 95,
+      "effect_name": "EXP Gain %",
+      "amount": 1,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 96,
+      "effect_name": "Drop Rate %",
+      "amount": 1,
+      "applies_to": 0
+    }
+  ]
+}

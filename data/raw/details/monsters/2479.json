@@ -1,0 +1,202 @@
+{
+  "id": 2479,
+  "name": "Stoodie (Lv50)",
+  "level": 0,
+  "map_id": 111,
+  "map_name": "El Scaro",
+  "type_code": "C",
+  "type_label": "NPC",
+  "mode": "Normal",
+  "hp": 0,
+  "exp": 0,
+  "element_id": -1,
+  "element_label": "Unknown",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5818,
+      "name": "Accuracy Boost",
+      "type_id": 241,
+      "type_label": "Registlet"
+    },
+    {
+      "id": 5820,
+      "name": "Attack Speed Boost",
+      "type_id": 241,
+      "type_label": "Registlet"
+    },
+    {
+      "id": 5827,
+      "name": "Bullseye Enhancer",
+      "type_id": 241,
+      "type_label": "Registlet"
+    },
+    {
+      "id": 5835,
+      "name": "Cannon Spear Enhancer",
+      "type_id": 241,
+      "type_label": "Registlet"
+    },
+    {
+      "id": 5833,
+      "name": "Cross Parry Enhancer",
+      "type_id": 241,
+      "type_label": "Registlet"
+    },
+    {
+      "id": 5819,
+      "name": "Dodge Boost",
+      "type_id": 241,
+      "type_label": "Registlet"
+    },
+    {
+      "id": 5841,
+      "name": "Emergency MP Heal",
+      "type_id": 241,
+      "type_label": "Registlet"
+    },
+    {
+      "id": 5843,
+      "name": "Final Resistance",
+      "type_id": 241,
+      "type_label": "Registlet"
+    },
+    {
+      "id": 5834,
+      "name": "Flash Stab Enhancer",
+      "type_id": 241,
+      "type_label": "Registlet"
+    },
+    {
+      "id": 5824,
+      "name": "Hard Hit Enhancer",
+      "type_id": 241,
+      "type_label": "Registlet"
+    },
+    {
+      "id": 5836,
+      "name": "Issen Enhancer",
+      "type_id": 241,
+      "type_label": "Registlet"
+    },
+    {
+      "id": 5813,
+      "name": "Magic Attack Boost",
+      "type_id": 241,
+      "type_label": "Registlet"
+    },
+    {
+      "id": 5817,
+      "name": "Magic Defense Boost",
+      "type_id": 241,
+      "type_label": "Registlet"
+    },
+    {
+      "id": 5821,
+      "name": "Magic Speed Boost",
+      "type_id": 241,
+      "type_label": "Registlet"
+    },
+    {
+      "id": 5828,
+      "name": "Magic: Arrows Enhancer",
+      "type_id": 241,
+      "type_label": "Registlet"
+    },
+    {
+      "id": 5829,
+      "name": "Magic: Wall Enhancer",
+      "type_id": 241,
+      "type_label": "Registlet"
+    },
+    {
+      "id": 5814,
+      "name": "Max HP Boost",
+      "type_id": 241,
+      "type_label": "Registlet"
+    },
+    {
+      "id": 5815,
+      "name": "Max MP Boost",
+      "type_id": 241,
+      "type_label": "Registlet"
+    },
+    {
+      "id": 5842,
+      "name": "Neural Control",
+      "type_id": 241,
+      "type_label": "Registlet"
+    },
+    {
+      "id": 5812,
+      "name": "Physical Attack Boost",
+      "type_id": 241,
+      "type_label": "Registlet"
+    },
+    {
+      "id": 5816,
+      "name": "Physical Defense Boost",
+      "type_id": 241,
+      "type_label": "Registlet"
+    },
+    {
+      "id": 5838,
+      "name": "Poison Heal",
+      "type_id": 241,
+      "type_label": "Registlet"
+    },
+    {
+      "id": 5837,
+      "name": "Pommel Strike Enhancer",
+      "type_id": 241,
+      "type_label": "Registlet"
+    },
+    {
+      "id": 5826,
+      "name": "Power Shot Boost",
+      "type_id": 241,
+      "type_label": "Registlet"
+    },
+    {
+      "id": 5830,
+      "name": "Smash Enhancer",
+      "type_id": 241,
+      "type_label": "Registlet"
+    },
+    {
+      "id": 5825,
+      "name": "Sonic Blade Extender",
+      "type_id": 241,
+      "type_label": "Registlet"
+    },
+    {
+      "id": 5831,
+      "name": "Sonic Wave Enhancer",
+      "type_id": 241,
+      "type_label": "Registlet"
+    },
+    {
+      "id": 5823,
+      "name": "Sunbath",
+      "type_id": 241,
+      "type_label": "Registlet"
+    },
+    {
+      "id": 5832,
+      "name": "Twin Slash Enhancer",
+      "type_id": 241,
+      "type_label": "Registlet"
+    },
+    {
+      "id": 5822,
+      "name": "Wayfarer",
+      "type_id": 241,
+      "type_label": "Registlet"
+    }
+  ]
+}

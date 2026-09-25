@@ -1,0 +1,46 @@
+{
+  "id": 2219,
+  "name": "Finstern the Dark Dragon (Megiston 2020)",
+  "level": 200,
+  "map_id": 87,
+  "map_name": "Event",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 8300000,
+  "exp": 19800,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5188,
+      "name": "Dark Dragon Fang Sword",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    },
+    {
+      "id": 5184,
+      "name": "Dragon Claw Katana",
+      "type_id": 27,
+      "type_label": "[Katana]"
+    },
+    {
+      "id": 5186,
+      "name": "Dragoon Mail",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 3804,
+      "name": "Finstern the Dark Dragon",
+      "type_id": 210,
+      "type_label": "[Enhancer Crysta (Red)]"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": 2142,
+  "name": "Adaro (High Difficulty)",
+  "level": 250,
+  "map_id": 369,
+  "map_name": "Underwater Ruins: Deepest",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Ultimate",
+  "hp": 100000000,
+  "exp": 545000,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4855,
+      "name": "Sea Current Crystal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4854,
+      "name": "Seadevil Coral",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4864,
+      "name": "Seadevil Katana",
+      "type_id": 27,
+      "type_label": "[Katana]"
+    },
+    {
+      "id": 4853,
+      "name": "Seadevil Scale",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4862,
+      "name": "Seadevil Shield",
+      "type_id": 17,
+      "type_label": "[Shield]"
+    },
+    {
+      "id": 4863,
+      "name": "Seadevil Staff",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    },
+    {
+      "id": 4865,
+      "name": "Seadevil Sword",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    },
+    {
+      "id": 4861,
+      "name": "Underwater Ruins Monster",
+      "type_id": 230,
+      "type_label": "[Enhancer Crysta (Yellow)]"
+    }
+  ]
+}

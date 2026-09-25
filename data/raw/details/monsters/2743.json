@@ -1,0 +1,46 @@
+{
+  "id": 2743,
+  "name": "Birdieman",
+  "level": 207,
+  "map_id": 480,
+  "map_name": "Nebula Plain",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 20000,
+  "exp": 318,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6518,
+      "name": "Broken Boomerang",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6519,
+      "name": "Carved Wood Ornament",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6517,
+      "name": "Red & White Feather",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6520,
+      "name": "Tanuki Hat",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

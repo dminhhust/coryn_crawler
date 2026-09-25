@@ -1,0 +1,58 @@
+{
+  "id": 3350,
+  "name": "Mycodian",
+  "level": 300,
+  "map_id": 653,
+  "map_name": "Ancient Exhibition Grounds",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Very Hard",
+  "hp": -1,
+  "exp": -1,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "White Day 2026",
+    "note": "White Day 2026 event boss."
+  },
+  "drops": [
+    {
+      "id": 8378,
+      "name": "Colorful Macaron",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 8374,
+      "name": "Confeito Katana",
+      "type_id": 27,
+      "type_label": "[Katana]"
+    },
+    {
+      "id": 8373,
+      "name": "Confeito Sword",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    },
+    {
+      "id": 8372,
+      "name": "Mycodian",
+      "type_id": 23,
+      "type_label": "[Additional Crysta]"
+    },
+    {
+      "id": 8375,
+      "name": "Mycostarch",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 8377,
+      "name": "Sparkly Sugar Candy",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

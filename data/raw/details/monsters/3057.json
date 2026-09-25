@@ -1,0 +1,46 @@
+{
+  "id": 3057,
+  "name": "Turncoon",
+  "level": 200,
+  "map_id": 539,
+  "map_name": "Saltau's Beach (Night)",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 390,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7326,
+      "name": "Bake-Danuki's Leaf",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7325,
+      "name": "Beach Sand",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7328,
+      "name": "Floating Paper Lantern",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 7327,
+      "name": "Summer Day Memory",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

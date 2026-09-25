@@ -1,0 +1,14 @@
+{
+  "id": 135,
+  "name": "Mineral Scissor",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 14,
+  "process": 3,
+  "process_amount": 15,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

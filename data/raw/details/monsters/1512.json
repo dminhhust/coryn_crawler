@@ -1,0 +1,46 @@
+{
+  "id": 1512,
+  "name": "Moss Granite",
+  "level": 141,
+  "map_id": 273,
+  "map_name": "Ruins of Mt. Mithurna: Long Stairs",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 20000,
+  "exp": 340,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3502,
+      "name": "Cooking Apron",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 3512,
+      "name": "Granite",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3513,
+      "name": "Mithurna Green Moss",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3499,
+      "name": "Stone Armor Fragment",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

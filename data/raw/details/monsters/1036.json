@@ -1,0 +1,46 @@
+{
+  "id": 1036,
+  "name": "Sick Mushroom",
+  "level": 111,
+  "map_id": 199,
+  "map_name": "Monster's Forest: Foggy Way",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 12000,
+  "exp": 304,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2587,
+      "name": "Laurel Crown",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 2584,
+      "name": "Moss Log",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2585,
+      "name": "Mushroom Venom",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2586,
+      "name": "Mysterious Mushroom",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

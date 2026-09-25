@@ -1,0 +1,33 @@
+{
+  "id": 3304,
+  "name": "Lil Empress Staff",
+  "type_id": 19,
+  "type_label": "[Staff]",
+  "sell": 145,
+  "process": 6,
+  "process_amount": 72,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 229,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 55,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 113,
+      "effect_name": "Potential",
+      "amount": 38,
+      "applies_to": 0
+    }
+  ]
+}

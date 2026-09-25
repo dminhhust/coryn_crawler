@@ -1,0 +1,45 @@
+{
+  "id": 5314,
+  "name": "Candles of Hatred",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 92,
+  "process": 5,
+  "process_amount": 46,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 82,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 19,
+      "effect_name": "MaxMP",
+      "amount": 400,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 34,
+      "effect_name": "Accuracy %",
+      "amount": 30,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 52,
+      "effect_name": "Water resistance %",
+      "amount": -10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 126,
+      "effect_name": "Reflect %",
+      "amount": 20,
+      "applies_to": 0
+    }
+  ]
+}

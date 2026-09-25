@@ -1,0 +1,27 @@
+{
+  "id": 2242,
+  "name": "Assassin Garb",
+  "type_id": 8,
+  "type_label": "[Armor]",
+  "sell": 100,
+  "process": 4,
+  "process_amount": 50,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 38,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 113,
+      "effect_name": "Potential",
+      "amount": 31,
+      "applies_to": 0
+    }
+  ]
+}

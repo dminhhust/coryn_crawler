@@ -1,0 +1,21 @@
+{
+  "id": 254,
+  "name": "Magiadd I",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 3,
+  "process": 5,
+  "process_amount": 2,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 19,
+      "effect_name": "MaxMP",
+      "amount": 100,
+      "applies_to": 0
+    }
+  ]
+}

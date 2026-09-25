@@ -1,0 +1,52 @@
+{
+  "id": 3195,
+  "name": "Torexesa",
+  "level": 289,
+  "map_id": 591,
+  "map_name": "Aquacity: Parliament Hall",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Nightmare",
+  "hp": 50000000,
+  "exp": 207500,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7596,
+      "name": "Broken Parliamentary Badge",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7595,
+      "name": "Corroded Gauntlet",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 911,
+      "name": "Orichalcum Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 7490,
+      "name": "Torexesa",
+      "type_id": 200,
+      "type_label": "[Enhancer Crysta (Blue)]"
+    },
+    {
+      "id": 7598,
+      "name": "Water City Jewel Box",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

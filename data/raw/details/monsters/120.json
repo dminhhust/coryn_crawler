@@ -1,0 +1,46 @@
+{
+  "id": 120,
+  "name": "Frosch",
+  "level": 23,
+  "map_id": 34,
+  "map_name": "Ribisco Cave: Area 2",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 650,
+  "exp": 28,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 86,
+      "name": "Frog Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 125,
+      "name": "Lotus Leaf",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 181,
+      "name": "Ribisco Crystal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 561,
+      "name": "Sword Bowgun",
+      "type_id": 10,
+      "type_label": "[Bowgun]"
+    }
+  ]
+}

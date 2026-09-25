@@ -1,0 +1,14 @@
+{
+  "id": 3111,
+  "name": "Hot Pebble",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 9,
+  "process": 3,
+  "process_amount": 9,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": 560,
+  "name": "Storm Dagger",
+  "type_id": 11,
+  "type_label": "[Dagger]",
+  "sell": 35,
+  "process": 3,
+  "process_amount": 17,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 20,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 36,
+      "effect_name": "Dodge %",
+      "amount": 7,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 38,
+      "effect_name": "ASPD %",
+      "amount": 7,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 42,
+      "effect_name": "Critical Rate %",
+      "amount": 7,
+      "applies_to": 0
+    }
+  ]
+}

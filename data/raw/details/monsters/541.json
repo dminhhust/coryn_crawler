@@ -1,0 +1,52 @@
+{
+  "id": 541,
+  "name": "Corroded Knight",
+  "level": 78,
+  "map_id": 147,
+  "map_name": "Trace of Dark River",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 97,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 436,
+      "name": "Adventurer's Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 1875,
+      "name": "Broken Stone of Bridge",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1894,
+      "name": "Cursed Emblem",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1874,
+      "name": "Knight Loincloth",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1876,
+      "name": "Kukri",
+      "type_id": 11,
+      "type_label": "[Dagger]"
+    }
+  ]
+}

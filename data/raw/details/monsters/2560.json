@@ -1,0 +1,40 @@
+{
+  "id": 2560,
+  "name": "Irestida (Megiston 2021)",
+  "level": 220,
+  "map_id": 87,
+  "map_name": "Event",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 8000000,
+  "exp": 23200,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5461,
+      "name": "Irestida",
+      "type_id": 210,
+      "type_label": "[Enhancer Crysta (Red)]"
+    },
+    {
+      "id": 5460,
+      "name": "Wanderer's Spear",
+      "type_id": 26,
+      "type_label": "[Halberd]"
+    },
+    {
+      "id": 5459,
+      "name": "Wanderflasche",
+      "type_id": 15,
+      "type_label": "[Magic Device]"
+    }
+  ]
+}

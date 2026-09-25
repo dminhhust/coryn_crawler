@@ -1,0 +1,39 @@
+{
+  "id": 4703,
+  "name": "Sand Bandits Leader",
+  "type_id": 240,
+  "type_label": "[Enhancer Crysta (Purple)]",
+  "sell": 1,
+  "process": 6,
+  "process_amount": 100,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 23,
+      "effect_name": "MATK %",
+      "amount": -5,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 60,
+      "effect_name": "Evasion Recharge %",
+      "amount": 8,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 61,
+      "effect_name": "Aggro %",
+      "amount": 16,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 148,
+      "effect_name": "Upgrade for",
+      "amount": 830,
+      "applies_to": 0
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 504,
+  "name": "Knuckles",
+  "type_id": 13,
+  "type_label": "[Knuckles]",
+  "sell": 1,
+  "process": 3,
+  "process_amount": 2,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 7,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 90,
+      "applies_to": 0
+    }
+  ]
+}

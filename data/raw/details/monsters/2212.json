@@ -1,0 +1,46 @@
+{
+  "id": 2212,
+  "name": "Santaby",
+  "level": 142,
+  "map_id": 387,
+  "map_name": "Tomte Pavillion (130-150)",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": -1,
+  "element_id": -1,
+  "element_label": "Unknown",
+  "tameable": true,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5109,
+      "name": "Holy Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3787,
+      "name": "Potato",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 3218,
+      "name": "Tweed Fabric",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5116,
+      "name": "Xmas Ribbon",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

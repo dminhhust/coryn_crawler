@@ -1,0 +1,51 @@
+{
+  "id": 5190,
+  "name": "Zodiac Hat: Ox",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 1,
+  "process": 6,
+  "process_amount": 2,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 1,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 3,
+      "effect_name": "STR",
+      "amount": 1,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 5,
+      "effect_name": "INT",
+      "amount": 1,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 7,
+      "effect_name": "VIT",
+      "amount": 1,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 9,
+      "effect_name": "AGI",
+      "amount": 1,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 11,
+      "effect_name": "DEX",
+      "amount": 1,
+      "applies_to": 0
+    }
+  ]
+}

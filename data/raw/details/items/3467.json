@@ -1,0 +1,69 @@
+{
+  "id": 3467,
+  "name": "Sacred Ice Claws",
+  "type_id": 13,
+  "type_label": "[Knuckles]",
+  "sell": -1,
+  "process": -1,
+  "process_amount": -1,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 161,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 21,
+      "effect_name": "ATK %",
+      "amount": 2,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 42,
+      "effect_name": "Critical Rate %",
+      "amount": 20,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 49,
+      "effect_name": "% stronger against Light",
+      "amount": -25,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 50,
+      "effect_name": "% stronger against Dark",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 57,
+      "effect_name": "Ailment Resistance %",
+      "amount": 1,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 63,
+      "effect_name": "Water Element",
+      "amount": 1,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 95,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 186,
+      "effect_name": "ATK UP (STR %)",
+      "amount": 100,
+      "applies_to": 0
+    }
+  ]
+}

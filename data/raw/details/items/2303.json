@@ -1,0 +1,14 @@
+{
+  "id": 2303,
+  "name": "Potum's Jewelry Box",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 100,
+  "process": 6,
+  "process_amount": 100,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

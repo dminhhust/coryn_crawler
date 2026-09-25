@@ -1,0 +1,76 @@
+{
+  "id": 2445,
+  "name": "Silver Coryn (2021)",
+  "level": 100,
+  "map_id": 51,
+  "map_name": "Yorl Highlands",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "Normal",
+  "hp": 100,
+  "exp": 1,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 245,
+      "name": "Apple",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 5739,
+      "name": "Mage Hat",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 5739,
+      "name": "Mage Hat",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 5738,
+      "name": "Plate Armor",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 5747,
+      "name": "Scholar's Glasses",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 5747,
+      "name": "Scholar's Glasses",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 5737,
+      "name": "Silver Apple",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5743,
+      "name": "Warrior Helm",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 5743,
+      "name": "Warrior Helm",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

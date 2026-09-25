@@ -1,0 +1,45 @@
+{
+  "id": 4400,
+  "name": "Thunder Drums",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 1,
+  "process": 6,
+  "process_amount": 100,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 38,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 40,
+      "effect_name": "CSPD %",
+      "amount": 20,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 41,
+      "effect_name": "Critical Rate",
+      "amount": 15,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 46,
+      "effect_name": "% stronger against Water",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 53,
+      "effect_name": "Wind resistance %",
+      "amount": 25,
+      "applies_to": 0
+    }
+  ]
+}

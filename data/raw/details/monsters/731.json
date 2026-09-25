@@ -1,0 +1,58 @@
+{
+  "id": 731,
+  "name": "Astol",
+  "level": 40,
+  "map_id": 50,
+  "map_name": "Aulada Ancient Tower",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Easy",
+  "hp": 8204,
+  "exp": 76,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 439,
+      "name": "Aqua Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 459,
+      "name": "Crystal Wing",
+      "type_id": 15,
+      "type_label": "[Magic Device]"
+    },
+    {
+      "id": 104,
+      "name": "Heaven Bird Claw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 105,
+      "name": "Heaven Bird Crest",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 106,
+      "name": "Heaven Bird Tail Feather",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 107,
+      "name": "Heaven Bird Tear",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

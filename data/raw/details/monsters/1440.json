@@ -1,0 +1,46 @@
+{
+  "id": 1440,
+  "name": "Muddy Gnome",
+  "level": 124,
+  "map_id": 260,
+  "map_name": "Mt. Mithurna: Entrance",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 4000,
+  "exp": 144,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3412,
+      "name": "Camouflage Scarf",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 3410,
+      "name": "Moist Moss Ball",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3411,
+      "name": "Red Luminescent Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3409,
+      "name": "Round Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

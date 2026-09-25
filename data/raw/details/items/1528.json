@@ -1,0 +1,63 @@
+{
+  "id": 1528,
+  "name": "Armigma",
+  "type_id": 8,
+  "type_label": "[Armor]",
+  "sell": 37,
+  "process": 6,
+  "process_amount": 45,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 63,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 19,
+      "effect_name": "MaxMP",
+      "amount": 150,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 21,
+      "effect_name": "ATK %",
+      "amount": 4,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 33,
+      "effect_name": "Accuracy",
+      "amount": 30,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 52,
+      "effect_name": "Water resistance %",
+      "amount": -50,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 71,
+      "effect_name": "Motion Speed %",
+      "amount": 2,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 74,
+      "effect_name": "Weapon ATK %",
+      "amount": 20,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 122,
+      "effect_name": "Flinch Unavailable",
+      "amount": 1,
+      "applies_to": 0
+    }
+  ]
+}

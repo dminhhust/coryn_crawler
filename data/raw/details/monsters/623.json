@@ -1,0 +1,124 @@
+{
+  "id": 623,
+  "name": "Yumomo",
+  "level": 0,
+  "map_id": 162,
+  "map_name": "Einklang",
+  "type_code": "C",
+  "type_label": "NPC",
+  "mode": "Normal",
+  "hp": 0,
+  "exp": 0,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 331,
+      "name": "Damascus Steel",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 2050,
+      "name": "Einklang",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1355,
+      "name": "El Scaro",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 244,
+      "name": "Iron",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 585,
+      "name": "Magiadd II",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 332,
+      "name": "Mithril",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 426,
+      "name": "Normal Gem",
+      "type_id": 12,
+      "type_label": "[Gem]"
+    },
+    {
+      "id": 1403,
+      "name": "Normal Gem II",
+      "type_id": 12,
+      "type_label": "[Gem]"
+    },
+    {
+      "id": 335,
+      "name": "Orichalcum",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 587,
+      "name": "Regera II",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 588,
+      "name": "Revita II",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 589,
+      "name": "Revita III",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 902,
+      "name": "Revita IV",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 266,
+      "name": "Save Point",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 268,
+      "name": "Sofya City",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 593,
+      "name": "Vaccine II",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 595,
+      "name": "Vita Plus II",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

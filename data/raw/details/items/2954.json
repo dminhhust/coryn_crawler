@@ -1,0 +1,33 @@
+{
+  "id": 2954,
+  "name": "Ornlarf",
+  "type_id": 220,
+  "type_label": "[Enhancer Crysta (Green)]",
+  "sell": 1,
+  "process": 6,
+  "process_amount": 100,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 17,
+      "effect_name": "MaxHP",
+      "amount": 3000,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 74,
+      "effect_name": "Weapon ATK %",
+      "amount": 3,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 148,
+      "effect_name": "Upgrade for",
+      "amount": 2069,
+      "applies_to": 0
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": 2995,
+  "name": "Pelulu (Eagle Talon Collab Event)",
+  "level": 0,
+  "map_id": 527,
+  "map_name": "Eagle Talon Collab Venue",
+  "type_code": "C",
+  "type_label": "NPC",
+  "mode": "Normal",
+  "hp": 0,
+  "exp": 0,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5910,
+      "name": "Dr. Leonardo's Gun",
+      "type_id": 10,
+      "type_label": "[Bowgun]"
+    },
+    {
+      "id": 5912,
+      "name": "DX Bomber Blockers",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    },
+    {
+      "id": 7088,
+      "name": "DX Bomber Pose",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 7086,
+      "name": "Eagle Talon Pose",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 5909,
+      "name": "Phillip's Microphone",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    },
+    {
+      "id": 7087,
+      "name": "Phillip's Pose",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 902,
+      "name": "Revita IV",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1716,
+      "name": "Revita V",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 3108,
+      "name": "Revita VI",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 4850,
+      "name": "Revita VII",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 7085,
+      "name": "Secret Base Material",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": 7541,
+  "name": "Seapent Bow",
+  "type_id": 9,
+  "type_label": "[Bow]",
+  "sell": 230,
+  "process": 1,
+  "process_amount": 115,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 254,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 35,
+      "effect_name": "Dodge",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 63,
+      "effect_name": "Water Element",
+      "amount": 1,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 70,
+      "effect_name": "Long Range Damage %",
+      "amount": 9,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 60,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 276,
+      "effect_name": "Motion Speed %",
+      "amount": 3,
+      "applies_to": 0
+    }
+  ]
+}

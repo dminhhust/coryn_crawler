@@ -1,0 +1,39 @@
+{
+  "id": 7001,
+  "name": "Orictoceras",
+  "type_id": 200,
+  "type_label": "[Enhancer Crysta (Blue)]",
+  "sell": 1,
+  "process": 6,
+  "process_amount": 100,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 43,
+      "effect_name": "Critical Damage",
+      "amount": 9,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 148,
+      "effect_name": "Upgrade for",
+      "amount": 3339,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 170,
+      "effect_name": "Reduce Dmg (Player Epicenter) %",
+      "amount": -3,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 171,
+      "effect_name": "Reduce Dmg (Foe Epicenter) %",
+      "amount": -3,
+      "applies_to": 0
+    }
+  ]
+}

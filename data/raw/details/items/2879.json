@@ -1,0 +1,27 @@
+{
+  "id": 2879,
+  "name": "Supplement (Muscle)",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 16,
+  "process": 5,
+  "process_amount": 16,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 21,
+      "effect_name": "ATK %",
+      "amount": 4,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 34,
+      "effect_name": "Accuracy %",
+      "amount": 2,
+      "applies_to": 0
+    }
+  ]
+}

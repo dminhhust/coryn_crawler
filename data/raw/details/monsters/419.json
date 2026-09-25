@@ -1,0 +1,46 @@
+{
+  "id": 419,
+  "name": "Serpain",
+  "level": 69,
+  "map_id": 116,
+  "map_name": "Teaus Hill: Marshland",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 99,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1362,
+      "name": "Elsand",
+      "type_id": 15,
+      "type_label": "[Magic Device]"
+    },
+    {
+      "id": 1361,
+      "name": "Old Snake Slough",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1425,
+      "name": "Snake Head Slough",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1360,
+      "name": "Snake Scale",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

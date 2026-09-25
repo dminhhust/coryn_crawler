@@ -1,0 +1,45 @@
+{
+  "id": 5268,
+  "name": "Tattered Cloak",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 110,
+  "process": 4,
+  "process_amount": 55,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 72,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 24,
+      "effect_name": "Stability %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 128,
+      "effect_name": "Magic Barrier",
+      "amount": 666,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 171,
+      "effect_name": "Reduce Dmg (Foe Epicenter) %",
+      "amount": 25,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 181,
+      "effect_name": "Absolute Dodge %",
+      "amount": 5,
+      "applies_to": 0
+    }
+  ]
+}

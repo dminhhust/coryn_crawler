@@ -1,0 +1,58 @@
+{
+  "id": 3197,
+  "name": "Water City Jewel Box",
+  "level": 0,
+  "map_id": 88,
+  "map_name": "-",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 0,
+  "exp": 0,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7605,
+      "name": "Blue Pearl Talisman",
+      "type_id": 18,
+      "type_label": "[Special]"
+    },
+    {
+      "id": 7606,
+      "name": "Green Pearl Talisman",
+      "type_id": 18,
+      "type_label": "[Special]"
+    },
+    {
+      "id": 7603,
+      "name": "Pearl Talisman",
+      "type_id": 18,
+      "type_label": "[Special]"
+    },
+    {
+      "id": 7614,
+      "name": "Pencil Halberd",
+      "type_id": 26,
+      "type_label": "[Halberd]"
+    },
+    {
+      "id": 7607,
+      "name": "Purple Pearl Talisman",
+      "type_id": 18,
+      "type_label": "[Special]"
+    },
+    {
+      "id": 7604,
+      "name": "Red Pearl Talisman",
+      "type_id": 18,
+      "type_label": "[Special]"
+    }
+  ]
+}

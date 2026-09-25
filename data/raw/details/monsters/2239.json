@@ -1,0 +1,64 @@
+{
+  "id": 2239,
+  "name": "Ice & Snow Bucket",
+  "level": 0,
+  "map_id": 87,
+  "map_name": "Event",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": -1,
+  "element_id": -1,
+  "element_label": "Unknown",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2470,
+      "name": "Bronze Pom Refine",
+      "type_id": 2,
+      "type_label": "[Refinement Support]"
+    },
+    {
+      "id": 2472,
+      "name": "Gold Pom Refine",
+      "type_id": 2,
+      "type_label": "[Refinement Support]"
+    },
+    {
+      "id": 5256,
+      "name": "Ice & Snow Bucket ",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 5257,
+      "name": "Iced Chocolate",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 5255,
+      "name": "Iced Coffee",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 2471,
+      "name": "Silver Pom Refine",
+      "type_id": 2,
+      "type_label": "[Refinement Support]"
+    },
+    {
+      "id": 5254,
+      "name": "Snowball Daifuku",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

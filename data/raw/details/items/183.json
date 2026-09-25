@@ -1,0 +1,14 @@
+{
+  "id": 183,
+  "name": "Saham Crystal",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 6,
+  "process": 3,
+  "process_amount": 7,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

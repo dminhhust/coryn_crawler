@@ -1,0 +1,14 @@
+{
+  "id": 225,
+  "name": "Torn Rope",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 3,
+  "process": 4,
+  "process_amount": 2,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

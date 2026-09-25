@@ -1,0 +1,21 @@
+{
+  "id": 3428,
+  "name": "Rock Fang Dagger",
+  "type_id": 11,
+  "type_label": "[Dagger]",
+  "sell": 130,
+  "process": 3,
+  "process_amount": 65,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 179,
+      "applies_to": 0
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 1880,
+  "name": "Puppet Dragon",
+  "level": 121,
+  "map_id": 323,
+  "map_name": "Joulu House: Gift Room (Lv 100)",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 15000,
+  "exp": 277,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": true,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4317,
+      "name": "Gift Plushie",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3634,
+      "name": "Knit Fabric",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3240,
+      "name": "Korakiri",
+      "type_id": 27,
+      "type_label": "[Katana]"
+    },
+    {
+      "id": 4320,
+      "name": "Sacred Blue Candle",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

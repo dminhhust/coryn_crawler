@@ -1,0 +1,21 @@
+{
+  "id": 620,
+  "name": "Ancient Empress's Tomb",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 1,
+  "process": 6,
+  "process_amount": 1,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 86,
+      "effect_name": "Teleport to Ancient Empress' Tomb",
+      "amount": 0,
+      "applies_to": 0
+    }
+  ]
+}

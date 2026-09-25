@@ -1,0 +1,14 @@
+{
+  "id": 624,
+  "name": "High-Purity Oil",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 8,
+  "process": 5,
+  "process_amount": 9,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

@@ -1,0 +1,46 @@
+{
+  "id": 2673,
+  "name": "Rampion",
+  "level": 254,
+  "map_id": 474,
+  "map_name": "Milcaska Falls: Army Base",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 45540,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6279,
+      "name": "Bone Scissors",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6300,
+      "name": "Devil's Skull",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6280,
+      "name": "Poison Crystal Tail",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6301,
+      "name": "Rampion",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    }
+  ]
+}

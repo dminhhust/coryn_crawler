@@ -1,0 +1,39 @@
+{
+  "id": 3532,
+  "name": "Oni Horns",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 16,
+  "process": 1,
+  "process_amount": 160,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 55,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 24,
+      "effect_name": "Stability %",
+      "amount": -5,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 41,
+      "effect_name": "Critical Rate",
+      "amount": 20,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 143,
+      "effect_name": "ATK UP (VIT %)",
+      "amount": 100,
+      "applies_to": 0
+    }
+  ]
+}

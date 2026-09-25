@@ -1,0 +1,14 @@
+{
+  "id": 4536,
+  "name": "Gravicep Eye Crest",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 27,
+  "process": 6,
+  "process_amount": 6,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

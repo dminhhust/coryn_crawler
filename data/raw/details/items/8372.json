@@ -1,0 +1,57 @@
+{
+  "id": 8372,
+  "name": "Mycodian",
+  "type_id": 23,
+  "type_label": "[Additional Crysta]",
+  "sell": 1,
+  "process": 6,
+  "process_amount": 100,
+  "meta": {
+    "badge": "White Day 2026",
+    "note": "White Day 2026 event crysta.\nUpgrades from Evil Lefina."
+  },
+  "stats": [
+    {
+      "effect_id": 21,
+      "effect_name": "ATK %",
+      "amount": 12,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 23,
+      "effect_name": "MATK %",
+      "amount": -4,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 25,
+      "effect_name": "Physical Pierce %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 31,
+      "effect_name": "Physical Resistance %",
+      "amount": -20,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 41,
+      "effect_name": "Critical Rate",
+      "amount": 16,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 148,
+      "effect_name": "Upgrade for",
+      "amount": 6163,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 240,
+      "effect_name": "Physical Resistance %",
+      "amount": 24,
+      "applies_to": 16384
+    }
+  ]
+}

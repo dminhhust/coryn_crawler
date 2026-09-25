@@ -1,0 +1,46 @@
+{
+  "id": 223,
+  "name": "Orc Warrior",
+  "level": 49,
+  "map_id": 68,
+  "map_name": "Saham Underground Cave: B3",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 8000,
+  "exp": 281,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 25,
+      "name": "Broadcloth",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 59,
+      "name": "Dented Iron Plate",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 473,
+      "name": "Gas Mask",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 110,
+      "name": "Huge Iron Ball",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

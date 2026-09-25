@@ -1,0 +1,40 @@
+{
+  "id": 415,
+  "name": "Duston",
+  "level": 73,
+  "map_id": 119,
+  "map_name": "Magic Waste Site: Area 3",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 290,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1388,
+      "name": "Big Dust",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1390,
+      "name": "Iron Thorns",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    },
+    {
+      "id": 1389,
+      "name": "Tattered Cloth",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

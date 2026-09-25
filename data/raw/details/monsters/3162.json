@@ -1,0 +1,58 @@
+{
+  "id": 3162,
+  "name": "Humida",
+  "level": 261,
+  "map_id": 590,
+  "map_name": "Marinatown: Giant Plastida",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Easy",
+  "hp": 900000,
+  "exp": 3430,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7482,
+      "name": "Humida",
+      "type_id": 240,
+      "type_label": "[Enhancer Crysta (Purple)]"
+    },
+    {
+      "id": 7495,
+      "name": "Humida Barrel",
+      "type_id": 10,
+      "type_label": "[Bowgun]"
+    },
+    {
+      "id": 7494,
+      "name": "Humida Wings",
+      "type_id": 15,
+      "type_label": "[Magic Device]"
+    },
+    {
+      "id": 7484,
+      "name": "Humida's Blowtube",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7483,
+      "name": "Humida's Fragment",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7485,
+      "name": "Piezolyte",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": 8480,
+  "name": "Taiyaki",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 122,
+  "process": 5,
+  "process_amount": 61,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 90,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 15,
+      "effect_name": "Natural MP Regen",
+      "amount": 50,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 104,
+      "effect_name": "Revive Time %",
+      "amount": -30,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 179,
+      "effect_name": "Invincible Aid (sec)",
+      "amount": 1,
+      "applies_to": 0
+    }
+  ]
+}

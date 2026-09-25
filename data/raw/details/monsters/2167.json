@@ -1,0 +1,46 @@
+{
+  "id": 2167,
+  "name": "Cabello",
+  "level": 177,
+  "map_id": 376,
+  "map_name": "Ducia Coast: Area 1",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 34500,
+  "exp": 588,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4974,
+      "name": "Bluish White Wisp",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4975,
+      "name": "Magical Stole",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 4973,
+      "name": "Pure White Paper",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4972,
+      "name": "Tangled Hair",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

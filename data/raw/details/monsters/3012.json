@@ -1,0 +1,46 @@
+{
+  "id": 3012,
+  "name": "Lilicarolla",
+  "level": 278,
+  "map_id": 529,
+  "map_name": "Frozen Falls: Area 1",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "Normal",
+  "hp": 14480000,
+  "exp": 57750,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7103,
+      "name": "Geometric Petal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7114,
+      "name": "Hexagonal Crystal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7115,
+      "name": "Lilicarolla",
+      "type_id": 200,
+      "type_label": "[Enhancer Crysta (Blue)]"
+    },
+    {
+      "id": 7104,
+      "name": "Strange Needle Arm",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": 2227,
+  "name": "P. Avatar (2021)",
+  "level": 400,
+  "map_id": 87,
+  "map_name": "Event",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 1000000,
+  "exp": 0,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2914,
+      "name": "Cursed Crysta",
+      "type_id": 21,
+      "type_label": "[Weapon Crysta]"
+    },
+    {
+      "id": 1710,
+      "name": "Empress Mail",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 2911,
+      "name": "Energy Package",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 5199,
+      "name": "Integridar",
+      "type_id": 5,
+      "type_label": "[2 Handed Sword]"
+    },
+    {
+      "id": 5198,
+      "name": "Modestia (old)",
+      "type_id": 27,
+      "type_label": "[Katana]"
+    },
+    {
+      "id": 2910,
+      "name": "P. Avatar",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 5200,
+      "name": "Tolerancia (old)",
+      "type_id": 26,
+      "type_label": "[Halberd]"
+    },
+    {
+      "id": 1655,
+      "name": "Unicorn Helm",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": 556,
+  "name": "Spiky Bandana",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 20,
+  "process": 4,
+  "process_amount": 10,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 12,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 12,
+      "effect_name": "DEX %",
+      "amount": 1,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 33,
+      "effect_name": "Accuracy",
+      "amount": 15,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 70,
+      "effect_name": "Long Range Damage %",
+      "amount": 2,
+      "applies_to": 0
+    }
+  ]
+}

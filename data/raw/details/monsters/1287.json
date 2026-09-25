@@ -1,0 +1,40 @@
+{
+  "id": 1287,
+  "name": "The Cursed Venom Arm",
+  "level": 195,
+  "map_id": 241,
+  "map_name": "Anniversary Arena: 3rd Venue",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Ultimate",
+  "hp": 5500000,
+  "exp": 50000,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2973,
+      "name": "Golpom 3rd Anniv Medal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3108,
+      "name": "Revita VI",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 2252,
+      "name": "Vita Plus V",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

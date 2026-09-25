@@ -1,0 +1,14 @@
+{
+  "id": 3356,
+  "name": "Dark Page",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 35,
+  "process": 6,
+  "process_amount": 100,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

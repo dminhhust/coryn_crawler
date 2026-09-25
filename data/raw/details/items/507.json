@@ -1,0 +1,33 @@
+{
+  "id": 507,
+  "name": "Leather Cap",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 10,
+  "process": 4,
+  "process_amount": 5,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 6,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 17,
+      "effect_name": "MaxHP",
+      "amount": 60,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 31,
+      "effect_name": "Physical Resistance %",
+      "amount": 1,
+      "applies_to": 0
+    }
+  ]
+}

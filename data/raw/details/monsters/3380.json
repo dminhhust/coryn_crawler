@@ -1,0 +1,21 @@
+{
+  "id": 3380,
+  "name": "Gula",
+  "level": 298,
+  "map_id": 662,
+  "map_name": "Raden Tower: Top Floor",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 0,
+  "exp": 0,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": []
+}

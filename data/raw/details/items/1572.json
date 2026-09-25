@@ -1,0 +1,33 @@
+{
+  "id": 1572,
+  "name": "Snow Potum Doll",
+  "type_id": 18,
+  "type_label": "[Special]",
+  "sell": 35,
+  "process": 5,
+  "process_amount": 17,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 17,
+      "effect_name": "MaxHP",
+      "amount": 300,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 34,
+      "effect_name": "Accuracy %",
+      "amount": 12,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 56,
+      "effect_name": "Dark resistance %",
+      "amount": -6,
+      "applies_to": 0
+    }
+  ]
+}

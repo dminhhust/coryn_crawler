@@ -1,0 +1,76 @@
+{
+  "id": 873,
+  "name": "York",
+  "level": 118,
+  "map_id": 176,
+  "map_name": "Huge Crysta Factory: Storage",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 640000,
+  "exp": 6800,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2346,
+      "name": "Einsamkeit",
+      "type_id": 26,
+      "type_label": "[Halberd]"
+    },
+    {
+      "id": 2345,
+      "name": "Energy Core",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2344,
+      "name": "Fusee Trahison",
+      "type_id": 10,
+      "type_label": "[Bowgun]"
+    },
+    {
+      "id": 2347,
+      "name": "Holy Robe",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 2343,
+      "name": "Launcher Arm",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2341,
+      "name": "Magic Cannon Part",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2349,
+      "name": "York",
+      "type_id": 200,
+      "type_label": "[Enhancer Crysta (Blue)]"
+    },
+    {
+      "id": 2342,
+      "name": "York's Memo Paper",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2348,
+      "name": "York's Pendant",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 1538,
+  "name": "Zaman",
+  "level": 142,
+  "map_id": 276,
+  "map_name": "Shrine of The Gods: Area 1",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 15000,
+  "exp": 378,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3579,
+      "name": "Heavenly Sand",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3577,
+      "name": "Luminous Purple Liquid",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3578,
+      "name": "Purple Fin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3580,
+      "name": "Small Fairy Wings",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

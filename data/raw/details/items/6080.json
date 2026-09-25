@@ -1,0 +1,39 @@
+{
+  "id": 6080,
+  "name": "Heart Beret",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": -1,
+  "process": -1,
+  "process_amount": -1,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 115,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 30,
+      "effect_name": "MDEF %",
+      "amount": 15,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 50,
+      "effect_name": "% stronger against Dark",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 75,
+      "effect_name": "Neutral Resistance %",
+      "amount": 5,
+      "applies_to": 0
+    }
+  ]
+}

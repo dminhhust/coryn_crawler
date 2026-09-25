@@ -1,0 +1,21 @@
+{
+  "id": 7792,
+  "name": "9th Anniv Bow IV",
+  "type_id": 9,
+  "type_label": "[Bow]",
+  "sell": 0,
+  "process": -1,
+  "process_amount": 0,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 254,
+      "applies_to": 0
+    }
+  ]
+}

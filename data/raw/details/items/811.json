@@ -1,0 +1,14 @@
+{
+  "id": 811,
+  "name": "Owl Feather",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 9,
+  "process": 4,
+  "process_amount": 10,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

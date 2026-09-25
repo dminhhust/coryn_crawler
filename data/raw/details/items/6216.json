@@ -1,0 +1,14 @@
+{
+  "id": 6216,
+  "name": "Burning Desire",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": -1,
+  "process": 6,
+  "process_amount": -1,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

@@ -1,0 +1,46 @@
+{
+  "id": 2268,
+  "name": "Spirabol",
+  "level": 176,
+  "map_id": 396,
+  "map_name": "Nezim Wetlands",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 11750,
+  "exp": 194,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5359,
+      "name": "Branch Arm",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5362,
+      "name": "Jade Lance",
+      "type_id": 26,
+      "type_label": "[Halberd]"
+    },
+    {
+      "id": 5361,
+      "name": "Spirabol's Heart",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5360,
+      "name": "Spiral Trunk",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

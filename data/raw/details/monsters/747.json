@@ -1,0 +1,46 @@
+{
+  "id": 747,
+  "name": "Stone Soldier",
+  "level": 36,
+  "map_id": 52,
+  "map_name": "Lutaros Cavern Entrance",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 1900,
+  "exp": 67,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 435,
+      "name": "Adel Sword",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    },
+    {
+      "id": 242,
+      "name": "Damascus Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 128,
+      "name": "Lutaros Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 190,
+      "name": "Sharp Rock Fragment",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

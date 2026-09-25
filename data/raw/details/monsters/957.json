@@ -1,0 +1,52 @@
+{
+  "id": 957,
+  "name": "Torture Machina",
+  "level": 109,
+  "map_id": 182,
+  "map_name": "Small Demi Machina Factory: Area 3",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 9000,
+  "exp": 228,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2404,
+      "name": "Ball Bearing",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2403,
+      "name": "Curved Blade",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2548,
+      "name": "Kuro Tsurubami",
+      "type_id": 27,
+      "type_label": "[Katana]"
+    },
+    {
+      "id": 2405,
+      "name": "Skeleton Bow",
+      "type_id": 9,
+      "type_label": "[Bow]"
+    },
+    {
+      "id": 2402,
+      "name": "Torn Chain",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": 1704,
+  "name": "The Tyrannic Thrust",
+  "level": 175,
+  "map_id": 241,
+  "map_name": "Anniversary Arena: 3rd Venue",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Nightmare",
+  "hp": 2750000,
+  "exp": 25000,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 436,
+      "name": "Adventurer's Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 2241,
+      "name": "Anniversary Cloth",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4005,
+      "name": "Bropom 4th Anniv Medal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3108,
+      "name": "Revita VI",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 2418,
+      "name": "Tentacle's Roar",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

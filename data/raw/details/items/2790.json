@@ -1,0 +1,39 @@
+{
+  "id": 2790,
+  "name": "Cersier's Hair Ornament",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 60,
+  "process": 4,
+  "process_amount": 30,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 50,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 17,
+      "effect_name": "MaxHP",
+      "amount": 2000,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 170,
+      "effect_name": "Reduce Dmg (Player Epicenter) %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 171,
+      "effect_name": "Reduce Dmg (Foe Epicenter) %",
+      "amount": 10,
+      "applies_to": 0
+    }
+  ]
+}

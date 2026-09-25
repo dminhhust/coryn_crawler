@@ -1,0 +1,45 @@
+{
+  "id": 1569,
+  "name": "Frill Cape",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 37,
+  "process": 4,
+  "process_amount": 18,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 30,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 14,
+      "effect_name": "Natural HP Regen %",
+      "amount": 8,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 17,
+      "effect_name": "MaxHP",
+      "amount": 300,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 32,
+      "effect_name": "Magic Resistance %",
+      "amount": 4,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 52,
+      "effect_name": "Water resistance %",
+      "amount": 12,
+      "applies_to": 0
+    }
+  ]
+}

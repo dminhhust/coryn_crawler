@@ -1,0 +1,14 @@
+{
+  "id": 7720,
+  "name": "Crushed Tree Bark",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 23,
+  "process": 2,
+  "process_amount": 23,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

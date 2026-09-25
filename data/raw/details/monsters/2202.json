@@ -1,0 +1,52 @@
+{
+  "id": 2202,
+  "name": "Golden Casket",
+  "level": 0,
+  "map_id": 88,
+  "map_name": "-",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 0,
+  "exp": 0,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4587,
+      "name": "Ankh of Resurrection",
+      "type_id": 18,
+      "type_label": "[Special]"
+    },
+    {
+      "id": 4589,
+      "name": "Oriental Robe",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 4586,
+      "name": "Rosetta Shard",
+      "type_id": 18,
+      "type_label": "[Special]"
+    },
+    {
+      "id": 4590,
+      "name": "Rosetta Stone",
+      "type_id": 18,
+      "type_label": "[Special]"
+    },
+    {
+      "id": 4588,
+      "name": "Sealing Bandage",
+      "type_id": 18,
+      "type_label": "[Special]"
+    }
+  ]
+}

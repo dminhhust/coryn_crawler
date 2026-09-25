@@ -1,0 +1,46 @@
+{
+  "id": 3110,
+  "name": "Maringer",
+  "level": 233,
+  "map_id": 550,
+  "map_name": "Seabed",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 330,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7437,
+      "name": "Glowing Long Beard",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7435,
+      "name": "Long Dorsal Fin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7438,
+      "name": "Lovely Ocean Talisman",
+      "type_id": 18,
+      "type_label": "[Special]"
+    },
+    {
+      "id": 7436,
+      "name": "Tender Fillet",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

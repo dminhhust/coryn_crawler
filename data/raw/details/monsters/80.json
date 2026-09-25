@@ -1,0 +1,46 @@
+{
+  "id": 80,
+  "name": "Colon",
+  "level": 9,
+  "map_id": 23,
+  "map_name": "Strum Road",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 125,
+  "exp": 5,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 48,
+      "name": "Colon Leaf",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 49,
+      "name": "Colon Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 479,
+      "name": "Hachigane",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 273,
+      "name": "Unripe Nut",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

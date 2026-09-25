@@ -1,0 +1,88 @@
+{
+  "id": 1497,
+  "name": "Noeliel the Ice Statue (raid)",
+  "level": 202,
+  "map_id": 265,
+  "map_name": "Noeliel Castle: Hall (120-140)",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Ultimate",
+  "hp": -1,
+  "exp": 155000,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 937,
+      "name": "Champagne",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 2675,
+      "name": "Iced Vita Plus",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 3465,
+      "name": "Noeliel the Ice Statue",
+      "type_id": 220,
+      "type_label": "[Enhancer Crysta (Green)]"
+    },
+    {
+      "id": 911,
+      "name": "Orichalcum Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 1716,
+      "name": "Revita V",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 590,
+      "name": "Roast Chicken",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 3474,
+      "name": "Sacred Ice Armor",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 3461,
+      "name": "Sacred Ice Claws",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    },
+    {
+      "id": 3463,
+      "name": "Sacred Ice Katana",
+      "type_id": 27,
+      "type_label": "[Katana]"
+    },
+    {
+      "id": 3462,
+      "name": "Sacred Ice Spear",
+      "type_id": 26,
+      "type_label": "[Halberd]"
+    },
+    {
+      "id": 3460,
+      "name": "Sacred Ice Staff",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    }
+  ]
+}

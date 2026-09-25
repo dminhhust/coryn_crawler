@@ -1,0 +1,33 @@
+{
+  "id": 1624,
+  "name": "Glory Gem",
+  "type_id": 12,
+  "type_label": "[Gem]",
+  "sell": 0,
+  "process": 0,
+  "process_amount": 0,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 105,
+      "effect_name": "Base Drop Rate %",
+      "amount": 75,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 107,
+      "effect_name": "Damage from Boss %",
+      "amount": 100,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 108,
+      "effect_name": "Damage to Boss %",
+      "amount": -50,
+      "applies_to": 0
+    }
+  ]
+}

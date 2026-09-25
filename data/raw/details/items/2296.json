@@ -1,0 +1,39 @@
+{
+  "id": 2296,
+  "name": "Beast Talisman",
+  "type_id": 18,
+  "type_label": "[Special]",
+  "sell": 55,
+  "process": 1,
+  "process_amount": 27,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 18,
+      "effect_name": "MaxHP %",
+      "amount": 20,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 55,
+      "effect_name": "Light resistance %",
+      "amount": 4,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 143,
+      "effect_name": "ATK UP (VIT %)",
+      "amount": 5,
+      "applies_to": 0
+    }
+  ]
+}

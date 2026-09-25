@@ -1,0 +1,52 @@
+{
+  "id": 1932,
+  "name": "Mega Alpoca",
+  "level": 204,
+  "map_id": 336,
+  "map_name": "Labilans Sector: Area 3",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 34100,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4388,
+      "name": "Alpoca Fur",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4390,
+      "name": "Fur Collar",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 4391,
+      "name": "Mega Alpoca",
+      "type_id": 230,
+      "type_label": "[Enhancer Crysta (Yellow)]"
+    },
+    {
+      "id": 816,
+      "name": "Mithril Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 4387,
+      "name": "Smooth Fine Hair",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

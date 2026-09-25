@@ -1,0 +1,46 @@
+{
+  "id": 2607,
+  "name": "Tetracle",
+  "level": 208,
+  "map_id": 463,
+  "map_name": "Arstida: Area 2",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 39000,
+  "exp": 704,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6130,
+      "name": "Corroded Tentacle",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6131,
+      "name": "Geometric Armor Bit",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6132,
+      "name": "Mutated Rock",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6133,
+      "name": "Shirogane",
+      "type_id": 27,
+      "type_label": "[Katana]"
+    }
+  ]
+}

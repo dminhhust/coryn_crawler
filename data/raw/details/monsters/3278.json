@@ -1,0 +1,46 @@
+{
+  "id": 3278,
+  "name": "Romyzon",
+  "level": 252,
+  "map_id": 620,
+  "map_name": "Latum Wetlands",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 28100,
+  "exp": 422,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7994,
+      "name": "Eel Liver",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7995,
+      "name": "Erde Shield",
+      "type_id": 17,
+      "type_label": "[Shield]"
+    },
+    {
+      "id": 7993,
+      "name": "Luminous Caudal Fin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7992,
+      "name": "Slimy Thick Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

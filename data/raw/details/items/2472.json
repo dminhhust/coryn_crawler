@@ -1,0 +1,27 @@
+{
+  "id": 2472,
+  "name": "Gold Pom Refine",
+  "type_id": 2,
+  "type_label": "[Refinement Support]",
+  "sell": -1,
+  "process": 0,
+  "process_amount": 0,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 77,
+      "effect_name": "Refine Success Rate %",
+      "amount": 15,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 103,
+      "effect_name": "Prevents degradation %",
+      "amount": 95,
+      "applies_to": 0
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 571,
+  "name": "Corroded Brawler",
+  "level": 93,
+  "map_id": 153,
+  "map_name": "Dark Manor: Area 1",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 432,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1943,
+      "name": "Corroded Iron Arm",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1944,
+      "name": "Devil Claws",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    },
+    {
+      "id": 1942,
+      "name": "Fancy Armor Bit",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1945,
+      "name": "Manor Decoration",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

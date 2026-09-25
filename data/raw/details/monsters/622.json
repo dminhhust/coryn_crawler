@@ -1,0 +1,34 @@
+{
+  "id": 622,
+  "name": "June Bride Event (all mini boss)",
+  "level": 0,
+  "map_id": 87,
+  "map_name": "Event",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "Normal",
+  "hp": 0,
+  "exp": 0,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2033,
+      "name": "Bride Box",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 2034,
+      "name": "Groom Box",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

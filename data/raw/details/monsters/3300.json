@@ -1,0 +1,88 @@
+{
+  "id": 3300,
+  "name": "Corey",
+  "level": 192,
+  "map_id": 626,
+  "map_name": "Tower of Clamor: Area 1 (190-194)",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 40640,
+  "exp": 672,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4564,
+      "name": "Bizarre Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7479,
+      "name": "Clamor Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6042,
+      "name": "Douse Knuckles",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    },
+    {
+      "id": 8034,
+      "name": "Gegner's Mic Stand",
+      "type_id": 5,
+      "type_label": "[2 Handed Sword]"
+    },
+    {
+      "id": 7644,
+      "name": "Iced Chicken Vita",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 8035,
+      "name": "Megashout Microphone",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    },
+    {
+      "id": 5952,
+      "name": "Nightmare Gallstone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4850,
+      "name": "Revita VII",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 7613,
+      "name": "Scream Shadow",
+      "type_id": 24,
+      "type_label": "[Special Crysta]"
+    },
+    {
+      "id": 8027,
+      "name": "Spiky WIg",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 8030,
+      "name": "Winter Outfit II",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    }
+  ]
+}

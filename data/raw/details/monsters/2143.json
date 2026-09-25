@@ -1,0 +1,46 @@
+{
+  "id": 2143,
+  "name": "Wallkong",
+  "level": 181,
+  "map_id": 370,
+  "map_name": "Ruins of Urban Elban",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 80000,
+  "exp": 1574,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4898,
+      "name": "Corroded Rock Surface",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4900,
+      "name": "Duel Mask",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 4899,
+      "name": "Red Crystalline Lens",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4897,
+      "name": "Strange Dust",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

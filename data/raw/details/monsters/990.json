@@ -1,0 +1,46 @@
+{
+  "id": 990,
+  "name": "Grecion",
+  "level": 89,
+  "map_id": 189,
+  "map_name": "Navida City: Crossroad (80-100)",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 185,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1887,
+      "name": "Aurora Crystal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1584,
+      "name": "Frozen Twig",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2445,
+      "name": "MP+200",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 2481,
+      "name": "Navida Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

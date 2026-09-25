@@ -1,0 +1,45 @@
+{
+  "id": 6121,
+  "name": "Traveler's Waistcloth",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 97,
+  "process": 4,
+  "process_amount": 48,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 90,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 16,
+      "effect_name": "Natural MP Regen %",
+      "amount": 20,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 19,
+      "effect_name": "MaxMP",
+      "amount": 100,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 21,
+      "effect_name": "ATK %",
+      "amount": 8,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 34,
+      "effect_name": "Accuracy %",
+      "amount": 8,
+      "applies_to": 0
+    }
+  ]
+}

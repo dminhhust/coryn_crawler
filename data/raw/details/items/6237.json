@@ -1,0 +1,33 @@
+{
+  "id": 6237,
+  "name": "Adamantite Charmstone ",
+  "type_id": 18,
+  "type_label": "[Special]",
+  "sell": -1,
+  "process": 2,
+  "process_amount": -1,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 0,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 17,
+      "effect_name": "MaxHP",
+      "amount": 5000,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 75,
+      "effect_name": "Neutral Resistance %",
+      "amount": 25,
+      "applies_to": 0
+    }
+  ]
+}

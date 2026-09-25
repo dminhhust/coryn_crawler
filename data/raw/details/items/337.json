@@ -1,0 +1,14 @@
+{
+  "id": 337,
+  "name": "High-Purity Iron",
+  "type_id": 16,
+  "type_label": "[Ore]",
+  "sell": 100,
+  "process": 3,
+  "process_amount": 6,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

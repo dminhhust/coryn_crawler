@@ -1,0 +1,57 @@
+{
+  "id": 6268,
+  "name": "Cloak of Mist & Cloud",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 225,
+  "process": 4,
+  "process_amount": 112,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 151,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 23,
+      "effect_name": "MATK %",
+      "amount": 9,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 38,
+      "effect_name": "ASPD %",
+      "amount": 50,
+      "applies_to": 2048
+    },
+    {
+      "effect_id": 40,
+      "effect_name": "CSPD %",
+      "amount": 50,
+      "applies_to": 8
+    },
+    {
+      "effect_id": 61,
+      "effect_name": "Aggro %",
+      "amount": -50,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 127,
+      "effect_name": "Fractional Barrier %",
+      "amount": 20,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 181,
+      "effect_name": "Absolute Dodge %",
+      "amount": 5,
+      "applies_to": 0
+    }
+  ]
+}

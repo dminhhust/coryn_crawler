@@ -1,0 +1,33 @@
+{
+  "id": 1808,
+  "name": "Sunglasses",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 37,
+  "process": 3,
+  "process_amount": 18,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 7,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 34,
+      "effect_name": "Accuracy %",
+      "amount": -3,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 61,
+      "effect_name": "Aggro %",
+      "amount": -30,
+      "applies_to": 0
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 1501,
+  "name": "Ultimate Machina (Megiston 2018)",
+  "level": 160,
+  "map_id": 87,
+  "map_name": "Event",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 1250000,
+  "exp": 26000,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3488,
+      "name": "Amcrie",
+      "type_id": 26,
+      "type_label": "[Halberd]"
+    },
+    {
+      "id": 3489,
+      "name": "Iradium",
+      "type_id": 27,
+      "type_label": "[Katana]"
+    },
+    {
+      "id": 2896,
+      "name": "Machina Ring",
+      "type_id": 18,
+      "type_label": "[Special]"
+    },
+    {
+      "id": 2900,
+      "name": "Ultimate Machina",
+      "type_id": 210,
+      "type_label": "[Enhancer Crysta (Red)]"
+    }
+  ]
+}

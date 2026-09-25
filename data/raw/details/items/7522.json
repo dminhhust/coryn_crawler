@@ -1,0 +1,57 @@
+{
+  "id": 7522,
+  "name": "Bangrudom",
+  "type_id": 22,
+  "type_label": "[Armor Crysta]",
+  "sell": 0,
+  "process": 6,
+  "process_amount": 0,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 12,
+      "effect_name": "DEX %",
+      "amount": 5,
+      "applies_to": 1
+    },
+    {
+      "effect_id": 18,
+      "effect_name": "MaxHP %",
+      "amount": -20,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 21,
+      "effect_name": "ATK %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 23,
+      "effect_name": "MATK %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 26,
+      "effect_name": "Magic Pierce %",
+      "amount": 5,
+      "applies_to": 32768
+    },
+    {
+      "effect_id": 38,
+      "effect_name": "ASPD %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 40,
+      "effect_name": "CSPD %",
+      "amount": 10,
+      "applies_to": 0
+    }
+  ]
+}

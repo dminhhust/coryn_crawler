@@ -1,0 +1,52 @@
+{
+  "id": 3201,
+  "name": "Meteora",
+  "level": 302,
+  "map_id": 592,
+  "map_name": "Menabra Plains",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "Easy",
+  "hp": 0,
+  "exp": 74656,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7669,
+      "name": "Abyssal Light",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7668,
+      "name": "Meteor Sword",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    },
+    {
+      "id": 7670,
+      "name": "Meteora",
+      "type_id": 220,
+      "type_label": "[Enhancer Crysta (Green)]"
+    },
+    {
+      "id": 7658,
+      "name": "Meteoric Iron",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7657,
+      "name": "Tektite",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

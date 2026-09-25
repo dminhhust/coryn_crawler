@@ -1,0 +1,45 @@
+{
+  "id": 1479,
+  "name": "Pretty Ribbon L",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 32,
+  "process": 4,
+  "process_amount": 16,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 1,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 19,
+      "effect_name": "MaxMP",
+      "amount": 100,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 31,
+      "effect_name": "Physical Resistance %",
+      "amount": 3,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 56,
+      "effect_name": "Dark resistance %",
+      "amount": 3,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 68,
+      "effect_name": "Attack MP Recovery",
+      "amount": 1,
+      "applies_to": 0
+    }
+  ]
+}

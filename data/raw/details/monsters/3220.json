@@ -1,0 +1,46 @@
+{
+  "id": 3220,
+  "name": "Lileaf",
+  "level": 247,
+  "map_id": 593,
+  "map_name": "Perdida Wasteland",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 0,
+  "exp": 308,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7708,
+      "name": "Flying Leaf",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7711,
+      "name": "Leaf Mask",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 7710,
+      "name": "Spiral Tree Bark",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7709,
+      "name": "Tangled Roots",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

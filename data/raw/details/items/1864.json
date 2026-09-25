@@ -1,0 +1,39 @@
+{
+  "id": 1864,
+  "name": "Two-Headed Snake Crown",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 42,
+  "process": 3,
+  "process_amount": 21,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 17,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 8,
+      "effect_name": "VIT %",
+      "amount": -7,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 19,
+      "effect_name": "MaxMP",
+      "amount": 150,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 68,
+      "effect_name": "Attack MP Recovery",
+      "amount": 3,
+      "applies_to": 0
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 2440,
+  "name": "Egguania",
+  "level": 192,
+  "map_id": 419,
+  "map_name": "Guardian Forest: Lost Woods",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 28400,
+  "exp": 448,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5722,
+      "name": "Forester's Hat",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 5720,
+      "name": "Green Lizard Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5719,
+      "name": "Short Mandibular Fang",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5721,
+      "name": "Speckled Egg",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": 892,
+  "name": "Masked Warrior",
+  "level": 57,
+  "map_id": 84,
+  "map_name": "Land Under Cultivation: Hill",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Easy",
+  "hp": 27600,
+  "exp": 430,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 436,
+      "name": "Adventurer's Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 825,
+      "name": "Berserker Blade",
+      "type_id": 5,
+      "type_label": "[2 Handed Sword]"
+    },
+    {
+      "id": 823,
+      "name": "Berserker Cestuses",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    },
+    {
+      "id": 826,
+      "name": "Berserker Mask",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 815,
+      "name": "Broken Mask",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 824,
+      "name": "Great Sword Fragment",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 814,
+      "name": "Heavy Tough Chain",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 332,
+      "name": "Mithril",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    }
+  ]
+}

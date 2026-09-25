@@ -1,0 +1,39 @@
+{
+  "id": 2614,
+  "name": "Chocolate Ooze II",
+  "type_id": 230,
+  "type_label": "[Enhancer Crysta (Yellow)]",
+  "sell": 1,
+  "process": 6,
+  "process_amount": 200,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 18,
+      "effect_name": "MaxHP %",
+      "amount": -15,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 19,
+      "effect_name": "MaxMP",
+      "amount": 300,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 39,
+      "effect_name": "CSPD",
+      "amount": 600,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 148,
+      "effect_name": "Upgrade for",
+      "amount": 1779,
+      "applies_to": 0
+    }
+  ]
+}

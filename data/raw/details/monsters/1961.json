@@ -1,0 +1,46 @@
+{
+  "id": 1961,
+  "name": "Wandering Blood Crystal",
+  "level": 168,
+  "map_id": 342,
+  "map_name": "Avant Plastida: Area 3",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 22000,
+  "exp": 450,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4456,
+      "name": "Aquarator",
+      "type_id": 15,
+      "type_label": "[Magic Device]"
+    },
+    {
+      "id": 4455,
+      "name": "Bloody Red Gemstone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4454,
+      "name": "Hard Water",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 4453,
+      "name": "Jiggling Fin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

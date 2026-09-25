@@ -1,0 +1,64 @@
+{
+  "id": 3345,
+  "name": "Breeta (Normal)",
+  "level": 240,
+  "map_id": 643,
+  "map_name": "Day Sakura Garden",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 8860000,
+  "exp": 35900,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7639,
+      "name": "Breeta",
+      "type_id": 240,
+      "type_label": "[Enhancer Crysta (Purple)]"
+    },
+    {
+      "id": 8112,
+      "name": "Breeta's Claw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 8113,
+      "name": "Breeta's Ring Fragment",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 8114,
+      "name": "Ominous Ash",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6923,
+      "name": "Pink Orange Wicker Box",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 8116,
+      "name": "Sunlight Saber",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    },
+    {
+      "id": 8119,
+      "name": "Weeping Sakura Petals",
+      "type_id": 15,
+      "type_label": "[Magic Device]"
+    }
+  ]
+}

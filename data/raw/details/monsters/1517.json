@@ -1,0 +1,58 @@
+{
+  "id": 1517,
+  "name": "Zelbuse",
+  "level": 144,
+  "map_id": 274,
+  "map_name": "Ruins of Mt. Mithurna: Open Air",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Easy",
+  "hp": 160000,
+  "exp": 1110,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3516,
+      "name": "Cracked Celestial Sphere",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3519,
+      "name": "Sublime Monolith",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3517,
+      "name": "Zel Blade",
+      "type_id": 5,
+      "type_label": "[2 Handed Sword]"
+    },
+    {
+      "id": 3518,
+      "name": "Zel Shooter",
+      "type_id": 9,
+      "type_label": "[Bow]"
+    },
+    {
+      "id": 3514,
+      "name": "Zelbuse Stone Arm",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3515,
+      "name": "Zelbuse Wing of Light",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

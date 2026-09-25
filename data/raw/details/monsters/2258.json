@@ -1,0 +1,46 @@
+{
+  "id": 2258,
+  "name": "Floragonet",
+  "level": 129,
+  "map_id": 393,
+  "map_name": "Cookie Road",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 14000,
+  "exp": 236,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5299,
+      "name": "Bitter Root",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5271,
+      "name": "Flower Bud Dagger",
+      "type_id": 11,
+      "type_label": "[Dagger]"
+    },
+    {
+      "id": 5300,
+      "name": "Healing Mint",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5298,
+      "name": "White Sugar",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

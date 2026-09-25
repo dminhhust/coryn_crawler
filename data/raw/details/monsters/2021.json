@@ -1,0 +1,58 @@
+{
+  "id": 2021,
+  "name": "Amalgam",
+  "level": 180,
+  "map_id": 351,
+  "map_name": "Twilight Sakura Castle: Top",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Hard",
+  "hp": 6000000,
+  "exp": 26500,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 436,
+      "name": "Adventurer's Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 4548,
+      "name": "Amalgam",
+      "type_id": 240,
+      "type_label": "[Enhancer Crysta (Purple)]"
+    },
+    {
+      "id": 4549,
+      "name": "Corroded Yozakura",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4550,
+      "name": "Sakura Eater Crystal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4547,
+      "name": "Twilight Sakura Arrow",
+      "type_id": 7,
+      "type_label": "[Arrow]"
+    },
+    {
+      "id": 4546,
+      "name": "Twilight Sakura Dagger",
+      "type_id": 11,
+      "type_label": "[Dagger]"
+    }
+  ]
+}

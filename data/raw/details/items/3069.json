@@ -1,0 +1,33 @@
+{
+  "id": 3069,
+  "name": "3rd Anniv Halberd III",
+  "type_id": 26,
+  "type_label": "[Halberd]",
+  "sell": -1,
+  "process": 3,
+  "process_amount": 37,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 139,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 60,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 113,
+      "effect_name": "Potential",
+      "amount": 27,
+      "applies_to": 0
+    }
+  ]
+}

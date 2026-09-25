@@ -1,0 +1,46 @@
+{
+  "id": 3047,
+  "name": "Arena Lv260 Entry (8th Anniv)",
+  "level": 0,
+  "map_id": 538,
+  "map_name": "Anniversary Arena: 8th Venue",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": -1,
+  "element_id": -1,
+  "element_label": "Unknown",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7187,
+      "name": "Golpom 8th Anniv Medal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6484,
+      "name": "Memorial Silk",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6489,
+      "name": "Regera VI",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 4850,
+      "name": "Revita VII",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

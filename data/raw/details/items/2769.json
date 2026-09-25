@@ -1,0 +1,14 @@
+{
+  "id": 2769,
+  "name": "Strange Egg",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 7,
+  "process": 5,
+  "process_amount": 8,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

@@ -1,0 +1,46 @@
+{
+  "id": 3005,
+  "name": "Breppa",
+  "level": 223,
+  "map_id": 528,
+  "map_name": "Algid Passage",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 27331,
+  "exp": 432,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7096,
+      "name": "Crystallized Foot",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7095,
+      "name": "Crystallized Tail",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 816,
+      "name": "Mithril Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 7097,
+      "name": "Teardrop",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

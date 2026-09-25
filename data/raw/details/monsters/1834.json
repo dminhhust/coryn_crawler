@@ -1,0 +1,46 @@
+{
+  "id": 1834,
+  "name": "Narumi Hina (Lv170 Raid)",
+  "level": 160,
+  "map_id": 87,
+  "map_name": "Event",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Easy",
+  "hp": 350000,
+  "exp": 2200,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4251,
+      "name": "Dark Note Paper",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1977,
+      "name": "Hyper Anti-Degradation",
+      "type_id": 2,
+      "type_label": "[Refinement Support]"
+    },
+    {
+      "id": 4253,
+      "name": "Kinaco's Photo",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3108,
+      "name": "Revita VI",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

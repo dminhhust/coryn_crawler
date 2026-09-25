@@ -1,0 +1,21 @@
+{
+  "id": 3515,
+  "name": "Aba",
+  "level": 285,
+  "map_id": 698,
+  "map_name": "Ocean Pantry: Deepest Part",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Easy",
+  "hp": 2390000,
+  "exp": 8280,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": []
+}

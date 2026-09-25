@@ -1,0 +1,58 @@
+{
+  "id": 2776,
+  "name": "Sibylares (Easy)",
+  "level": 175,
+  "map_id": 489,
+  "map_name": "Phasma Forest: Area 3",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 2750000,
+  "exp": 14000,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6594,
+      "name": "Dripping Spirit Dew",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 243,
+      "name": "Hematite",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 6595,
+      "name": "Sibylares",
+      "type_id": 22,
+      "type_label": "[Armor Crysta]"
+    },
+    {
+      "id": 6597,
+      "name": "Squash Blade",
+      "type_id": 5,
+      "type_label": "[2 Handed Sword]"
+    },
+    {
+      "id": 6596,
+      "name": "Squash Mace",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    },
+    {
+      "id": 1463,
+      "name": "Sweets Box",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

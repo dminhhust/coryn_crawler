@@ -1,0 +1,76 @@
+{
+  "id": 683,
+  "name": "Twilight Dragon",
+  "level": 90,
+  "map_id": 135,
+  "map_name": "Fort Solfini: Roof",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Easy",
+  "hp": 69500,
+  "exp": 800,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1643,
+      "name": "Ice Rose",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1641,
+      "name": "Jet-Black Wing",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 816,
+      "name": "Mithril Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 1647,
+      "name": "Twilight Arrow",
+      "type_id": 7,
+      "type_label": "[Arrow]"
+    },
+    {
+      "id": 1646,
+      "name": "Twilight Dagger",
+      "type_id": 11,
+      "type_label": "[Dagger]"
+    },
+    {
+      "id": 1642,
+      "name": "Twilight Dragon Claw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1645,
+      "name": "Twilight Dragon Wing",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1648,
+      "name": "Twilight Dress",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 1644,
+      "name": "Twilight Gemstone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

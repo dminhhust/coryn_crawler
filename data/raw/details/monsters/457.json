@@ -1,0 +1,28 @@
+{
+  "id": 457,
+  "name": "Noir Nemico",
+  "level": 76,
+  "map_id": 129,
+  "map_name": "Lunagent Mountain: Area 3",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 107,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1562,
+      "name": "Tomato Juice",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

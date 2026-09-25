@@ -1,0 +1,28 @@
+{
+  "id": 1823,
+  "name": "Yashiro Azuki's Dad (Lv 50 Raid)",
+  "level": 95,
+  "map_id": 87,
+  "map_name": "Event",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Ultimate",
+  "hp": -1,
+  "exp": -1,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4248,
+      "name": "Yashiro Azuki's Dad's Mask",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

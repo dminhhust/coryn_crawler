@@ -1,0 +1,14 @@
+{
+  "id": 8518,
+  "name": "Ghostfire Knuckles",
+  "type_id": 13,
+  "type_label": "[Knuckles]",
+  "sell": 300,
+  "process": 3,
+  "process_amount": 150,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

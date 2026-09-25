@@ -1,0 +1,33 @@
+{
+  "id": 1494,
+  "name": "Pumpkin Candy",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 5,
+  "process": 6,
+  "process_amount": 2,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 37,
+      "effect_name": "ASPD",
+      "amount": 100,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 39,
+      "effect_name": "CSPD",
+      "amount": 100,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 49,
+      "effect_name": "% stronger against Light",
+      "amount": 5,
+      "applies_to": 0
+    }
+  ]
+}

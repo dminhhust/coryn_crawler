@@ -1,0 +1,14 @@
+{
+  "id": 1521,
+  "name": "Scribbled Bandage",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 7,
+  "process": 4,
+  "process_amount": 7,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

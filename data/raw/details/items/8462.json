@@ -1,0 +1,14 @@
+{
+  "id": 8462,
+  "name": "Starry Robe ",
+  "type_id": 8,
+  "type_label": "[Armor]",
+  "sell": 260,
+  "process": 4,
+  "process_amount": 130,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

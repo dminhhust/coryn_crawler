@@ -1,0 +1,39 @@
+{
+  "id": 3443,
+  "name": "Snowman on the Head",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": -1,
+  "process": -1,
+  "process_amount": -1,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 42,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 17,
+      "effect_name": "MaxHP",
+      "amount": 1500,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 24,
+      "effect_name": "Stability %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 174,
+      "effect_name": "Reduce Dmg (Charge) %",
+      "amount": 20,
+      "applies_to": 0
+    }
+  ]
+}

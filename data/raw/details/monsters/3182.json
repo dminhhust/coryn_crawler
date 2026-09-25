@@ -1,0 +1,46 @@
+{
+  "id": 3182,
+  "name": "Swanaga",
+  "level": 249,
+  "map_id": 582,
+  "map_name": "Little Shrine of Grace: Area 2",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 0,
+  "exp": 823,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7749,
+      "name": "Red Coral",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7541,
+      "name": "Seapent Bow",
+      "type_id": 9,
+      "type_label": "[Bow]"
+    },
+    {
+      "id": 7545,
+      "name": "Swaying Mane",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7543,
+      "name": "Watery Fin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

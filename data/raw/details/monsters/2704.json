@@ -1,0 +1,21 @@
+{
+  "id": 2704,
+  "name": "Acudel",
+  "level": 234,
+  "map_id": 479,
+  "map_name": "Anniversary Arena: 7th Venue",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 3600000,
+  "exp": 12500,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": []
+}

@@ -1,0 +1,46 @@
+{
+  "id": 1104,
+  "name": "Mystery Pot",
+  "level": 121,
+  "map_id": 216,
+  "map_name": "Brahe Laboratory: 3rd Building",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 12000,
+  "exp": 214,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2753,
+      "name": "Corroded Pot",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2751,
+      "name": "Hard Claw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2752,
+      "name": "Stretchable Wire",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2717,
+      "name": "Zweihander",
+      "type_id": 5,
+      "type_label": "[2 Handed Sword]"
+    }
+  ]
+}

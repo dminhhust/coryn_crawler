@@ -1,0 +1,46 @@
+{
+  "id": 1780,
+  "name": "Petally",
+  "level": 158,
+  "map_id": 307,
+  "map_name": "Morthell Swell: Area 1",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 30000,
+  "exp": 408,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4114,
+      "name": "Petrified Wood",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4113,
+      "name": "Poisonous Leaf",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4112,
+      "name": "Purple Root",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4115,
+      "name": "Shaman Staff",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    }
+  ]
+}

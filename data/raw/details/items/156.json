@@ -1,0 +1,14 @@
+{
+  "id": 156,
+  "name": "Pale Gemstone",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 7,
+  "process": 6,
+  "process_amount": 2,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": 472,
+  "name": "Forest Wolf Garb",
+  "type_id": 8,
+  "type_label": "[Armor]",
+  "sell": 25,
+  "process": 4,
+  "process_amount": 13,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 21,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 35,
+      "effect_name": "Dodge",
+      "amount": 4,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 37,
+      "effect_name": "ASPD",
+      "amount": 200,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 41,
+      "effect_name": "Critical Rate",
+      "amount": 4,
+      "applies_to": 0
+    }
+  ]
+}

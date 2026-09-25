@@ -1,0 +1,33 @@
+{
+  "id": 5757,
+  "name": "Ferzen the Rock Dragon",
+  "type_id": 220,
+  "type_label": "[Enhancer Crysta (Green)]",
+  "sell": -1,
+  "process": 6,
+  "process_amount": 0,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 17,
+      "effect_name": "MaxHP",
+      "amount": 5000,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 74,
+      "effect_name": "Weapon ATK %",
+      "amount": 5,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 148,
+      "effect_name": "Upgrade for",
+      "amount": 4474,
+      "applies_to": 0
+    }
+  ]
+}

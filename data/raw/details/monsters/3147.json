@@ -1,0 +1,28 @@
+{
+  "id": 3147,
+  "name": "Bangrudom (Plain)",
+  "level": 200,
+  "map_id": 511,
+  "map_name": "El Scaro: Back Alley",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 5000000,
+  "exp": 22600,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7522,
+      "name": "Bangrudom",
+      "type_id": 22,
+      "type_label": "[Armor Crysta]"
+    }
+  ]
+}

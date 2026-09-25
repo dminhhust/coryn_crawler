@@ -1,0 +1,46 @@
+{
+  "id": 2466,
+  "name": "Wood Mouse",
+  "level": 195,
+  "map_id": 423,
+  "map_name": "Storage Yard: Area 1",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 33000,
+  "exp": 460,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5781,
+      "name": "Big Ear",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5783,
+      "name": "Forest Bow",
+      "type_id": 9,
+      "type_label": "[Bow]"
+    },
+    {
+      "id": 5782,
+      "name": "Quality Material",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5780,
+      "name": "Sharp Fur",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

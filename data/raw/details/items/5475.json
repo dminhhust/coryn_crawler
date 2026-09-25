@@ -1,0 +1,21 @@
+{
+  "id": 5475,
+  "name": "Naiata",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 1,
+  "process": 6,
+  "process_amount": 1,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 210,
+      "effect_name": "Teleport To Naiata",
+      "amount": 1,
+      "applies_to": 0
+    }
+  ]
+}

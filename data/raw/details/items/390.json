@@ -1,0 +1,21 @@
+{
+  "id": 390,
+  "name": "Intellectual Gem +",
+  "type_id": 12,
+  "type_label": "[Gem]",
+  "sell": 0,
+  "process": 0,
+  "process_amount": 0,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 6,
+      "effect_name": "INT %",
+      "amount": 30,
+      "applies_to": 0
+    }
+  ]
+}

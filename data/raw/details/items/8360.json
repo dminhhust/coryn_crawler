@@ -1,0 +1,14 @@
+{
+  "id": 8360,
+  "name": "Sneak Attack Timer",
+  "type_id": 241,
+  "type_label": "Registlet",
+  "sell": -1,
+  "process": -1,
+  "process_amount": -1,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

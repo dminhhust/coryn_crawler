@@ -1,0 +1,46 @@
+{
+  "id": 1510,
+  "name": "Haliabubo",
+  "level": 139,
+  "map_id": 272,
+  "map_name": "Ruins of Mt. Mithurna: Stylobate",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 15000,
+  "exp": 332,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3507,
+      "name": "Bird Liver",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3506,
+      "name": "Bubo Beak",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3505,
+      "name": "Grey Feather",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3501,
+      "name": "Rostrum Bowgun",
+      "type_id": 10,
+      "type_label": "[Bowgun]"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 2033,
+  "name": "Felicitoad",
+  "level": 150,
+  "map_id": 79,
+  "map_name": "Sofya City: Government Office",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 66000000,
+  "exp": 20000,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4554,
+      "name": "Felicitoad",
+      "type_id": 230,
+      "type_label": "[Enhancer Crysta (Yellow)]"
+    },
+    {
+      "id": 2843,
+      "name": "Gold Ingot",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4552,
+      "name": "Golden Barrel",
+      "type_id": 10,
+      "type_label": "[Bowgun]"
+    },
+    {
+      "id": 4553,
+      "name": "Golden Rod",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    }
+  ]
+}

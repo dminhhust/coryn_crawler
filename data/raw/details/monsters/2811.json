@@ -1,0 +1,46 @@
+{
+  "id": 2811,
+  "name": "Phasis",
+  "level": 221,
+  "map_id": 497,
+  "map_name": "Weredragon's Vital Point: Area 2",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 33000,
+  "exp": 497,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6695,
+      "name": "Mutated Beak",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6696,
+      "name": "Raptor Mask",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 6694,
+      "name": "Sharp Crest",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6693,
+      "name": "Strange Feather",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

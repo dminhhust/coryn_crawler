@@ -1,0 +1,39 @@
+{
+  "id": 6995,
+  "name": "Rock Horn Beast Bangle",
+  "type_id": 18,
+  "type_label": "[Special]",
+  "sell": 122,
+  "process": 1,
+  "process_amount": 61,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 0,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 31,
+      "effect_name": "Physical Resistance %",
+      "amount": 20,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 127,
+      "effect_name": "Fractional Barrier %",
+      "amount": 10,
+      "applies_to": 16384
+    },
+    {
+      "effect_id": 139,
+      "effect_name": "Anticipate %",
+      "amount": 5,
+      "applies_to": 0
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 2631,
+  "name": "Tepipotamus",
+  "level": 210,
+  "map_id": 467,
+  "map_name": "Mt. Vulcani: Area 2",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 37000,
+  "exp": 592,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6196,
+      "name": "Aeras Blade",
+      "type_id": 5,
+      "type_label": "[2 Handed Sword]"
+    },
+    {
+      "id": 6195,
+      "name": "Blood Sweat",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6193,
+      "name": "Hippo Leather",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6194,
+      "name": "Thick Hippo Fang",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

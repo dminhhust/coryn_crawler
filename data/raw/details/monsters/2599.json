@@ -1,0 +1,46 @@
+{
+  "id": 2599,
+  "name": "Pantamu",
+  "level": 194,
+  "map_id": 461,
+  "map_name": "Vulcani Foothills",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 16000,
+  "exp": 257,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6118,
+      "name": "Bamboo Leaf",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6119,
+      "name": "Grass Scarf",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6120,
+      "name": "Jabot Pattern",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6121,
+      "name": "Traveler's Waistcloth",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 328,
+  "name": "Glasch",
+  "level": 47,
+  "map_id": 94,
+  "map_name": "Fabizo Boundary",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 2500,
+  "exp": 70,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1123,
+      "name": "Eyepatch",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 1103,
+      "name": "Gemstone Heart",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1102,
+      "name": "Sharp Webbed Foot",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1101,
+      "name": "Transparent Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

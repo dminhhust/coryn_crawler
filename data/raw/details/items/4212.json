@@ -1,0 +1,63 @@
+{
+  "id": 4212,
+  "name": "Lethal Silver Knuckles",
+  "type_id": 13,
+  "type_label": "[Knuckles]",
+  "sell": 21,
+  "process": -1,
+  "process_amount": 21,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 38,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 41,
+      "effect_name": "Critical Rate",
+      "amount": 45,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 57,
+      "effect_name": "Ailment Resistance %",
+      "amount": 3,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 65,
+      "effect_name": "Earth Element",
+      "amount": 1,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 90,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 139,
+      "effect_name": "Anticipate %",
+      "amount": 15,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 170,
+      "effect_name": "Reduce Dmg (Player Epicenter) %",
+      "amount": 5,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 171,
+      "effect_name": "Reduce Dmg (Foe Epicenter) %",
+      "amount": 5,
+      "applies_to": 0
+    }
+  ]
+}

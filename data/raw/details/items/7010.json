@@ -1,0 +1,14 @@
+{
+  "id": 7010,
+  "name": "Kiton's Wing",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 24,
+  "process": 1,
+  "process_amount": 24,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

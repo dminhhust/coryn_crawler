@@ -1,0 +1,14 @@
+{
+  "id": 7375,
+  "name": "Battie Scone",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": -1,
+  "process": 5,
+  "process_amount": -1,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

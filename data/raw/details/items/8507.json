@@ -1,0 +1,14 @@
+{
+  "id": 8507,
+  "name": "Tyrant Dagger",
+  "type_id": 11,
+  "type_label": "[Dagger]",
+  "sell": 260,
+  "process": 3,
+  "process_amount": 130,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

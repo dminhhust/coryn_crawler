@@ -1,0 +1,58 @@
+{
+  "id": 2862,
+  "name": "Black Velly (Hard)",
+  "level": 230,
+  "map_id": 508,
+  "map_name": "Illuminare City: Central Square",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 8000000,
+  "exp": 36000,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6743,
+      "name": "Black Velly",
+      "type_id": 220,
+      "type_label": "[Enhancer Crysta (Green)]"
+    },
+    {
+      "id": 6744,
+      "name": "Holy Night Muffler",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 6745,
+      "name": "Holy Night Scarf",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 2675,
+      "name": "Iced Vita Plus",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 816,
+      "name": "Mithril Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 4850,
+      "name": "Revita VII",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

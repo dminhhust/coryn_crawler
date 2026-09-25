@@ -1,0 +1,14 @@
+{
+  "id": 7721,
+  "name": "Uneven Wood",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 25,
+  "process": 2,
+  "process_amount": 25,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

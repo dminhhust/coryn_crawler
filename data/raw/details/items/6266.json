@@ -1,0 +1,39 @@
+{
+  "id": 6266,
+  "name": "Glory Ring (Restore)",
+  "type_id": 18,
+  "type_label": "[Special]",
+  "sell": -1,
+  "process": -1,
+  "process_amount": -1,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 0,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 19,
+      "effect_name": "MaxMP",
+      "amount": 500,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 42,
+      "effect_name": "Critical Rate %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 125,
+      "effect_name": "Tumble Unavailable",
+      "amount": 1,
+      "applies_to": 0
+    }
+  ]
+}

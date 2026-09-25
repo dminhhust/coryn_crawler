@@ -1,0 +1,14 @@
+{
+  "id": 2739,
+  "name": "Warped Venom Bomb",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 14,
+  "process": 5,
+  "process_amount": 13,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

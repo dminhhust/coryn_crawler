@@ -1,0 +1,21 @@
+{
+  "id": 3421,
+  "name": "Piscruva",
+  "level": 296,
+  "map_id": 667,
+  "map_name": "Vicus Mutans: Square",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Hard",
+  "hp": 0,
+  "exp": 0,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": []
+}

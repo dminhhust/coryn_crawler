@@ -1,0 +1,64 @@
+{
+  "id": 2178,
+  "name": "Pisteus",
+  "level": 213,
+  "map_id": 379,
+  "map_name": "Ducia Coast: Depths",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Nightmare",
+  "hp": 11600000,
+  "exp": 56500,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4992,
+      "name": "Ghoulfish Buckler",
+      "type_id": 17,
+      "type_label": "[Shield]"
+    },
+    {
+      "id": 4990,
+      "name": "Ghoulfish Soul",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4991,
+      "name": "Ghoulfish War Hammer",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    },
+    {
+      "id": 4993,
+      "name": "Pisteus",
+      "type_id": 210,
+      "type_label": "[Enhancer Crysta (Red)]"
+    },
+    {
+      "id": 4988,
+      "name": "Pisteus Bone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4989,
+      "name": "Pisteus Fin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4994,
+      "name": "Pisteus Horns",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 174,
+  "name": "Red Gelatin",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 5,
+  "process": 5,
+  "process_amount": 4,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 37,
+      "effect_name": "ASPD",
+      "amount": 300,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 38,
+      "effect_name": "ASPD %",
+      "amount": 10,
+      "applies_to": 0
+    }
+  ]
+}

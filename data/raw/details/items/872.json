@@ -1,0 +1,14 @@
+{
+  "id": 872,
+  "name": "Metal Pack (M)",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 5,
+  "process": 3,
+  "process_amount": 5,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

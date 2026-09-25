@@ -1,0 +1,46 @@
+{
+  "id": 1166,
+  "name": "Death Media",
+  "level": 125,
+  "map_id": 230,
+  "map_name": "Suburb of Droma Square: Area 1",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 14000,
+  "exp": 282,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2870,
+      "name": "Broken Gun Barrel",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2872,
+      "name": "Bullet Shield",
+      "type_id": 17,
+      "type_label": "[Shield]"
+    },
+    {
+      "id": 2869,
+      "name": "Damp Gunpowder",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2881,
+      "name": "Media Lense",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

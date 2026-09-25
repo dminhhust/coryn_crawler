@@ -1,0 +1,57 @@
+{
+  "id": 4553,
+  "name": "Golden Rod",
+  "type_id": 19,
+  "type_label": "[Staff]",
+  "sell": -1,
+  "process": -1,
+  "process_amount": -1,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 206,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 19,
+      "effect_name": "MaxMP",
+      "amount": 300,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 23,
+      "effect_name": "MATK %",
+      "amount": 6,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 28,
+      "effect_name": "DEF %",
+      "amount": 20,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 60,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 124,
+      "effect_name": "Physical Barrier",
+      "amount": 1000,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 130,
+      "effect_name": "Additional Magic %",
+      "amount": 100,
+      "applies_to": 0
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": 4559,
+  "name": "Red Steel Buckler",
+  "type_id": 17,
+  "type_label": "[Shield]",
+  "sell": -1,
+  "process": -1,
+  "process_amount": -1,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 5,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 35,
+      "effect_name": "Dodge",
+      "amount": 50,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 37,
+      "effect_name": "ASPD",
+      "amount": 300,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 41,
+      "effect_name": "Critical Rate",
+      "amount": 10,
+      "applies_to": 0
+    }
+  ]
+}

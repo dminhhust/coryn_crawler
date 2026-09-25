@@ -1,0 +1,45 @@
+{
+  "id": 5925,
+  "name": "Christmas Tree",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": -1,
+  "process": -1,
+  "process_amount": -1,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 195,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 21,
+      "effect_name": "ATK %",
+      "amount": 8,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 25,
+      "effect_name": "Physical Pierce %",
+      "amount": 16,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 61,
+      "effect_name": "Aggro %",
+      "amount": 4,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 174,
+      "effect_name": "Reduce Dmg (Charge) %",
+      "amount": 32,
+      "applies_to": 0
+    }
+  ]
+}

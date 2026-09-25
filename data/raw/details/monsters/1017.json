@@ -1,0 +1,46 @@
+{
+  "id": 1017,
+  "name": "Evil Ice Crystal",
+  "level": 71,
+  "map_id": 197,
+  "map_name": "Navida City: West  (60-80)",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 170,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2482,
+      "name": "Crystal Cluster",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 56,
+      "name": "Crystal of Flowing Water",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 243,
+      "name": "Hematite",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 121,
+      "name": "Living Liquid",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

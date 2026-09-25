@@ -1,0 +1,33 @@
+{
+  "id": 4802,
+  "name": "5th Anniv Greatsword IV",
+  "type_id": 5,
+  "type_label": "[2 Handed Sword]",
+  "sell": 160,
+  "process": 3,
+  "process_amount": 80,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 363,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 70,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 113,
+      "effect_name": "Potential",
+      "amount": 41,
+      "applies_to": 0
+    }
+  ]
+}

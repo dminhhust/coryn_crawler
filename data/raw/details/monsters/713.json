@@ -1,0 +1,58 @@
+{
+  "id": 713,
+  "name": "Mochelo",
+  "level": 63,
+  "map_id": 40,
+  "map_name": "Fiery Volcano: Area 3",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Nightmare",
+  "hp": 300000,
+  "exp": 3100,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 314,
+      "name": "Mochelo",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 140,
+      "name": "Mochelo Claw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 141,
+      "name": "Mochelo Fur",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 526,
+      "name": "Mochelo Hat",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 142,
+      "name": "Mochelo Pelt",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 270,
+      "name": "Sweet Apple",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 2538,
+  "name": "Ostrich",
+  "level": 188,
+  "map_id": 451,
+  "map_name": "Eumano Glade",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 16000,
+  "exp": 271,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5949,
+      "name": "Dodge+14",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 5947,
+      "name": "Durable Leather",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5948,
+      "name": "Gastrolith",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5946,
+      "name": "Pinecone Trichome",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

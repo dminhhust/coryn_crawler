@@ -1,0 +1,46 @@
+{
+  "id": 1889,
+  "name": "Puppet Dragon",
+  "level": 142,
+  "map_id": 326,
+  "map_name": "Joulu House: Gift Room (Lv 130)",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 20000,
+  "exp": 370,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": true,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3602,
+      "name": "Crystal String",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4317,
+      "name": "Gift Plushie",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4320,
+      "name": "Sacred Blue Candle",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3735,
+      "name": "White Bear Knuckles",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    }
+  ]
+}

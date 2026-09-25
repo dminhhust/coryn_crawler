@@ -1,0 +1,58 @@
+{
+  "id": 616,
+  "name": "Memecoleous",
+  "level": 110,
+  "map_id": 159,
+  "map_name": "Dark Castle: Area 2",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Hard",
+  "hp": 2580000,
+  "exp": 28800,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2021,
+      "name": "Evil Beast Arrow",
+      "type_id": 7,
+      "type_label": "[Arrow]"
+    },
+    {
+      "id": 2011,
+      "name": "Evil Beast Fang",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2022,
+      "name": "Evil Beast Mane",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2023,
+      "name": "Gothic Hat",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 2012,
+      "name": "Hard Paw Pad",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2024,
+      "name": "Memecoleous",
+      "type_id": 240,
+      "type_label": "[Enhancer Crysta (Purple)]"
+    }
+  ]
+}

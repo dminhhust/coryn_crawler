@@ -1,0 +1,21 @@
+{
+  "id": 418,
+  "name": "Reset Book",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 0,
+  "process": 0,
+  "process_amount": 0,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 99,
+      "effect_name": "Reset the stat points distributed",
+      "amount": 0,
+      "applies_to": 0
+    }
+  ]
+}

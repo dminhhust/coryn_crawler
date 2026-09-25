@@ -1,0 +1,52 @@
+{
+  "id": 481,
+  "name": "Ooze (Megiston 2016)",
+  "level": 100,
+  "map_id": 87,
+  "map_name": "Event",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 35000,
+  "exp": 12600,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 318,
+      "name": "Ooze",
+      "type_id": 24,
+      "type_label": "[Special Crysta]"
+    },
+    {
+      "id": 1711,
+      "name": "Ooze Armor",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 1713,
+      "name": "Ooze Helmet",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 1712,
+      "name": "Ooze Shield",
+      "type_id": 17,
+      "type_label": "[Shield]"
+    },
+    {
+      "id": 537,
+      "name": "Ooze Staff",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    }
+  ]
+}

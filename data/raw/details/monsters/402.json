@@ -1,0 +1,46 @@
+{
+  "id": 402,
+  "name": "Kinote",
+  "level": 68,
+  "map_id": 115,
+  "map_name": "Teaus Hill",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 57,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1357,
+      "name": "Delicious Mushroom",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1358,
+      "name": "Small Stump",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1356,
+      "name": "Thin Branch",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1359,
+      "name": "Trinity Earrings",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

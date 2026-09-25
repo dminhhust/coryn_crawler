@@ -1,0 +1,52 @@
+{
+  "id": 1019,
+  "name": "Avalan",
+  "level": 70,
+  "map_id": 198,
+  "map_name": "Navida City: East (60-80)",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 203,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1139,
+      "name": "Huge Mouth",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1390,
+      "name": "Iron Thorns",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    },
+    {
+      "id": 1322,
+      "name": "Magic Oil",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1782,
+      "name": "Mezraq",
+      "type_id": 26,
+      "type_label": "[Halberd]"
+    },
+    {
+      "id": 2481,
+      "name": "Navida Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

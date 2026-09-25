@@ -1,0 +1,46 @@
+{
+  "id": 226,
+  "name": "Pojo",
+  "level": 39,
+  "map_id": 70,
+  "map_name": "Darkanon Plain",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 1100,
+  "exp": 38,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 250,
+      "name": "Chicken Meat",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 291,
+      "name": "CSPD+40",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 251,
+      "name": "Egg",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 79,
+      "name": "Fluffy Feather",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

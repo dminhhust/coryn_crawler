@@ -1,0 +1,46 @@
+{
+  "id": 1543,
+  "name": "Aeternus",
+  "level": 130,
+  "map_id": 275,
+  "map_name": "Barbaros Corridor",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 8000,
+  "exp": 135,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3606,
+      "name": "Crystal Arrow",
+      "type_id": 7,
+      "type_label": "[Arrow]"
+    },
+    {
+      "id": 3602,
+      "name": "Crystal String",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3600,
+      "name": "Shatterred Purple Crystal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3601,
+      "name": "Sparkling Purple Wing",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

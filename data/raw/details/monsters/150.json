@@ -1,0 +1,46 @@
+{
+  "id": 150,
+  "name": "Stone",
+  "level": 31,
+  "map_id": 43,
+  "map_name": "Zoktzda Ruins : Abnormal Space",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 1200,
+  "exp": 48,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 11,
+      "name": "Bead Fragment",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 157,
+      "name": "Pebble",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 329,
+      "name": "VIT+2",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 241,
+      "name": "Zoktzda Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 139,
+  "name": "Mint Gummy",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 7,
+  "process": 5,
+  "process_amount": 7,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 22,
+      "effect_name": "MATK",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 39,
+      "effect_name": "CSPD",
+      "amount": 100,
+      "applies_to": 0
+    }
+  ]
+}

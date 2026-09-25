@@ -1,0 +1,14 @@
+{
+  "id": 122,
+  "name": "Long Beak",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 3,
+  "process": 1,
+  "process_amount": 3,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

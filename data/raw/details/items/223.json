@@ -1,0 +1,14 @@
+{
+  "id": 223,
+  "name": "Torn Jute Sack",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 1,
+  "process": 4,
+  "process_amount": 2,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": 393,
+  "name": "Mana Gem +",
+  "type_id": 12,
+  "type_label": "[Gem]",
+  "sell": 0,
+  "process": 0,
+  "process_amount": 0,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 101,
+      "effect_name": "MaxMP %",
+      "amount": 30,
+      "applies_to": 0
+    }
+  ]
+}

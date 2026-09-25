@@ -1,0 +1,21 @@
+{
+  "id": 4994,
+  "name": "Pisteus Horns",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 25,
+  "process": 1,
+  "process_amount": 25,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 0,
+      "effect_name": "",
+      "amount": 0,
+      "applies_to": 0
+    }
+  ]
+}

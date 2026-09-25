@@ -1,0 +1,27 @@
+{
+  "id": 324,
+  "name": "Silver Roar",
+  "type_id": 20,
+  "type_label": "[Normal Crysta]",
+  "sell": 1,
+  "process": 6,
+  "process_amount": 2,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 18,
+      "effect_name": "MaxHP %",
+      "amount": -8,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 68,
+      "effect_name": "Attack MP Recovery",
+      "amount": 4,
+      "applies_to": 0
+    }
+  ]
+}

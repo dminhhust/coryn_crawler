@@ -1,0 +1,46 @@
+{
+  "id": 2207,
+  "name": "Sentreast",
+  "level": 180,
+  "map_id": 385,
+  "map_name": "Tomte Pavillion (170-190)",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": -1,
+  "element_id": -1,
+  "element_label": "Unknown",
+  "tameable": true,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5113,
+      "name": "Eletrified Lightning Rod",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5109,
+      "name": "Holy Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5067,
+      "name": "Long Ear Hair",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5112,
+      "name": "Sacred Bell Talisman",
+      "type_id": 18,
+      "type_label": "[Special]"
+    }
+  ]
+}

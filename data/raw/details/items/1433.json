@@ -1,0 +1,14 @@
+{
+  "id": 1433,
+  "name": "Fallen in Fall",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 10,
+  "process": 6,
+  "process_amount": 10,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

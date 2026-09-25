@@ -1,0 +1,46 @@
+{
+  "id": 2750,
+  "name": "Catagon",
+  "level": 216,
+  "map_id": 482,
+  "map_name": "Boma Moja: Area 2",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 39470,
+  "exp": 613,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6535,
+      "name": "Flying Dragon Heart",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6533,
+      "name": "Flying Dragon Tail",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6534,
+      "name": "Flying Dragon Wing",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6536,
+      "name": "Klug Bowgun",
+      "type_id": 10,
+      "type_label": "[Bowgun]"
+    }
+  ]
+}

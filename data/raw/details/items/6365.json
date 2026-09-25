@@ -1,0 +1,14 @@
+{
+  "id": 6365,
+  "name": "Bropom 7th Anniv Medal",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 60,
+  "process": 6,
+  "process_amount": 20,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

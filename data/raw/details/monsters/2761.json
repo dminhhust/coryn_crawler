@@ -1,0 +1,202 @@
+{
+  "id": 2761,
+  "name": "Stoodie (Lv210)",
+  "level": 0,
+  "map_id": 111,
+  "map_name": "El Scaro",
+  "type_code": "C",
+  "type_label": "NPC",
+  "mode": "Normal",
+  "hp": 0,
+  "exp": 0,
+  "element_id": -1,
+  "element_label": "Unknown",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5818,
+      "name": "Accuracy Boost",
+      "type_id": 241,
+      "type_label": "Registlet"
+    },
+    {
+      "id": 6573,
+      "name": "Assassin Stab Enhancer",
+      "type_id": 241,
+      "type_label": "Registlet"
+    },
+    {
+      "id": 5820,
+      "name": "Attack Speed Boost",
+      "type_id": 241,
+      "type_label": "Registlet"
+    },
+    {
+      "id": 6094,
+      "name": "Berserk Control",
+      "type_id": 241,
+      "type_label": "Registlet"
+    },
+    {
+      "id": 6571,
+      "name": "Binding Strike Modifier",
+      "type_id": 241,
+      "type_label": "Registlet"
+    },
+    {
+      "id": 6104,
+      "name": "Bloody Bite Enhancer",
+      "type_id": 241,
+      "type_label": "Registlet"
+    },
+    {
+      "id": 6575,
+      "name": "Chancy Trap",
+      "type_id": 241,
+      "type_label": "Registlet"
+    },
+    {
+      "id": 6095,
+      "name": "Decoy Shot Compress",
+      "type_id": 241,
+      "type_label": "Registlet"
+    },
+    {
+      "id": 5819,
+      "name": "Dodge Boost",
+      "type_id": 241,
+      "type_label": "Registlet"
+    },
+    {
+      "id": 6093,
+      "name": "Dominant War Cry",
+      "type_id": 241,
+      "type_label": "Registlet"
+    },
+    {
+      "id": 6097,
+      "name": "Extra Recovery",
+      "type_id": 241,
+      "type_label": "Registlet"
+    },
+    {
+      "id": 6100,
+      "name": "Extreme Concentrate",
+      "type_id": 241,
+      "type_label": "Registlet"
+    },
+    {
+      "id": 6099,
+      "name": "Extreme Whack",
+      "type_id": 241,
+      "type_label": "Registlet"
+    },
+    {
+      "id": 6576,
+      "name": "Focus Demon Claw",
+      "type_id": 241,
+      "type_label": "Registlet"
+    },
+    {
+      "id": 6577,
+      "name": "Focus Resonance",
+      "type_id": 241,
+      "type_label": "Registlet"
+    },
+    {
+      "id": 6098,
+      "name": "Frugal Heal",
+      "type_id": 241,
+      "type_label": "Registlet"
+    },
+    {
+      "id": 6579,
+      "name": "Guitarist",
+      "type_id": 241,
+      "type_label": "Registlet"
+    },
+    {
+      "id": 6578,
+      "name": "Heal Bank",
+      "type_id": 241,
+      "type_label": "Registlet"
+    },
+    {
+      "id": 6572,
+      "name": "Holy Light Retribution",
+      "type_id": 241,
+      "type_label": "Registlet"
+    },
+    {
+      "id": 5813,
+      "name": "Magic Attack Boost",
+      "type_id": 241,
+      "type_label": "Registlet"
+    },
+    {
+      "id": 5817,
+      "name": "Magic Defense Boost",
+      "type_id": 241,
+      "type_label": "Registlet"
+    },
+    {
+      "id": 5821,
+      "name": "Magic Speed Boost",
+      "type_id": 241,
+      "type_label": "Registlet"
+    },
+    {
+      "id": 6574,
+      "name": "Mana Crystal Catalyst",
+      "type_id": 241,
+      "type_label": "Registlet"
+    },
+    {
+      "id": 5814,
+      "name": "Max HP Boost",
+      "type_id": 241,
+      "type_label": "Registlet"
+    },
+    {
+      "id": 5815,
+      "name": "Max MP Boost",
+      "type_id": 241,
+      "type_label": "Registlet"
+    },
+    {
+      "id": 5812,
+      "name": "Physical Attack Boost",
+      "type_id": 241,
+      "type_label": "Registlet"
+    },
+    {
+      "id": 5816,
+      "name": "Physical Defense Boost",
+      "type_id": 241,
+      "type_label": "Registlet"
+    },
+    {
+      "id": 6101,
+      "name": "Secret Chase ATK Boost",
+      "type_id": 241,
+      "type_label": "Registlet"
+    },
+    {
+      "id": 6570,
+      "name": "Silent P. Defense",
+      "type_id": 241,
+      "type_label": "Registlet"
+    },
+    {
+      "id": 6103,
+      "name": "Universal Ether Flare",
+      "type_id": 241,
+      "type_label": "Registlet"
+    }
+  ]
+}

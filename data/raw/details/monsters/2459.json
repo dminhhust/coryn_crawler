@@ -1,0 +1,46 @@
+{
+  "id": 2459,
+  "name": "Georaven",
+  "level": 183,
+  "map_id": 422,
+  "map_name": "Country Road",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 15205,
+  "exp": 233,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5770,
+      "name": "Black Bird Crest",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 242,
+      "name": "Damascus Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 5769,
+      "name": "Glossy Feather",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5771,
+      "name": "Luminary Reaver Wings",
+      "type_id": 15,
+      "type_label": "[Magic Device]"
+    }
+  ]
+}

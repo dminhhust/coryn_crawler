@@ -1,0 +1,33 @@
+{
+  "id": 564,
+  "name": "Thorny Twig",
+  "type_id": 11,
+  "type_label": "[Dagger]",
+  "sell": 25,
+  "process": 2,
+  "process_amount": 12,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 14,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 24,
+      "effect_name": "Stability %",
+      "amount": 7,
+      "applies_to": 16
+    },
+    {
+      "effect_id": 41,
+      "effect_name": "Critical Rate",
+      "amount": 1,
+      "applies_to": 0
+    }
+  ]
+}

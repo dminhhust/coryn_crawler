@@ -1,0 +1,52 @@
+{
+  "id": 2264,
+  "name": "Pillow Kitagawa",
+  "level": 0,
+  "map_id": 395,
+  "map_name": "Kitagawa Dream Center",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 1000000,
+  "exp": 8000,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5330,
+      "name": "Ox King",
+      "type_id": 23,
+      "type_label": "[Additional Crysta]"
+    },
+    {
+      "id": 5331,
+      "name": "Pillow Kitagawa",
+      "type_id": 230,
+      "type_label": "[Enhancer Crysta (Yellow)]"
+    },
+    {
+      "id": 5329,
+      "name": "Pillow Kitagawa's Hat",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 4649,
+      "name": "Revita (Gift)",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 5332,
+      "name": "Royal Ox King",
+      "type_id": 230,
+      "type_label": "[Enhancer Crysta (Yellow)]"
+    }
+  ]
+}

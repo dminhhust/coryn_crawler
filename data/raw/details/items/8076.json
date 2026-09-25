@@ -1,0 +1,14 @@
+{
+  "id": 8076,
+  "name": "Caramel Tie",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 35,
+  "process": 4,
+  "process_amount": 35,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

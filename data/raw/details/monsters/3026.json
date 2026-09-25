@@ -1,0 +1,46 @@
+{
+  "id": 3026,
+  "name": "Coraxic",
+  "level": 225,
+  "map_id": 533,
+  "map_name": "Labrum Atoll",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 21400,
+  "exp": 329,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7140,
+      "name": "Deformed Hard Crystal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7138,
+      "name": "Poisonous Soft Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7141,
+      "name": "Starfish Shuriken",
+      "type_id": 18,
+      "type_label": "[Special]"
+    },
+    {
+      "id": 7139,
+      "name": "Strange Thorn",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

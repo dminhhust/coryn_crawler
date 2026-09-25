@@ -1,0 +1,45 @@
+{
+  "id": 4479,
+  "name": "Scary Scarf",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 90,
+  "process": 4,
+  "process_amount": 45,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 79,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 21,
+      "effect_name": "ATK %",
+      "amount": 5,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 117,
+      "effect_name": "Unsheathe Attack %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 127,
+      "effect_name": "Fractional Barrier %",
+      "amount": 1,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 168,
+      "effect_name": "Stun Unavailable",
+      "amount": 1,
+      "applies_to": 0
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": 986,
+  "name": "Mozto Machina",
+  "level": 164,
+  "map_id": 188,
+  "map_name": "Large Demi Machina Factory: Deepest Part",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Ultimate",
+  "hp": 11100000,
+  "exp": 122400,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2463,
+      "name": "Chaos Knife",
+      "type_id": 11,
+      "type_label": "[Dagger]"
+    },
+    {
+      "id": 2462,
+      "name": "Chimera Arrow",
+      "type_id": 7,
+      "type_label": "[Arrow]"
+    },
+    {
+      "id": 2464,
+      "name": "Chimera Claw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2465,
+      "name": "Chimera Hard Horn",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2460,
+      "name": "Chimera Scale",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2466,
+      "name": "Chimera's Evil Eye",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2461,
+      "name": "Mozt Armor",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 2467,
+      "name": "Mozto Machina",
+      "type_id": 210,
+      "type_label": "[Enhancer Crysta (Red)]"
+    }
+  ]
+}

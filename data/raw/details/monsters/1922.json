@@ -1,0 +1,46 @@
+{
+  "id": 1922,
+  "name": "Mossy Mousey",
+  "level": 154,
+  "map_id": 333,
+  "map_name": "Altoale Sector",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 10000,
+  "exp": 176,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4371,
+      "name": "ASPD+120",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 4368,
+      "name": "Chipped Foretooth",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4370,
+      "name": "Dark Green Crystal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4369,
+      "name": "Mossy Ears",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

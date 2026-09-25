@@ -1,0 +1,63 @@
+{
+  "id": 4765,
+  "name": "5th Anniv Greatsword VII",
+  "type_id": 5,
+  "type_label": "[2 Handed Sword]",
+  "sell": 195,
+  "process": 3,
+  "process_amount": 97,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 490,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 4,
+      "effect_name": "STR %",
+      "amount": 7,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 41,
+      "effect_name": "Critical Rate",
+      "amount": 25,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 58,
+      "effect_name": "Guard Power %",
+      "amount": 15,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 69,
+      "effect_name": "Short Range Damage %",
+      "amount": 7,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 70,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 140,
+      "effect_name": "Guard Break %",
+      "amount": 15,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 180,
+      "effect_name": "Reduce Dmg (Meteor) %",
+      "amount": 6,
+      "applies_to": 0
+    }
+  ]
+}

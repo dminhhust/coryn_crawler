@@ -1,0 +1,14 @@
+{
+  "id": 7666,
+  "name": "Dondurma",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 28,
+  "process": 5,
+  "process_amount": 28,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

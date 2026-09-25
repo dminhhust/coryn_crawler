@@ -1,0 +1,40 @@
+{
+  "id": 2282,
+  "name": "Sakura Castle Exploration (Mini Game)",
+  "level": 140,
+  "map_id": 286,
+  "map_name": "Sakura Castle Donjon: Lower",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 1,
+  "exp": 1,
+  "element_id": -1,
+  "element_label": "Unknown",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3701,
+      "name": "Sakura Fan Hair Clip",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 5408,
+      "name": "Sakura Treasure Box",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 3700,
+      "name": "Spring Warbler",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

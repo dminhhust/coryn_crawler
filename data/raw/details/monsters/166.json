@@ -1,0 +1,64 @@
+{
+  "id": 166,
+  "name": "Ganglef",
+  "level": 58,
+  "map_id": 48,
+  "map_name": "Scaro Town: Deepest Part",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 107800,
+  "exp": 1150,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 55,
+      "name": "Crustacean Steel",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 303,
+      "name": "Ganglef",
+      "type_id": 21,
+      "type_label": "[Weapon Crysta]"
+    },
+    {
+      "id": 496,
+      "name": "Iron Exoskeleton Bow",
+      "type_id": 9,
+      "type_label": "[Bow]"
+    },
+    {
+      "id": 497,
+      "name": "Iron Exoskeleton Sword",
+      "type_id": 5,
+      "type_label": "[2 Handed Sword]"
+    },
+    {
+      "id": 135,
+      "name": "Mineral Scissor",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 261,
+      "name": "Rich Crab Butter",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 271,
+      "name": "Tough Crab Meat",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

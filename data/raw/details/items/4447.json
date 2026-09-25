@@ -1,0 +1,21 @@
+{
+  "id": 4447,
+  "name": "Dikkit Sector",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 1,
+  "process": 6,
+  "process_amount": 1,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 201,
+      "effect_name": "Teleport to Dikkit Sector",
+      "amount": 1,
+      "applies_to": 0
+    }
+  ]
+}

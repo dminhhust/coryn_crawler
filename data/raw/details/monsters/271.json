@@ -1,0 +1,46 @@
+{
+  "id": 271,
+  "name": "Green Boar",
+  "level": 52,
+  "map_id": 81,
+  "map_name": "Land Under Cultivation: Area 1",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 88,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 14,
+      "name": "Big Mane",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 242,
+      "name": "Damascus Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 819,
+      "name": "Fur Cape",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 213,
+      "name": "Sturdy Fur",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

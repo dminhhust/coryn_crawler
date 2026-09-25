@@ -1,0 +1,45 @@
+{
+  "id": 5205,
+  "name": "Stoodie's Ring II",
+  "type_id": 18,
+  "type_label": "[Special]",
+  "sell": -1,
+  "process": -1,
+  "process_amount": -1,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 0,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 19,
+      "effect_name": "MaxMP",
+      "amount": 300,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 21,
+      "effect_name": "ATK %",
+      "amount": -10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 23,
+      "effect_name": "MATK %",
+      "amount": -10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 207,
+      "effect_name": "Gem Dust Drop Amount %",
+      "amount": 30,
+      "applies_to": 0
+    }
+  ]
+}

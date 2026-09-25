@@ -1,0 +1,46 @@
+{
+  "id": 1170,
+  "name": "Volo",
+  "level": 124,
+  "map_id": 231,
+  "map_name": "Suburb of Droma Square: Area 2",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 15000,
+  "exp": 417,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2888,
+      "name": "Biting Head",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2889,
+      "name": "Devil Circlet",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 2886,
+      "name": "Executioner's Loincloth",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2887,
+      "name": "Spiky Fang",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

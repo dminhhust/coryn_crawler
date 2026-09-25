@@ -1,0 +1,52 @@
+{
+  "id": 816,
+  "name": "Grecia the Goddess of Courage",
+  "level": 145,
+  "map_id": 87,
+  "map_name": "Event",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Nightmare",
+  "hp": 1700000,
+  "exp": 17000,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2241,
+      "name": "Anniversary Cloth",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2240,
+      "name": "Golpom 2nd Anniv Medal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2030,
+      "name": "Grecia Mask",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 1716,
+      "name": "Revita V",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 2252,
+      "name": "Vita Plus V",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

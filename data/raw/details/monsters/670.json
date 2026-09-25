@@ -1,0 +1,64 @@
+{
+  "id": 670,
+  "name": "Forest Wolf",
+  "level": 40,
+  "map_id": 25,
+  "map_name": "Marbaro Forest: Deepest Part",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Hard",
+  "hp": 32076,
+  "exp": 600,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 301,
+      "name": "Forest Wolf",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 471,
+      "name": "Forest Wolf Bow",
+      "type_id": 9,
+      "type_label": "[Bow]"
+    },
+    {
+      "id": 82,
+      "name": "Forest Wolf Claw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 472,
+      "name": "Forest Wolf Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 83,
+      "name": "Forest Wolf Horn",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 84,
+      "name": "Forest Wolf Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 85,
+      "name": "Four-leaf Clover",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

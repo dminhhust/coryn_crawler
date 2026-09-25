@@ -1,0 +1,45 @@
+{
+  "id": 4181,
+  "name": "Medic Coat",
+  "type_id": 8,
+  "type_label": "[Armor]",
+  "sell": 60,
+  "process": 4,
+  "process_amount": 30,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 43,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 14,
+      "effect_name": "Natural HP Regen %",
+      "amount": 15,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 19,
+      "effect_name": "MaxMP",
+      "amount": 300,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 57,
+      "effect_name": "Ailment Resistance %",
+      "amount": 15,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 61,
+      "effect_name": "Aggro %",
+      "amount": 30,
+      "applies_to": 0
+    }
+  ]
+}

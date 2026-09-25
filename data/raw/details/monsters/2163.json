@@ -1,0 +1,46 @@
+{
+  "id": 2163,
+  "name": "Flooray",
+  "level": 167,
+  "map_id": 375,
+  "map_name": "Inje Village",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 13000,
+  "exp": 245,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4951,
+      "name": "Cry of Sorrow",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4949,
+      "name": "Damp Cloth",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4960,
+      "name": "Magician Mantle",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 4950,
+      "name": "Phantom Cloth",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 3289,
+  "name": "Selachi",
+  "level": 261,
+  "map_id": 623,
+  "map_name": "Aquastida Inner Ward",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 63200,
+  "exp": 942,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 8006,
+      "name": "Dangerous Shark Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 8005,
+      "name": "Rough Placoid Scale",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 8007,
+      "name": "Sacred Axe",
+      "type_id": 5,
+      "type_label": "[2 Handed Sword]"
+    },
+    {
+      "id": 8004,
+      "name": "Tangled Kelp ",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

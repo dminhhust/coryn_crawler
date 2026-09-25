@@ -1,0 +1,14 @@
+{
+  "id": 5368,
+  "name": "Charred Salamander Meat",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 31,
+  "process": 5,
+  "process_amount": 30,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": 7998,
+  "name": "Slicked-Back Crest",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 28,
+  "process": 4,
+  "process_amount": 28,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

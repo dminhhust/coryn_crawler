@@ -1,0 +1,45 @@
+{
+  "id": 7943,
+  "name": "Zomby Trophy",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 135,
+  "process": 1,
+  "process_amount": 67,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 410,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 37,
+      "effect_name": "ASPD",
+      "amount": 700,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 41,
+      "effect_name": "Critical Rate",
+      "amount": 35,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 55,
+      "effect_name": "Light resistance %",
+      "amount": -35,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 143,
+      "effect_name": "ATK UP (VIT %)",
+      "amount": 100,
+      "applies_to": 0
+    }
+  ]
+}

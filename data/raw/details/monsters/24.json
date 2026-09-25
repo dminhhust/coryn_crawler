@@ -1,0 +1,58 @@
+{
+  "id": 24,
+  "name": "Pomum",
+  "level": 7,
+  "map_id": 8,
+  "map_name": "Reug Salt Plains: Wanderers Camp",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 165,
+  "exp": 5,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 320,
+      "name": "Hardwood Arrow",
+      "type_id": 7,
+      "type_label": "[Arrow]"
+    },
+    {
+      "id": 320,
+      "name": "Hardwood Arrow",
+      "type_id": 7,
+      "type_label": "[Arrow]"
+    },
+    {
+      "id": 309,
+      "name": "INT+1",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 162,
+      "name": "Pomum Leaf",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 269,
+      "name": "Sour Nut",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 205,
+      "name": "Spider Thread",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

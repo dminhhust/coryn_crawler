@@ -1,0 +1,118 @@
+{
+  "id": 488,
+  "name": "Golden Potum (5M DL)",
+  "level": 100,
+  "map_id": 87,
+  "map_name": "Event",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 50,
+  "exp": -1,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1720,
+      "name": "Adventurer's Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 1720,
+      "name": "Adventurer's Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 1720,
+      "name": "Adventurer's Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 1720,
+      "name": "Adventurer's Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 1720,
+      "name": "Adventurer's Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 1720,
+      "name": "Adventurer's Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 1720,
+      "name": "Adventurer's Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 1720,
+      "name": "Adventurer's Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 1720,
+      "name": "Adventurer's Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 1342,
+      "name": "Beast Pack (L)",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 867,
+      "name": "Fabric Pack (L)",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1722,
+      "name": "Golden Potum Hat",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 864,
+      "name": "Medicine Pack (L)",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 873,
+      "name": "Metal Pack (L)",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 861,
+      "name": "Potum Gold Coin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 870,
+      "name": "Wood Pack (L)",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

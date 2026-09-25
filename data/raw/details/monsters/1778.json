@@ -1,0 +1,46 @@
+{
+  "id": 1778,
+  "name": "Moss Mole",
+  "level": 146,
+  "map_id": 306,
+  "map_name": "Forest of Ein",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 7000,
+  "exp": 90,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4108,
+      "name": "Dex+6",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 4107,
+      "name": "Larva Silk",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4105,
+      "name": "Moss Tree Bark",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4106,
+      "name": "Paralyzing Antenna",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

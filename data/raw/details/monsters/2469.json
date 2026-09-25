@@ -1,0 +1,46 @@
+{
+  "id": 2469,
+  "name": "Zimius",
+  "level": 199,
+  "map_id": 424,
+  "map_name": "Storage Yard: Area 2",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 33000,
+  "exp": 536,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5791,
+      "name": "Menpo Mask",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 5790,
+      "name": "Monkey Fang",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5788,
+      "name": "Monkey's Bristles",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5789,
+      "name": "Sharp Monkey Horn",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

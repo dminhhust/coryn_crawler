@@ -1,0 +1,39 @@
+{
+  "id": 1907,
+  "name": "Easter Balloons",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 1,
+  "process": 6,
+  "process_amount": 2,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 1,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 28,
+      "effect_name": "DEF %",
+      "amount": -100,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 30,
+      "effect_name": "MDEF %",
+      "amount": -100,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 116,
+      "effect_name": "Unsheathe Attack",
+      "amount": 100,
+      "applies_to": 0
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 2583,
+  "name": "Ophitrix",
+  "level": 203,
+  "map_id": 459,
+  "map_name": "Divido Valley: Area 3",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 31000,
+  "exp": 493,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6036,
+      "name": "Electrified Tail",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6038,
+      "name": "Fuse",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 6037,
+      "name": "Yomogi Dango",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 6035,
+      "name": "Zigzag Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

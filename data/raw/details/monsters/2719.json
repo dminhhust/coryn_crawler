@@ -1,0 +1,21 @@
+{
+  "id": 2719,
+  "name": "Vennie",
+  "level": 280,
+  "map_id": 479,
+  "map_name": "Anniversary Arena: 7th Venue",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Ultimate",
+  "hp": 50000000,
+  "exp": 206500,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": []
+}

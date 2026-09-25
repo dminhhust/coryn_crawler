@@ -1,0 +1,45 @@
+{
+  "id": 3765,
+  "name": "Engagement Crown",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 300,
+  "process": 6,
+  "process_amount": 100,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 40,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 3,
+      "effect_name": "STR",
+      "amount": 6,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 17,
+      "effect_name": "MaxHP",
+      "amount": 1200,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 31,
+      "effect_name": "Physical Resistance %",
+      "amount": 20,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 61,
+      "effect_name": "Aggro %",
+      "amount": 28,
+      "applies_to": 0
+    }
+  ]
+}

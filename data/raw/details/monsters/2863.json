@@ -1,0 +1,58 @@
+{
+  "id": 2863,
+  "name": "Black Velly (Very Hard)",
+  "level": 250,
+  "map_id": 508,
+  "map_name": "Illuminare City: Central Square",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 9500000,
+  "exp": 41000,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6747,
+      "name": "Holy Night Halberd",
+      "type_id": 26,
+      "type_label": "[Halberd]"
+    },
+    {
+      "id": 6748,
+      "name": "Holy Night Rifle",
+      "type_id": 10,
+      "type_label": "[Bowgun]"
+    },
+    {
+      "id": 2675,
+      "name": "Iced Vita Plus",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 911,
+      "name": "Orichalcum Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 6488,
+      "name": "Revita VIII",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 6746,
+      "name": "Xmas Princess in Black",
+      "type_id": 21,
+      "type_label": "[Weapon Crysta]"
+    }
+  ]
+}

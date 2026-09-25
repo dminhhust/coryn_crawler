@@ -1,0 +1,27 @@
+{
+  "id": 849,
+  "name": "Fire Gem",
+  "type_id": 12,
+  "type_label": "[Gem]",
+  "sell": 1,
+  "process": 0,
+  "process_amount": 0,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 45,
+      "effect_name": "% stronger against Fire",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 51,
+      "effect_name": "Fire resistance %",
+      "amount": 10,
+      "applies_to": 0
+    }
+  ]
+}

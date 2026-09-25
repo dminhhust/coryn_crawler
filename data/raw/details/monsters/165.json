@@ -1,0 +1,46 @@
+{
+  "id": 165,
+  "name": "Devil's Book",
+  "level": 34,
+  "map_id": 47,
+  "map_name": "Scaro Town: Area 2",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 1700,
+  "exp": 64,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 57,
+      "name": "Damaged Parchment",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 66,
+      "name": "Evil Page",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 224,
+      "name": "Torn Page",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 577,
+      "name": "Whirlwind",
+      "type_id": 15,
+      "type_label": "[Magic Device]"
+    }
+  ]
+}

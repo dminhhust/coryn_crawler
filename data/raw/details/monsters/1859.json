@@ -1,0 +1,46 @@
+{
+  "id": 1859,
+  "name": "Providone",
+  "level": 162,
+  "map_id": 318,
+  "map_name": "Fractum Sector: Area 3",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 20000,
+  "exp": 466,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4281,
+      "name": "Big Molar",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4280,
+      "name": "Hard Epidermis",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4282,
+      "name": "Inner Eye",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4283,
+      "name": "Rose Charm",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

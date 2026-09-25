@@ -1,0 +1,76 @@
+{
+  "id": 416,
+  "name": "Scrader",
+  "level": 85,
+  "map_id": 120,
+  "map_name": "Magic Waste Site: Deepest Part",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 660000,
+  "exp": 7900,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1391,
+      "name": "Big Scrap",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1396,
+      "name": "Brigan Helm",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 1398,
+      "name": "Brigandine",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 1399,
+      "name": "Scrader",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 1397,
+      "name": "Scrader Barrel",
+      "type_id": 10,
+      "type_label": "[Bowgun]"
+    },
+    {
+      "id": 1394,
+      "name": "Scrader Crystal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1395,
+      "name": "Scrader Mace",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    },
+    {
+      "id": 1393,
+      "name": "Strange Head Part",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1392,
+      "name": "Unknown Part",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

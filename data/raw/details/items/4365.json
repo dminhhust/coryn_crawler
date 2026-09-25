@@ -1,0 +1,14 @@
+{
+  "id": 4365,
+  "name": "Broken Ocarina",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 17,
+  "process": 2,
+  "process_amount": 16,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

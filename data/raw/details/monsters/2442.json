@@ -1,0 +1,46 @@
+{
+  "id": 2442,
+  "name": "Dionea",
+  "level": 193,
+  "map_id": 419,
+  "map_name": "Guardian Forest: Lost Woods",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 38000,
+  "exp": 623,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5729,
+      "name": "Dangerous Enzyme",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5730,
+      "name": "Desert Blade",
+      "type_id": 5,
+      "type_label": "[2 Handed Sword]"
+    },
+    {
+      "id": 5727,
+      "name": "Elastic Thorn",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5728,
+      "name": "Thick Leaf",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": 2905,
+  "name": "Baavgai (Nightmare)",
+  "level": 260,
+  "map_id": 514,
+  "map_name": "Mt. Sakuraten: Summit",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Nightmare",
+  "hp": 19160000,
+  "exp": 77220,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6924,
+      "name": "Baavgai",
+      "type_id": 220,
+      "type_label": "[Enhancer Crysta (Green)]"
+    },
+    {
+      "id": 6925,
+      "name": "Baavgai Hat",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 6920,
+      "name": "Mount Sakuraten Pebble",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6923,
+      "name": "Pink Orange Wicker Box",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 6933,
+      "name": "Salmon Jerky Greatsword",
+      "type_id": 5,
+      "type_label": "[2 Handed Sword]"
+    },
+    {
+      "id": 6932,
+      "name": "Salmon Jerky Knuckles",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    },
+    {
+      "id": 6921,
+      "name": "Swordsbear Fluffy Beard",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6922,
+      "name": "Swordsbear Treasured Sake",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

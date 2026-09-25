@@ -1,0 +1,52 @@
+{
+  "id": 788,
+  "name": "Priest Warmonger",
+  "level": 70,
+  "map_id": 87,
+  "map_name": "Event",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Nightmare",
+  "hp": 300000,
+  "exp": 6000,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 485,
+      "name": "Headband",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 585,
+      "name": "Magiadd II",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 588,
+      "name": "Revita II",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 2237,
+      "name": "Silver 2nd Anniv Medal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 572,
+      "name": "War Helmet",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": 7608,
+  "name": "Seele Zauga II",
+  "type_id": 240,
+  "type_label": "[Enhancer Crysta (Purple)]",
+  "sell": 1,
+  "process": 6,
+  "process_amount": 100,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 31,
+      "effect_name": "Physical Resistance %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 32,
+      "effect_name": "Magic Resistance %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 41,
+      "effect_name": "Critical Rate",
+      "amount": 20,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 190,
+      "effect_name": "Item Cooldown",
+      "amount": -1,
+      "applies_to": 0
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": 1005,
+  "name": "Ginpeng",
+  "level": 113,
+  "map_id": 195,
+  "map_name": "Navida City: East (100-120)",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 504,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": true,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2485,
+      "name": "Cup Ice Cream",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 2413,
+      "name": "Epetal",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    },
+    {
+      "id": 2484,
+      "name": "Ginpeng Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2257,
+      "name": "Sealing Blade",
+      "type_id": 5,
+      "type_label": "[2 Handed Sword]"
+    },
+    {
+      "id": 2486,
+      "name": "Unmelting Ice",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

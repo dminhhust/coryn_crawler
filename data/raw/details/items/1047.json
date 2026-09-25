@@ -1,0 +1,39 @@
+{
+  "id": 1047,
+  "name": "Oracle Hat",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 25,
+  "process": 4,
+  "process_amount": 12,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 17,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 5,
+      "effect_name": "INT",
+      "amount": 1,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 39,
+      "effect_name": "CSPD",
+      "amount": 50,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 61,
+      "effect_name": "Aggro %",
+      "amount": -12,
+      "applies_to": 0
+    }
+  ]
+}

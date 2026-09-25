@@ -1,0 +1,21 @@
+{
+  "id": 2403,
+  "name": "Furious Red Demon",
+  "level": 230,
+  "map_id": 413,
+  "map_name": "Anniversary Arena: 6th Venue",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Hard",
+  "hp": 9600000,
+  "exp": 28000,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": []
+}

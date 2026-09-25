@@ -1,0 +1,64 @@
+{
+  "id": 2377,
+  "name": "Gemma",
+  "level": 228,
+  "map_id": 412,
+  "map_name": "Fugitive Lake Swamp: Depths",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Nightmare",
+  "hp": 14420000,
+  "exp": 70400,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5518,
+      "name": "Dully Glowing Metal Bit",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5524,
+      "name": "Gemma",
+      "type_id": 220,
+      "type_label": "[Enhancer Crysta (Green)]"
+    },
+    {
+      "id": 5523,
+      "name": "Gemma Anello",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    },
+    {
+      "id": 5522,
+      "name": "Gemma Spada",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    },
+    {
+      "id": 5519,
+      "name": "Gemma's Big Hoop",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5521,
+      "name": "Gemma's Jewel",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5520,
+      "name": "Starlight of Desire",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

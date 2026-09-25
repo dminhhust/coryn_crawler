@@ -1,0 +1,46 @@
+{
+  "id": 969,
+  "name": "Demi Ork",
+  "level": 98,
+  "map_id": 184,
+  "map_name": "Sykea Deep Valley",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 10000,
+  "exp": 233,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2439,
+      "name": "Broken Iron Stick",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2440,
+      "name": "Huge Raw Meat",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2441,
+      "name": "Spike Shield",
+      "type_id": 17,
+      "type_label": "[Shield]"
+    },
+    {
+      "id": 2438,
+      "name": "Tattered Loincloth",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

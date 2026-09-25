@@ -1,0 +1,27 @@
+{
+  "id": 3323,
+  "name": "Pompoko Meat",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 16,
+  "process": 5,
+  "process_amount": 16,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 79,
+      "effect_name": "HP",
+      "amount": 3000,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 84,
+      "effect_name": "HP %",
+      "amount": 2,
+      "applies_to": 0
+    }
+  ]
+}

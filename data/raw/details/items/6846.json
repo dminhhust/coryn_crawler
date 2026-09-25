@@ -1,0 +1,39 @@
+{
+  "id": 6846,
+  "name": "Candy Paper Bag",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 185,
+  "process": 5,
+  "process_amount": 92,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 110,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 16,
+      "effect_name": "Natural MP Regen %",
+      "amount": 30,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 141,
+      "effect_name": "Barrier Cooldown %",
+      "amount": 20,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 190,
+      "effect_name": "Item Cooldown",
+      "amount": -1,
+      "applies_to": 0
+    }
+  ]
+}

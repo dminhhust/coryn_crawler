@@ -1,0 +1,39 @@
+{
+  "id": 6352,
+  "name": "Clip-On Hood",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 115,
+  "process": 4,
+  "process_amount": 57,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 140,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 37,
+      "effect_name": "ASPD",
+      "amount": 500,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 42,
+      "effect_name": "Critical Rate %",
+      "amount": 100,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 122,
+      "effect_name": "Flinch Unavailable",
+      "amount": 1,
+      "applies_to": 0
+    }
+  ]
+}

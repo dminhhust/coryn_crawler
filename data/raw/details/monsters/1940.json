@@ -1,0 +1,46 @@
+{
+  "id": 1940,
+  "name": "Gramp",
+  "level": 76,
+  "map_id": 338,
+  "map_name": "Sweet Hades",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 189,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": true,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4414,
+      "name": "Ancient Fruit",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1456,
+      "name": "Old Wood",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1458,
+      "name": "Tree Spirit Soul",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4415,
+      "name": "Wood Choco Dagger",
+      "type_id": 11,
+      "type_label": "[Dagger]"
+    }
+  ]
+}

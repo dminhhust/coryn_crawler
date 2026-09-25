@@ -1,0 +1,69 @@
+{
+  "id": 8161,
+  "name": "10th Anniv Greatsword VI",
+  "type_id": 5,
+  "type_label": "[2 Handed Sword]",
+  "sell": 295,
+  "process": 3,
+  "process_amount": 147,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 955,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 4,
+      "effect_name": "STR %",
+      "amount": 11,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 21,
+      "effect_name": "ATK %",
+      "amount": 11,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 41,
+      "effect_name": "Critical Rate",
+      "amount": 45,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 68,
+      "effect_name": "Attack MP Recovery",
+      "amount": 30,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 70,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 139,
+      "effect_name": "Anticipate %",
+      "amount": 15,
+      "applies_to": 32768
+    },
+    {
+      "effect_id": 140,
+      "effect_name": "Guard Break %",
+      "amount": 30,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 173,
+      "effect_name": "Reduce Dmg (Floor) %",
+      "amount": 40,
+      "applies_to": 0
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 7398,
+  "name": "Pumpkie Parfait",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": -1,
+  "process": 5,
+  "process_amount": -1,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 21,
+      "effect_name": "ATK %",
+      "amount": 6,
+      "applies_to": 0
+    }
+  ]
+}

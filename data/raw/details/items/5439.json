@@ -1,0 +1,21 @@
+{
+  "id": 5439,
+  "name": "Energy Bottle EX",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 22,
+  "process": 6,
+  "process_amount": 5,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 79,
+      "effect_name": "HP",
+      "amount": 6000,
+      "applies_to": 0
+    }
+  ]
+}

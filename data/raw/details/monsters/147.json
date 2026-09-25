@@ -1,0 +1,46 @@
+{
+  "id": 147,
+  "name": "Skeleton",
+  "level": 30,
+  "map_id": 42,
+  "map_name": "Zoktzda Ruins",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 1000,
+  "exp": 44,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 69,
+      "name": "Fatigued Blade",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 192,
+      "name": "Skeleton Bone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 327,
+      "name": "STR+2",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 232,
+      "name": "Wandering Spirit",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

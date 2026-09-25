@@ -1,0 +1,14 @@
+{
+  "id": 242,
+  "name": "Damascus Ore",
+  "type_id": 16,
+  "type_label": "[Ore]",
+  "sell": 4,
+  "process": 3,
+  "process_amount": 5,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

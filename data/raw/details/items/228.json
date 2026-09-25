@@ -1,0 +1,14 @@
+{
+  "id": 228,
+  "name": "Turtle Shell",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 4,
+  "process": 1,
+  "process_amount": 5,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

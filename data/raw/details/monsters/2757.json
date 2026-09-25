@@ -1,0 +1,64 @@
+{
+  "id": 2757,
+  "name": "Burning Dragon Igneus",
+  "level": 245,
+  "map_id": 484,
+  "map_name": "Boma Moja: Village Center",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Hard",
+  "hp": 10000000,
+  "exp": 41600,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6553,
+      "name": "Burning Dragon Claw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6552,
+      "name": "Burning Dragon Igneus",
+      "type_id": 230,
+      "type_label": "[Enhancer Crysta (Yellow)]"
+    },
+    {
+      "id": 6547,
+      "name": "Burning Dragon Scale",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6548,
+      "name": "Burning Dragon Tail",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6551,
+      "name": "Burning Ember Gun",
+      "type_id": 10,
+      "type_label": "[Bowgun]"
+    },
+    {
+      "id": 6550,
+      "name": "Burning Ember Sword",
+      "type_id": 27,
+      "type_label": "[Katana]"
+    },
+    {
+      "id": 6549,
+      "name": "Flowing Fiery Blood",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

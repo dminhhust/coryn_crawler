@@ -1,0 +1,21 @@
+{
+  "id": 413,
+  "name": "Virgo's Book III",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 0,
+  "process": 0,
+  "process_amount": 0,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 96,
+      "effect_name": "Drop Rate %",
+      "amount": 200,
+      "applies_to": 0
+    }
+  ]
+}

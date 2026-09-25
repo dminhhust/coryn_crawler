@@ -1,0 +1,46 @@
+{
+  "id": 3319,
+  "name": "Mikrodia",
+  "level": 230,
+  "map_id": 632,
+  "map_name": "Tower of Clamor: Area 1 (230-234)",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 44700,
+  "exp": 684,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6519,
+      "name": "Carved Wood Ornament",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7098,
+      "name": "Cold Branch",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7477,
+      "name": "Cold Crest",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7105,
+      "name": "Vermio Bow",
+      "type_id": 9,
+      "type_label": "[Bow]"
+    }
+  ]
+}

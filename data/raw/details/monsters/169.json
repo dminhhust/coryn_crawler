@@ -1,0 +1,46 @@
+{
+  "id": 169,
+  "name": "Squire",
+  "level": 35,
+  "map_id": 49,
+  "map_name": "Land Of Chaos",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 1200,
+  "exp": 48,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 444,
+      "name": "Bonnet",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 111,
+      "name": "Huge Leaf",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 257,
+      "name": "Onigiri",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 214,
+      "name": "Sweet-smelling Wood",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

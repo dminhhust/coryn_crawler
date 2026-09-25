@@ -1,0 +1,46 @@
+{
+  "id": 1947,
+  "name": "Baloot",
+  "level": 157,
+  "map_id": 339,
+  "map_name": "Dikkit Sector",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 10000,
+  "exp": 141,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4446,
+      "name": "Birb Rectrix",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4445,
+      "name": "Cracked Eggshell",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4447,
+      "name": "Dikkit Sector",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 4448,
+      "name": "Dodge+12",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    }
+  ]
+}

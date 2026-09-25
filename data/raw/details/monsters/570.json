@@ -1,0 +1,46 @@
+{
+  "id": 570,
+  "name": "Corroded Shielder",
+  "level": 91,
+  "map_id": 153,
+  "map_name": "Dark Manor: Area 1",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 191,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1946,
+      "name": "Corroded Feet Armor",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1949,
+      "name": "Indigo Shield",
+      "type_id": 17,
+      "type_label": "[Shield]"
+    },
+    {
+      "id": 1947,
+      "name": "Sharp Shield Bit",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1948,
+      "name": "Stimulant",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

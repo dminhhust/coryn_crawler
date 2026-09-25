@@ -1,0 +1,52 @@
+{
+  "id": 2169,
+  "name": "Ageladanios",
+  "level": 218,
+  "map_id": 376,
+  "map_name": "Ducia Coast: Area 1",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "Normal",
+  "hp": 7000000,
+  "exp": 34350,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4981,
+      "name": "Ageladanios",
+      "type_id": 200,
+      "type_label": "[Enhancer Crysta (Blue)]"
+    },
+    {
+      "id": 4977,
+      "name": "Evil Spirit Horns",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4980,
+      "name": "Flame of Misfortune",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4978,
+      "name": "Raging Soul",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4982,
+      "name": "Savage Mail",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    }
+  ]
+}

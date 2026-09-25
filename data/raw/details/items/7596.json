@@ -1,0 +1,14 @@
+{
+  "id": 7596,
+  "name": "Broken Parliamentary Badge",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 29,
+  "process": 2,
+  "process_amount": 29,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

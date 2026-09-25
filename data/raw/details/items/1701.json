@@ -1,0 +1,14 @@
+{
+  "id": 1701,
+  "name": "Silver Megiston Box",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 1,
+  "process": 6,
+  "process_amount": 50,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

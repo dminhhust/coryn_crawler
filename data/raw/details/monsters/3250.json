@@ -1,0 +1,46 @@
+{
+  "id": 3250,
+  "name": "Spectern",
+  "level": 226,
+  "map_id": 611,
+  "map_name": "Deusania's Lab",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Easy",
+  "hp": 47500,
+  "exp": 660,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7937,
+      "name": "Melted Candle",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7938,
+      "name": "Morning Star Gummy",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7939,
+      "name": "Starhammer Arrow",
+      "type_id": 7,
+      "type_label": "[Arrow]"
+    },
+    {
+      "id": 2402,
+      "name": "Torn Chain",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

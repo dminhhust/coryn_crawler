@@ -1,0 +1,14 @@
+{
+  "id": 3325,
+  "name": "Broken Cane",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 12,
+  "process": 2,
+  "process_amount": 12,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

@@ -1,0 +1,58 @@
+{
+  "id": 2180,
+  "name": "Phantom Wisp",
+  "level": 200,
+  "map_id": 373,
+  "map_name": "Phantom Wisp's Hideout: Theater",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Very Hard",
+  "hp": 2220000,
+  "exp": 9900,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5002,
+      "name": "Lil Wonder Rat",
+      "type_id": 21,
+      "type_label": "[Weapon Crysta]"
+    },
+    {
+      "id": 911,
+      "name": "Orichalcum Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 5000,
+      "name": "Phantom Thief Ricotta",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 4941,
+      "name": "Phantom Wisp",
+      "type_id": 22,
+      "type_label": "[Armor Crysta]"
+    },
+    {
+      "id": 4999,
+      "name": "Phantom Wisp Staff",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    },
+    {
+      "id": 1463,
+      "name": "Sweets Box",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

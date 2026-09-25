@@ -1,0 +1,33 @@
+{
+  "id": 3822,
+  "name": "Specter of Death",
+  "type_id": 24,
+  "type_label": "[Special Crysta]",
+  "sell": 1,
+  "process": 6,
+  "process_amount": 100,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 34,
+      "effect_name": "Accuracy %",
+      "amount": 15,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 61,
+      "effect_name": "Aggro %",
+      "amount": -20,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 117,
+      "effect_name": "Unsheathe Attack %",
+      "amount": 10,
+      "applies_to": 0
+    }
+  ]
+}

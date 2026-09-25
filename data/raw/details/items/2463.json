@@ -1,0 +1,39 @@
+{
+  "id": 2463,
+  "name": "Chaos Knife",
+  "type_id": 11,
+  "type_label": "[Dagger]",
+  "sell": 125,
+  "process": 1,
+  "process_amount": 62,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 84,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 17,
+      "effect_name": "MaxHP",
+      "amount": 1000,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 19,
+      "effect_name": "MaxMP",
+      "amount": -100,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 75,
+      "effect_name": "Neutral Resistance %",
+      "amount": 10,
+      "applies_to": 0
+    }
+  ]
+}

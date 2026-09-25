@@ -1,0 +1,39 @@
+{
+  "id": 7550,
+  "name": "Dagger of Grace",
+  "type_id": 11,
+  "type_label": "[Dagger]",
+  "sell": 250,
+  "process": 2,
+  "process_amount": 125,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 242,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 17,
+      "effect_name": "MaxHP",
+      "amount": 1000,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 19,
+      "effect_name": "MaxMP",
+      "amount": 200,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 61,
+      "effect_name": "Aggro %",
+      "amount": -30,
+      "applies_to": 0
+    }
+  ]
+}

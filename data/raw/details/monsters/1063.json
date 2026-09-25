@@ -1,0 +1,46 @@
+{
+  "id": 1063,
+  "name": "Lyark Vanguard",
+  "level": 106,
+  "map_id": 207,
+  "map_name": "Lufenas Mansion: Garden",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 5000,
+  "exp": 120,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2643,
+      "name": "Coarse Cloth",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2646,
+      "name": "DEX+4",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 2644,
+      "name": "Long Thin Iron Plate",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2645,
+      "name": "Painkiller",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": 3321,
+  "name": "Vertical Stripe Fur",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 12,
+  "process": 4,
+  "process_amount": 12,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

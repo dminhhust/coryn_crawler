@@ -1,0 +1,46 @@
+{
+  "id": 2666,
+  "name": "Cormorant",
+  "level": 202,
+  "map_id": 472,
+  "map_name": "Vulcani Underground Passage",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 17300,
+  "exp": 275,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6286,
+      "name": "Black Stone Bone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6287,
+      "name": "MP+350",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 6214,
+      "name": "Mutated Backbone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6213,
+      "name": "Strange Arm",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

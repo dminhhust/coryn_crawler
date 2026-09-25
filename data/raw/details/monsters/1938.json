@@ -1,0 +1,46 @@
+{
+  "id": 1938,
+  "name": "Shell Kraken",
+  "level": 74,
+  "map_id": 338,
+  "map_name": "Sweet Hades",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 206,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": true,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1454,
+      "name": "Ancient Shell",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4411,
+      "name": "Seashell Choco Talisman",
+      "type_id": 18,
+      "type_label": "[Special]"
+    },
+    {
+      "id": 4410,
+      "name": "Seashell Milk Chocolate",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1452,
+      "name": "Sharp Tentacle",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": 6692,
+  "name": "Exdocus",
+  "type_id": 230,
+  "type_label": "[Enhancer Crysta (Yellow)]",
+  "sell": 1,
+  "process": 6,
+  "process_amount": 100,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 27,
+      "effect_name": "DEF",
+      "amount": 150,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 29,
+      "effect_name": "MDEF",
+      "amount": 150,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 124,
+      "effect_name": "Physical Barrier",
+      "amount": 1500,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 128,
+      "effect_name": "Magic Barrier",
+      "amount": 1500,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 148,
+      "effect_name": "Upgrade for",
+      "amount": 1987,
+      "applies_to": 0
+    }
+  ]
+}

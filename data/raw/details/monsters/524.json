@@ -1,0 +1,52 @@
+{
+  "id": 524,
+  "name": "Shiny Roar",
+  "level": 86,
+  "map_id": 144,
+  "map_name": "Garden of Sublimation: Area 2",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 6500,
+  "exp": 160,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1832,
+      "name": "Accuracy+8",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 67,
+      "name": "Fairy Feather",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1824,
+      "name": "Glittering Powder",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 485,
+      "name": "Headband",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 1825,
+      "name": "Splendor Crystal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

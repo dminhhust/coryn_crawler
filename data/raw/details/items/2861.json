@@ -1,0 +1,39 @@
+{
+  "id": 2861,
+  "name": "Loincloth",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 75,
+  "process": 4,
+  "process_amount": 37,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 65,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 24,
+      "effect_name": "Stability %",
+      "amount": 6,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 34,
+      "effect_name": "Accuracy %",
+      "amount": 12,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 140,
+      "effect_name": "Guard Break %",
+      "amount": 24,
+      "applies_to": 0
+    }
+  ]
+}

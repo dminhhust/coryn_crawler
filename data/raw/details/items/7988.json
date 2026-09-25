@@ -1,0 +1,45 @@
+{
+  "id": 7988,
+  "name": "Shiny Viridian Hair Ornament",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 285,
+  "process": 6,
+  "process_amount": 570,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 234,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 34,
+      "effect_name": "Accuracy %",
+      "amount": 24,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 117,
+      "effect_name": "Unsheathe Attack %",
+      "amount": 12,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 125,
+      "effect_name": "Tumble Unavailable",
+      "amount": 1,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 127,
+      "effect_name": "Fractional Barrier %",
+      "amount": 18,
+      "applies_to": 0
+    }
+  ]
+}

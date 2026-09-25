@@ -1,0 +1,21 @@
+{
+  "id": 1214,
+  "name": "Stab-Proof Sheet",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": -1,
+  "process": -1,
+  "process_amount": -1,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 31,
+      "effect_name": "Physical Resistance %",
+      "amount": 5,
+      "applies_to": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": 3021,
+  "name": "Dominaredor",
+  "level": 263,
+  "map_id": 532,
+  "map_name": "Frozen Falls: Depths",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Hard",
+  "hp": 16000000,
+  "exp": 65000,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7118,
+      "name": "Corroded Dragon Heart",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7117,
+      "name": "Corroded Dragon Horns",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7116,
+      "name": "Corroded Dragon Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7121,
+      "name": "Dominant Scythespear",
+      "type_id": 26,
+      "type_label": "[Halberd]"
+    },
+    {
+      "id": 7120,
+      "name": "Dominantrum",
+      "type_id": 15,
+      "type_label": "[Magic Device]"
+    },
+    {
+      "id": 7119,
+      "name": "Dominaredor",
+      "type_id": 240,
+      "type_label": "[Enhancer Crysta (Purple)]"
+    }
+  ]
+}

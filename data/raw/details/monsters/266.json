@@ -1,0 +1,118 @@
+{
+  "id": 266,
+  "name": "Avatar Chests",
+  "level": 0,
+  "map_id": 85,
+  "map_name": "Orb Shop",
+  "type_code": "O",
+  "type_label": "Orb Shop",
+  "mode": "Normal",
+  "hp": 0,
+  "exp": 0,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 391,
+      "name": "Agile Gem +",
+      "type_id": 12,
+      "type_label": "[Gem]"
+    },
+    {
+      "id": 392,
+      "name": "Dex Gem +",
+      "type_id": 12,
+      "type_label": "[Gem]"
+    },
+    {
+      "id": 395,
+      "name": "Evade Gem +",
+      "type_id": 12,
+      "type_label": "[Gem]"
+    },
+    {
+      "id": 394,
+      "name": "Guard Gem +",
+      "type_id": 12,
+      "type_label": "[Gem]"
+    },
+    {
+      "id": 6840,
+      "name": "HATSUNE MIKU Microphone Stick",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    },
+    {
+      "id": 5055,
+      "name": "HATSUNE MIKU's Hand Fan",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    },
+    {
+      "id": 5056,
+      "name": "HATSUNE MIKU's Handbell",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    },
+    {
+      "id": 390,
+      "name": "Intellectual Gem +",
+      "type_id": 12,
+      "type_label": "[Gem]"
+    },
+    {
+      "id": 385,
+      "name": "Libera's Book",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 380,
+      "name": "Life Potion",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 393,
+      "name": "Mana Gem +",
+      "type_id": 12,
+      "type_label": "[Gem]"
+    },
+    {
+      "id": 381,
+      "name": "Mana Potion",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 382,
+      "name": "Revive Droplet",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 389,
+      "name": "Strength Gem +",
+      "type_id": 12,
+      "type_label": "[Gem]"
+    },
+    {
+      "id": 386,
+      "name": "Virgo's Book",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 909,
+      "name": "Vital Gem +",
+      "type_id": 12,
+      "type_label": "[Gem]"
+    }
+  ]
+}

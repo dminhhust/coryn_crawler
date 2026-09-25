@@ -1,0 +1,14 @@
+{
+  "id": 1826,
+  "name": "Gemstone of Sublimation",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 12,
+  "process": 6,
+  "process_amount": 3,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

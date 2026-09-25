@@ -1,0 +1,21 @@
+{
+  "id": 8412,
+  "name": "Spying Eye",
+  "type_id": 20,
+  "type_label": "[Normal Crysta]",
+  "sell": 1,
+  "process": 0,
+  "process_amount": -1,
+  "meta": {
+    "badge": "Update 02/26/26",
+    "note": "Dropped by Tanti."
+  },
+  "stats": [
+    {
+      "effect_id": 33,
+      "effect_name": "Accuracy",
+      "amount": 18,
+      "applies_to": 0
+    }
+  ]
+}

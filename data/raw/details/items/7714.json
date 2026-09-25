@@ -1,0 +1,14 @@
+{
+  "id": 7714,
+  "name": "Mysteriously Glowing Tail",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 30,
+  "process": 1,
+  "process_amount": 30,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": 1477,
+  "name": "Blood Drain Knife",
+  "type_id": 11,
+  "type_label": "[Dagger]",
+  "sell": 70,
+  "process": 3,
+  "process_amount": 35,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 40,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 14,
+      "effect_name": "Natural HP Regen %",
+      "amount": 5,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 24,
+      "effect_name": "Stability %",
+      "amount": -10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 68,
+      "effect_name": "Attack MP Recovery",
+      "amount": 5,
+      "applies_to": 0
+    }
+  ]
+}

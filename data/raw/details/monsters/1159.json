@@ -1,0 +1,46 @@
+{
+  "id": 1159,
+  "name": "Golden Iconos (2018)",
+  "level": 115,
+  "map_id": 79,
+  "map_name": "Sofya City: Government Office",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Ultimate",
+  "hp": 18492600,
+  "exp": 26400,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2842,
+      "name": "G. Iconos",
+      "type_id": 23,
+      "type_label": "[Additional Crysta]"
+    },
+    {
+      "id": 2843,
+      "name": "Gold Ingot",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2844,
+      "name": "Plate Armor",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 2845,
+      "name": "Wind Up Key",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

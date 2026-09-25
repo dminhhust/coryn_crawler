@@ -1,0 +1,33 @@
+{
+  "id": 3996,
+  "name": "4th Anniv Katana IX",
+  "type_id": 27,
+  "type_label": "[Katana]",
+  "sell": 175,
+  "process": 3,
+  "process_amount": 87,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 110,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 70,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 113,
+      "effect_name": "Potential",
+      "amount": 43,
+      "applies_to": 0
+    }
+  ]
+}

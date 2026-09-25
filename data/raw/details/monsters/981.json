@@ -1,0 +1,46 @@
+{
+  "id": 981,
+  "name": "Horn Machina",
+  "level": 110,
+  "map_id": 187,
+  "map_name": "Large Demi Machina Factory: Area 3",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 20000,
+  "exp": 418,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2455,
+      "name": "Evil Horn",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2454,
+      "name": "Iron Carapace",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2456,
+      "name": "Mysterious Luminary",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2457,
+      "name": "Priest Mace",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    }
+  ]
+}

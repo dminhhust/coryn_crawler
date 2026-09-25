@@ -1,0 +1,46 @@
+{
+  "id": 2908,
+  "name": "Boulderock",
+  "level": 224,
+  "map_id": 515,
+  "map_name": "Propulsion System Zone: Power Converter",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 50906,
+  "exp": 799,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6953,
+      "name": "Hard Beard",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6952,
+      "name": "Mossy Spiked Ridge",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6954,
+      "name": "Old Rock",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6740,
+      "name": "Thermal Fists",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    }
+  ]
+}

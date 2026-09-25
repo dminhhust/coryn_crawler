@@ -1,0 +1,14 @@
+{
+  "id": 4130,
+  "name": "Corroded Mushroom Cap",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 22,
+  "process": 5,
+  "process_amount": 21,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

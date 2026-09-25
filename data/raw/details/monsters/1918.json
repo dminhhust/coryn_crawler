@@ -1,0 +1,46 @@
+{
+  "id": 1918,
+  "name": "Insector",
+  "level": 150,
+  "map_id": 333,
+  "map_name": "Altoale Sector",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 15000,
+  "exp": 245,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4365,
+      "name": "Broken Ocarina",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4364,
+      "name": "Luminous Robe Scrap",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4367,
+      "name": "Mysterious Hood",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 4366,
+      "name": "Round Insect Cage",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

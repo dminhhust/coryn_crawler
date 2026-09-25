@@ -1,0 +1,27 @@
+{
+  "id": 3629,
+  "name": "Adventurer's Knapsack",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 0,
+  "process": 0,
+  "process_amount": 0,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 4,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 18,
+      "effect_name": "MaxHP %",
+      "amount": 5,
+      "applies_to": 0
+    }
+  ]
+}

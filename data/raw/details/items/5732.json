@@ -1,0 +1,14 @@
+{
+  "id": 5732,
+  "name": "Broken Dango Stand",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 13,
+  "process": 2,
+  "process_amount": 14,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

@@ -1,0 +1,46 @@
+{
+  "id": 1810,
+  "name": "Spooky Bat",
+  "level": 160,
+  "map_id": 313,
+  "map_name": "Zarth's Mansion: Study",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 412,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": true,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3782,
+      "name": "Black Shadow Claw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4178,
+      "name": "Magical Meat Pie",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 2488,
+      "name": "MP+250",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 4117,
+      "name": "Mysterious Skull",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

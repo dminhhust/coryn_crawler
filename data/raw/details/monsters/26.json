@@ -1,0 +1,40 @@
+{
+  "id": 26,
+  "name": "Wooly",
+  "level": 9,
+  "map_id": 8,
+  "map_name": "Reug Salt Plains: Wanderers Camp",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 60,
+  "exp": 5,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 442,
+      "name": "Belt Pouch",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 253,
+      "name": "Lamb Meat",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 202,
+      "name": "Soft Fur",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

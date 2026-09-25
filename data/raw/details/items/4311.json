@@ -1,0 +1,39 @@
+{
+  "id": 4311,
+  "name": "Sorting Knife",
+  "type_id": 11,
+  "type_label": "[Dagger]",
+  "sell": 160,
+  "process": 3,
+  "process_amount": 80,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 60,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 41,
+      "effect_name": "Critical Rate",
+      "amount": 5,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 56,
+      "effect_name": "Dark resistance %",
+      "amount": -5,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 139,
+      "effect_name": "Anticipate %",
+      "amount": 1,
+      "applies_to": 0
+    }
+  ]
+}

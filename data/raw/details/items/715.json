@@ -1,0 +1,33 @@
+{
+  "id": 715,
+  "name": "Stier",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 22,
+  "process": 3,
+  "process_amount": 11,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 30,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 7,
+      "effect_name": "VIT",
+      "amount": 2,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 18,
+      "effect_name": "MaxHP %",
+      "amount": 10,
+      "applies_to": 0
+    }
+  ]
+}

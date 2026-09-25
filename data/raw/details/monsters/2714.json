@@ -1,0 +1,21 @@
+{
+  "id": 2714,
+  "name": "Yorken",
+  "level": 260,
+  "map_id": 479,
+  "map_name": "Anniversary Arena: 7th Venue",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Nightmare",
+  "hp": 25000000,
+  "exp": 103250,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": []
+}

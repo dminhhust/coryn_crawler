@@ -1,0 +1,33 @@
+{
+  "id": 5895,
+  "name": "Dewclaw Dagger",
+  "type_id": 11,
+  "type_label": "[Dagger]",
+  "sell": 190,
+  "process": 1,
+  "process_amount": 95,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 236,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 41,
+      "effect_name": "Critical Rate",
+      "amount": 15,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 44,
+      "effect_name": "Critical Damage %",
+      "amount": -1,
+      "applies_to": 0
+    }
+  ]
+}

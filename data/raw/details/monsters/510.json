@@ -1,0 +1,46 @@
+{
+  "id": 510,
+  "name": "Corroded Fighter",
+  "level": 85,
+  "map_id": 140,
+  "map_name": "Spring of Rebirth: Upper",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 16000,
+  "exp": 363,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1744,
+      "name": "Corroded Huge Arm",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 816,
+      "name": "Mithril Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 1757,
+      "name": "Strong-looking Fist",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1758,
+      "name": "Toughness Bangle",
+      "type_id": 18,
+      "type_label": "[Special]"
+    }
+  ]
+}

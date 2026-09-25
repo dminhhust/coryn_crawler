@@ -1,0 +1,58 @@
+{
+  "id": 2085,
+  "name": "Vulture",
+  "level": 180,
+  "map_id": 366,
+  "map_name": "Geist Desert: Depths",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Easy",
+  "hp": 563000,
+  "exp": 2720,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4698,
+      "name": "Crystal Goshawk Blade",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4697,
+      "name": "Crystal Goshawk Claw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4700,
+      "name": "Crystal Goshawk Lash",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4671,
+      "name": "Vulture Blade",
+      "type_id": 5,
+      "type_label": "[2 Handed Sword]"
+    },
+    {
+      "id": 4699,
+      "name": "Vulture Core",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4670,
+      "name": "Vulture Shooter",
+      "type_id": 9,
+      "type_label": "[Bow]"
+    }
+  ]
+}

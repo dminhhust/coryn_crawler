@@ -1,0 +1,46 @@
+{
+  "id": 3113,
+  "name": "Anglerfish",
+  "level": 240,
+  "map_id": 551,
+  "map_name": "Abandoned District: Area 1",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 734,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7440,
+      "name": "Anglerfish Meat",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7439,
+      "name": "Jiggly Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7441,
+      "name": "Luxury Anglerfish Liver",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7442,
+      "name": "Vegitos Bowgun",
+      "type_id": 10,
+      "type_label": "[Bowgun]"
+    }
+  ]
+}

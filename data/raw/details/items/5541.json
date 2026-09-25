@@ -1,0 +1,14 @@
+{
+  "id": 5541,
+  "name": "Anniv Festive Ticket",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 100,
+  "process": -1,
+  "process_amount": -1,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

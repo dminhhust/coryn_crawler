@@ -1,0 +1,14 @@
+{
+  "id": 5493,
+  "name": "Lumpy Mushrooms",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 21,
+  "process": 2,
+  "process_amount": 21,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

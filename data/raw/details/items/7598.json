@@ -1,0 +1,14 @@
+{
+  "id": 7598,
+  "name": "Water City Jewel Box",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 0,
+  "process": -1,
+  "process_amount": 0,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

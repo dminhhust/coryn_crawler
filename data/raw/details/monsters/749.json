@@ -1,0 +1,70 @@
+{
+  "id": 749,
+  "name": "Ooze",
+  "level": 42,
+  "map_id": 55,
+  "map_name": "Lutaros Cavern: Deepest Part",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Easy",
+  "hp": 4400,
+  "exp": 140,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 65,
+      "name": "Emerald Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 89,
+      "name": "Gluey Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 127,
+      "name": "Luminous Magic Water",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 534,
+      "name": "Ooze Armor",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 535,
+      "name": "Ooze Helmet",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 2543,
+      "name": "Ooze Lamina",
+      "type_id": 27,
+      "type_label": "[Katana]"
+    },
+    {
+      "id": 536,
+      "name": "Ooze Shield",
+      "type_id": 17,
+      "type_label": "[Shield]"
+    },
+    {
+      "id": 537,
+      "name": "Ooze Staff",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    }
+  ]
+}

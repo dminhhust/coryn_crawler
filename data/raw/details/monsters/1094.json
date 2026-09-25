@@ -1,0 +1,46 @@
+{
+  "id": 1094,
+  "name": "Underground Nemico",
+  "level": 109,
+  "map_id": 213,
+  "map_name": "Ultimea Sewer: Southeast",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 6500,
+  "exp": 103,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2729,
+      "name": "Bat Ear",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2730,
+      "name": "Fluffy Scarf",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2714,
+      "name": "Imperial Shield",
+      "type_id": 17,
+      "type_label": "[Shield]"
+    },
+    {
+      "id": 816,
+      "name": "Mithril Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    }
+  ]
+}

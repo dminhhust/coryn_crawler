@@ -1,0 +1,39 @@
+{
+  "id": 489,
+  "name": "Huge Heavy Shield",
+  "type_id": 17,
+  "type_label": "[Shield]",
+  "sell": 10,
+  "process": 3,
+  "process_amount": 5,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 0,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 19,
+      "effect_name": "MaxMP",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 58,
+      "effect_name": "Guard Power %",
+      "amount": 32,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 59,
+      "effect_name": "Guard Recharge %",
+      "amount": 2,
+      "applies_to": 0
+    }
+  ]
+}

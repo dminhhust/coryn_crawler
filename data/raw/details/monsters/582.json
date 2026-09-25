@@ -1,0 +1,46 @@
+{
+  "id": 582,
+  "name": "Strange Tentacle",
+  "level": 96,
+  "map_id": 156,
+  "map_name": "Plastida: Area 2",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 94,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1960,
+      "name": "Deseperanza",
+      "type_id": 5,
+      "type_label": "[2 Handed Sword]"
+    },
+    {
+      "id": 1959,
+      "name": "Strange Essence",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1957,
+      "name": "Weird Creature Cell",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1958,
+      "name": "Wriggling Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

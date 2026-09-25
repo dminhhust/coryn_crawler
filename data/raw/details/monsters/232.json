@@ -1,0 +1,46 @@
+{
+  "id": 232,
+  "name": "Salliphant",
+  "level": 42,
+  "map_id": 71,
+  "map_name": "Harde Hill",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 42,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 609,
+      "name": "Big Nose",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 612,
+      "name": "Feather Hat",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 611,
+      "name": "Flaxen Mane",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 610,
+      "name": "Tough Huge Horn",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

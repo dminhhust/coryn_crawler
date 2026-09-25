@@ -1,0 +1,46 @@
+{
+  "id": 2576,
+  "name": "Treemit",
+  "level": 191,
+  "map_id": 456,
+  "map_name": "Flumen Plains",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 16000,
+  "exp": 250,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6034,
+      "name": "Great Nature Talisman",
+      "type_id": 18,
+      "type_label": "[Special]"
+    },
+    {
+      "id": 6031,
+      "name": "Superfluous Branch",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6033,
+      "name": "Tea Leaf",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6032,
+      "name": "Young Tree Bark",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 3082,
+  "name": "Bafficat",
+  "level": 232,
+  "map_id": 540,
+  "map_name": "Subma Cave",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 423,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7385,
+      "name": "Exoskeleton Tail",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7387,
+      "name": "Gradation Scarf",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 7386,
+      "name": "Sensitive Whisker",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7384,
+      "name": "Thick Claw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

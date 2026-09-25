@@ -1,0 +1,370 @@
+{
+  "id": 267,
+  "name": "Item Chests",
+  "level": 0,
+  "map_id": 85,
+  "map_name": "Orb Shop",
+  "type_code": "O",
+  "type_label": "Orb Shop",
+  "mode": "Normal",
+  "hp": 0,
+  "exp": 0,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 391,
+      "name": "Agile Gem +",
+      "type_id": 12,
+      "type_label": "[Gem]"
+    },
+    {
+      "id": 388,
+      "name": "Balft's Book",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 392,
+      "name": "Dex Gem +",
+      "type_id": 12,
+      "type_label": "[Gem]"
+    },
+    {
+      "id": 395,
+      "name": "Evade Gem +",
+      "type_id": 12,
+      "type_label": "[Gem]"
+    },
+    {
+      "id": 419,
+      "name": "Extraction Crysta",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1348,
+      "name": "Fairy Silk",
+      "type_id": 3,
+      "type_label": "[Piercer]"
+    },
+    {
+      "id": 1624,
+      "name": "Glory Gem",
+      "type_id": 12,
+      "type_label": "[Gem]"
+    },
+    {
+      "id": 394,
+      "name": "Guard Gem +",
+      "type_id": 12,
+      "type_label": "[Gem]"
+    },
+    {
+      "id": 422,
+      "name": "Hidden Training Book",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 932,
+      "name": "High-Grade Ornament",
+      "type_id": 3,
+      "type_label": "[Piercer]"
+    },
+    {
+      "id": 390,
+      "name": "Intellectual Gem +",
+      "type_id": 12,
+      "type_label": "[Gem]"
+    },
+    {
+      "id": 385,
+      "name": "Libera's Book",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 409,
+      "name": "Libera's Book II",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 412,
+      "name": "Libera's Book III",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 415,
+      "name": "Libera's Book IV",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 380,
+      "name": "Life Potion",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 421,
+      "name": "Lilulu's Book",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 393,
+      "name": "Mana Gem +",
+      "type_id": 12,
+      "type_label": "[Gem]"
+    },
+    {
+      "id": 381,
+      "name": "Mana Potion",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 423,
+      "name": "Mirror of Reflection",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 420,
+      "name": "Mondan's Book",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 407,
+      "name": "Pelulu's Book",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 400,
+      "name": "Piercer [Bowgun]",
+      "type_id": 3,
+      "type_label": "[Piercer]"
+    },
+    {
+      "id": 399,
+      "name": "Piercer [Bow]",
+      "type_id": 3,
+      "type_label": "[Piercer]"
+    },
+    {
+      "id": 2694,
+      "name": "Piercer [Katana]",
+      "type_id": 3,
+      "type_label": "[Piercer]"
+    },
+    {
+      "id": 403,
+      "name": "Piercer [Knuckle]",
+      "type_id": 3,
+      "type_label": "[Piercer]"
+    },
+    {
+      "id": 402,
+      "name": "Piercer [Magic Device]",
+      "type_id": 3,
+      "type_label": "[Piercer]"
+    },
+    {
+      "id": 397,
+      "name": "Piercer [OHS]",
+      "type_id": 3,
+      "type_label": "[Piercer]"
+    },
+    {
+      "id": 401,
+      "name": "Piercer [Staff]",
+      "type_id": 3,
+      "type_label": "[Piercer]"
+    },
+    {
+      "id": 398,
+      "name": "Piercer [THS]",
+      "type_id": 3,
+      "type_label": "[Piercer]"
+    },
+    {
+      "id": 408,
+      "name": "Pino's Book",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 2113,
+      "name": "Prime Piercer [BW]",
+      "type_id": 3,
+      "type_label": "[Piercer]"
+    },
+    {
+      "id": 2118,
+      "name": "Prime Piercer [HAL]",
+      "type_id": 3,
+      "type_label": "[Piercer]"
+    },
+    {
+      "id": 2117,
+      "name": "Prime Piercer [KN]",
+      "type_id": 3,
+      "type_label": "[Piercer]"
+    },
+    {
+      "id": 2116,
+      "name": "Prime Piercer [MD]",
+      "type_id": 3,
+      "type_label": "[Piercer]"
+    },
+    {
+      "id": 2111,
+      "name": "Prime Piercer [OHS]",
+      "type_id": 3,
+      "type_label": "[Piercer]"
+    },
+    {
+      "id": 2115,
+      "name": "Prime Piercer [STF]",
+      "type_id": 3,
+      "type_label": "[Piercer]"
+    },
+    {
+      "id": 2112,
+      "name": "Prime Piercer [THS]",
+      "type_id": 3,
+      "type_label": "[Piercer]"
+    },
+    {
+      "id": 2114,
+      "name": "Prime Pierer [BWG]",
+      "type_id": 3,
+      "type_label": "[Piercer]"
+    },
+    {
+      "id": 418,
+      "name": "Reset Book",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 382,
+      "name": "Revive Droplet",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 379,
+      "name": "Secret Training Book",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 405,
+      "name": "Sololo's Book",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1008,
+      "name": "Spirit Needle",
+      "type_id": 3,
+      "type_label": "[Piercer]"
+    },
+    {
+      "id": 389,
+      "name": "Strength Gem +",
+      "type_id": 12,
+      "type_label": "[Gem]"
+    },
+    {
+      "id": 387,
+      "name": "Tenart's Book",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 411,
+      "name": "Tenert's Book II",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 414,
+      "name": "Tenert's Book III",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 417,
+      "name": "Tenert's Book IV",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 378,
+      "name": "Training Book",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 406,
+      "name": "Triel's Book",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 386,
+      "name": "Virgo's Book",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 410,
+      "name": "Virgo's Book II",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 413,
+      "name": "Virgo's Book III",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 416,
+      "name": "Virgo's Book IV",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 909,
+      "name": "Vital Gem +",
+      "type_id": 12,
+      "type_label": "[Gem]"
+    },
+    {
+      "id": 404,
+      "name": "Yarn's Book",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 424,
+      "name": "York's Book",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": 42,
+  "name": "Butterfly Wing",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 3,
+  "process": 4,
+  "process_amount": 4,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

@@ -1,0 +1,64 @@
+{
+  "id": 2045,
+  "name": "Demonic Quasar",
+  "level": 175,
+  "map_id": 356,
+  "map_name": "Morga Wasteland: Deepest Area",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Easy",
+  "hp": 800000,
+  "exp": 4050,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4584,
+      "name": "Demon Mask",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4581,
+      "name": "Demon Membrane Fragment",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4563,
+      "name": "Demonic Quasar",
+      "type_id": 22,
+      "type_label": "[Armor Crysta]"
+    },
+    {
+      "id": 4583,
+      "name": "Deteriorated Chain",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4582,
+      "name": "Otherworld Rubble",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4561,
+      "name": "Quasar Arm",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    },
+    {
+      "id": 4562,
+      "name": "Quasar Barrel",
+      "type_id": 10,
+      "type_label": "[Bowgun]"
+    }
+  ]
+}

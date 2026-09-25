@@ -1,0 +1,39 @@
+{
+  "id": 1090,
+  "name": "Unsheathe Bangle",
+  "type_id": 18,
+  "type_label": "[Special]",
+  "sell": 35,
+  "process": 3,
+  "process_amount": 17,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 9,
+      "effect_name": "AGI",
+      "amount": 3,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 33,
+      "effect_name": "Accuracy",
+      "amount": 3,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 116,
+      "effect_name": "Unsheathe Attack",
+      "amount": 30,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 117,
+      "effect_name": "Unsheathe Attack %",
+      "amount": 3,
+      "applies_to": 0
+    }
+  ]
+}

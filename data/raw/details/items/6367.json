@@ -1,0 +1,14 @@
+{
+  "id": 6367,
+  "name": "Golpom 7th Anniv Medal",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 90,
+  "process": 6,
+  "process_amount": 30,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

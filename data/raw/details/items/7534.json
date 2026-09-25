@@ -1,0 +1,14 @@
+{
+  "id": 7534,
+  "name": "Blue Cheese",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 27,
+  "process": 5,
+  "process_amount": 27,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

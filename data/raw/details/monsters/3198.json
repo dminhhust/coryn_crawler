@@ -1,0 +1,76 @@
+{
+  "id": 3198,
+  "name": "Sunken Treasure",
+  "level": 0,
+  "map_id": 88,
+  "map_name": "-",
+  "type_code": "",
+  "type_label": "",
+  "mode": "Easy",
+  "hp": 0,
+  "exp": 0,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7622,
+      "name": "Bamboo Bow",
+      "type_id": 9,
+      "type_label": "[Bow]"
+    },
+    {
+      "id": 7623,
+      "name": "Broken Greatsword",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    },
+    {
+      "id": 7619,
+      "name": "Caduceus",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    },
+    {
+      "id": 7621,
+      "name": "Firefighter Flag",
+      "type_id": 26,
+      "type_label": "[Halberd]"
+    },
+    {
+      "id": 7616,
+      "name": "Mimic Axe",
+      "type_id": 10,
+      "type_label": "[Bowgun]"
+    },
+    {
+      "id": 7617,
+      "name": "Murasame",
+      "type_id": 27,
+      "type_label": "[Katana]"
+    },
+    {
+      "id": 7615,
+      "name": "Pezvolador",
+      "type_id": 15,
+      "type_label": "[Magic Device]"
+    },
+    {
+      "id": 7620,
+      "name": "Wood Giant Knuckles",
+      "type_id": 0,
+      "type_label": ""
+    },
+    {
+      "id": 7618,
+      "name": "Wood Giant Sledgehammer",
+      "type_id": 5,
+      "type_label": "[2 Handed Sword]"
+    }
+  ]
+}

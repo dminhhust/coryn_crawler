@@ -1,0 +1,46 @@
+{
+  "id": 225,
+  "name": "Rocksaur",
+  "level": 36,
+  "map_id": 70,
+  "map_name": "Darkanon Plain",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 1300,
+  "exp": 43,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 242,
+      "name": "Damascus Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 210,
+      "name": "Stone Claw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 211,
+      "name": "Stone Shard",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 578,
+      "name": "White Silver Necklace",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

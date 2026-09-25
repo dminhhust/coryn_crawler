@@ -1,0 +1,46 @@
+{
+  "id": 3016,
+  "name": "Lylila",
+  "level": 233,
+  "map_id": 531,
+  "map_name": "Frozen Falls: Area 3",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 50500,
+  "exp": 776,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7103,
+      "name": "Geometric Petal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7102,
+      "name": "Pointed Shoulder",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7104,
+      "name": "Strange Needle Arm",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7105,
+      "name": "Vermio Bow",
+      "type_id": 9,
+      "type_label": "[Bow]"
+    }
+  ]
+}

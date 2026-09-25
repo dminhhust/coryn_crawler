@@ -1,0 +1,46 @@
+{
+  "id": 1003,
+  "name": "Evil Ice Crystal",
+  "level": 112,
+  "map_id": 193,
+  "map_name": "Navida City: Crossroad (100-120)",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 333,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1829,
+      "name": "Chipped Crystal Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2482,
+      "name": "Crystal Cluster",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 816,
+      "name": "Mithril Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 1825,
+      "name": "Splendor Crystal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

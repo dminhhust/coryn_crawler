@@ -1,0 +1,70 @@
+{
+  "id": 489,
+  "name": "Sunlight Potum",
+  "level": 100,
+  "map_id": 87,
+  "map_name": "Event",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": -1,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1284,
+      "name": "Forehead Protector",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 1284,
+      "name": "Forehead Protector",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 1284,
+      "name": "Forehead Protector",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 485,
+      "name": "Headband",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 485,
+      "name": "Headband",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 485,
+      "name": "Headband",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 543,
+      "name": "Ribbon",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 1283,
+      "name": "Sunlight Potum",
+      "type_id": 23,
+      "type_label": "[Additional Crysta]"
+    }
+  ]
+}

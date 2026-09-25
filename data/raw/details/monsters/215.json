@@ -1,0 +1,46 @@
+{
+  "id": 215,
+  "name": "Mutant Goblin",
+  "level": 44,
+  "map_id": 65,
+  "map_name": "Saham Crater",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 2000,
+  "exp": 64,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 246,
+      "name": "Bitter Medicine",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 59,
+      "name": "Dented Iron Plate",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 91,
+      "name": "Goblin Claw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 520,
+      "name": "Metal Horn Bow",
+      "type_id": 9,
+      "type_label": "[Bow]"
+    }
+  ]
+}

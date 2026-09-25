@@ -1,0 +1,70 @@
+{
+  "id": 958,
+  "name": "Tyrant Machina",
+  "level": 121,
+  "map_id": 183,
+  "map_name": "Small Demi Machina Factory Core",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 1050000,
+  "exp": 8400,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2567,
+      "name": "Broken Gas Mask",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2417,
+      "name": "Giant Machina's Heart",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2416,
+      "name": "Giant Machina's Tentacle",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2415,
+      "name": "Patchwork Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2418,
+      "name": "Tentacle's Roar",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 2414,
+      "name": "Tyrant Grievance",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 2419,
+      "name": "Tyrant Machina",
+      "type_id": 210,
+      "type_label": "[Enhancer Crysta (Red)]"
+    },
+    {
+      "id": 2420,
+      "name": "Tyrant Mask",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 460,
+  "name": "Rabby",
+  "level": 68,
+  "map_id": 131,
+  "map_name": "Polde Ice Valley",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 34,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1573,
+      "name": "Cold Nut",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1568,
+      "name": "Fleecy Fur",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1569,
+      "name": "Frill Cape",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 1567,
+      "name": "Woolly Tail",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

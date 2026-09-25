@@ -1,0 +1,14 @@
+{
+  "id": 2332,
+  "name": "Strange Tool Box",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 1,
+  "process": 3,
+  "process_amount": 2,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

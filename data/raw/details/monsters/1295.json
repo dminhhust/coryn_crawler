@@ -1,0 +1,46 @@
+{
+  "id": 1295,
+  "name": "Summer Potum",
+  "level": 80,
+  "map_id": 243,
+  "map_name": "Saltau's Beach: Beach House",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 150,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": true,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 245,
+      "name": "Apple",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1629,
+      "name": "Iced Revita",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 164,
+      "name": "Potum Nail",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 267,
+      "name": "Soda Water",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 206,
+  "name": "Euris",
+  "level": 30,
+  "map_id": 63,
+  "map_name": "Lonogo Canyon",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 500,
+  "exp": 20,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 249,
+      "name": "Carrot",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 457,
+      "name": "Crystal Earrings",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 80,
+      "name": "Fluffy Fur",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 191,
+      "name": "Short Nail",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

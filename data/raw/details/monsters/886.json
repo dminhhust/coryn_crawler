@@ -1,0 +1,46 @@
+{
+  "id": 886,
+  "name": "Sand Frosch",
+  "level": 47,
+  "map_id": 93,
+  "map_name": "Centerio Highlands",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 2000,
+  "exp": 70,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 71,
+      "name": "Fine Sand",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 168,
+      "name": "Rainwater",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 185,
+      "name": "Sand Frog Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 548,
+      "name": "Sand Veil Ring",
+      "type_id": 18,
+      "type_label": "[Special]"
+    }
+  ]
+}

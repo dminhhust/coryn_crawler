@@ -1,0 +1,46 @@
+{
+  "id": 1598,
+  "name": "Goldenia",
+  "level": 187,
+  "map_id": 292,
+  "map_name": "Elf Mountains: Area 3",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 27930,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3733,
+      "name": "Glossy Black Leather",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3740,
+      "name": "Golden Stinging Hair",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3741,
+      "name": "Goldenia",
+      "type_id": 23,
+      "type_label": "[Additional Crysta]"
+    },
+    {
+      "id": 3734,
+      "name": "Spiky Horns",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

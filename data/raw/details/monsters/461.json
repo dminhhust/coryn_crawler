@@ -1,0 +1,46 @@
+{
+  "id": 461,
+  "name": "Yeti",
+  "level": 70,
+  "map_id": 131,
+  "map_name": "Polde Ice Valley",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 132,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1563,
+      "name": "Cold Wood Stick",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1565,
+      "name": "Cracked Big Axe",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1566,
+      "name": "Ear Muff",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 1564,
+      "name": "Thick Fur",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

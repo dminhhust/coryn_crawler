@@ -1,0 +1,33 @@
+{
+  "id": 3988,
+  "name": "4th Anniv Katana",
+  "type_id": 27,
+  "type_label": "[Katana]",
+  "sell": 25,
+  "process": 3,
+  "process_amount": 12,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 11,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 70,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 113,
+      "effect_name": "Potential",
+      "amount": 19,
+      "applies_to": 0
+    }
+  ]
+}

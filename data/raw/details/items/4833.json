@@ -1,0 +1,33 @@
+{
+  "id": 4833,
+  "name": "5th Anniv Wings VII",
+  "type_id": 15,
+  "type_label": "[Magic Device]",
+  "sell": 195,
+  "process": 6,
+  "process_amount": 97,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 163,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 70,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 113,
+      "effect_name": "Potential",
+      "amount": 46,
+      "applies_to": 0
+    }
+  ]
+}

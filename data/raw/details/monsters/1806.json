@@ -1,0 +1,46 @@
+{
+  "id": 1806,
+  "name": "Sorcerabbit",
+  "level": 133,
+  "map_id": 312,
+  "map_name": "Zarth's Mansion: Parlor",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 258,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": true,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3401,
+      "name": "Cushy Fur",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3509,
+      "name": "Cute Tail",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4177,
+      "name": "Mini Witch Hat",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 4176,
+      "name": "Moving Carrot Cake",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

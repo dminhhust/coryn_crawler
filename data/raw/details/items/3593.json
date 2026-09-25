@@ -1,0 +1,14 @@
+{
+  "id": 3593,
+  "name": "Corridor Rubble",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 13,
+  "process": 3,
+  "process_amount": 13,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

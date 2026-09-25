@@ -1,0 +1,39 @@
+{
+  "id": 7026,
+  "name": "Schmet Hairpin",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 112,
+  "process": 5,
+  "process_amount": 56,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 38,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 6,
+      "effect_name": "INT %",
+      "amount": 9,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 23,
+      "effect_name": "MATK %",
+      "amount": 9,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 32,
+      "effect_name": "Magic Resistance %",
+      "amount": 9,
+      "applies_to": 0
+    }
+  ]
+}

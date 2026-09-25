@@ -1,0 +1,70 @@
+{
+  "id": 2892,
+  "name": "Mage Filecia (Coffee)",
+  "level": 280,
+  "map_id": 511,
+  "map_name": "El Scaro: Back Alley",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Ultimate",
+  "hp": 17000000,
+  "exp": 64400,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6854,
+      "name": "Biscuit Horns",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6862,
+      "name": "Cookie Wings",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 6855,
+      "name": "Heart-Shaped Spit Piece",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6861,
+      "name": "Kruztor II",
+      "type_id": 220,
+      "type_label": "[Enhancer Crysta (Green)]"
+    },
+    {
+      "id": 6856,
+      "name": "Mage Filecia",
+      "type_id": 23,
+      "type_label": "[Additional Crysta]"
+    },
+    {
+      "id": 6858,
+      "name": "Rolling Pin Staff",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    },
+    {
+      "id": 6857,
+      "name": "Rolling Pin Sword",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    },
+    {
+      "id": 6853,
+      "name": "Star-Shaped Cookie",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

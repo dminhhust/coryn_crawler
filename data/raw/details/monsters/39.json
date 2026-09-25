@@ -1,0 +1,46 @@
+{
+  "id": 39,
+  "name": "Farfara",
+  "level": 13,
+  "map_id": 11,
+  "map_name": "Ruined Temple Town",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 165,
+  "exp": 8,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 41,
+      "name": "Butterfly Scale",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 42,
+      "name": "Butterfly Wing",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 78,
+      "name": "Flower Nectar",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 517,
+      "name": "Magic Feather",
+      "type_id": 15,
+      "type_label": "[Magic Device]"
+    }
+  ]
+}

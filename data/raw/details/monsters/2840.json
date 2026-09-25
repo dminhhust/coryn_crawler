@@ -1,0 +1,46 @@
+{
+  "id": 2840,
+  "name": "Snorm",
+  "level": 198,
+  "map_id": 503,
+  "map_name": "Illuminare City: Route 2 (190-210)",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 590,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": true,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5785,
+      "name": "Hard Wood Board",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6738,
+      "name": "Ice Wing Hair Ornament",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 6735,
+      "name": "Stolen Box (Blue)",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6035,
+      "name": "Zigzag Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 2619,
+  "name": "Coryn",
+  "level": 161,
+  "map_id": 465,
+  "map_name": "Sugar Plain",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 22000,
+  "exp": 420,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": true,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6158,
+      "name": "Apple Branch Dagger",
+      "type_id": 11,
+      "type_label": "[Dagger]"
+    },
+    {
+      "id": 6157,
+      "name": "Fruit Pellicle",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4439,
+      "name": "Pliant Pedicel",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4441,
+      "name": "Yellow Apple",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": 1637,
+  "name": "Reindeer Suit",
+  "type_id": 8,
+  "type_label": "[Armor]",
+  "sell": 1,
+  "process": 4,
+  "process_amount": 10,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 46,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 17,
+      "effect_name": "MaxHP",
+      "amount": 250,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 37,
+      "effect_name": "ASPD",
+      "amount": 250,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 39,
+      "effect_name": "CSPD",
+      "amount": -150,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 116,
+      "effect_name": "Unsheathe Attack",
+      "amount": 25,
+      "applies_to": 0
+    }
+  ]
+}

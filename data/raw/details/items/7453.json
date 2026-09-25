@@ -1,0 +1,14 @@
+{
+  "id": 7453,
+  "name": "Coral Rock",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 27,
+  "process": 3,
+  "process_amount": 28,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

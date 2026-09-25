@@ -1,0 +1,27 @@
+{
+  "id": 1427,
+  "name": "Dried Persimon",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 1,
+  "process": 6,
+  "process_amount": 10,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 79,
+      "effect_name": "HP",
+      "amount": 500,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 84,
+      "effect_name": "HP %",
+      "amount": 1,
+      "applies_to": 0
+    }
+  ]
+}

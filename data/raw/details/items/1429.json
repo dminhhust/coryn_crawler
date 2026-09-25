@@ -1,0 +1,27 @@
+{
+  "id": 1429,
+  "name": "Salt-Grilled Saury",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 1,
+  "process": 6,
+  "process_amount": 10,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 14,
+      "effect_name": "Natural HP Regen %",
+      "amount": 100,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 17,
+      "effect_name": "MaxHP",
+      "amount": 1000,
+      "applies_to": 0
+    }
+  ]
+}

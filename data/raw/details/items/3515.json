@@ -1,0 +1,14 @@
+{
+  "id": 3515,
+  "name": "Zelbuse Wing of Light",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 20,
+  "process": 4,
+  "process_amount": 20,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

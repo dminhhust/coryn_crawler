@@ -1,0 +1,27 @@
+{
+  "id": 6322,
+  "name": "Warm Fur Sheet",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": -1,
+  "process": -1,
+  "process_amount": -1,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 30,
+      "effect_name": "MDEF %",
+      "amount": 15,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 173,
+      "effect_name": "Reduce Dmg (Floor) %",
+      "amount": 15,
+      "applies_to": 0
+    }
+  ]
+}

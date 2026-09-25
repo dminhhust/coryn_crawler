@@ -1,0 +1,70 @@
+{
+  "id": 2136,
+  "name": "Adaro",
+  "level": 190,
+  "map_id": 369,
+  "map_name": "Underwater Ruins: Deepest",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Nightmare",
+  "hp": 17500000,
+  "exp": 91700,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4856,
+      "name": "Adaro",
+      "type_id": 23,
+      "type_label": "[Additional Crysta]"
+    },
+    {
+      "id": 4855,
+      "name": "Sea Current Crystal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4854,
+      "name": "Seadevil Coral",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4859,
+      "name": "Seadevil Katana",
+      "type_id": 27,
+      "type_label": "[Katana]"
+    },
+    {
+      "id": 4853,
+      "name": "Seadevil Scale",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4857,
+      "name": "Seadevil Shield",
+      "type_id": 17,
+      "type_label": "[Shield]"
+    },
+    {
+      "id": 4858,
+      "name": "Seadevil Staff",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    },
+    {
+      "id": 4860,
+      "name": "Seadevil Sword",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 1565,
+  "name": "Bubble Angel (Purple)",
+  "level": 147,
+  "map_id": 283,
+  "map_name": "Hall of Special Gods",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "",
+  "hp": -1,
+  "exp": 364,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3647,
+      "name": "Elemental Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3585,
+      "name": "God Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3634,
+      "name": "Knit Fabric",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3627,
+      "name": "Prism Ring (Dark)",
+      "type_id": 15,
+      "type_label": "[Magic Device]"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": 7972,
+  "name": "Corroded Tree Bark",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 30,
+  "process": 2,
+  "process_amount": 30,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

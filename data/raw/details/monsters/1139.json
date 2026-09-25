@@ -1,0 +1,46 @@
+{
+  "id": 1139,
+  "name": "Lyark Machine Soldier",
+  "level": 121,
+  "map_id": 225,
+  "map_name": "Cuervo Jail: 1st Floor",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 15000,
+  "exp": 321,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2821,
+      "name": "Frost Skirt",
+      "type_id": 15,
+      "type_label": "[Magic Device]"
+    },
+    {
+      "id": 2819,
+      "name": "Iron Bowl",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2820,
+      "name": "Mage Doll Core",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2818,
+      "name": "Thick Wood Stick",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

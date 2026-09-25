@@ -1,0 +1,46 @@
+{
+  "id": 2918,
+  "name": "Young Pore",
+  "level": 170,
+  "map_id": 510,
+  "map_name": "Chocolate Reservoir",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": -1,
+  "element_id": -1,
+  "element_label": "Unknown",
+  "tameable": true,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6964,
+      "name": "Cocoa Powder",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6966,
+      "name": "Pancake Hat",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 2963,
+      "name": "Spiral Tree Root",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6965,
+      "name": "Young Wafer",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

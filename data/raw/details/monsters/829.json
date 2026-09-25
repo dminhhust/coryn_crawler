@@ -1,0 +1,46 @@
+{
+  "id": 829,
+  "name": "Duston",
+  "level": 88,
+  "map_id": 168,
+  "map_name": "Klaspe Slum",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 191,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2268,
+      "name": "Filthy Cloth",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2271,
+      "name": "Lost Ring",
+      "type_id": 18,
+      "type_label": "[Special]"
+    },
+    {
+      "id": 2270,
+      "name": "Lump of Garbage",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2269,
+      "name": "Rugged Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

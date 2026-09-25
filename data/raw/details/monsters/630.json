@@ -1,0 +1,46 @@
+{
+  "id": 630,
+  "name": "Demi Machina",
+  "level": 86,
+  "map_id": 163,
+  "map_name": "Artillery Defense Line",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 112,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2058,
+      "name": "Demi Knife",
+      "type_id": 11,
+      "type_label": "[Dagger]"
+    },
+    {
+      "id": 2056,
+      "name": "Dirty Silk Hat",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2057,
+      "name": "Hidden Huge Blade",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2055,
+      "name": "Torn Cape",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

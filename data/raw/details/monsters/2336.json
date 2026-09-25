@@ -1,0 +1,46 @@
+{
+  "id": 2336,
+  "name": "Coofer",
+  "level": 174,
+  "map_id": 392,
+  "map_name": "Rokoko City Ruins",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 12500,
+  "exp": 642,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5239,
+      "name": "Aching Right Arm",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 5250,
+      "name": "Dark Red Crystal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5249,
+      "name": "Warped Blade",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5248,
+      "name": "Weird Snake Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

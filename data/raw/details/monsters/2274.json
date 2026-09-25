@@ -1,0 +1,64 @@
+{
+  "id": 2274,
+  "name": "Hexter",
+  "level": 222,
+  "map_id": 397,
+  "map_name": "Witch's Woods Depths",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Nightmare",
+  "hp": 13600000,
+  "exp": 67100,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5372,
+      "name": "Cursed Stake",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5373,
+      "name": "Flame Horn",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5108,
+      "name": "Hexter",
+      "type_id": 210,
+      "type_label": "[Enhancer Crysta (Red)]"
+    },
+    {
+      "id": 5371,
+      "name": "Inferno Curse Bone Feather",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5375,
+      "name": "Inferno Curse Bow",
+      "type_id": 9,
+      "type_label": "[Bow]"
+    },
+    {
+      "id": 5370,
+      "name": "Inferno Curse Cloth Scrap",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5374,
+      "name": "Inferno Curse Greatsword",
+      "type_id": 5,
+      "type_label": "[2 Handed Sword]"
+    }
+  ]
+}

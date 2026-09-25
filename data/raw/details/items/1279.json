@@ -1,0 +1,33 @@
+{
+  "id": 1279,
+  "name": "Blaster Bow",
+  "type_id": 9,
+  "type_label": "[Bow]",
+  "sell": 70,
+  "process": 3,
+  "process_amount": 35,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 48,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 60,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 113,
+      "effect_name": "Potential",
+      "amount": 26,
+      "applies_to": 0
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 1964,
+  "name": "One Eye Mask",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 42,
+  "process": 3,
+  "process_amount": 21,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 35,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 18,
+      "effect_name": "MaxHP %",
+      "amount": 20,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 143,
+      "effect_name": "ATK UP (VIT %)",
+      "amount": 50,
+      "applies_to": 0
+    }
+  ]
+}

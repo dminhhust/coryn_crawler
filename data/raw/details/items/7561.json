@@ -1,0 +1,14 @@
+{
+  "id": 7561,
+  "name": "Mass of Seaweed",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 27,
+  "process": 5,
+  "process_amount": 27,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

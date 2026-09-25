@@ -1,0 +1,27 @@
+{
+  "id": 1344,
+  "name": "Caravan Talisman",
+  "type_id": 18,
+  "type_label": "[Special]",
+  "sell": 0,
+  "process": 0,
+  "process_amount": 0,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 19,
+      "effect_name": "MaxMP",
+      "amount": 200,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 35,
+      "effect_name": "Dodge",
+      "amount": 4,
+      "applies_to": 2
+    }
+  ]
+}

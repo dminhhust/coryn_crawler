@@ -1,0 +1,46 @@
+{
+  "id": 509,
+  "name": "Corroded Knight",
+  "level": 84,
+  "map_id": 140,
+  "map_name": "Spring of Rebirth: Upper",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 10000,
+  "exp": 216,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1748,
+      "name": "Corroded Spear",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1770,
+      "name": "Flame Blade",
+      "type_id": 5,
+      "type_label": "[2 Handed Sword]"
+    },
+    {
+      "id": 1753,
+      "name": "Garden of Beginning",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1769,
+      "name": "Pointed Blade",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

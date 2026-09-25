@@ -1,0 +1,21 @@
+{
+  "id": 1060,
+  "name": "Blacksmith: Liut",
+  "level": 0,
+  "map_id": 205,
+  "map_name": "Hora Diomedea: Blacksmith",
+  "type_code": "C",
+  "type_label": "NPC",
+  "mode": "Normal",
+  "hp": 0,
+  "exp": 0,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": []
+}

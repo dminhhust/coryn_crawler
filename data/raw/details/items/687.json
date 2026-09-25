@@ -1,0 +1,33 @@
+{
+  "id": 687,
+  "name": "Colon Met",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 7,
+  "process": 2,
+  "process_amount": 3,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 5,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 14,
+      "effect_name": "Natural HP Regen %",
+      "amount": -5,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 17,
+      "effect_name": "MaxHP",
+      "amount": 150,
+      "applies_to": 0
+    }
+  ]
+}

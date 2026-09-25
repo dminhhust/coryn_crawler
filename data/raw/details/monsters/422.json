@@ -1,0 +1,154 @@
+{
+  "id": 422,
+  "name": "Persimmon Coryn",
+  "level": 50,
+  "map_id": 51,
+  "map_name": "Yorl Highlands",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": -1,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 436,
+      "name": "Adventurer's Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 436,
+      "name": "Adventurer's Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 436,
+      "name": "Adventurer's Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 436,
+      "name": "Adventurer's Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 436,
+      "name": "Adventurer's Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 436,
+      "name": "Adventurer's Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 436,
+      "name": "Adventurer's Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 436,
+      "name": "Adventurer's Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 436,
+      "name": "Adventurer's Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 436,
+      "name": "Adventurer's Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 436,
+      "name": "Adventurer's Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 436,
+      "name": "Adventurer's Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 436,
+      "name": "Adventurer's Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 436,
+      "name": "Adventurer's Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 436,
+      "name": "Adventurer's Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 1428,
+      "name": "Baked Sweet Potato",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1427,
+      "name": "Dried Persimon",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1433,
+      "name": "Fallen in Fall",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1432,
+      "name": "Ginkgo Nut Rice",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1430,
+      "name": "Mashed Sweet Potato",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1431,
+      "name": "Matsutake Soup",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1429,
+      "name": "Salt-Grilled Saury",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

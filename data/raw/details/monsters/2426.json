@@ -1,0 +1,70 @@
+{
+  "id": 2426,
+  "name": "Yuveria",
+  "level": 205,
+  "map_id": 417,
+  "map_name": "Underwater Canyon: Depths",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "NIghtmare",
+  "hp": 22500000,
+  "exp": 113650,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 364,
+      "name": "Anti-Degradation",
+      "type_id": 2,
+      "type_label": "[Refinement Support]"
+    },
+    {
+      "id": 5681,
+      "name": "Huge Anchor",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 911,
+      "name": "Orichalcum Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 5685,
+      "name": "Scuba Ranger Suit",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 5684,
+      "name": "Scuba Ranger Tank",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 5683,
+      "name": "Soda Swimsuit",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 5686,
+      "name": "Yuveria",
+      "type_id": 220,
+      "type_label": "[Enhancer Crysta (Green)]"
+    },
+    {
+      "id": 5682,
+      "name": "Yuveria's Huge Claw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

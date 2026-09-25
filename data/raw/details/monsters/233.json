@@ -1,0 +1,46 @@
+{
+  "id": 233,
+  "name": "Arborgon",
+  "level": 39,
+  "map_id": 71,
+  "map_name": "Harde Hill",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 27,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 615,
+      "name": "High-Quality Wood Arrow",
+      "type_id": 7,
+      "type_label": "[Arrow]"
+    },
+    {
+      "id": 2769,
+      "name": "Strange Egg",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 613,
+      "name": "Tree Dragon Bark",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 614,
+      "name": "Tree Dragon Branch",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

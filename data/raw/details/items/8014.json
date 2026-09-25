@@ -1,0 +1,14 @@
+{
+  "id": 8014,
+  "name": "Gelatinous Umbrella",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 28,
+  "process": 4,
+  "process_amount": 28,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

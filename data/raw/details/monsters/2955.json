@@ -1,0 +1,52 @@
+{
+  "id": 2955,
+  "name": "Charugon",
+  "level": 275,
+  "map_id": 525,
+  "map_name": "Boma Konda: Underground Area",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "Normal",
+  "hp": 19100000,
+  "exp": 76600,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7037,
+      "name": "Burnt Wood Board",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7045,
+      "name": "Charugon",
+      "type_id": 200,
+      "type_label": "[Enhancer Crysta (Blue)]"
+    },
+    {
+      "id": 7044,
+      "name": "Dragon Slasher",
+      "type_id": 5,
+      "type_label": "[2 Handed Sword]"
+    },
+    {
+      "id": 7036,
+      "name": "Hot Dragon Scale",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7043,
+      "name": "Inferno Sac",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

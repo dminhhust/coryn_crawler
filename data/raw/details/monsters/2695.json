@@ -1,0 +1,46 @@
+{
+  "id": 2695,
+  "name": "Arena Lv240 Entry (7th Anniv)",
+  "level": 0,
+  "map_id": 479,
+  "map_name": "Anniversary Arena: 7th Venue",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": -1,
+  "element_id": -1,
+  "element_label": "Unknown",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6367,
+      "name": "Golpom 7th Anniv Medal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5661,
+      "name": "Memorial Cloth",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6489,
+      "name": "Regera VI",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 6488,
+      "name": "Revita VIII",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

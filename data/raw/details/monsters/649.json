@@ -1,0 +1,52 @@
+{
+  "id": 649,
+  "name": "Boss Colon",
+  "level": 50,
+  "map_id": 2,
+  "map_name": "Land Under Development",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Ultimate",
+  "hp": 10000,
+  "exp": 300,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 282,
+      "name": "Boss Colon",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 22,
+      "name": "Boss Colon Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 48,
+      "name": "Colon Leaf",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 455,
+      "name": "Colon Met",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 268,
+      "name": "Sofya City",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

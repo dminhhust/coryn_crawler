@@ -1,0 +1,57 @@
+{
+  "id": 8130,
+  "name": "Big Ninjutsu Scroll",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 142,
+  "process": 2,
+  "process_amount": 71,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 226,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 19,
+      "effect_name": "MaxMP",
+      "amount": 300,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 21,
+      "effect_name": "ATK %",
+      "amount": 10,
+      "applies_to": 524288
+    },
+    {
+      "effect_id": 23,
+      "effect_name": "MATK %",
+      "amount": 10,
+      "applies_to": 524288
+    },
+    {
+      "effect_id": 39,
+      "effect_name": "CSPD",
+      "amount": 900,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 42,
+      "effect_name": "Critical Rate %",
+      "amount": 100,
+      "applies_to": 524288
+    },
+    {
+      "effect_id": 68,
+      "effect_name": "Attack MP Recovery",
+      "amount": 6,
+      "applies_to": 0
+    }
+  ]
+}

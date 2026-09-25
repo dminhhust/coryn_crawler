@@ -1,0 +1,70 @@
+{
+  "id": 613,
+  "name": "Imitacia",
+  "level": 129,
+  "map_id": 161,
+  "map_name": "Dark Castle: Grand Hall",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Nightmare",
+  "hp": 3600000,
+  "exp": 40750,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2028,
+      "name": "Copied Goddess's Cloth",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2026,
+      "name": "Copied Goddess's Helm Fragment",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2025,
+      "name": "Copied Goddess's Robe",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2031,
+      "name": "Fortistra",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 2029,
+      "name": "Goddess's Dagger",
+      "type_id": 11,
+      "type_label": "[Dagger]"
+    },
+    {
+      "id": 2027,
+      "name": "Goddess's Jewel",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2030,
+      "name": "Grecia Mask",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 2032,
+      "name": "Imitacia",
+      "type_id": 21,
+      "type_label": "[Weapon Crysta]"
+    }
+  ]
+}

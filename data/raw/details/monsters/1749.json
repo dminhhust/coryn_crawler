@@ -1,0 +1,46 @@
+{
+  "id": 1749,
+  "name": "Mille",
+  "level": 155,
+  "map_id": 302,
+  "map_name": "Eryldan Street: Area 2",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 16000,
+  "exp": 396,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4064,
+      "name": "Cilantro",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4065,
+      "name": "Explorer Canteen",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 4062,
+      "name": "Fluffy Soft Fur",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4063,
+      "name": "Racket Tail",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 3101,
+  "name": "Hallorant",
+  "level": 181,
+  "map_id": 548,
+  "map_name": "Risus Valley: Area 3",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 25040,
+  "exp": 350,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7399,
+      "name": "Cheeky Tongue",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7401,
+      "name": "Leafie Gummy",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 7400,
+      "name": "Rattie Cookie",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 7388,
+      "name": "Vampire Hat",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

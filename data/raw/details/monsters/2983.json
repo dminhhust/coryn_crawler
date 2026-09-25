@@ -1,0 +1,46 @@
+{
+  "id": 2983,
+  "name": "DX Fighter (Fighter)",
+  "level": 90,
+  "map_id": 527,
+  "map_name": "Eagle Talon Collab Venue",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 330000,
+  "exp": 3800,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 242,
+      "name": "Damascus Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 5913,
+      "name": "DX Fighter",
+      "type_id": 22,
+      "type_label": "[Armor Crysta]"
+    },
+    {
+      "id": 7084,
+      "name": "Hero's Rag",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 902,
+      "name": "Revita IV",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

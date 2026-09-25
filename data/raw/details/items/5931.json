@@ -1,0 +1,39 @@
+{
+  "id": 5931,
+  "name": "Santa Hooded Cape",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 180,
+  "process": 4,
+  "process_amount": 90,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 105,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 61,
+      "effect_name": "Aggro %",
+      "amount": -15,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 68,
+      "effect_name": "Attack MP Recovery",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 158,
+      "effect_name": "ATK UP (DEX %)",
+      "amount": 50,
+      "applies_to": 0
+    }
+  ]
+}

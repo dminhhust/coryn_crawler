@@ -1,0 +1,14 @@
+{
+  "id": 8217,
+  "name": "Pirate Cave Stone",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 26,
+  "process": 3,
+  "process_amount": 26,
+  "meta": {
+    "badge": "Summer Event 2025",
+    "note": ""
+  },
+  "stats": []
+}

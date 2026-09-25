@@ -1,0 +1,39 @@
+{
+  "id": 6449,
+  "name": "7th Anniv Knuckles V",
+  "type_id": 13,
+  "type_label": "[Knuckles]",
+  "sell": 210,
+  "process": 3,
+  "process_amount": 105,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 256,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 90,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 113,
+      "effect_name": "Potential",
+      "amount": 49,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 211,
+      "effect_name": "Attack Range (m)",
+      "amount": 1,
+      "applies_to": 0
+    }
+  ]
+}

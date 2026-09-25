@@ -1,0 +1,58 @@
+{
+  "id": 1051,
+  "name": "Super Death Mushroom",
+  "level": 150,
+  "map_id": 200,
+  "map_name": "Monster's Forest: Animal Trail",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 24871,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 436,
+      "name": "Adventurer's Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 2613,
+      "name": "Death Truffle",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 2585,
+      "name": "Mushroom Venom",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2586,
+      "name": "Mysterious Mushroom",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 2625,
+      "name": "Super Costero",
+      "type_id": 15,
+      "type_label": "[Magic Device]"
+    },
+    {
+      "id": 2603,
+      "name": "Super Death Mushroom",
+      "type_id": 220,
+      "type_label": "[Enhancer Crysta (Green)]"
+    }
+  ]
+}

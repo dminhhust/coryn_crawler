@@ -1,0 +1,46 @@
+{
+  "id": 2419,
+  "name": "Horsenex",
+  "level": 170,
+  "map_id": 414,
+  "map_name": "Underwater Canyon: Area 1",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 49000,
+  "exp": 939,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": true,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5678,
+      "name": "HP+700",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 5679,
+      "name": "Moist Moustache",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5680,
+      "name": "Salty Rope",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5673,
+      "name": "Seabed Crystal Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

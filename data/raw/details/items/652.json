@@ -1,0 +1,33 @@
+{
+  "id": 652,
+  "name": "Power Knife",
+  "type_id": 11,
+  "type_label": "[Dagger]",
+  "sell": -1,
+  "process": 0,
+  "process_amount": -1,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 8,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 3,
+      "effect_name": "STR",
+      "amount": 2,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 73,
+      "effect_name": "Weapon ATK",
+      "amount": 4,
+      "applies_to": 0
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 3017,
+  "name": "Cryophin",
+  "level": 234,
+  "map_id": 531,
+  "map_name": "Frozen Falls: Area 3",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 55500,
+  "exp": 860,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7109,
+      "name": "Aurora Sash",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 7108,
+      "name": "Frozen Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7107,
+      "name": "Ice Crystal Tail",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7106,
+      "name": "Smooth Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

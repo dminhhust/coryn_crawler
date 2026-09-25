@@ -1,0 +1,52 @@
+{
+  "id": 1742,
+  "name": "Grimuckus",
+  "level": 195,
+  "map_id": 300,
+  "map_name": "Wazeero Street",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 30240,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4061,
+      "name": "Grimuckus",
+      "type_id": 24,
+      "type_label": "[Special Crysta]"
+    },
+    {
+      "id": 816,
+      "name": "Mithril Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 4060,
+      "name": "Mortal Katar",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    },
+    {
+      "id": 4054,
+      "name": "Wazeero Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4053,
+      "name": "Weird Blob",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

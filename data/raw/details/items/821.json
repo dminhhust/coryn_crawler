@@ -1,0 +1,33 @@
+{
+  "id": 821,
+  "name": "Philosopher's Ring",
+  "type_id": 18,
+  "type_label": "[Special]",
+  "sell": 25,
+  "process": 6,
+  "process_amount": 12,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 6,
+      "effect_name": "INT %",
+      "amount": 3,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 19,
+      "effect_name": "MaxMP",
+      "amount": 300,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 40,
+      "effect_name": "CSPD %",
+      "amount": 30,
+      "applies_to": 0
+    }
+  ]
+}

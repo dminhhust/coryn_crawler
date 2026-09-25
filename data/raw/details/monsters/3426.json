@@ -1,0 +1,21 @@
+{
+  "id": 3426,
+  "name": "Supreme Evil Crystal Beast",
+  "level": 299,
+  "map_id": 668,
+  "map_name": "Lixaro Ghost Town: Mansion",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Hard",
+  "hp": 0,
+  "exp": 0,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": []
+}

@@ -1,0 +1,46 @@
+{
+  "id": 437,
+  "name": "Gramp",
+  "level": 79,
+  "map_id": 124,
+  "map_name": "Abyss of No Return: Area 3",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 178,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1459,
+      "name": "Crystal Wand",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    },
+    {
+      "id": 1457,
+      "name": "Magic Charged Branch",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1456,
+      "name": "Old Wood",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1458,
+      "name": "Tree Spirit Soul",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

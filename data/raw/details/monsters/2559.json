@@ -1,0 +1,46 @@
+{
+  "id": 2559,
+  "name": "Black Shadow (Megiston 2021)",
+  "level": 210,
+  "map_id": 87,
+  "map_name": "Event",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 1000000,
+  "exp": 27000,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5251,
+      "name": "Black Shadow",
+      "type_id": 200,
+      "type_label": "[Enhancer Crysta (Blue)]"
+    },
+    {
+      "id": 5275,
+      "name": "Black Shadow Crossbow",
+      "type_id": 10,
+      "type_label": "[Bowgun]"
+    },
+    {
+      "id": 5276,
+      "name": "Black Shadow Nodachi",
+      "type_id": 27,
+      "type_label": "[Katana]"
+    },
+    {
+      "id": 5279,
+      "name": "Black Shadow Talon",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

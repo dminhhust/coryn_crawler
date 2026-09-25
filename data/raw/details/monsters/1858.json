@@ -1,0 +1,46 @@
+{
+  "id": 1858,
+  "name": "Corroded Floragonet",
+  "level": 163,
+  "map_id": 318,
+  "map_name": "Fractum Sector: Area 3",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 20000,
+  "exp": 471,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4293,
+      "name": "Corroded Stem",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4294,
+      "name": "Flugel",
+      "type_id": 15,
+      "type_label": "[Magic Device]"
+    },
+    {
+      "id": 4287,
+      "name": "Horn-Like Bud",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4292,
+      "name": "Mutated Plant Thorn",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

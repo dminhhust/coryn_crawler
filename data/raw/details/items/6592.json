@@ -1,0 +1,14 @@
+{
+  "id": 6592,
+  "name": "Grilled Eggplant",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": -1,
+  "process": 5,
+  "process_amount": -1,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

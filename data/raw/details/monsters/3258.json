@@ -1,0 +1,46 @@
+{
+  "id": 3258,
+  "name": "Brakz",
+  "level": 257,
+  "map_id": 616,
+  "map_name": "Umidus Valley: Area 1",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 61300,
+  "exp": 918,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7966,
+      "name": "Erde Sword",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    },
+    {
+      "id": 7963,
+      "name": "Shadow Fur",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7965,
+      "name": "Thick Stinger Tail",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7964,
+      "name": "Umidus Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

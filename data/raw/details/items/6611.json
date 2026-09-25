@@ -1,0 +1,39 @@
+{
+  "id": 6611,
+  "name": "Dark Shaman Talisman",
+  "type_id": 18,
+  "type_label": "[Special]",
+  "sell": 122,
+  "process": 1,
+  "process_amount": 61,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 0,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 19,
+      "effect_name": "MaxMP",
+      "amount": 800,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 39,
+      "effect_name": "CSPD",
+      "amount": 200,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 61,
+      "effect_name": "Aggro %",
+      "amount": -50,
+      "applies_to": 0
+    }
+  ]
+}

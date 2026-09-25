@@ -1,0 +1,14 @@
+{
+  "id": 3733,
+  "name": "Glossy Black Leather",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 17,
+  "process": 4,
+  "process_amount": 18,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

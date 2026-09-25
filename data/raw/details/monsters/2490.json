@@ -1,0 +1,46 @@
+{
+  "id": 2490,
+  "name": "Confeito",
+  "level": 159,
+  "map_id": 441,
+  "map_name": "Noeliel Castle: B1F (150-170)",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 412,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5935,
+      "name": "Dull Crest",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4957,
+      "name": "Life Essence",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 4450,
+      "name": "Perilous Essence",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5932,
+      "name": "Santa Skirt",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

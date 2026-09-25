@@ -1,0 +1,21 @@
+{
+  "id": 298,
+  "name": "Strum Road Relic Box",
+  "level": 0,
+  "map_id": 23,
+  "map_name": "Strum Road",
+  "type_code": "C",
+  "type_label": "NPC",
+  "mode": "Normal",
+  "hp": 0,
+  "exp": 0,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": []
+}

@@ -1,0 +1,46 @@
+{
+  "id": 172,
+  "name": "Rutiro",
+  "level": 38,
+  "map_id": 50,
+  "map_name": "Aulada Ancient Tower",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 1530,
+  "exp": 52,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 8,
+      "name": "Aulada Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 99,
+      "name": "Hard Dragon Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 492,
+      "name": "Hunter's Quiver",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 120,
+      "name": "Little Wyvern Wing",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

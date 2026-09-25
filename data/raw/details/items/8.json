@@ -1,0 +1,14 @@
+{
+  "id": 8,
+  "name": "Aulada Stone",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 7,
+  "process": 3,
+  "process_amount": 8,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": 4178,
+  "name": "Magical Meat Pie",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 15,
+  "process": 5,
+  "process_amount": 15,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 79,
+      "effect_name": "HP",
+      "amount": 3000,
+      "applies_to": 0
+    }
+  ]
+}

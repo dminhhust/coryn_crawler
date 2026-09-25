@@ -1,0 +1,46 @@
+{
+  "id": 2181,
+  "name": "Shroonymon",
+  "level": 168,
+  "map_id": 380,
+  "map_name": "Celarra Plateau",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 11000,
+  "exp": 180,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5060,
+      "name": "Amber Charm",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 5058,
+      "name": "Deformed Mushroom",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 5059,
+      "name": "Mellow Mushroom",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 5057,
+      "name": "Mushroom Log Piece",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

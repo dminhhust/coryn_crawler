@@ -1,0 +1,46 @@
+{
+  "id": 425,
+  "name": "Koza",
+  "level": 63,
+  "map_id": 121,
+  "map_name": "Dunkel Valley",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 71,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1434,
+      "name": "Goat Fur",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1436,
+      "name": "Hard Hoof",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1435,
+      "name": "Heated Horn",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1437,
+      "name": "Knapsack",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

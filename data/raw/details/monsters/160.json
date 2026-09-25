@@ -1,0 +1,52 @@
+{
+  "id": 160,
+  "name": "Soldier Rat",
+  "level": 30,
+  "map_id": 46,
+  "map_name": "Scaro Town: Area 1",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 1100,
+  "exp": 44,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2119,
+      "name": "Bardiche",
+      "type_id": 26,
+      "type_label": "[Halberd]"
+    },
+    {
+      "id": 60,
+      "name": "Dented Little Helmet",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 470,
+      "name": "Forehead Protector",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 244,
+      "name": "Iron",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 198,
+      "name": "Small Hilt",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

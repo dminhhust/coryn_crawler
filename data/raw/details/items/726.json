@@ -1,0 +1,27 @@
+{
+  "id": 726,
+  "name": "Warrior's Bangle",
+  "type_id": 18,
+  "type_label": "[Special]",
+  "sell": 10,
+  "process": 3,
+  "process_amount": 11,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 17,
+      "effect_name": "MaxHP",
+      "amount": 200,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 68,
+      "effect_name": "Attack MP Recovery",
+      "amount": 3,
+      "applies_to": 0
+    }
+  ]
+}

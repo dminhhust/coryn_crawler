@@ -1,0 +1,40 @@
+{
+  "id": 2217,
+  "name": "Eroded Pilz (Megiston 2020)",
+  "level": 180,
+  "map_id": 87,
+  "map_name": "Event",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 3000000,
+  "exp": 15000,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4129,
+      "name": "Eroded Pilz",
+      "type_id": 22,
+      "type_label": "[Armor Crysta]"
+    },
+    {
+      "id": 5187,
+      "name": "Eroded Rebellion",
+      "type_id": 26,
+      "type_label": "[Halberd]"
+    },
+    {
+      "id": 5193,
+      "name": "Eroded Strahl",
+      "type_id": 9,
+      "type_label": "[Bow]"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 343,
+  "name": "Glow Ray",
+  "level": 62,
+  "map_id": 101,
+  "map_name": "Gate to Another World: Area 2",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 5600,
+  "exp": 125,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1144,
+      "name": "Outer World Tail",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1143,
+      "name": "Ray Fin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1145,
+      "name": "Steel Leaf Bow",
+      "type_id": 9,
+      "type_label": "[Bow]"
+    },
+    {
+      "id": 1142,
+      "name": "Vivid Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

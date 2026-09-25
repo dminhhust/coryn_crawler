@@ -1,0 +1,46 @@
+{
+  "id": 302,
+  "name": "Flying Quartz",
+  "level": 44,
+  "map_id": 89,
+  "map_name": "Ethos Fortress",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 1400,
+  "exp": 42,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1040,
+      "name": "Blue Crystal Fragment",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1027,
+      "name": "Crystal Powder",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1041,
+      "name": "Ethos Fortress",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1042,
+      "name": "Ice Crystal Ring",
+      "type_id": 18,
+      "type_label": "[Special]"
+    }
+  ]
+}

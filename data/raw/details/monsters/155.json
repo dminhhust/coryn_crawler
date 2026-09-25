@@ -1,0 +1,46 @@
+{
+  "id": 155,
+  "name": "Coryn",
+  "level": 19,
+  "map_id": 45,
+  "map_name": "Douce Hamlet",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 250,
+  "exp": 11,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 245,
+      "name": "Apple",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 468,
+      "name": "Flower Headband",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 159,
+      "name": "Plant Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 240,
+      "name": "Young Branch",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

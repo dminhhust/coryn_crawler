@@ -1,0 +1,14 @@
+{
+  "id": 7159,
+  "name": "Puerta Stone",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 25,
+  "process": 3,
+  "process_amount": 26,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

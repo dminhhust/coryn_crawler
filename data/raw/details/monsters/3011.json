@@ -1,0 +1,46 @@
+{
+  "id": 3011,
+  "name": "Mycelia",
+  "level": 233,
+  "map_id": 529,
+  "map_name": "Frozen Falls: Area 1",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 45900,
+  "exp": 698,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7112,
+      "name": "Crimson Glow Sphere",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7110,
+      "name": "Geometric Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7113,
+      "name": "Luxurie Sword",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    },
+    {
+      "id": 7111,
+      "name": "Strange Stalk",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 3339,
+  "name": "Maple Fox",
+  "level": 201,
+  "map_id": 641,
+  "map_name": "Madeleine Plains",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "",
+  "hp": 22250,
+  "exp": 270,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": true,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 803,
+      "name": "Fox Fur",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 8090,
+      "name": "Fox Sugar Candy",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 8091,
+      "name": "Fragrant Fox Furnace",
+      "type_id": 18,
+      "type_label": "[Special]"
+    },
+    {
+      "id": 8089,
+      "name": "Maple Berry",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

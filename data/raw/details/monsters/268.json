@@ -1,0 +1,70 @@
+{
+  "id": 268,
+  "name": "Orb Items",
+  "level": 0,
+  "map_id": 85,
+  "map_name": "Orb Shop",
+  "type_code": "O",
+  "type_label": "Orb Shop",
+  "mode": "Normal",
+  "hp": 0,
+  "exp": 0,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 419,
+      "name": "Extraction Crysta",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 385,
+      "name": "Libera's Book",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 380,
+      "name": "Life Potion",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 381,
+      "name": "Mana Potion",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 418,
+      "name": "Reset Book",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 382,
+      "name": "Revive Droplet",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 378,
+      "name": "Training Book",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 386,
+      "name": "Virgo's Book",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

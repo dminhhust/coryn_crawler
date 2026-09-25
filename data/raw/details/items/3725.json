@@ -1,0 +1,39 @@
+{
+  "id": 3725,
+  "name": "Lop Eared Hat",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 65,
+  "process": 4,
+  "process_amount": 32,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 120,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 44,
+      "effect_name": "Critical Damage %",
+      "amount": 1,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 61,
+      "effect_name": "Aggro %",
+      "amount": -10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 70,
+      "effect_name": "Long Range Damage %",
+      "amount": 3,
+      "applies_to": 0
+    }
+  ]
+}

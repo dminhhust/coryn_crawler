@@ -1,0 +1,46 @@
+{
+  "id": 1939,
+  "name": "Shell Mask",
+  "level": 75,
+  "map_id": 338,
+  "map_name": "Sweet Hades",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 150,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": true,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4413,
+      "name": "Chocolate Leaf Talisman",
+      "type_id": 18,
+      "type_label": "[Special]"
+    },
+    {
+      "id": 1448,
+      "name": "Growing Root",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1450,
+      "name": "Hard Leaf",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4412,
+      "name": "Sweet Leaf",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

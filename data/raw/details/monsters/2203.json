@@ -1,0 +1,64 @@
+{
+  "id": 2203,
+  "name": "Dirty Antique",
+  "level": 0,
+  "map_id": 88,
+  "map_name": "-",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 0,
+  "exp": 0,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1383,
+      "name": "Antique Knife",
+      "type_id": 11,
+      "type_label": "[Dagger]"
+    },
+    {
+      "id": 1385,
+      "name": "Broken Watch",
+      "type_id": 18,
+      "type_label": "[Special]"
+    },
+    {
+      "id": 1382,
+      "name": "Dust Gemstone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1384,
+      "name": "Handless Watch",
+      "type_id": 18,
+      "type_label": "[Special]"
+    },
+    {
+      "id": 1386,
+      "name": "Magic Arrow",
+      "type_id": 7,
+      "type_label": "[Arrow]"
+    },
+    {
+      "id": 1387,
+      "name": "Ribbon Charm",
+      "type_id": 15,
+      "type_label": "[Magic Device]"
+    },
+    {
+      "id": 1426,
+      "name": "Time Warp Watch",
+      "type_id": 18,
+      "type_label": "[Special]"
+    }
+  ]
+}

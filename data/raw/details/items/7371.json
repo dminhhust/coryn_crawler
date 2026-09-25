@@ -1,0 +1,21 @@
+{
+  "id": 7371,
+  "name": "Boiled Lobster",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 26,
+  "process": 5,
+  "process_amount": 26,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 17,
+      "effect_name": "MaxHP",
+      "amount": 5000,
+      "applies_to": 0
+    }
+  ]
+}

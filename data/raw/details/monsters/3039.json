@@ -1,0 +1,46 @@
+{
+  "id": 3039,
+  "name": "Dakinia",
+  "level": 237,
+  "map_id": 536,
+  "map_name": "Puerta Islands: Area 3",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 61674,
+  "exp": 958,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7156,
+      "name": "Glowing Petal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7155,
+      "name": "Peach Leaf",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7154,
+      "name": "Peach Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7157,
+      "name": "Sharp Baghnakhs",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 3201,
+  "name": "[Book of Magic Warrior]",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 1000,
+  "process": 0,
+  "process_amount": 0,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 183,
+      "effect_name": "Learn Magic Blade Skill Lv1",
+      "amount": 1,
+      "applies_to": 0
+    }
+  ]
+}

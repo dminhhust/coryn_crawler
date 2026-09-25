@@ -1,0 +1,14 @@
+{
+  "id": 5387,
+  "name": "Broken Yozakura Twig",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 19,
+  "process": 2,
+  "process_amount": 18,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

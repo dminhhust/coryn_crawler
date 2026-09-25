@@ -1,0 +1,21 @@
+{
+  "id": 267,
+  "name": "Soda Water",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 8,
+  "process": 5,
+  "process_amount": 9,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 80,
+      "effect_name": "MP",
+      "amount": 6,
+      "applies_to": 0
+    }
+  ]
+}

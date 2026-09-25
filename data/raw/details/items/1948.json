@@ -1,0 +1,21 @@
+{
+  "id": 1948,
+  "name": "Stimulant",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 13,
+  "process": 5,
+  "process_amount": 12,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 80,
+      "effect_name": "MP",
+      "amount": 50,
+      "applies_to": 0
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": 3691,
+  "name": "Sakura Stole",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 150,
+  "process": 6,
+  "process_amount": 350,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 80,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 19,
+      "effect_name": "MaxMP",
+      "amount": 600,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 33,
+      "effect_name": "Accuracy",
+      "amount": 30,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 56,
+      "effect_name": "Dark resistance %",
+      "amount": 15,
+      "applies_to": 0
+    }
+  ]
+}

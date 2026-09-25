@@ -1,0 +1,46 @@
+{
+  "id": 1597,
+  "name": "Ice Stinger",
+  "level": 150,
+  "map_id": 292,
+  "map_name": "Elf Mountains: Area 3",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 20000,
+  "exp": 376,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3736,
+      "name": "Cold Scissors",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3738,
+      "name": "Ice Scorpion Eyes",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3737,
+      "name": "Scorpion Venom",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3739,
+      "name": "Tenebrosity Bow",
+      "type_id": 9,
+      "type_label": "[Bow]"
+    }
+  ]
+}

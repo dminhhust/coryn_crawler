@@ -1,0 +1,52 @@
+{
+  "id": 1302,
+  "name": "Amoeba Machina",
+  "level": 158,
+  "map_id": 213,
+  "map_name": "Ultimea Sewer: Southeast",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 29000,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3172,
+      "name": "Amoeba Machina",
+      "type_id": 200,
+      "type_label": "[Enhancer Crysta (Blue)]"
+    },
+    {
+      "id": 3170,
+      "name": "Crooked Nucleic Acid",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3171,
+      "name": "Master's Tonfa",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    },
+    {
+      "id": 3169,
+      "name": "Mysterious Cube",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3168,
+      "name": "Soft Swollen Nail",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

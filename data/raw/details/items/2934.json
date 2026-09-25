@@ -1,0 +1,14 @@
+{
+  "id": 2934,
+  "name": "Machina Blood",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 16,
+  "process": 5,
+  "process_amount": 15,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

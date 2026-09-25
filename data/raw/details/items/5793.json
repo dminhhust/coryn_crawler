@@ -1,0 +1,39 @@
+{
+  "id": 5793,
+  "name": "Bullamius",
+  "type_id": 200,
+  "type_label": "[Enhancer Crysta (Blue)]",
+  "sell": -1,
+  "process": -1,
+  "process_amount": 0,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 19,
+      "effect_name": "MaxMP",
+      "amount": 250,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 21,
+      "effect_name": "ATK %",
+      "amount": 3,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 23,
+      "effect_name": "MATK %",
+      "amount": 3,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 148,
+      "effect_name": "Upgrade for",
+      "amount": 2243,
+      "applies_to": 0
+    }
+  ]
+}

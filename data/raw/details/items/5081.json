@@ -1,0 +1,14 @@
+{
+  "id": 5081,
+  "name": "Evil Spirit Crystal",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 28,
+  "process": 6,
+  "process_amount": 6,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

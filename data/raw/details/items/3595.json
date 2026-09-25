@@ -1,0 +1,39 @@
+{
+  "id": 3595,
+  "name": "Belt Eyepatch",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 67,
+  "process": 4,
+  "process_amount": 33,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 70,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 41,
+      "effect_name": "Critical Rate",
+      "amount": 5,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 61,
+      "effect_name": "Aggro %",
+      "amount": -10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 117,
+      "effect_name": "Unsheathe Attack %",
+      "amount": 5,
+      "applies_to": 0
+    }
+  ]
+}

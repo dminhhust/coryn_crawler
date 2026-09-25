@@ -1,0 +1,46 @@
+{
+  "id": 1066,
+  "name": "Assault Golem",
+  "level": 116,
+  "map_id": 208,
+  "map_name": "Lufenas Mansion: Entrance",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 19000,
+  "exp": 325,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2654,
+      "name": "Crimson Loincloth",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2655,
+      "name": "Hard Glass",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2656,
+      "name": "Metal Bowgun",
+      "type_id": 10,
+      "type_label": "[Bowgun]"
+    },
+    {
+      "id": 2653,
+      "name": "Tubular Part",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

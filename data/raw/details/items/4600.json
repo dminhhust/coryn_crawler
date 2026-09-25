@@ -1,0 +1,27 @@
+{
+  "id": 4600,
+  "name": "Bark Mail",
+  "type_id": 8,
+  "type_label": "[Armor]",
+  "sell": 180,
+  "process": 2,
+  "process_amount": 90,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 166,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 113,
+      "effect_name": "Potential",
+      "amount": 44,
+      "applies_to": 0
+    }
+  ]
+}

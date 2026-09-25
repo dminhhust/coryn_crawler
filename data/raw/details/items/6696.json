@@ -1,0 +1,45 @@
+{
+  "id": 6696,
+  "name": "Raptor Mask",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 110,
+  "process": 3,
+  "process_amount": 55,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 145,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 19,
+      "effect_name": "MaxMP",
+      "amount": 300,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 35,
+      "effect_name": "Dodge",
+      "amount": 100,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 60,
+      "effect_name": "Evasion Recharge %",
+      "amount": 50,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 158,
+      "effect_name": "ATK UP (DEX %)",
+      "amount": 50,
+      "applies_to": 0
+    }
+  ]
+}

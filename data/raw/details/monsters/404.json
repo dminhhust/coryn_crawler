@@ -1,0 +1,46 @@
+{
+  "id": 404,
+  "name": "Jelfy",
+  "level": 69,
+  "map_id": 115,
+  "map_name": "Teaus Hill",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 58,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1366,
+      "name": "Albero Shield",
+      "type_id": 17,
+      "type_label": "[Shield]"
+    },
+    {
+      "id": 1364,
+      "name": "Flabby Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1363,
+      "name": "Paralytic Tentacle",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1365,
+      "name": "Stagnant Rainwater",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

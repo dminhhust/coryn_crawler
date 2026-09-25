@@ -1,0 +1,14 @@
+{
+  "id": 7106,
+  "name": "Smooth Skin",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 23,
+  "process": 4,
+  "process_amount": 23,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

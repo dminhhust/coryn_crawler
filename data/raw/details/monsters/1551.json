@@ -1,0 +1,52 @@
+{
+  "id": 1551,
+  "name": "Handmade Cookie (Plain)",
+  "level": 100,
+  "map_id": 111,
+  "map_name": "El Scaro",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 870000,
+  "exp": 15000,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3623,
+      "name": "Fightwear",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 3620,
+      "name": "Handmade Cookie",
+      "type_id": 23,
+      "type_label": "[Additional Crysta]"
+    },
+    {
+      "id": 2687,
+      "name": "Magic Coarse Sugar",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 816,
+      "name": "Mithril Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 3619,
+      "name": "Quality Flour",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

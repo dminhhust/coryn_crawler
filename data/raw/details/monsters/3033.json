@@ -1,0 +1,46 @@
+{
+  "id": 3033,
+  "name": "Voda",
+  "level": 236,
+  "map_id": 534,
+  "map_name": "Puerta Islands: Area 1",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 70569,
+  "exp": 1109,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7158,
+      "name": "Moist Thin Fin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7160,
+      "name": "Moist Thin Wing",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7159,
+      "name": "Puerta Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7161,
+      "name": "White Viper",
+      "type_id": 27,
+      "type_label": "[Katana]"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 1539,
+  "name": "Destiny Cube",
+  "level": 143,
+  "map_id": 276,
+  "map_name": "Shrine of The Gods: Area 1",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 10000,
+  "exp": 348,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3589,
+      "name": "Cracked Cube Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3592,
+      "name": "Laurel Staff",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    },
+    {
+      "id": 3590,
+      "name": "Luminous Green Wing",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3591,
+      "name": "Shining Stone Monument",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

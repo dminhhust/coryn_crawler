@@ -1,0 +1,64 @@
+{
+  "id": 702,
+  "name": "Aranea",
+  "level": 110,
+  "map_id": 146,
+  "map_name": "Garden of Sublimation: Central Part",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Hard",
+  "hp": 760000,
+  "exp": 8800,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1840,
+      "name": "Aranea",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 1839,
+      "name": "Aranea Ore",
+      "type_id": 15,
+      "type_label": "[Magic Device]"
+    },
+    {
+      "id": 1837,
+      "name": "Aranea Silk",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1834,
+      "name": "Crystal Compound Eyes",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1836,
+      "name": "Crystal Spider Fang",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1835,
+      "name": "Crystal Spider Leg Shell",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1838,
+      "name": "Intruder",
+      "type_id": 26,
+      "type_label": "[Halberd]"
+    }
+  ]
+}

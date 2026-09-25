@@ -1,0 +1,46 @@
+{
+  "id": 1075,
+  "name": "Puppet Dragon",
+  "level": 116,
+  "map_id": 210,
+  "map_name": "Lufenas Mansion: Library",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 12000,
+  "exp": 250,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2660,
+      "name": "Big Button",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2661,
+      "name": "Felt Fabric",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2662,
+      "name": "Iron Bear Claw",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    },
+    {
+      "id": 2659,
+      "name": "Ragged Cotton",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

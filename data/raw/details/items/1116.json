@@ -1,0 +1,14 @@
+{
+  "id": 1116,
+  "name": "Grass Dragon's Petal",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 16,
+  "process": 2,
+  "process_amount": 16,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": 2946,
+  "name": "Chief BK Glove Bit",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 15,
+  "process": 3,
+  "process_amount": 15,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

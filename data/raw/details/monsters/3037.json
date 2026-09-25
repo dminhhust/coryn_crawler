@@ -1,0 +1,46 @@
+{
+  "id": 3037,
+  "name": "Vodre",
+  "level": 281,
+  "map_id": 535,
+  "map_name": "Puerta Islands: Area 2",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 67680,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7162,
+      "name": "Aquamarine Pearl",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7158,
+      "name": "Moist Thin Fin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7160,
+      "name": "Moist Thin Wing",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7163,
+      "name": "Vodre",
+      "type_id": 24,
+      "type_label": "[Special Crysta]"
+    }
+  ]
+}

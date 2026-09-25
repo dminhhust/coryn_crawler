@@ -1,0 +1,33 @@
+{
+  "id": 5272,
+  "name": "Scarecrow Marker",
+  "type_id": 18,
+  "type_label": "[Special]",
+  "sell": 180,
+  "process": 2,
+  "process_amount": 90,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 19,
+      "effect_name": "MaxMP",
+      "amount": 300,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 41,
+      "effect_name": "Critical Rate",
+      "amount": 15,
+      "applies_to": 1
+    },
+    {
+      "effect_id": 61,
+      "effect_name": "Aggro %",
+      "amount": 15,
+      "applies_to": 0
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": 146,
+  "name": "Goblin",
+  "level": 29,
+  "map_id": 42,
+  "map_name": "Zoktzda Ruins",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 1100,
+  "exp": 46,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 490,
+      "name": "Hunter Bowgun",
+      "type_id": 10,
+      "type_label": "[Bowgun]"
+    },
+    {
+      "id": 176,
+      "name": "Relic Scrap",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 221,
+      "name": "Torn Big Sack",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": 1874,
+  "name": "Santabby",
+  "level": 112,
+  "map_id": 321,
+  "map_name": "Joulu House: Center (Lv 110)",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 22000,
+  "exp": 461,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": true,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 243,
+      "name": "Hematite",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 4309,
+      "name": "Jingle Bells",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 1198,
+      "name": "White Petal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

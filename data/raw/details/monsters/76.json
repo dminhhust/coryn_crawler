@@ -1,0 +1,40 @@
+{
+  "id": 76,
+  "name": "Corda",
+  "level": 12,
+  "map_id": 21,
+  "map_name": "Debacky Channel",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 270,
+  "exp": 11,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 145,
+      "name": "Moss Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 170,
+      "name": "Rat Hair",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 238,
+      "name": "Woodchip",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

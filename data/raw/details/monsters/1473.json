@@ -1,0 +1,52 @@
+{
+  "id": 1473,
+  "name": "Cold Golem",
+  "level": 118,
+  "map_id": 269,
+  "map_name": "Noeliel Castle: Entrance (100-120)",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 15000,
+  "exp": 438,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3449,
+      "name": "Frozen Wood",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2064,
+      "name": "Fuel Pipe",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2662,
+      "name": "Iron Bear Claw",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    },
+    {
+      "id": 2656,
+      "name": "Metal Bowgun",
+      "type_id": 10,
+      "type_label": "[Bowgun]"
+    },
+    {
+      "id": 2653,
+      "name": "Tubular Part",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

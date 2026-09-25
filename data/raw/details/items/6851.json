@@ -1,0 +1,21 @@
+{
+  "id": 6851,
+  "name": "Leaf Cracker",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 18,
+  "process": 5,
+  "process_amount": 18,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 78,
+      "effect_name": "Prevents ailment once. Invalid against immobilization.",
+      "amount": 1,
+      "applies_to": 0
+    }
+  ]
+}

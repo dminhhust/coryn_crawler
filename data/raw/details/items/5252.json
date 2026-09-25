@@ -1,0 +1,33 @@
+{
+  "id": 5252,
+  "name": "Grim Reaper Scarecrow",
+  "type_id": 22,
+  "type_label": "[Armor Crysta]",
+  "sell": 1,
+  "process": 6,
+  "process_amount": 100,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 18,
+      "effect_name": "MaxHP %",
+      "amount": -30,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 61,
+      "effect_name": "Aggro %",
+      "amount": -15,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 70,
+      "effect_name": "Long Range Damage %",
+      "amount": 6,
+      "applies_to": 0
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 973,
+  "name": "Golem Guard",
+  "level": 109,
+  "map_id": 185,
+  "map_name": "Large Demi Machina Factory: Area 1",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 14000,
+  "exp": 319,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2451,
+      "name": "Broken Magazine",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2452,
+      "name": "Flame Gunpowder",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2450,
+      "name": "Huge Screw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2453,
+      "name": "Sombrero",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

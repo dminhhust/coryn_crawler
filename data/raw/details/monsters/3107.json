@@ -1,0 +1,64 @@
+{
+  "id": 3107,
+  "name": "Vintage Iron Box",
+  "level": 0,
+  "map_id": 88,
+  "map_name": "-",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 0,
+  "exp": 0,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7416,
+      "name": "Steel Helm",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 7415,
+      "name": "Steel Mail M",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 7414,
+      "name": "Steel Mail P",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 7419,
+      "name": "Steel Ring (Flash)",
+      "type_id": 18,
+      "type_label": "[Special]"
+    },
+    {
+      "id": 7418,
+      "name": "Steel Ring (Magic)",
+      "type_id": 18,
+      "type_label": "[Special]"
+    },
+    {
+      "id": 7417,
+      "name": "Steel Ring (Power)",
+      "type_id": 18,
+      "type_label": "[Special]"
+    },
+    {
+      "id": 7420,
+      "name": "Steel Ring (Resist)",
+      "type_id": 18,
+      "type_label": "[Special]"
+    }
+  ]
+}

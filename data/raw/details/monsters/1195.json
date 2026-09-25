@@ -1,0 +1,52 @@
+{
+  "id": 1195,
+  "name": "Wandering Wheel",
+  "level": 163,
+  "map_id": 236,
+  "map_name": "Ultimea Palace: Demi Machina Storage",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 20223,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 436,
+      "name": "Adventurer's Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 2941,
+      "name": "Heavy Wheel",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2944,
+      "name": "Magic Engine",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2942,
+      "name": "Sticky Wax",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2945,
+      "name": "Wandering Wheel",
+      "type_id": 230,
+      "type_label": "[Enhancer Crysta (Yellow)]"
+    }
+  ]
+}

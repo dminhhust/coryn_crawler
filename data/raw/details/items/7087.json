@@ -1,0 +1,21 @@
+{
+  "id": 7087,
+  "name": "Phillip's Pose",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 100,
+  "process": 0,
+  "process_amount": 0,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 208,
+      "effect_name": "Permanently unlock a unique emotion ",
+      "amount": 1,
+      "applies_to": 0
+    }
+  ]
+}

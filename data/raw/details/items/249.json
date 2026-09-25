@@ -1,0 +1,21 @@
+{
+  "id": 249,
+  "name": "Carrot",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 7,
+  "process": 5,
+  "process_amount": 7,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 79,
+      "effect_name": "HP",
+      "amount": 150,
+      "applies_to": 0
+    }
+  ]
+}

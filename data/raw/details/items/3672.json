@@ -1,0 +1,14 @@
+{
+  "id": 3672,
+  "name": "♪Boss Colon",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": -1,
+  "process": 5,
+  "process_amount": 10,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

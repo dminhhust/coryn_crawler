@@ -1,0 +1,46 @@
+{
+  "id": 945,
+  "name": "Kinote",
+  "level": 96,
+  "map_id": 179,
+  "map_name": "Peligro Landfill",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 3500,
+  "exp": 94,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2396,
+      "name": "Aromatic Leaf",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2395,
+      "name": "Fusty Wood Tip",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2398,
+      "name": "Phetor Hat",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 2397,
+      "name": "Stun Mushroom",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

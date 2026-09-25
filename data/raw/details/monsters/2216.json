@@ -1,0 +1,52 @@
+{
+  "id": 2216,
+  "name": "Gift Coryn",
+  "level": 0,
+  "map_id": 385,
+  "map_name": "Tomte Pavillion (170-190)",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": -1,
+  "element_id": -1,
+  "element_label": "Unknown",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5128,
+      "name": "Coryn's Present",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 5129,
+      "name": "Coryn's Present",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 5130,
+      "name": "Coryn's Present",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 5131,
+      "name": "Coryn's Present",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 5132,
+      "name": "Coryn's Present",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

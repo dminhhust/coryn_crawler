@@ -1,0 +1,33 @@
+{
+  "id": 3980,
+  "name": "4th Anniv Halberd II",
+  "type_id": 26,
+  "type_label": "[Halberd]",
+  "sell": 50,
+  "process": 3,
+  "process_amount": 25,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 88,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 60,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 113,
+      "effect_name": "Potential",
+      "amount": 23,
+      "applies_to": 0
+    }
+  ]
+}

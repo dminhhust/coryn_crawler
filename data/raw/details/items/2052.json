@@ -1,0 +1,14 @@
+{
+  "id": 2052,
+  "name": "Sharp Iron Feather",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 10,
+  "process": 3,
+  "process_amount": 10,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

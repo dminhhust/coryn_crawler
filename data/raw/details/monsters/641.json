@@ -1,0 +1,64 @@
+{
+  "id": 641,
+  "name": "Tapir",
+  "level": 120,
+  "map_id": 164,
+  "map_name": "Blazing Graben: Surface",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 781300,
+  "exp": 7800,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2073,
+      "name": "Delicious Fruit",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 2072,
+      "name": "Dreaming Bead",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2074,
+      "name": "Fortuita Vestibus",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 2071,
+      "name": "Super Fluffy Coat Bit",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2076,
+      "name": "Tapir",
+      "type_id": 240,
+      "type_label": "[Enhancer Crysta (Purple)]"
+    },
+    {
+      "id": 2070,
+      "name": "Tapir Fur",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2075,
+      "name": "Tapir Hood",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 6723,
+  "name": "Stamina Talisman VI",
+  "type_id": 18,
+  "type_label": "[Special]",
+  "sell": 125,
+  "process": 2,
+  "process_amount": 100,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 7,
+      "effect_name": "VIT",
+      "amount": 12,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 19,
+      "effect_name": "MaxMP",
+      "amount": 700,
+      "applies_to": 0
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 3247,
+  "name": "Kuffa",
+  "level": 182,
+  "map_id": 548,
+  "map_name": "Risus Valley: Area 3",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 28130,
+  "exp": 411,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7374,
+      "name": "Bat Candy",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 7376,
+      "name": "Bat Fang Arrow",
+      "type_id": 7,
+      "type_label": "[Arrow]"
+    },
+    {
+      "id": 7375,
+      "name": "Battie Scone",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 7373,
+      "name": "Flexible Patagium",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

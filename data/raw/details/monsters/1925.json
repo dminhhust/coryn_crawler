@@ -1,0 +1,46 @@
+{
+  "id": 1925,
+  "name": "Laurus",
+  "level": 164,
+  "map_id": 334,
+  "map_name": "Labilans Sector: Area 1",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 22000,
+  "exp": 432,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4385,
+      "name": "Katze Gloves",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    },
+    {
+      "id": 4384,
+      "name": "Lychee",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 4382,
+      "name": "Monster Plant Splinter",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4383,
+      "name": "Plant Tail",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

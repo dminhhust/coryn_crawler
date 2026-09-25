@@ -1,0 +1,33 @@
+{
+  "id": 1566,
+  "name": "Ear Muff",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 37,
+  "process": 4,
+  "process_amount": 18,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 24,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 19,
+      "effect_name": "MaxMP",
+      "amount": 300,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 34,
+      "effect_name": "Accuracy %",
+      "amount": 5,
+      "applies_to": 0
+    }
+  ]
+}

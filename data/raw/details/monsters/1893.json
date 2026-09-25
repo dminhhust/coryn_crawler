@@ -1,0 +1,40 @@
+{
+  "id": 1893,
+  "name": "Puppet Dragon",
+  "level": 160,
+  "map_id": 327,
+  "map_name": "Joulu House: Center (Lv 150)",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 20000,
+  "exp": 416,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": true,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4072,
+      "name": "Crescent Blade",
+      "type_id": 26,
+      "type_label": "[Halberd]"
+    },
+    {
+      "id": 3645,
+      "name": "Divine Metal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4317,
+      "name": "Gift Plushie",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

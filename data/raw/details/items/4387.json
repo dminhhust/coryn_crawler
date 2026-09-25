@@ -1,0 +1,14 @@
+{
+  "id": 4387,
+  "name": "Smooth Fine Hair",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 18,
+  "process": 1,
+  "process_amount": 17,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

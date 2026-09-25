@@ -1,0 +1,21 @@
+{
+  "id": 2278,
+  "name": "Smoked Cheese",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 14,
+  "process": 5,
+  "process_amount": 14,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 80,
+      "effect_name": "MP",
+      "amount": 50,
+      "applies_to": 0
+    }
+  ]
+}

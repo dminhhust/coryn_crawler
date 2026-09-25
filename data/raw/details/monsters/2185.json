@@ -1,0 +1,46 @@
+{
+  "id": 2185,
+  "name": "Fronymon",
+  "level": 181,
+  "map_id": 381,
+  "map_name": "Arche Valley: Area 1",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 25500,
+  "exp": 406,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5072,
+      "name": "Catafnia Sword",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    },
+    {
+      "id": 5069,
+      "name": "Frog's Tail",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5071,
+      "name": "Frosch Mushroom",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 5070,
+      "name": "Rubbery Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

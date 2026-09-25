@@ -1,0 +1,52 @@
+{
+  "id": 1454,
+  "name": "Frost Golem",
+  "level": 138,
+  "map_id": 263,
+  "map_name": "Noeliel Castle Entrance (120-140)",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 30000,
+  "exp": 513,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3450,
+      "name": "Cold Horn",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3452,
+      "name": "Elfin Sword",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    },
+    {
+      "id": 3451,
+      "name": "Freezing Air",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3449,
+      "name": "Frozen Wood",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3432,
+      "name": "Water Guardian Bow",
+      "type_id": 9,
+      "type_label": "[Bow]"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": 6485,
+  "name": "Mysterious Crystal",
+  "type_id": 240,
+  "type_label": "[Enhancer Crysta (Purple)]",
+  "sell": 1,
+  "process": 6,
+  "process_amount": 100,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 24,
+      "effect_name": "Stability %",
+      "amount": 5,
+      "applies_to": 16384
+    },
+    {
+      "effect_id": 68,
+      "effect_name": "Attack MP Recovery",
+      "amount": 5,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 117,
+      "effect_name": "Unsheathe Attack %",
+      "amount": 5,
+      "applies_to": 32768
+    },
+    {
+      "effect_id": 148,
+      "effect_name": "Upgrade for",
+      "amount": 297,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 273,
+      "effect_name": "Attack MP Recovery",
+      "amount": 5,
+      "applies_to": 131072
+    }
+  ]
+}

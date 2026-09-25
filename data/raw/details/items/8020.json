@@ -1,0 +1,14 @@
+{
+  "id": 8020,
+  "name": "Abyssal Katana",
+  "type_id": 27,
+  "type_label": "[Katana]",
+  "sell": 280,
+  "process": 1,
+  "process_amount": 140,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

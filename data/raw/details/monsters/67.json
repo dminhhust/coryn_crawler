@@ -1,0 +1,46 @@
+{
+  "id": 67,
+  "name": "Kijimu",
+  "level": 10,
+  "map_id": 19,
+  "map_name": "Athema Ruins: Area 1",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 130,
+  "exp": 6,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 78,
+      "name": "Flower Nectar",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 115,
+      "name": "Kijimu Splinter",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 175,
+      "name": "Red Petal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 263,
+      "name": "Rugio Ruins",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

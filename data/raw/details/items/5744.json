@@ -1,0 +1,27 @@
+{
+  "id": 5744,
+  "name": "Warrior Helm",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 7,
+  "process": 3,
+  "process_amount": 3,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 6,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 20,
+      "effect_name": "ATK",
+      "amount": 30,
+      "applies_to": 0
+    }
+  ]
+}

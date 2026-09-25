@@ -1,0 +1,46 @@
+{
+  "id": 2343,
+  "name": "Sumari",
+  "level": 181,
+  "map_id": 405,
+  "map_name": "Arche Valley: Area 2",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 22000,
+  "exp": 356,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5066,
+      "name": "Hat Brim",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5067,
+      "name": "Long Ear Hair",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5065,
+      "name": "Mysterious Fang",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5068,
+      "name": "Wind Slayer Chakram",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    }
+  ]
+}

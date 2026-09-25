@@ -1,0 +1,21 @@
+{
+  "id": 2087,
+  "name": "Grilled Lamb",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 13,
+  "process": 5,
+  "process_amount": 12,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 17,
+      "effect_name": "MaxHP",
+      "amount": 1250,
+      "applies_to": 0
+    }
+  ]
+}

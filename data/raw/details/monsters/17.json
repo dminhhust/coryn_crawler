@@ -1,0 +1,52 @@
+{
+  "id": 17,
+  "name": "Raffy",
+  "level": 1,
+  "map_id": 7,
+  "map_name": "Rakau Plains",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 80,
+  "exp": 1,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6,
+      "name": "Animal Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 446,
+      "name": "Bow",
+      "type_id": 9,
+      "type_label": "[Bow]"
+    },
+    {
+      "id": 80,
+      "name": "Fluffy Fur",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 543,
+      "name": "Ribbon",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 191,
+      "name": "Short Nail",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

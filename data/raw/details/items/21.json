@@ -1,0 +1,21 @@
+{
+  "id": 21,
+  "name": "Blue Gelatin",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 3,
+  "process": 5,
+  "process_amount": 3,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 80,
+      "effect_name": "MP",
+      "amount": 10,
+      "applies_to": 0
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 3445,
+  "name": "Seagel",
+  "level": 242,
+  "map_id": 679,
+  "map_name": "Pirates' Hideout: Area 2",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 54390,
+  "exp": -1,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "Summer Event 2025",
+    "note": ""
+  },
+  "drops": []
+}

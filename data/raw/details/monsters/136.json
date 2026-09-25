@@ -1,0 +1,40 @@
+{
+  "id": 136,
+  "name": "Red Jelly",
+  "level": 31,
+  "map_id": 38,
+  "map_name": "Fiery Volcano: Area 1",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 1000,
+  "exp": 40,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 38,
+      "name": "Burning Liquid",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 174,
+      "name": "Red Gelatin",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 543,
+      "name": "Ribbon",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": 6923,
+  "name": "Pink Orange Wicker Box",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 180,
+  "process": 2,
+  "process_amount": 90,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

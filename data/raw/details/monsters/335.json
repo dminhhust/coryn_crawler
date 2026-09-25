@@ -1,0 +1,40 @@
+{
+  "id": 335,
+  "name": "Kijimu",
+  "level": 50,
+  "map_id": 98,
+  "map_name": "Road to Another World: Area 1",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 3400,
+  "exp": 99,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1137,
+      "name": "Cold Sphere",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1135,
+      "name": "Outer World Crystal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1136,
+      "name": "Uncanny Hide",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

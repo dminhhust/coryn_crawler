@@ -1,0 +1,14 @@
+{
+  "id": 7166,
+  "name": "Frog Warrior Kung Fu Book",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 34,
+  "process": 5,
+  "process_amount": 34,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

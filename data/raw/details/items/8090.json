@@ -1,0 +1,14 @@
+{
+  "id": 8090,
+  "name": "Fox Sugar Candy",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 24,
+  "process": 5,
+  "process_amount": 24,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

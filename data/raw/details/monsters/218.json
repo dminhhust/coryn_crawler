@@ -1,0 +1,46 @@
+{
+  "id": 218,
+  "name": "Rotta Nemico",
+  "level": 45,
+  "map_id": 66,
+  "map_name": "Saham Underground Cave: B1",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 1500,
+  "exp": 66,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 9,
+      "name": "Bat Claw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 289,
+      "name": "Critical Rate+2",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 183,
+      "name": "Saham Crystal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 266,
+      "name": "Save Point",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

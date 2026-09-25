@@ -1,0 +1,46 @@
+{
+  "id": 528,
+  "name": "Aramia",
+  "level": 87,
+  "map_id": 145,
+  "map_name": "Garden of Sublimation: Area 3",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 11000,
+  "exp": 259,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1829,
+      "name": "Chipped Crystal Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1833,
+      "name": "Devil's Staff",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    },
+    {
+      "id": 1831,
+      "name": "Glossy Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1830,
+      "name": "Small Spider Silk",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

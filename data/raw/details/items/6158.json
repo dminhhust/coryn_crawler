@@ -1,0 +1,39 @@
+{
+  "id": 6158,
+  "name": "Apple Branch Dagger",
+  "type_id": 11,
+  "type_label": "[Dagger]",
+  "sell": 165,
+  "process": 2,
+  "process_amount": 82,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 126,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 38,
+      "effect_name": "ASPD %",
+      "amount": 5,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 47,
+      "effect_name": "% stronger against Wind",
+      "amount": 5,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 53,
+      "effect_name": "Wind resistance %",
+      "amount": 5,
+      "applies_to": 0
+    }
+  ]
+}

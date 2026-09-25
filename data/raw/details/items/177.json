@@ -1,0 +1,14 @@
+{
+  "id": 177,
+  "name": "Remnant of Ghost",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 5,
+  "process": 6,
+  "process_amount": 1,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

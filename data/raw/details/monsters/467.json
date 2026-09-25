@@ -1,0 +1,46 @@
+{
+  "id": 467,
+  "name": "Frosti",
+  "level": 79,
+  "map_id": 132,
+  "map_name": "Fort Solfini: Wall",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 11500,
+  "exp": 256,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1584,
+      "name": "Frozen Twig",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1582,
+      "name": "Ice Fragment",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1590,
+      "name": "La Lluvia",
+      "type_id": 15,
+      "type_label": "[Magic Device]"
+    },
+    {
+      "id": 1583,
+      "name": "Snow Crystal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

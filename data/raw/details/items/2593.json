@@ -1,0 +1,27 @@
+{
+  "id": 2593,
+  "name": "Emergency Food",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 15,
+  "process": 5,
+  "process_amount": 15,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 79,
+      "effect_name": "HP",
+      "amount": 500,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 84,
+      "effect_name": "HP %",
+      "amount": 5,
+      "applies_to": 0
+    }
+  ]
+}

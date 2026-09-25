@@ -1,0 +1,14 @@
+{
+  "id": 4052,
+  "name": "Green Slime",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 14,
+  "process": 5,
+  "process_amount": 14,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

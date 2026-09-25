@@ -1,0 +1,46 @@
+{
+  "id": 1777,
+  "name": "Elizard",
+  "level": 145,
+  "map_id": 306,
+  "map_name": "Forest of Ein",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 8500,
+  "exp": 178,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4102,
+      "name": "Climbing Claw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4104,
+      "name": "Fairy Hat",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 4101,
+      "name": "Green Frill-Ear",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4103,
+      "name": "Green Lemon",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

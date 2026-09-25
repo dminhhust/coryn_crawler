@@ -1,0 +1,46 @@
+{
+  "id": 75,
+  "name": "Blue Jelly (big)",
+  "level": 10,
+  "map_id": 21,
+  "map_name": "Debacky Channel",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 1060,
+  "exp": 43,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 21,
+      "name": "Blue Gelatin",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 180,
+      "name": "Resilient Jelly",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 543,
+      "name": "Ribbon",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 208,
+      "name": "Sticky Liquid",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

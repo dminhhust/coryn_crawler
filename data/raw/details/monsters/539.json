@@ -1,0 +1,46 @@
+{
+  "id": 539,
+  "name": "Infested Mushroom",
+  "level": 76,
+  "map_id": 147,
+  "map_name": "Trace of Dark River",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 124,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1869,
+      "name": "Black Mushroom Crystal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1868,
+      "name": "Darkness Mushroom",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1867,
+      "name": "Dried Twig",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 470,
+      "name": "Forehead Protector",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 1926,
+  "name": "Alpoca",
+  "level": 164,
+  "map_id": 335,
+  "map_name": "Labilans Sector: Area 2",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 35000,
+  "exp": 648,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4388,
+      "name": "Alpoca Fur",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4386,
+      "name": "Cushy Tail",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4387,
+      "name": "Smooth Fine Hair",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4389,
+      "name": "Trunk Backpack",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

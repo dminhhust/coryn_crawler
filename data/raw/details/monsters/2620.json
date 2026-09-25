@@ -1,0 +1,46 @@
+{
+  "id": 2620,
+  "name": "Cheru",
+  "level": 162,
+  "map_id": 465,
+  "map_name": "Sugar Plain",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 18000,
+  "exp": 339,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": true,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 816,
+      "name": "Mithril Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 6160,
+      "name": "Rainbow Feather Cape",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 4387,
+      "name": "Smooth Fine Hair",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6159,
+      "name": "Sparkly Cream",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

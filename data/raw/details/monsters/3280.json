@@ -1,0 +1,46 @@
+{
+  "id": 3280,
+  "name": "Crestollar",
+  "level": 253,
+  "map_id": 620,
+  "map_name": "Latum Wetlands",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 28400,
+  "exp": 447,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7997,
+      "name": "Brushy Tail Feather",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7999,
+      "name": "Joyful Arrow",
+      "type_id": 7,
+      "type_label": "[Arrow]"
+    },
+    {
+      "id": 7996,
+      "name": "Neck Ruff",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7998,
+      "name": "Slicked-Back Crest",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

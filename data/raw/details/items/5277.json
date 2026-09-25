@@ -1,0 +1,14 @@
+{
+  "id": 5277,
+  "name": "Scary Black Shadow Face",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 24,
+  "process": 2,
+  "process_amount": 24,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

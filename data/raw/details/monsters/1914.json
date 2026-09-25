@@ -1,0 +1,34 @@
+{
+  "id": 1914,
+  "name": "Omochi",
+  "level": 20,
+  "map_id": 87,
+  "map_name": "Event",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Hard",
+  "hp": 80000,
+  "exp": 600,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4357,
+      "name": "Omochi",
+      "type_id": 23,
+      "type_label": "[Additional Crysta]"
+    },
+    {
+      "id": 4356,
+      "name": "Zodiac Rat Box",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

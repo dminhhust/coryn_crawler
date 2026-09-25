@@ -1,0 +1,46 @@
+{
+  "id": 500,
+  "name": "Ghost Potum",
+  "level": 70,
+  "map_id": 137,
+  "map_name": "Garden of Beginning",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 2500,
+  "exp": 66,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1756,
+      "name": "ASPD+60",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 1505,
+      "name": "Filthy Bandage",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1506,
+      "name": "Potum's Soul",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1504,
+      "name": "Purification Salt",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

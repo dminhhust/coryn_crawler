@@ -1,0 +1,46 @@
+{
+  "id": 3438,
+  "name": "Danbit",
+  "level": 290,
+  "map_id": 672,
+  "map_name": "Wizka Forest",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 1235,
+  "element_id": -1,
+  "element_label": "Unknown",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "Update 03/26/26",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 8426,
+      "name": "Black Thunder Rabbit Claw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 8427,
+      "name": "Black Thunder Rabbit Ear",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 8458,
+      "name": "Floppy Ear Headband",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 8457,
+      "name": "Heated Epidermis",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

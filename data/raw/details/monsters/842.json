@@ -1,0 +1,46 @@
+{
+  "id": 842,
+  "name": "Cursed Magic Sword",
+  "level": 103,
+  "map_id": 171,
+  "map_name": "Singolare Ruins: 3rd Floor",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 210,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2283,
+      "name": "Cracked Sword Tip",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2284,
+      "name": "Crooked Blade",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2285,
+      "name": "Evil Blade",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2286,
+      "name": "Soldier Sword",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    }
+  ]
+}

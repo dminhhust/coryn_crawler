@@ -1,0 +1,14 @@
+{
+  "id": 4155,
+  "name": "Dark Red Fluid",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 21,
+  "process": 5,
+  "process_amount": 21,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

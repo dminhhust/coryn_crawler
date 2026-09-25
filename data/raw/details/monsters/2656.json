@@ -1,0 +1,46 @@
+{
+  "id": 2656,
+  "name": "Bubble Angel",
+  "level": 184,
+  "map_id": 471,
+  "map_name": "Celesa's Tree Garden",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 866,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": true,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 78,
+      "name": "Flower Nectar",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 6568,
+      "name": "Moonlight Shield II",
+      "type_id": 17,
+      "type_label": "[Shield]"
+    },
+    {
+      "id": 1063,
+      "name": "Sakuramochi",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 6037,
+      "name": "Yomogi Dango",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

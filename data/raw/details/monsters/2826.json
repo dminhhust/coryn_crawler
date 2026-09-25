@@ -1,0 +1,46 @@
+{
+  "id": 2826,
+  "name": "Illuminator",
+  "level": 179,
+  "map_id": 499,
+  "map_name": "Illuminare City: Route 1 (170-190)",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 750,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": true,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4614,
+      "name": "Gray Crystal Ore",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4613,
+      "name": "Mansion Cornerstone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6734,
+      "name": "Stolen Box (Green)",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6737,
+      "name": "Xmas Lights Hair Ornament",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

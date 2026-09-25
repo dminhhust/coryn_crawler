@@ -1,0 +1,46 @@
+{
+  "id": 349,
+  "name": "Outer World Wolf",
+  "level": 70,
+  "map_id": 101,
+  "map_name": "Gate to Another World: Area 2",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 4800,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1154,
+      "name": "Oracle Robe",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 1168,
+      "name": "Space Wolf Claw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1166,
+      "name": "Space Wolf Fur",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1167,
+      "name": "Space Wolf Horn",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

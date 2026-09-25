@@ -1,0 +1,70 @@
+{
+  "id": 2562,
+  "name": "Zega (Megiston 2021)",
+  "level": 240,
+  "map_id": 87,
+  "map_name": "Event",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 7880000,
+  "exp": 89800,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6003,
+      "name": "Beastlord Shield",
+      "type_id": 17,
+      "type_label": "[Shield]"
+    },
+    {
+      "id": 816,
+      "name": "Mithril Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 335,
+      "name": "Orichalcum",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 911,
+      "name": "Orichalcum Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 1699,
+      "name": "Revita Box",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 5183,
+      "name": "Zega Mask",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 5180,
+      "name": "Zega Onesie",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 5992,
+      "name": "Zega VI",
+      "type_id": 210,
+      "type_label": "[Enhancer Crysta (Red)]"
+    }
+  ]
+}

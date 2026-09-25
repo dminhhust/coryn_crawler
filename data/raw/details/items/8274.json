@@ -1,0 +1,45 @@
+{
+  "id": 8274,
+  "name": "Kunai in Mouth",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 1,
+  "process": 1,
+  "process_amount": 1,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 22,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 25,
+      "effect_name": "Physical Pierce %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 71,
+      "effect_name": "Motion Speed %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 234,
+      "effect_name": "Physical Pierce %",
+      "amount": -10,
+      "applies_to": 4
+    },
+    {
+      "effect_id": 235,
+      "effect_name": "Magic Pierce %",
+      "amount": 10,
+      "applies_to": 4
+    }
+  ]
+}

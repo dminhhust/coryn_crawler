@@ -1,0 +1,46 @@
+{
+  "id": 202,
+  "name": "Mage Marionette",
+  "level": 43,
+  "map_id": 61,
+  "map_name": "New Moon Palace: 2nd Chamber",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 3600,
+  "exp": 118,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 123,
+      "name": "Long Stone Stick",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 129,
+      "name": "Mage Stone Coin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 132,
+      "name": "Magic Marionette Heart",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 521,
+      "name": "Metal Wings",
+      "type_id": 15,
+      "type_label": "[Magic Device]"
+    }
+  ]
+}

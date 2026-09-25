@@ -1,0 +1,33 @@
+{
+  "id": 4229,
+  "name": "Cone Bow III",
+  "type_id": 9,
+  "type_label": "[Bow]",
+  "sell": 38,
+  "process": -1,
+  "process_amount": 38,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 159,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 60,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 113,
+      "effect_name": "Potential",
+      "amount": 41,
+      "applies_to": 0
+    }
+  ]
+}

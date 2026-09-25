@@ -1,0 +1,27 @@
+{
+  "id": 1595,
+  "name": "Don Yeti",
+  "type_id": 24,
+  "type_label": "[Special Crysta]",
+  "sell": 1,
+  "process": 6,
+  "process_amount": 2,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 20,
+      "effect_name": "ATK",
+      "amount": 100,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 37,
+      "effect_name": "ASPD",
+      "amount": -1000,
+      "applies_to": 0
+    }
+  ]
+}

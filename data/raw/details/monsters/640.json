@@ -1,0 +1,46 @@
+{
+  "id": 640,
+  "name": "Wooly",
+  "level": 96,
+  "map_id": 164,
+  "map_name": "Blazing Graben: Surface",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 188,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2088,
+      "name": "Adel Cape",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 2087,
+      "name": "Grilled Lamb",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 2086,
+      "name": "Hot Horn",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2085,
+      "name": "Stiff Fur",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": 29,
+  "name": "Broken Huge Mace",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 7,
+  "process": 3,
+  "process_amount": 7,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": 101,
+  "name": "Hard Stem",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 5,
+  "process": 2,
+  "process_amount": 6,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

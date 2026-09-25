@@ -1,0 +1,14 @@
+{
+  "id": 6128,
+  "name": "Dangerous Cnidoblast",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 24,
+  "process": 5,
+  "process_amount": 24,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

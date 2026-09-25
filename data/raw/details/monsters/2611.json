@@ -1,0 +1,64 @@
+{
+  "id": 2611,
+  "name": "Velum",
+  "level": 233,
+  "map_id": 464,
+  "map_name": "Arstida: Depth",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Hard",
+  "hp": 8520000,
+  "exp": 41200,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6136,
+      "name": "Broken Shell Membrane",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6140,
+      "name": "Eradicator Bayonet",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    },
+    {
+      "id": 6141,
+      "name": "Eradicator Shield",
+      "type_id": 17,
+      "type_label": "[Shield]"
+    },
+    {
+      "id": 6137,
+      "name": "Spherical Carapace",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6139,
+      "name": "Velum",
+      "type_id": 210,
+      "type_label": "[Enhancer Crysta (Red)]"
+    },
+    {
+      "id": 6142,
+      "name": "Velum's Armor",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6138,
+      "name": "Velum's Crystal Reactor",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

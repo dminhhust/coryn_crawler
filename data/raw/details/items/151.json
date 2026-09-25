@@ -1,0 +1,14 @@
+{
+  "id": 151,
+  "name": "Nisel Wood",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 4,
+  "process": 2,
+  "process_amount": 4,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

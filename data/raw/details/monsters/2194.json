@@ -1,0 +1,52 @@
+{
+  "id": 2194,
+  "name": "Concert Potum",
+  "level": 180,
+  "map_id": 384,
+  "map_name": "Pom Taming Land",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 269,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": true,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 245,
+      "name": "Apple",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1324,
+      "name": "Green Apple",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 252,
+      "name": "Hard Apple",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 270,
+      "name": "Sweet Apple",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 4441,
+      "name": "Yellow Apple",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

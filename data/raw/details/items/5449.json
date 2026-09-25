@@ -1,0 +1,39 @@
+{
+  "id": 5449,
+  "name": "Recorder",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 95,
+  "process": 3,
+  "process_amount": 47,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 230,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 18,
+      "effect_name": "MaxHP %",
+      "amount": 20,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 61,
+      "effect_name": "Aggro %",
+      "amount": -30,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 139,
+      "effect_name": "Anticipate %",
+      "amount": 10,
+      "applies_to": 0
+    }
+  ]
+}

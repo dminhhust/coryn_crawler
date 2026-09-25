@@ -1,0 +1,46 @@
+{
+  "id": 1752,
+  "name": "Roca",
+  "level": 156,
+  "map_id": 303,
+  "map_name": "Eryldan Street: Area 3",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 17000,
+  "exp": 400,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4068,
+      "name": "Beautiful Tortoiseshell",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4067,
+      "name": "Eryldan Wood",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4069,
+      "name": "Harmony Shield",
+      "type_id": 17,
+      "type_label": "[Shield]"
+    },
+    {
+      "id": 4066,
+      "name": "Shell-Attached Moss",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

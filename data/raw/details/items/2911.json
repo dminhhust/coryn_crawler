@@ -1,0 +1,21 @@
+{
+  "id": 2911,
+  "name": "Energy Package",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 0,
+  "process": 0,
+  "process_amount": 0,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 178,
+      "effect_name": "",
+      "amount": 99,
+      "applies_to": 0
+    }
+  ]
+}

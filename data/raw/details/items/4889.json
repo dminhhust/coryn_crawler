@@ -1,0 +1,39 @@
+{
+  "id": 4889,
+  "name": "Skirt Belt",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 72,
+  "process": 4,
+  "process_amount": 36,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 64,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 13,
+      "effect_name": "Natural HP Regen",
+      "amount": 1,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 33,
+      "effect_name": "Accuracy",
+      "amount": 100,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 68,
+      "effect_name": "Attack MP Recovery",
+      "amount": 1,
+      "applies_to": 0
+    }
+  ]
+}

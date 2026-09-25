@@ -1,0 +1,21 @@
+{
+  "id": 4647,
+  "name": "Fairy Sewing Tool",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 0,
+  "process": 0,
+  "process_amount": 0,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 204,
+      "effect_name": "Grants 1 to 3 types of abilities to an avatar item. The same abilities will not be granted.",
+      "amount": 1,
+      "applies_to": 0
+    }
+  ]
+}

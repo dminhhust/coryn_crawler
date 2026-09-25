@@ -1,0 +1,46 @@
+{
+  "id": 2969,
+  "name": "Dr. Leonardo (Master)",
+  "level": 120,
+  "map_id": 527,
+  "map_name": "Eagle Talon Collab Venue",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Ultimate",
+  "hp": 2200000,
+  "exp": 29000,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 364,
+      "name": "Anti-Degradation",
+      "type_id": 2,
+      "type_label": "[Refinement Support]"
+    },
+    {
+      "id": 5911,
+      "name": "Dr. Leonardo",
+      "type_id": 22,
+      "type_label": "[Armor Crysta]"
+    },
+    {
+      "id": 589,
+      "name": "Revita III",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 7083,
+      "name": "Vanquisher Mecha Wreck",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 2372,
+  "name": "Rollitida",
+  "level": 193,
+  "map_id": 411,
+  "map_name": "Fugitive Lake Swamp: Area 3",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "normal",
+  "hp": 31000,
+  "exp": 509,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5512,
+      "name": "Crushed Nut",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5511,
+      "name": "Muddy Pebble",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5514,
+      "name": "Quartz Arrow",
+      "type_id": 7,
+      "type_label": "[Arrow]"
+    },
+    {
+      "id": 5513,
+      "name": "Quartz Powder",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

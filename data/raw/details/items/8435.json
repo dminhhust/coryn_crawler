@@ -1,0 +1,39 @@
+{
+  "id": 8435,
+  "name": "Doy",
+  "type_id": 210,
+  "type_label": "[Enhancer Crysta (Red)]",
+  "sell": 1,
+  "process": 0,
+  "process_amount": -1,
+  "meta": {
+    "badge": "Update 03/26/26",
+    "note": "Don Profundo can be upgraded."
+  },
+  "stats": [
+    {
+      "effect_id": 4,
+      "effect_name": "STR %",
+      "amount": 8,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 21,
+      "effect_name": "ATK %",
+      "amount": 12,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 28,
+      "effect_name": "DEF %",
+      "amount": -33,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 42,
+      "effect_name": "Critical Rate %",
+      "amount": 10,
+      "applies_to": 0
+    }
+  ]
+}

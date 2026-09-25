@@ -1,0 +1,40 @@
+{
+  "id": 2720,
+  "name": "EX Arena Entry (7th Anniv)",
+  "level": 0,
+  "map_id": 479,
+  "map_name": "Anniversary Arena: 7th Venue",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": -1,
+  "element_id": -1,
+  "element_label": "Unknown",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6486,
+      "name": "Florizard",
+      "type_id": 210,
+      "type_label": "[Enhancer Crysta (Red)]"
+    },
+    {
+      "id": 6485,
+      "name": "Mysterious Crystal",
+      "type_id": 240,
+      "type_label": "[Enhancer Crysta (Purple)]"
+    },
+    {
+      "id": 6487,
+      "name": "Neo Wandering Wheel",
+      "type_id": 230,
+      "type_label": "[Enhancer Crysta (Yellow)]"
+    }
+  ]
+}

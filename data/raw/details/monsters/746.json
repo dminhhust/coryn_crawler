@@ -1,0 +1,46 @@
+{
+  "id": 746,
+  "name": "Conoppy",
+  "level": 25,
+  "map_id": 51,
+  "map_name": "Yorl Highlands",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 350,
+  "exp": 16,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 78,
+      "name": "Flower Nectar",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 308,
+      "name": "HP+100",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 158,
+      "name": "Petal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 212,
+      "name": "Strong Vine",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

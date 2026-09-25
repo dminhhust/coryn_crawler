@@ -1,0 +1,39 @@
+{
+  "id": 1876,
+  "name": "Kukri",
+  "type_id": 11,
+  "type_label": "[Dagger]",
+  "sell": 85,
+  "process": 3,
+  "process_amount": 42,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 50,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 33,
+      "effect_name": "Accuracy",
+      "amount": 7,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 60,
+      "effect_name": "Evasion Recharge %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 129,
+      "effect_name": "Additional Melee %",
+      "amount": 50,
+      "applies_to": 0
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 2182,
+  "name": "Ovinymon",
+  "level": 169,
+  "map_id": 380,
+  "map_name": "Celarra Plateau",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 12000,
+  "exp": 207,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5061,
+      "name": "Mistletoe Branch",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5062,
+      "name": "Sheep Horn",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5063,
+      "name": "Smoked Mutton",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 5064,
+      "name": "Spring Breeze Talisman",
+      "type_id": 18,
+      "type_label": "[Special]"
+    }
+  ]
+}

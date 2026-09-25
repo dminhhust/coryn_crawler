@@ -1,0 +1,14 @@
+{
+  "id": 928,
+  "name": "Wood Box I",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 50,
+  "process": 2,
+  "process_amount": 100,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

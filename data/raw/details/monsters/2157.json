@@ -1,0 +1,46 @@
+{
+  "id": 2157,
+  "name": "Phantom Wisp",
+  "level": 125,
+  "map_id": 373,
+  "map_name": "Phantom Wisp's Hideout: Theater",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Easy",
+  "hp": 490000,
+  "exp": 4400,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 243,
+      "name": "Hematite",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 4940,
+      "name": "Masquerade Hat",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 4941,
+      "name": "Phantom Wisp",
+      "type_id": 22,
+      "type_label": "[Armor Crysta]"
+    },
+    {
+      "id": 1463,
+      "name": "Sweets Box",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

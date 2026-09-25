@@ -1,0 +1,46 @@
+{
+  "id": 2037,
+  "name": "Demonic Eye",
+  "level": 212,
+  "map_id": 352,
+  "map_name": "Dea Ruinea",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "Normal",
+  "hp": 10000000,
+  "exp": 75834,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4564,
+      "name": "Bizarre Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4565,
+      "name": "Cursed Evil Eye",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4566,
+      "name": "Demon Serum",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4567,
+      "name": "Demonic Eye",
+      "type_id": 220,
+      "type_label": "[Enhancer Crysta (Green)]"
+    }
+  ]
+}

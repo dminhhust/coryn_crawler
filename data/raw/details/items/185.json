@@ -1,0 +1,14 @@
+{
+  "id": 185,
+  "name": "Sand Frog Skin",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 4,
+  "process": 4,
+  "process_amount": 4,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

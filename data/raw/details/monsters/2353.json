@@ -1,0 +1,46 @@
+{
+  "id": 2353,
+  "name": "Pojo",
+  "level": 168,
+  "map_id": 375,
+  "map_name": "Inje Village",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 13000,
+  "exp": 225,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4966,
+      "name": "Chicken Wing",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 4967,
+      "name": "Inje Village",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 4965,
+      "name": "Large Egg",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4968,
+      "name": "MP+300",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    }
+  ]
+}

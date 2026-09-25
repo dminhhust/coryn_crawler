@@ -1,0 +1,46 @@
+{
+  "id": 2171,
+  "name": "Agelada",
+  "level": 180,
+  "map_id": 377,
+  "map_name": "Ducia Coast: Area 2",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 49000,
+  "exp": 756,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4976,
+      "name": "Evil Spirit Bone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4977,
+      "name": "Evil Spirit Horns",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4978,
+      "name": "Raging Soul",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4979,
+      "name": "Savage Mail",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    }
+  ]
+}

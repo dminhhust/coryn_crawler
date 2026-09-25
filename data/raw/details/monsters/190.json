@@ -1,0 +1,46 @@
+{
+  "id": 190,
+  "name": "Pain Leaf",
+  "level": 46,
+  "map_id": 56,
+  "map_name": "Haotas Ravine",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 95,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 78,
+      "name": "Flower Nectar",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 160,
+      "name": "Poison Essence",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 558,
+      "name": "Stier",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 240,
+      "name": "Young Branch",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

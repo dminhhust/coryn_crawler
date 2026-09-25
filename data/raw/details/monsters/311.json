@@ -1,0 +1,46 @@
+{
+  "id": 311,
+  "name": "Parasitized Dog",
+  "level": 57,
+  "map_id": 92,
+  "map_name": "Lost Town: Magic Barrier",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 6200,
+  "exp": 162,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1032,
+      "name": "Bone Fragment",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1046,
+      "name": "Contaminated Fang",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1047,
+      "name": "Oracle Hat",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 1024,
+      "name": "Parasite Crystal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

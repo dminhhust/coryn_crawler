@@ -1,0 +1,46 @@
+{
+  "id": 351,
+  "name": "Ghilly",
+  "level": 53,
+  "map_id": 103,
+  "map_name": "Maia Diela",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 54,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1195,
+      "name": "Ghilly Sheet",
+      "type_id": 18,
+      "type_label": "[Special]"
+    },
+    {
+      "id": 1192,
+      "name": "Large Withered Leaf",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1194,
+      "name": "Leaf Mold",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1193,
+      "name": "Withered Branch",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

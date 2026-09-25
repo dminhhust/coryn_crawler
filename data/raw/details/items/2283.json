@@ -1,0 +1,14 @@
+{
+  "id": 2283,
+  "name": "Cracked Sword Tip",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 10,
+  "process": 3,
+  "process_amount": 9,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

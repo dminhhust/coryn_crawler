@@ -1,0 +1,57 @@
+{
+  "id": 8416,
+  "name": "Myco Hat",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 1,
+  "process": 1,
+  "process_amount": 1,
+  "meta": {
+    "badge": "White Day 2026",
+    "note": "Dropped by Mycodian (Coffee difficulty).\nUntradable."
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 72,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 6,
+      "effect_name": "INT %",
+      "amount": 11,
+      "applies_to": 4
+    },
+    {
+      "effect_id": 21,
+      "effect_name": "ATK %",
+      "amount": 13,
+      "applies_to": 128
+    },
+    {
+      "effect_id": 23,
+      "effect_name": "MATK %",
+      "amount": 13,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 40,
+      "effect_name": "CSPD %",
+      "amount": 15,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 51,
+      "effect_name": "Fire resistance %",
+      "amount": -25,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 71,
+      "effect_name": "Motion Speed %",
+      "amount": 5,
+      "applies_to": 0
+    }
+  ]
+}

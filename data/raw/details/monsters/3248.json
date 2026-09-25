@@ -1,0 +1,46 @@
+{
+  "id": 3248,
+  "name": "Wandead",
+  "level": 227,
+  "map_id": 611,
+  "map_name": "Deusania's Lab",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Easy",
+  "hp": 20665,
+  "exp": 965,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5963,
+      "name": "Bloody Claw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7936,
+      "name": "Face Scar",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 7934,
+      "name": "Rotten Cake",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7935,
+      "name": "Zombie Meat",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 4452,
+  "name": "Supple Ring",
+  "type_id": 18,
+  "type_label": "[Special]",
+  "sell": 80,
+  "process": 1,
+  "process_amount": 40,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 19,
+      "effect_name": "MaxMP",
+      "amount": 500,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 61,
+      "effect_name": "Aggro %",
+      "amount": 5,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 127,
+      "effect_name": "Fractional Barrier %",
+      "amount": 10,
+      "applies_to": 0
+    }
+  ]
+}

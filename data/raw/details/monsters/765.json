@@ -1,0 +1,28 @@
+{
+  "id": 765,
+  "name": "2nd Anniversary Event (all boss)",
+  "level": 0,
+  "map_id": 87,
+  "map_name": "Event",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 0,
+  "exp": 0,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2136,
+      "name": "2nd Anniv Box",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

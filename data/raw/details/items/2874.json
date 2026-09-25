@@ -1,0 +1,14 @@
+{
+  "id": 2874,
+  "name": "Black Butterfly Scale",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 13,
+  "process": 5,
+  "process_amount": 12,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

@@ -1,0 +1,52 @@
+{
+  "id": 1015,
+  "name": "Finpen",
+  "level": 72,
+  "map_id": 197,
+  "map_name": "Navida City: West  (60-80)",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 260,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": true,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1309,
+      "name": "Big Fin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1373,
+      "name": "Edged Bowgun",
+      "type_id": 10,
+      "type_label": "[Bowgun]"
+    },
+    {
+      "id": 1332,
+      "name": "Flamberge",
+      "type_id": 5,
+      "type_label": "[2 Handed Sword]"
+    },
+    {
+      "id": 1583,
+      "name": "Snow Crystal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1761,
+      "name": "Soft Fin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

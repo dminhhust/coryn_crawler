@@ -1,0 +1,46 @@
+{
+  "id": 196,
+  "name": "Water Ghost",
+  "level": 31,
+  "map_id": 58,
+  "map_name": "Nehelo Swamp",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 600,
+  "exp": 20,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 44,
+      "name": "Claw-like Branch",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 73,
+      "name": "Fire Resistant Fabric",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 499,
+      "name": "Iron Shield",
+      "type_id": 17,
+      "type_label": "[Shield]"
+    },
+    {
+      "id": 233,
+      "name": "Wet Wood",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

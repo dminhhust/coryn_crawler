@@ -1,0 +1,39 @@
+{
+  "id": 4267,
+  "name": "Neckerchief",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 77,
+  "process": 4,
+  "process_amount": 38,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 41,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 12,
+      "effect_name": "DEX %",
+      "amount": 5,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 34,
+      "effect_name": "Accuracy %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 40,
+      "effect_name": "CSPD %",
+      "amount": 20,
+      "applies_to": 0
+    }
+  ]
+}

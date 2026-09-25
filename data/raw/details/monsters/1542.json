@@ -1,0 +1,46 @@
+{
+  "id": 1542,
+  "name": "Berylfree",
+  "level": 133,
+  "map_id": 275,
+  "map_name": "Barbaros Corridor",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 8000,
+  "exp": 139,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3598,
+      "name": "Green Crystal Fragment",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3597,
+      "name": "Strange Liquid",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3596,
+      "name": "Torn Tentacle",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3599,
+      "name": "VIT+5",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    }
+  ]
+}

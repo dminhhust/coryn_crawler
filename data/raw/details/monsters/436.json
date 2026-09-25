@@ -1,0 +1,46 @@
+{
+  "id": 436,
+  "name": "Shell Kraken",
+  "level": 77,
+  "map_id": 124,
+  "map_name": "Abyss of No Return: Area 3",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 190,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1454,
+      "name": "Ancient Shell",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1455,
+      "name": "Hammerfall",
+      "type_id": 5,
+      "type_label": "[2 Handed Sword]"
+    },
+    {
+      "id": 1452,
+      "name": "Sharp Tentacle",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1453,
+      "name": "Sludgy Liquid",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

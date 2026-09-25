@@ -1,0 +1,45 @@
+{
+  "id": 7719,
+  "name": "Sylvan Cowl",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 125,
+  "process": 5,
+  "process_amount": 62,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 136,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 21,
+      "effect_name": "ATK %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 23,
+      "effect_name": "MATK %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 38,
+      "effect_name": "ASPD %",
+      "amount": 5,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 40,
+      "effect_name": "CSPD %",
+      "amount": 5,
+      "applies_to": 0
+    }
+  ]
+}

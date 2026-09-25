@@ -1,0 +1,52 @@
+{
+  "id": 239,
+  "name": "Bone Dragonewt",
+  "level": 46,
+  "map_id": 73,
+  "map_name": "Ancient Empress Tomb: Area 2",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 163,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 620,
+      "name": "Ancient Empress's Tomb",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 622,
+      "name": "Dark Gray Metal Plate",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 621,
+      "name": "Dragon Bone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 623,
+      "name": "Knight Helmet",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 2537,
+      "name": "Tatetsuba",
+      "type_id": 27,
+      "type_label": "[Katana]"
+    }
+  ]
+}

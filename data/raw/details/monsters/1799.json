@@ -1,0 +1,52 @@
+{
+  "id": 1799,
+  "name": "Usasama the Necromancer",
+  "level": 215,
+  "map_id": 87,
+  "map_name": "Event",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Hard",
+  "hp": 8000000,
+  "exp": 67000,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4162,
+      "name": "Bayonette",
+      "type_id": 10,
+      "type_label": "[Bowgun]"
+    },
+    {
+      "id": 911,
+      "name": "Orichalcum Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 1120,
+      "name": "Super Refinement Powder",
+      "type_id": 2,
+      "type_label": "[Refinement Support]"
+    },
+    {
+      "id": 4163,
+      "name": "Usasama the Necromancer II",
+      "type_id": 210,
+      "type_label": "[Enhancer Crysta (Red)]"
+    },
+    {
+      "id": 4026,
+      "name": "[Book of Dancer]",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

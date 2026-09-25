@@ -1,0 +1,21 @@
+{
+  "id": 423,
+  "name": "Mirror of Reflection",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 0,
+  "process": 0,
+  "process_amount": 0,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 98,
+      "effect_name": "Can re-select personal stat. The stat points distributed to the personal stat will be reset.",
+      "amount": 0,
+      "applies_to": 0
+    }
+  ]
+}

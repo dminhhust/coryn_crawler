@@ -1,0 +1,46 @@
+{
+  "id": 2044,
+  "name": "Hellhound",
+  "level": 172,
+  "map_id": 355,
+  "map_name": "Morga Wasteland: Area 3",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 100000,
+  "exp": 1497,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4578,
+      "name": "Brutal Fang",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4577,
+      "name": "Inflamed Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4580,
+      "name": "Red Steel",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4579,
+      "name": "Turquoise Horn",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

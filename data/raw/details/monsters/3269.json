@@ -1,0 +1,46 @@
+{
+  "id": 3269,
+  "name": "Brakz",
+  "level": 258,
+  "map_id": 619,
+  "map_name": "Umidus Valley: Cliff Path",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 62200,
+  "exp": 930,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7966,
+      "name": "Erde Sword",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    },
+    {
+      "id": 7963,
+      "name": "Shadow Fur",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7965,
+      "name": "Thick Stinger Tail",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7964,
+      "name": "Umidus Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

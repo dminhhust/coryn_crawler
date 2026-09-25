@@ -1,0 +1,27 @@
+{
+  "id": 1859,
+  "name": "Praetor Suit",
+  "type_id": 8,
+  "type_label": "[Armor]",
+  "sell": 90,
+  "process": 4,
+  "process_amount": 45,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 67,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 113,
+      "effect_name": "Potential",
+      "amount": 29,
+      "applies_to": 0
+    }
+  ]
+}

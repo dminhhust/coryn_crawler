@@ -1,0 +1,40 @@
+{
+  "id": 383,
+  "name": "Coryn",
+  "level": 54,
+  "map_id": 110,
+  "map_name": "Wanderer's Plain",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 42,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1326,
+      "name": "Fruit Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1324,
+      "name": "Green Apple",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1325,
+      "name": "Soft Twig",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

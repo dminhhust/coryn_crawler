@@ -1,0 +1,39 @@
+{
+  "id": 704,
+  "name": "Dog Ears",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 15,
+  "process": 1,
+  "process_amount": 7,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 4,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 24,
+      "effect_name": "Stability %",
+      "amount": 1,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 38,
+      "effect_name": "ASPD %",
+      "amount": 1,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 39,
+      "effect_name": "CSPD",
+      "amount": 1,
+      "applies_to": 0
+    }
+  ]
+}

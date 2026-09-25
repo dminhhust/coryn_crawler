@@ -1,0 +1,14 @@
+{
+  "id": 1058,
+  "name": "Pillar Golem Fragment",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 8,
+  "process": 3,
+  "process_amount": 8,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

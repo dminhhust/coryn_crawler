@@ -1,0 +1,46 @@
+{
+  "id": 2265,
+  "name": "Strider",
+  "level": 174,
+  "map_id": 396,
+  "map_name": "Nezim Wetlands",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 10000,
+  "exp": 167,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5364,
+      "name": "Broken Aquaball",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 242,
+      "name": "Damascus Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 5365,
+      "name": "Riverine Barrel",
+      "type_id": 10,
+      "type_label": "[Bowgun]"
+    },
+    {
+      "id": 5363,
+      "name": "Thin Foot Hair",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 105,
+  "name": "Shell Mask",
+  "level": 27,
+  "map_id": 28,
+  "map_name": "Nisel Mountain: Mountainside",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 750,
+  "exp": 34,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 247,
+      "name": "Bitter Nut",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 151,
+      "name": "Nisel Wood",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 564,
+      "name": "Thorny Twig",
+      "type_id": 11,
+      "type_label": "[Dagger]"
+    },
+    {
+      "id": 238,
+      "name": "Woodchip",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

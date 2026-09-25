@@ -1,0 +1,76 @@
+{
+  "id": 2281,
+  "name": "Dreamy Scarlet Sakura (Nightmare)",
+  "level": 220,
+  "map_id": 398,
+  "map_name": "Lush Falls : Upstream",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Nightmare",
+  "hp": 3550000,
+  "exp": 14800,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 436,
+      "name": "Adventurer's Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 5390,
+      "name": "Alcoholic Petal",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 5387,
+      "name": "Broken Yozakura Twig",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 5410,
+      "name": "Dreamy Arrow",
+      "type_id": 7,
+      "type_label": "[Arrow]"
+    },
+    {
+      "id": 5386,
+      "name": "Dreamy Scarlet Sakura",
+      "type_id": 220,
+      "type_label": "[Enhancer Crysta (Green)]"
+    },
+    {
+      "id": 5389,
+      "name": "Sakura Liqueur",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 5409,
+      "name": "Scarlet Sakura Dagger",
+      "type_id": 11,
+      "type_label": "[Dagger]"
+    },
+    {
+      "id": 5388,
+      "name": "Scarlet Wicker Box",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 5407,
+      "name": "[Book of Ninja]",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

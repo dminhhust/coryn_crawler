@@ -1,0 +1,46 @@
+{
+  "id": 1566,
+  "name": "Destiny Cube",
+  "level": 146,
+  "map_id": 283,
+  "map_name": "Hall of Special Gods",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "",
+  "hp": 17000,
+  "exp": 360,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3589,
+      "name": "Cracked Cube Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3655,
+      "name": "Holy Knife",
+      "type_id": 11,
+      "type_label": "[Dagger]"
+    },
+    {
+      "id": 3653,
+      "name": "Lithograph of Age of Gods",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3654,
+      "name": "Mystic Gemstone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": 368,
+  "name": "Priest Warmonger",
+  "level": 50,
+  "map_id": 87,
+  "map_name": "Event",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 1200,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 436,
+      "name": "Adventurer's Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 1263,
+      "name": "Silver 1st Anniv Medal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 572,
+      "name": "War Helmet",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

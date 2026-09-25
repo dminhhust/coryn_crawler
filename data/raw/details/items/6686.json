@@ -1,0 +1,33 @@
+{
+  "id": 6686,
+  "name": "Dragon Ring",
+  "type_id": 18,
+  "type_label": "[Special]",
+  "sell": 105,
+  "process": 1,
+  "process_amount": 52,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 20,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 17,
+      "effect_name": "MaxHP",
+      "amount": 3000,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 68,
+      "effect_name": "Attack MP Recovery",
+      "amount": 10,
+      "applies_to": 0
+    }
+  ]
+}

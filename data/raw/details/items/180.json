@@ -1,0 +1,27 @@
+{
+  "id": 180,
+  "name": "Resilient Jelly",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 5,
+  "process": 5,
+  "process_amount": 5,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 21,
+      "effect_name": "ATK %",
+      "amount": -25,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 23,
+      "effect_name": "MATK %",
+      "amount": -25,
+      "applies_to": 0
+    }
+  ]
+}

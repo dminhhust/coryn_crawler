@@ -1,0 +1,46 @@
+{
+  "id": 2230,
+  "name": "Kijimu",
+  "level": 124,
+  "map_id": 388,
+  "map_name": "Creme Cliff (Valentine's Day Event)",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 737,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": true,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5221,
+      "name": "Buttercream Flower",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 78,
+      "name": "Flower Nectar",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 5216,
+      "name": "Kijimu's Arrow",
+      "type_id": 7,
+      "type_label": "[Arrow]"
+    },
+    {
+      "id": 158,
+      "name": "Petal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

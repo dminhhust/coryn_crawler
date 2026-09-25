@@ -1,0 +1,14 @@
+{
+  "id": 2970,
+  "name": "Pom 3rd Anniv Medal",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 150,
+  "process": 6,
+  "process_amount": 15,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

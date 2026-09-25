@@ -1,0 +1,46 @@
+{
+  "id": 1555,
+  "name": "Hermit Doll",
+  "level": 133,
+  "map_id": 280,
+  "map_name": "Heresy Corridor",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 9000,
+  "exp": 155,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3636,
+      "name": "Cracked Spear Tip",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3638,
+      "name": "Esca Shield",
+      "type_id": 17,
+      "type_label": "[Shield]"
+    },
+    {
+      "id": 3637,
+      "name": "Hermit Heart",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3635,
+      "name": "Round Shield Fragment",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 1328,
+  "name": "Pelle",
+  "level": 130,
+  "map_id": 249,
+  "map_name": "Turnus Mine: Area 1",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 35000,
+  "exp": 600,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3226,
+      "name": "Dark-Red Twin Horns",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3239,
+      "name": "Dragon Azul Sphere",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3240,
+      "name": "Korakiri",
+      "type_id": 27,
+      "type_label": "[Katana]"
+    },
+    {
+      "id": 3225,
+      "name": "Stiff Hump",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

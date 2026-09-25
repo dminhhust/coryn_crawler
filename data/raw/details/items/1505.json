@@ -1,0 +1,14 @@
+{
+  "id": 1505,
+  "name": "Filthy Bandage",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 6,
+  "process": 4,
+  "process_amount": 6,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

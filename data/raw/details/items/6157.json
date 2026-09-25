@@ -1,0 +1,14 @@
+{
+  "id": 6157,
+  "name": "Fruit Pellicle",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 18,
+  "process": 5,
+  "process_amount": 17,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

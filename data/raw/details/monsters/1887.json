@@ -1,0 +1,46 @@
+{
+  "id": 1887,
+  "name": "Toy Bolg",
+  "level": 139,
+  "map_id": 325,
+  "map_name": "Joulu House: Depot (Lv 130)",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 20000,
+  "exp": 583,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": true,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4318,
+      "name": "Gift Toy",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3224,
+      "name": "Golden Sting",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4319,
+      "name": "Sacred Red Candle",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3646,
+      "name": "Seiun",
+      "type_id": 27,
+      "type_label": "[Katana]"
+    }
+  ]
+}

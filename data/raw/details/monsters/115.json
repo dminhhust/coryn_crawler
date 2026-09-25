@@ -1,0 +1,46 @@
+{
+  "id": 115,
+  "name": "Kijimu",
+  "level": 17,
+  "map_id": 32,
+  "map_name": "Rinom Plains",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 220,
+  "exp": 9,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 78,
+      "name": "Flower Nectar",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 115,
+      "name": "Kijimu Splinter",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 158,
+      "name": "Petal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 263,
+      "name": "Rugio Ruins",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

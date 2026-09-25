@@ -1,0 +1,46 @@
+{
+  "id": 163,
+  "name": "Death Hound",
+  "level": 32,
+  "map_id": 47,
+  "map_name": "Scaro Town: Area 2",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 1100,
+  "exp": 42,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 17,
+      "name": "Black Fur",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 46,
+      "name": "Clot of Black Mist",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 510,
+      "name": "Longblade",
+      "type_id": 5,
+      "type_label": "[2 Handed Sword]"
+    },
+    {
+      "id": 189,
+      "name": "Sharp Fang",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

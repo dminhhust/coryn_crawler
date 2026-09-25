@@ -1,0 +1,52 @@
+{
+  "id": 148,
+  "name": "Golden Skeleton",
+  "level": 54,
+  "map_id": 42,
+  "map_name": "Zoktzda Ruins",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 840,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 436,
+      "name": "Adventurer's Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 2,
+      "name": "Ancient Gold Coin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 307,
+      "name": "Golden Skeleton",
+      "type_id": 23,
+      "type_label": "[Additional Crysta]"
+    },
+    {
+      "id": 192,
+      "name": "Skeleton Bone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 232,
+      "name": "Wandering Spirit",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

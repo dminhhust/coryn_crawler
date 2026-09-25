@@ -1,0 +1,46 @@
+{
+  "id": 3437,
+  "name": "Carakara",
+  "level": 286,
+  "map_id": 671,
+  "map_name": "Ruhig Trail",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 440,
+  "element_id": -1,
+  "element_label": "Unknown",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "Update 03/26/26",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 8438,
+      "name": "Fragrant Cow Hair",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 8441,
+      "name": "Scale Hat",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 8440,
+      "name": "Strong-Looking Horns",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 8439,
+      "name": "Verdant Carapace",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

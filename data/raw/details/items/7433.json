@@ -1,0 +1,69 @@
+{
+  "id": 7433,
+  "name": "Zodiac's Blessing",
+  "type_id": 24,
+  "type_label": "[Special Crysta]",
+  "sell": 0,
+  "process": 6,
+  "process_amount": 0,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 20,
+      "effect_name": "ATK",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 22,
+      "effect_name": "MATK",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 27,
+      "effect_name": "DEF",
+      "amount": 100,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 29,
+      "effect_name": "MDEF",
+      "amount": 100,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 33,
+      "effect_name": "Accuracy",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 37,
+      "effect_name": "ASPD",
+      "amount": 100,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 39,
+      "effect_name": "CSPD",
+      "amount": 100,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 41,
+      "effect_name": "Critical Rate",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 95,
+      "effect_name": "EXP Gain %",
+      "amount": 10,
+      "applies_to": 0
+    }
+  ]
+}

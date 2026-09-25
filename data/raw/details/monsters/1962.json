@@ -1,0 +1,46 @@
+{
+  "id": 1962,
+  "name": "Flying Tentacle",
+  "level": 169,
+  "map_id": 342,
+  "map_name": "Avant Plastida: Area 3",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 22000,
+  "exp": 409,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4464,
+      "name": "Bubble Helmet",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 4462,
+      "name": "Eerie Claw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4461,
+      "name": "Elastic Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4463,
+      "name": "Spinning Cube",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

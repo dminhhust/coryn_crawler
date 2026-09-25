@@ -1,0 +1,46 @@
+{
+  "id": 2078,
+  "name": "Coronella",
+  "level": 166,
+  "map_id": 362,
+  "map_name": "Inanis Wilderness",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 14000,
+  "exp": 208,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4675,
+      "name": "Deadly Venom",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4673,
+      "name": "Desert Snake Scale",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4674,
+      "name": "Mock Strawberry",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 4676,
+      "name": "Trench Knife",
+      "type_id": 11,
+      "type_label": "[Dagger]"
+    }
+  ]
+}

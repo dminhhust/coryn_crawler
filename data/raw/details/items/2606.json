@@ -1,0 +1,14 @@
+{
+  "id": 2606,
+  "name": "Onion",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 15,
+  "process": 5,
+  "process_amount": 16,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

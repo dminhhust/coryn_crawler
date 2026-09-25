@@ -1,0 +1,58 @@
+{
+  "id": 2622,
+  "name": "Evil Lefina (Plain)",
+  "level": 170,
+  "map_id": 111,
+  "map_name": "El Scaro",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 3000000,
+  "exp": 21700,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 242,
+      "name": "Damascus Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 6163,
+      "name": "Evil Lefina",
+      "type_id": 23,
+      "type_label": "[Additional Crysta]"
+    },
+    {
+      "id": 6165,
+      "name": "Lolliodd Magic Halberd",
+      "type_id": 26,
+      "type_label": "[Halberd]"
+    },
+    {
+      "id": 6164,
+      "name": "Lolliodd Magic Sword",
+      "type_id": 5,
+      "type_label": "[2 Handed Sword]"
+    },
+    {
+      "id": 6161,
+      "name": "Torn Wrapping Paper",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6162,
+      "name": "Troublesome Cookie Crumb",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": 20,
+  "name": "Pico",
+  "level": 1,
+  "map_id": 7,
+  "map_name": "Rakau Plains",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 90,
+  "exp": 2,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 15,
+      "name": "Bird Wing",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 122,
+      "name": "Long Beak",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 550,
+      "name": "Scarf",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 554,
+      "name": "Shortsword",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    },
+    {
+      "id": 235,
+      "name": "Wind Slash Feather",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

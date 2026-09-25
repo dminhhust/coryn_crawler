@@ -1,0 +1,21 @@
+{
+  "id": 677,
+  "name": "Brutal Dragon Decel",
+  "level": 80,
+  "map_id": 30,
+  "map_name": "Nisel Mountain: The Top",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Ultimate",
+  "hp": -1,
+  "exp": 5600,
+  "element_id": -1,
+  "element_label": "Unknown",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": []
+}

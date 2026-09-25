@@ -1,0 +1,76 @@
+{
+  "id": 1107,
+  "name": "Guignol",
+  "level": 133,
+  "map_id": 217,
+  "map_name": "Brahe Laboratory: 4th Building",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 490000,
+  "exp": 6200,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 436,
+      "name": "Adventurer's Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 2755,
+      "name": "Broken Driver",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2758,
+      "name": "Broken Guignol's Leg",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2761,
+      "name": "Guignol",
+      "type_id": 200,
+      "type_label": "[Enhancer Crysta (Blue)]"
+    },
+    {
+      "id": 2754,
+      "name": "Guignol's Iron Scrap",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2760,
+      "name": "Mad Palms",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    },
+    {
+      "id": 2759,
+      "name": "Mad Sniper",
+      "type_id": 10,
+      "type_label": "[Bowgun]"
+    },
+    {
+      "id": 2757,
+      "name": "Shattered Guignol's Arm",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2756,
+      "name": "Squashed Guignol's Eye",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": 2903,
+  "name": "Baavgai (Normal)",
+  "level": 220,
+  "map_id": 514,
+  "map_name": "Mt. Sakuraten: Summit",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 8000000,
+  "exp": 34850,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6924,
+      "name": "Baavgai",
+      "type_id": 220,
+      "type_label": "[Enhancer Crysta (Green)]"
+    },
+    {
+      "id": 6925,
+      "name": "Baavgai Hat",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 6920,
+      "name": "Mount Sakuraten Pebble",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6923,
+      "name": "Pink Orange Wicker Box",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 6929,
+      "name": "Sakura Warrior Halberd",
+      "type_id": 26,
+      "type_label": "[Halberd]"
+    },
+    {
+      "id": 6928,
+      "name": "Sakura Warrior Staff",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    },
+    {
+      "id": 6921,
+      "name": "Swordsbear Fluffy Beard",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6922,
+      "name": "Swordsbear Treasured Sake",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": 4515,
+  "name": "Poison Bubbles",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 16,
+  "process": 5,
+  "process_amount": 16,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

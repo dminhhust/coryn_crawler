@@ -1,0 +1,52 @@
+{
+  "id": 2270,
+  "name": "Lord of Nezim",
+  "level": 227,
+  "map_id": 396,
+  "map_name": "Nezim Wetlands",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 39200,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5368,
+      "name": "Charred Salamander Meat",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5369,
+      "name": "Crystal Horns",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 5323,
+      "name": "Lord of Nezim",
+      "type_id": 23,
+      "type_label": "[Additional Crysta]"
+    },
+    {
+      "id": 5367,
+      "name": "Powerful Jagged Tooth",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5366,
+      "name": "Slimy Hide",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

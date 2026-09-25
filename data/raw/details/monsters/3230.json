@@ -1,0 +1,46 @@
+{
+  "id": 3230,
+  "name": "Borior",
+  "level": 255,
+  "map_id": 600,
+  "map_name": "Eumano Village Ruins: Area 3",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 0,
+  "exp": 90,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7720,
+      "name": "Crushed Tree Bark",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7722,
+      "name": "Excellent Firewood",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7723,
+      "name": "Orbital Mystic Spheres",
+      "type_id": 15,
+      "type_label": "[Magic Device]"
+    },
+    {
+      "id": 7721,
+      "name": "Uneven Wood",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

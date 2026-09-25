@@ -1,0 +1,46 @@
+{
+  "id": 340,
+  "name": "Astron",
+  "level": 52,
+  "map_id": 99,
+  "map_name": "Road to Another World: Area 2",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 10000,
+  "exp": 340,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1139,
+      "name": "Huge Mouth",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1140,
+      "name": "Mysterious Sphere",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1138,
+      "name": "Outer World Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1141,
+      "name": "Wizard Hat",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

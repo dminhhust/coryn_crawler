@@ -1,0 +1,27 @@
+{
+  "id": 2640,
+  "name": "Force Gem",
+  "type_id": 12,
+  "type_label": "[Gem]",
+  "sell": 1,
+  "process": 0,
+  "process_amount": 0,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 75,
+      "effect_name": "Neutral Resistance %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 110,
+      "effect_name": "% stronger against Neutral",
+      "amount": 10,
+      "applies_to": 0
+    }
+  ]
+}

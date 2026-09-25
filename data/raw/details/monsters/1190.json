@@ -1,0 +1,46 @@
+{
+  "id": 1190,
+  "name": "Stravos Machina",
+  "level": 127,
+  "map_id": 235,
+  "map_name": "Ultimea Palace: Storage Area 2",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 16000,
+  "exp": 374,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2928,
+      "name": "Container Material",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2929,
+      "name": "Huge Iron Wheel",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2930,
+      "name": "Magic Eye",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2931,
+      "name": "Wind Rapier",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    }
+  ]
+}

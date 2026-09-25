@@ -1,0 +1,14 @@
+{
+  "id": 8564,
+  "name": "Fish Jerky",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 67,
+  "process": 5,
+  "process_amount": 0,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": 8414,
+  "name": "Grazen Stone",
+  "type_id": 16,
+  "type_label": "[Ore]",
+  "sell": 1,
+  "process": 0,
+  "process_amount": -1,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": 7590,
+  "name": "Blowfish Sashimi",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 29,
+  "process": 5,
+  "process_amount": 29,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 84,
+      "effect_name": "HP %",
+      "amount": -10,
+      "applies_to": 0
+    }
+  ]
+}

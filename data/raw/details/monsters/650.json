@@ -1,0 +1,58 @@
+{
+  "id": 650,
+  "name": "Excavated Golem",
+  "level": 6,
+  "map_id": 6,
+  "map_name": "Underground Ruins: Deepest Part",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Easy",
+  "hp": 315,
+  "exp": 9,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 438,
+      "name": "Alto Ruin Bow",
+      "type_id": 9,
+      "type_label": "[Bow]"
+    },
+    {
+      "id": 94,
+      "name": "Golem's Fragment",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 476,
+      "name": "Golemet",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 489,
+      "name": "Huge Heavy Shield",
+      "type_id": 17,
+      "type_label": "[Shield]"
+    },
+    {
+      "id": 152,
+      "name": "Old Metal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 156,
+      "name": "Pale Gemstone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

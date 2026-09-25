@@ -1,0 +1,45 @@
+{
+  "id": 7631,
+  "name": "Sakura Shamisen",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 132,
+  "process": 2,
+  "process_amount": 66,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 99,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 23,
+      "effect_name": "MATK %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 25,
+      "effect_name": "Physical Pierce %",
+      "amount": 20,
+      "applies_to": 128
+    },
+    {
+      "effect_id": 40,
+      "effect_name": "CSPD %",
+      "amount": 50,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 42,
+      "effect_name": "Critical Rate %",
+      "amount": -20,
+      "applies_to": 0
+    }
+  ]
+}

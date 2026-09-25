@@ -1,0 +1,46 @@
+{
+  "id": 1562,
+  "name": "Oddy",
+  "level": 145,
+  "map_id": 282,
+  "map_name": "Hall of Construction Gods",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "",
+  "hp": 23000,
+  "exp": 356,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3640,
+      "name": "Bag Bear Fur",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3639,
+      "name": "Bag Bear Tail",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3641,
+      "name": "Forbidden Nut",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 3642,
+      "name": "Skirt Belt",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

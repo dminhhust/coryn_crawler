@@ -1,0 +1,14 @@
+{
+  "id": 1139,
+  "name": "Huge Mouth",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 7,
+  "process": 1,
+  "process_amount": 7,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

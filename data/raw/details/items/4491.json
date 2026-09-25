@@ -1,0 +1,14 @@
+{
+  "id": 4491,
+  "name": "Super Sweet Syrup",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 30,
+  "process": 6,
+  "process_amount": 50,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

@@ -1,0 +1,46 @@
+{
+  "id": 2931,
+  "name": "Rosemee",
+  "level": 225,
+  "map_id": 520,
+  "map_name": "Jabali Kubwa: Area 1",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 42798,
+  "exp": 659,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7002,
+      "name": "Rose Leaf",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7004,
+      "name": "Rose Oil",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7003,
+      "name": "Sharp Stem",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7005,
+      "name": "Solar Staff",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    }
+  ]
+}

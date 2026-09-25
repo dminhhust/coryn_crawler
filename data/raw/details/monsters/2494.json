@@ -1,0 +1,46 @@
+{
+  "id": 2494,
+  "name": "Confeito",
+  "level": 179,
+  "map_id": 444,
+  "map_name": "Noeliel Castle: B1F (170-190)",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": -1,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5935,
+      "name": "Dull Crest",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4976,
+      "name": "Evil Spirit Bone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4977,
+      "name": "Evil Spirit Horns",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4532,
+      "name": "Holy Sword",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": 13,
+  "name": "Beast Mane",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 6,
+  "process": 1,
+  "process_amount": 7,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

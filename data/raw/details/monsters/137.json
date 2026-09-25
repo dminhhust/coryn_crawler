@@ -1,0 +1,52 @@
+{
+  "id": 137,
+  "name": "Fire Ghost",
+  "level": 28,
+  "map_id": 38,
+  "map_name": "Fiery Volcano: Area 1",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 1000,
+  "exp": 36,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 39,
+      "name": "Burnt Coal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 73,
+      "name": "Fire Resistant Fabric",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2534,
+      "name": "Kuwagumo",
+      "type_id": 27,
+      "type_label": "[Katana]"
+    },
+    {
+      "id": 513,
+      "name": "Mage Robe",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 200,
+      "name": "Small Tinder",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

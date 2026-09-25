@@ -1,0 +1,46 @@
+{
+  "id": 174,
+  "name": "Gold Jelly",
+  "level": 36,
+  "map_id": 50,
+  "map_name": "Aulada Ancient Tower",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 2400,
+  "exp": 75,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1,
+      "name": "Ancient Coin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 180,
+      "name": "Resilient Jelly",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 543,
+      "name": "Ribbon",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 194,
+      "name": "Slimmy Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

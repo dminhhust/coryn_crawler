@@ -1,0 +1,46 @@
+{
+  "id": 2542,
+  "name": "Mogkey",
+  "level": 189,
+  "map_id": 451,
+  "map_name": "Eumano Glade",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 13000,
+  "exp": 218,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5955,
+      "name": "Cracked Acorn Hat",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5954,
+      "name": "Huge Acorn",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5918,
+      "name": "Laguna Shield",
+      "type_id": 17,
+      "type_label": "[Shield]"
+    },
+    {
+      "id": 5953,
+      "name": "Warm Tail",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

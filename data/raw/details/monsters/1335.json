@@ -1,0 +1,52 @@
+{
+  "id": 1335,
+  "name": "Solopy",
+  "level": 169,
+  "map_id": 251,
+  "map_name": "Turnus Mine: Area 3",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 23835,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3214,
+      "name": "Hallucination Spore",
+      "type_id": 18,
+      "type_label": "[Special]"
+    },
+    {
+      "id": 3242,
+      "name": "Solopy",
+      "type_id": 230,
+      "type_label": "[Enhancer Crysta (Yellow)]"
+    },
+    {
+      "id": 3233,
+      "name": "Tasty Mushroom",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3241,
+      "name": "Turnus Crystal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3218,
+      "name": "Tweed Fabric",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

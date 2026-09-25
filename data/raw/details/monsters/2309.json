@@ -1,0 +1,28 @@
+{
+  "id": 2309,
+  "name": "Golden Pom Treasure Box",
+  "level": 0,
+  "map_id": 7,
+  "map_name": "Rakau Plains",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 0,
+  "exp": 0,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5428,
+      "name": "Magic Yarn",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

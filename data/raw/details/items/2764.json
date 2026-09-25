@@ -1,0 +1,33 @@
+{
+  "id": 2764,
+  "name": "Shading Handkerchief",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": -1,
+  "process": -1,
+  "process_amount": -1,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 28,
+      "effect_name": "DEF %",
+      "amount": 5,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 30,
+      "effect_name": "MDEF %",
+      "amount": 5,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 55,
+      "effect_name": "Light resistance %",
+      "amount": 10,
+      "applies_to": 0
+    }
+  ]
+}

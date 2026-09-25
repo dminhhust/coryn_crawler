@@ -1,0 +1,46 @@
+{
+  "id": 352,
+  "name": "Flying Egg",
+  "level": 51,
+  "map_id": 103,
+  "map_name": "Maia Diela",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 36,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1184,
+      "name": "Hard Eggshell",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1186,
+      "name": "Immature Claw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1187,
+      "name": "Leather Helmet",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 1185,
+      "name": "Small Feather",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": 774,
+  "name": "Festival Golem Type C",
+  "level": 25,
+  "map_id": 87,
+  "map_name": "Event",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 12000,
+  "exp": 320,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2236,
+      "name": "Bronze 2nd Anniv Medal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 470,
+      "name": "Forehead Protector",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 254,
+      "name": "Magiadd I",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 259,
+      "name": "Regera I",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 260,
+      "name": "Revita I",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 543,
+      "name": "Ribbon",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 594,
+      "name": "Vita Plus I",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

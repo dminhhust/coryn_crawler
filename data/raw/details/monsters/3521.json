@@ -1,0 +1,28 @@
+{
+  "id": 3521,
+  "name": "Florashroom Petarie",
+  "level": 290,
+  "map_id": 110,
+  "map_name": "Wanderer's Plain",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 15000000,
+  "exp": 55000,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 8565,
+      "name": "Florashroom Petarie",
+      "type_id": 240,
+      "type_label": "[Enhancer Crysta (Purple)]"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 626,
+  "name": "Black Gelatin",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 7,
+  "process": 5,
+  "process_amount": 8,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 41,
+      "effect_name": "Critical Rate",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 44,
+      "effect_name": "Critical Damage %",
+      "amount": -10,
+      "applies_to": 0
+    }
+  ]
+}

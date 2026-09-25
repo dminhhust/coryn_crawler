@@ -1,0 +1,28 @@
+{
+  "id": 2107,
+  "name": "Sapphire Crusher",
+  "level": 210,
+  "map_id": 367,
+  "map_name": "Anniversary Arena: 5th Venue",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Hard",
+  "hp": 3800000,
+  "exp": 19800,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4843,
+      "name": "Golpom 5th Anniv Medal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

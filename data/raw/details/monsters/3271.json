@@ -1,0 +1,46 @@
+{
+  "id": 3271,
+  "name": "Dandolion",
+  "level": 308,
+  "map_id": 619,
+  "map_name": "Umidus Valley: Cliff Path",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "",
+  "hp": 0,
+  "exp": 83000,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7950,
+      "name": "Dandelion Coffee",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 7949,
+      "name": "Dandelion Fluff",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7975,
+      "name": "Dandelion Tooth",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7976,
+      "name": "Dandolion",
+      "type_id": 220,
+      "type_label": "[Enhancer Crysta (Green)]"
+    }
+  ]
+}

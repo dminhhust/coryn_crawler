@@ -1,0 +1,21 @@
+{
+  "id": 1917,
+  "name": "Omochi",
+  "level": 30,
+  "map_id": 87,
+  "map_name": "Event",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 30000,
+  "exp": 20,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": true,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": []
+}

@@ -1,0 +1,46 @@
+{
+  "id": 2598,
+  "name": "Denden",
+  "level": 193,
+  "map_id": 461,
+  "map_name": "Vulcani Foothills",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 16000,
+  "exp": 255,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6117,
+      "name": "AGI+7",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 6114,
+      "name": "Geometric Shell",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6116,
+      "name": "Round Pupil",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6115,
+      "name": "Strange Adductor Muscle",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

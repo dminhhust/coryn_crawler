@@ -1,0 +1,14 @@
+{
+  "id": 621,
+  "name": "Dragon Bone",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 4,
+  "process": 1,
+  "process_amount": 4,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

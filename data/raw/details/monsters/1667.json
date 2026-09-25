@@ -1,0 +1,40 @@
+{
+  "id": 1667,
+  "name": "Iceberg Silver Knight",
+  "level": 120,
+  "map_id": 240,
+  "map_name": "Anniversary Arena: 2nd Venue",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Nightmare",
+  "hp": 125000,
+  "exp": 15000,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 902,
+      "name": "Revita IV",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 4002,
+      "name": "Silver 4th Anniv Medal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1718,
+      "name": "Vita Plus IV",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

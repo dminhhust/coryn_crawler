@@ -1,0 +1,88 @@
+{
+  "id": 499,
+  "name": "Fida",
+  "level": 0,
+  "map_id": 137,
+  "map_name": "Garden of Beginning",
+  "type_code": "C",
+  "type_label": "NPC",
+  "mode": "Normal",
+  "hp": 0,
+  "exp": 0,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1355,
+      "name": "El Scaro",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1753,
+      "name": "Garden of Beginning",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 585,
+      "name": "Magiadd II",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 587,
+      "name": "Regera II",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 588,
+      "name": "Revita II",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 589,
+      "name": "Revita III",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 902,
+      "name": "Revita IV",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 266,
+      "name": "Save Point",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 268,
+      "name": "Sofya City",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 593,
+      "name": "Vaccine II",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 595,
+      "name": "Vita Plus II",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

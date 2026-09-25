@@ -1,0 +1,46 @@
+{
+  "id": 2413,
+  "name": "Paguro",
+  "level": 172,
+  "map_id": 414,
+  "map_name": "Underwater Canyon: Area 1",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 55000,
+  "exp": 1072,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": true,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5671,
+      "name": "Gigantic Shell",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5673,
+      "name": "Seabed Crystal Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5674,
+      "name": "Seashell Shield",
+      "type_id": 17,
+      "type_label": "[Shield]"
+    },
+    {
+      "id": 5672,
+      "name": "Super Kelp",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

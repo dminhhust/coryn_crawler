@@ -1,0 +1,52 @@
+{
+  "id": 1550,
+  "name": "Bubble Bogey",
+  "level": 177,
+  "map_id": 275,
+  "map_name": "Barbaros Corridor",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 26754,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3605,
+      "name": "Bubble Bogey",
+      "type_id": 210,
+      "type_label": "[Enhancer Crysta (Red)]"
+    },
+    {
+      "id": 3586,
+      "name": "Cracked Halo",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3604,
+      "name": "Fallen Angel Dagger",
+      "type_id": 11,
+      "type_label": "[Dagger]"
+    },
+    {
+      "id": 3587,
+      "name": "Mysterious Shiny Cloth",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3603,
+      "name": "Red Fallen Angel Halo",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

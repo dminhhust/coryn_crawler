@@ -1,0 +1,27 @@
+{
+  "id": 7355,
+  "name": "Eggplant Agebitashi",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 1,
+  "process": 5,
+  "process_amount": 10,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 68,
+      "effect_name": "Attack MP Recovery",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 74,
+      "effect_name": "Weapon ATK %",
+      "amount": 10,
+      "applies_to": 0
+    }
+  ]
+}

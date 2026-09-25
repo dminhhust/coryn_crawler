@@ -1,0 +1,34 @@
+{
+  "id": 1257,
+  "name": "Vatendeth the Dark General",
+  "level": 135,
+  "map_id": 240,
+  "map_name": "Anniversary Arena: 2nd Venue",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Hard",
+  "hp": 680000,
+  "exp": 6800,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2971,
+      "name": "Bropom 3rd Anniv Medal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1716,
+      "name": "Revita V",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

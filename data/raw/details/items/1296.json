@@ -1,0 +1,39 @@
+{
+  "id": 1296,
+  "name": "Neck Warmer",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 35,
+  "process": 4,
+  "process_amount": 17,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 12,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 32,
+      "effect_name": "Magic Resistance %",
+      "amount": 7,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 51,
+      "effect_name": "Fire resistance %",
+      "amount": 7,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 57,
+      "effect_name": "Ailment Resistance %",
+      "amount": 7,
+      "applies_to": 0
+    }
+  ]
+}

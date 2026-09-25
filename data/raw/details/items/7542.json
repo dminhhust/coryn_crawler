@@ -1,0 +1,14 @@
+{
+  "id": 7542,
+  "name": "Divine Building Supply",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 25,
+  "process": 3,
+  "process_amount": 25,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

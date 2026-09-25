@@ -1,0 +1,21 @@
+{
+  "id": 3351,
+  "name": "Yuran",
+  "level": 240,
+  "map_id": 654,
+  "map_name": "Dycan Lake Swamp",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": -1,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": true,
+  "limited": true,
+  "meta": {
+    "badge": "White Day 2026",
+    "note": "White Day 2026 event tameable monster."
+  },
+  "drops": []
+}

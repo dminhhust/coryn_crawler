@@ -1,0 +1,63 @@
+{
+  "id": 1686,
+  "name": "Ice Spear Glaso",
+  "type_id": 26,
+  "type_label": "[Halberd]",
+  "sell": 85,
+  "process": 6,
+  "process_amount": 42,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 161,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 58,
+      "effect_name": "Guard Power %",
+      "amount": 25,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 59,
+      "effect_name": "Guard Recharge %",
+      "amount": 25,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 63,
+      "effect_name": "Water Element",
+      "amount": 1,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 60,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 130,
+      "effect_name": "Additional Magic %",
+      "amount": 125,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 131,
+      "effect_name": "ATK UP (INT %)",
+      "amount": 100,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 134,
+      "effect_name": "ATK DOWN (AGI %)",
+      "amount": 150,
+      "applies_to": 0
+    }
+  ]
+}

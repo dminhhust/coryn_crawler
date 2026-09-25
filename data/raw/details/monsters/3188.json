@@ -1,0 +1,46 @@
+{
+  "id": 3188,
+  "name": "Spirulida",
+  "level": 244,
+  "map_id": 574,
+  "map_name": "Deep Sea: Zone 2",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 0,
+  "exp": 638,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7748,
+      "name": "Abyssal Pyroxene",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7564,
+      "name": "Spiral Shell",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7747,
+      "name": "Spiral Shell Arrow",
+      "type_id": 7,
+      "type_label": "[Arrow]"
+    },
+    {
+      "id": 7565,
+      "name": "Strange Tentacle",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

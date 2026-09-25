@@ -1,0 +1,70 @@
+{
+  "id": 2221,
+  "name": "Zega (Megiston 2020)",
+  "level": 220,
+  "map_id": 87,
+  "map_name": "Event",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 6400000,
+  "exp": 77400,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 816,
+      "name": "Mithril Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 335,
+      "name": "Orichalcum",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 911,
+      "name": "Orichalcum Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 1699,
+      "name": "Revita Box",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1338,
+      "name": "Zega",
+      "type_id": 21,
+      "type_label": "[Weapon Crysta]"
+    },
+    {
+      "id": 5183,
+      "name": "Zega Mask",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 5180,
+      "name": "Zega Onesie",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 4852,
+      "name": "Zega V",
+      "type_id": 210,
+      "type_label": "[Enhancer Crysta (Red)]"
+    }
+  ]
+}

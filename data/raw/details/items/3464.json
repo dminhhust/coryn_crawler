@@ -1,0 +1,33 @@
+{
+  "id": 3464,
+  "name": "Noeliel",
+  "type_id": 22,
+  "type_label": "[Armor Crysta]",
+  "sell": 1,
+  "process": 6,
+  "process_amount": 100,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 23,
+      "effect_name": "MATK %",
+      "amount": 5,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 40,
+      "effect_name": "CSPD %",
+      "amount": 3,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 165,
+      "effect_name": "Attack MP Recovery %",
+      "amount": 1,
+      "applies_to": 0
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 1605,
+  "name": "Bubble Angel (Yellow)",
+  "level": 145,
+  "map_id": 281,
+  "map_name": "Shrine of the Gods: Area 4",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 356,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3647,
+      "name": "Elemental Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3585,
+      "name": "God Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3634,
+      "name": "Knit Fabric",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3628,
+      "name": "Prism Ring (Earth)",
+      "type_id": 15,
+      "type_label": "[Magic Device]"
+    }
+  ]
+}

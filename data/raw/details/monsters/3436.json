@@ -1,0 +1,46 @@
+{
+  "id": 3436,
+  "name": "Chapone",
+  "level": 285,
+  "map_id": 671,
+  "map_name": "Ruhig Trail",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 405,
+  "element_id": -1,
+  "element_label": "Unknown",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "Update 03/26/26",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 8448,
+      "name": "Iron Blue Katana",
+      "type_id": 27,
+      "type_label": "[Katana]"
+    },
+    {
+      "id": 8446,
+      "name": "Latticed Skull",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 8447,
+      "name": "Misty Violet Veil",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 8445,
+      "name": "Supple Hide",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

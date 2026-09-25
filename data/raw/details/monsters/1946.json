@@ -1,0 +1,46 @@
+{
+  "id": 1946,
+  "name": "Alpoca",
+  "level": 155,
+  "map_id": 339,
+  "map_name": "Dikkit Sector",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 10000,
+  "exp": 178,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4386,
+      "name": "Cushy Tail",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4444,
+      "name": "Fluffy Cape",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 4387,
+      "name": "Smooth Fine Hair",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4443,
+      "name": "Tasty Grass",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

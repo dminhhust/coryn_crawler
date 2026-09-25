@@ -1,0 +1,70 @@
+{
+  "id": 1179,
+  "name": "Ultimate Machina",
+  "level": 179,
+  "map_id": 233,
+  "map_name": "Droma Square",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Ultimate",
+  "hp": 12500000,
+  "exp": 105000,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2897,
+      "name": "Amcrie",
+      "type_id": 26,
+      "type_label": "[Halberd]"
+    },
+    {
+      "id": 2899,
+      "name": "Iradium",
+      "type_id": 27,
+      "type_label": "[Katana]"
+    },
+    {
+      "id": 2896,
+      "name": "Machina Ring",
+      "type_id": 18,
+      "type_label": "[Special]"
+    },
+    {
+      "id": 2893,
+      "name": "Patched Flesh",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2895,
+      "name": "Sealed Eyeball",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2900,
+      "name": "Ultimate Machina",
+      "type_id": 210,
+      "type_label": "[Enhancer Crysta (Red)]"
+    },
+    {
+      "id": 2894,
+      "name": "Ultimate Machina Arm",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2898,
+      "name": "Ultimate Machina Claw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

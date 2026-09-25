@@ -1,0 +1,46 @@
+{
+  "id": 2054,
+  "name": "Marquis Colon",
+  "level": 161,
+  "map_id": 357,
+  "map_name": "Old Lufenas Mansion Ruins",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 11000,
+  "exp": 168,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4610,
+      "name": "Gladiator Helmet",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 4608,
+      "name": "Gorgeous Cupule",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4609,
+      "name": "Legume Button",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4607,
+      "name": "Standing Leaf Collar",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

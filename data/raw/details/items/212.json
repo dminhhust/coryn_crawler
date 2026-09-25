@@ -1,0 +1,14 @@
+{
+  "id": 212,
+  "name": "Strong Vine",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 6,
+  "process": 2,
+  "process_amount": 6,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

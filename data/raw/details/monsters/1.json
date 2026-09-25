@@ -1,0 +1,46 @@
+{
+  "id": 1,
+  "name": "Torpo",
+  "level": 7,
+  "map_id": 2,
+  "map_name": "Land Under Development",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 105,
+  "exp": 4,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 62,
+      "name": "Dirty Nail",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 539,
+      "name": "Pointed Hat",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 170,
+      "name": "Rat Hair",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 238,
+      "name": "Woodchip",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

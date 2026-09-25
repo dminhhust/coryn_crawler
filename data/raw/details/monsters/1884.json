@@ -1,0 +1,40 @@
+{
+  "id": 1884,
+  "name": "Puppet Dragon",
+  "level": 139,
+  "map_id": 324,
+  "map_name": "Joulu House: Center (Lv 130)",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 20000,
+  "exp": 418,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": true,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3602,
+      "name": "Crystal String",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4317,
+      "name": "Gift Plushie",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3739,
+      "name": "Tenebrosity Bow",
+      "type_id": 9,
+      "type_label": "[Bow]"
+    }
+  ]
+}

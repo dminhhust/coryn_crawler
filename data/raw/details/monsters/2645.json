@@ -1,0 +1,52 @@
+{
+  "id": 2645,
+  "name": "Ignitrus",
+  "level": 251,
+  "map_id": 470,
+  "map_name": "Vulcani Crater Base",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 49022,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6216,
+      "name": "Burning Desire",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6217,
+      "name": "Combat Knife",
+      "type_id": 27,
+      "type_label": "[Katana]"
+    },
+    {
+      "id": 6218,
+      "name": "Ignitrus",
+      "type_id": 24,
+      "type_label": "[Special Crysta]"
+    },
+    {
+      "id": 6210,
+      "name": "Rhyolite",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6209,
+      "name": "Vulcani Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

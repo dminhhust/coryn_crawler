@@ -1,0 +1,14 @@
+{
+  "id": 4933,
+  "name": "Pumpkin Seeds",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 14,
+  "process": 5,
+  "process_amount": 15,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

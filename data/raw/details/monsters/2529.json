@@ -1,0 +1,46 @@
+{
+  "id": 2529,
+  "name": "Iceberg",
+  "level": 200,
+  "map_id": 447,
+  "map_name": "Noeliel Castle: B1F (190-210)",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 1080,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5923,
+      "name": "Cake Head",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 5935,
+      "name": "Dull Crest",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5947,
+      "name": "Durable Leather",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5719,
+      "name": "Short Mandibular Fang",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

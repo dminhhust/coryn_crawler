@@ -1,0 +1,46 @@
+{
+  "id": 3111,
+  "name": "Anchorsea",
+  "level": 234,
+  "map_id": 550,
+  "map_name": "Seabed",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 371,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7430,
+      "name": "Anchor Tail",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7432,
+      "name": "Anger Knife",
+      "type_id": 11,
+      "type_label": "[Dagger]"
+    },
+    {
+      "id": 7431,
+      "name": "Longevity Eyebrow",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7429,
+      "name": "Tangled Rope",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

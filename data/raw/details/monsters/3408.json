@@ -1,0 +1,21 @@
+{
+  "id": 3408,
+  "name": "Deformis",
+  "level": 317,
+  "map_id": 601,
+  "map_name": "Eumano Village Ruins: Central",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Ultimate",
+  "hp": 0,
+  "exp": 0,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": []
+}

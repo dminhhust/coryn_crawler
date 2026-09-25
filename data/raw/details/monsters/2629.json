@@ -1,0 +1,46 @@
+{
+  "id": 2629,
+  "name": "Geomal",
+  "level": 208,
+  "map_id": 467,
+  "map_name": "Mt. Vulcani: Area 2",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 37000,
+  "exp": 576,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 242,
+      "name": "Damascus Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 6187,
+      "name": "Magma Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6186,
+      "name": "Molten Rock",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6188,
+      "name": "Sunlight Wings",
+      "type_id": 15,
+      "type_label": "[Magic Device]"
+    }
+  ]
+}

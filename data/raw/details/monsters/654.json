@@ -1,0 +1,52 @@
+{
+  "id": 654,
+  "name": "Hound",
+  "level": 15,
+  "map_id": 9,
+  "map_name": "Isthmus Of Kaus",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 250,
+  "exp": 18,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4,
+      "name": "Animal Claw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 278,
+      "name": "ASPD+20",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 484,
+      "name": "Hard Wood Bow",
+      "type_id": 9,
+      "type_label": "[Bow]"
+    },
+    {
+      "id": 243,
+      "name": "Hematite",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 236,
+      "name": "Wolf Fur",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

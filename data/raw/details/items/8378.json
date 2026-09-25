@@ -1,0 +1,14 @@
+{
+  "id": 8378,
+  "name": "Colorful Macaron",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 1,
+  "process": 5,
+  "process_amount": 1,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

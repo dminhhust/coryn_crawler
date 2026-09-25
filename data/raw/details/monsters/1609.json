@@ -1,0 +1,46 @@
+{
+  "id": 1609,
+  "name": "Ivy",
+  "level": 151,
+  "map_id": 295,
+  "map_name": "Dark Dragon Shrine: Middle",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 19464,
+  "exp": 380,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3785,
+      "name": "Ivy Vine",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3787,
+      "name": "Potato",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 3788,
+      "name": "Spiky Arrow",
+      "type_id": 7,
+      "type_label": "[Arrow]"
+    },
+    {
+      "id": 3786,
+      "name": "Young Thick Branch",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

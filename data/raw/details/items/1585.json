@@ -1,0 +1,14 @@
+{
+  "id": 1585,
+  "name": "Goblin's Big Nail",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 12,
+  "process": 1,
+  "process_amount": 13,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

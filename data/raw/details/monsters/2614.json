@@ -1,0 +1,34 @@
+{
+  "id": 2614,
+  "name": "Pom Knitted Outfit Set",
+  "level": 0,
+  "map_id": 394,
+  "map_name": "Snowball Mini Game Venue",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 0,
+  "exp": 0,
+  "element_id": -1,
+  "element_label": "Unknown",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6151,
+      "name": "Comfy Pom Knit Sweater",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 6150,
+      "name": "Pom Knit Cap",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

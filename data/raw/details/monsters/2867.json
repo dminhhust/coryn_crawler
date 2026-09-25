@@ -1,0 +1,46 @@
+{
+  "id": 2867,
+  "name": "Caverant",
+  "level": 215,
+  "map_id": 509,
+  "map_name": "Tunnel of Trials",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 21511,
+  "exp": 339,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6769,
+      "name": "ASPD+140",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 6767,
+      "name": "Hard Body",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6768,
+      "name": "Hot Entisyrup",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6766,
+      "name": "Hot Jaw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

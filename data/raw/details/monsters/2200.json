@@ -1,0 +1,64 @@
+{
+  "id": 2200,
+  "name": "Suspicious Old Box",
+  "level": 0,
+  "map_id": 88,
+  "map_name": "-",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 0,
+  "exp": 0,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3818,
+      "name": "Black Gold Coin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3815,
+      "name": "Dark Talisman (Flash)",
+      "type_id": 18,
+      "type_label": "[Special]"
+    },
+    {
+      "id": 3814,
+      "name": "Dark Talisman (Magic)",
+      "type_id": 18,
+      "type_label": "[Special]"
+    },
+    {
+      "id": 3813,
+      "name": "Dark Talisman (Power)",
+      "type_id": 18,
+      "type_label": "[Special]"
+    },
+    {
+      "id": 3816,
+      "name": "Dark Talisman (Resist)",
+      "type_id": 18,
+      "type_label": "[Special]"
+    },
+    {
+      "id": 3817,
+      "name": "Dark Talisman (Unknown)",
+      "type_id": 18,
+      "type_label": "[Special]"
+    },
+    {
+      "id": 3819,
+      "name": "Dragoon Scale",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": 335,
+  "name": "Orichalcum",
+  "type_id": 16,
+  "type_label": "[Ore]",
+  "sell": 160,
+  "process": 3,
+  "process_amount": 31,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

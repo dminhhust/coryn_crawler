@@ -1,0 +1,52 @@
+{
+  "id": 2090,
+  "name": "Sand Bandits Leader",
+  "level": 215,
+  "map_id": 365,
+  "map_name": "Geist Desert: Area 3",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 48500,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4691,
+      "name": "Blood Stained Billhook",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4701,
+      "name": "Leader's Hair Accessory",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4702,
+      "name": "Sand Bandit Mask",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 4690,
+      "name": "Sand Bandits Bandage",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4703,
+      "name": "Sand Bandits Leader",
+      "type_id": 240,
+      "type_label": "[Enhancer Crysta (Purple)]"
+    }
+  ]
+}

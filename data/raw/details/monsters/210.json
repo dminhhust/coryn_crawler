@@ -1,0 +1,46 @@
+{
+  "id": 210,
+  "name": "Kijimu",
+  "level": 44,
+  "map_id": 64,
+  "map_name": "Korda Basin",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 2000,
+  "exp": 64,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 63,
+      "name": "Dried Wood",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 78,
+      "name": "Flower Nectar",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 158,
+      "name": "Petal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 556,
+      "name": "Spiky Bandana",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

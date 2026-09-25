@@ -1,0 +1,27 @@
+{
+  "id": 4653,
+  "name": "Magic Lantern",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 0,
+  "process": 0,
+  "process_amount": 0,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 15,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 34,
+      "effect_name": "Accuracy %",
+      "amount": 10,
+      "applies_to": 0
+    }
+  ]
+}

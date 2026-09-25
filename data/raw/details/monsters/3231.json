@@ -1,0 +1,46 @@
+{
+  "id": 3231,
+  "name": "Terratulin",
+  "level": 254,
+  "map_id": 600,
+  "map_name": "Eumano Village Ruins: Area 3",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Easy",
+  "hp": 0,
+  "exp": 81,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 78,
+      "name": "Flower Nectar",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 7724,
+      "name": "Green Petal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7725,
+      "name": "Healthy Bulb",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7726,
+      "name": "Sphere Staff",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+[console_scripts]
+coryn-crawl = coryn_crawler.cli:main

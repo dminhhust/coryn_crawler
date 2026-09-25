@@ -1,0 +1,58 @@
+{
+  "id": 3470,
+  "name": "Squirinja",
+  "level": 300,
+  "map_id": 689,
+  "map_name": "Mt. White Peach: Depth",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Very Hard",
+  "hp": 21270000,
+  "exp": 124200,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 8496,
+      "name": "Beastmaster Scroll",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    },
+    {
+      "id": 8492,
+      "name": "Flying Squirrel Patagium",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 8491,
+      "name": "Mt. White Peach Pebble",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 911,
+      "name": "Orichalcum Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 8107,
+      "name": "Squirinja",
+      "type_id": 220,
+      "type_label": "[Enhancer Crysta (Green)]"
+    },
+    {
+      "id": 8495,
+      "name": "Squirinja Head",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

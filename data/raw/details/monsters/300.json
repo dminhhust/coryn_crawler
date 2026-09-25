@@ -1,0 +1,46 @@
+{
+  "id": 300,
+  "name": "Gob Roga",
+  "level": 43,
+  "map_id": 89,
+  "map_name": "Ethos Fortress",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 2250,
+  "exp": 75,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 114,
+      "name": "Jagged Fang",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1034,
+      "name": "Knight Feather Helm",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 187,
+      "name": "Saw-toothed Edge",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1033,
+      "name": "Worn-out Shoulder Pad",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 8528,
+  "name": "Brigand Coat",
+  "type_id": 8,
+  "type_label": "[Armor]",
+  "sell": 290,
+  "process": 4,
+  "process_amount": 145,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 175,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 113,
+      "effect_name": "Potential",
+      "amount": 62,
+      "applies_to": 0
+    }
+  ]
+}

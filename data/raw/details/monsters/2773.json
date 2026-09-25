@@ -1,0 +1,46 @@
+{
+  "id": 2773,
+  "name": "Melancia",
+  "level": 225,
+  "map_id": 488,
+  "map_name": "Phasma Forest: Area 2",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 55307,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1440,
+      "name": "Flower Nectar (Bouquet)",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 6592,
+      "name": "Grilled Eggplant",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 6593,
+      "name": "Melancia",
+      "type_id": 200,
+      "type_label": "[Enhancer Crysta (Blue)]"
+    },
+    {
+      "id": 6589,
+      "name": "Salad Dressing",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

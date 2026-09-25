@@ -1,0 +1,46 @@
+{
+  "id": 2682,
+  "name": "Pedrio",
+  "level": 265,
+  "map_id": 404,
+  "map_name": "High Difficulty Boss Battle Event Venue",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 65000000,
+  "exp": 425000,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6319,
+      "name": "Legendary Raven Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 335,
+      "name": "Orichalcum",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 6321,
+      "name": "Pedrio",
+      "type_id": 210,
+      "type_label": "[Enhancer Crysta (Red)]"
+    },
+    {
+      "id": 6320,
+      "name": "Yatagarasu",
+      "type_id": 27,
+      "type_label": "[Katana]"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": 3283,
+  "name": "The Great Witch of Crow",
+  "type_id": 22,
+  "type_label": "[Armor Crysta]",
+  "sell": 1,
+  "process": 6,
+  "process_amount": 100,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 24,
+      "effect_name": "Stability %",
+      "amount": 4,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 57,
+      "effect_name": "Ailment Resistance %",
+      "amount": -14,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 71,
+      "effect_name": "Motion Speed %",
+      "amount": 2,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 175,
+      "effect_name": "Absolute Accuracy %",
+      "amount": 1,
+      "applies_to": 0
+    }
+  ]
+}

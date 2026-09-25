@@ -1,0 +1,46 @@
+{
+  "id": 2416,
+  "name": "Amiya",
+  "level": 171,
+  "map_id": 414,
+  "map_name": "Underwater Canyon: Area 1",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 44500,
+  "exp": 861,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": true,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5677,
+      "name": "Glowing Sea Talisman",
+      "type_id": 18,
+      "type_label": "[Special]"
+    },
+    {
+      "id": 5675,
+      "name": "Peach Pink Antenna",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5673,
+      "name": "Seabed Crystal Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5676,
+      "name": "Sweet Shrimp",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

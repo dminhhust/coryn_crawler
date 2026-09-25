@@ -1,0 +1,45 @@
+{
+  "id": 7655,
+  "name": "Interesse Tiara",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 300,
+  "process": 6,
+  "process_amount": 100,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 80,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 5,
+      "effect_name": "INT",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 19,
+      "effect_name": "MaxMP",
+      "amount": 1200,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 32,
+      "effect_name": "Magic Resistance %",
+      "amount": 40,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 61,
+      "effect_name": "Aggro %",
+      "amount": -56,
+      "applies_to": 0
+    }
+  ]
+}

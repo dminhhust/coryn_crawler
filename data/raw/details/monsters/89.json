@@ -1,0 +1,46 @@
+{
+  "id": 89,
+  "name": "Helm Colon",
+  "level": 18,
+  "map_id": 24,
+  "map_name": "Marbaro Forest",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 360,
+  "exp": 15,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 48,
+      "name": "Colon Leaf",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 49,
+      "name": "Colon Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 243,
+      "name": "Hematite",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 508,
+      "name": "Light Shield",
+      "type_id": 17,
+      "type_label": "[Shield]"
+    }
+  ]
+}

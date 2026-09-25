@@ -1,0 +1,46 @@
+{
+  "id": 2789,
+  "name": "Brasso",
+  "level": 218,
+  "map_id": 492,
+  "map_name": "Operation Zone: Residential Area",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 50250,
+  "exp": 728,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6627,
+      "name": "Brasso Claw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6628,
+      "name": "Dragon Helmet",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 6625,
+      "name": "Torn Dragon Wing",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6626,
+      "name": "Wyvern Horn",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 227,
+  "name": "Farfara",
+  "level": 40,
+  "map_id": 70,
+  "map_name": "Darkanon Plain",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 800,
+  "exp": 28,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 20,
+      "name": "Blue Butterfly Wing",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 451,
+      "name": "Butterfly Ribbon",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 42,
+      "name": "Butterfly Wing",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 78,
+      "name": "Flower Nectar",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

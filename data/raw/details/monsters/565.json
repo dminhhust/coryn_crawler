@@ -1,0 +1,52 @@
+{
+  "id": 565,
+  "name": "Cerabes (Hanami 2017)",
+  "level": 80,
+  "map_id": 152,
+  "map_name": "Hanami Venue: Summit",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 430000,
+  "exp": 3600,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1720,
+      "name": "Adventurer's Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 1918,
+      "name": "Broken Yozakura Branch",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1925,
+      "name": "Cerabes",
+      "type_id": 22,
+      "type_label": "[Armor Crysta]"
+    },
+    {
+      "id": 1919,
+      "name": "Cerabes Fang",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1924,
+      "name": "Yozakura Bangle",
+      "type_id": 18,
+      "type_label": "[Special]"
+    }
+  ]
+}

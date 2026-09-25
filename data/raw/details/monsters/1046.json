@@ -1,0 +1,70 @@
+{
+  "id": 1046,
+  "name": "Lalvada",
+  "level": 147,
+  "map_id": 201,
+  "map_name": "Monster's Forest: Deep Part",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Nightmare",
+  "hp": 3000000,
+  "exp": 30000,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2601,
+      "name": "Caro Tesla",
+      "type_id": 27,
+      "type_label": "[Katana]"
+    },
+    {
+      "id": 2596,
+      "name": "Forest Spirit's Kotodama",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2598,
+      "name": "Forest Spirit's Robe",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2602,
+      "name": "Lalvada",
+      "type_id": 240,
+      "type_label": "[Enhancer Crysta (Purple)]"
+    },
+    {
+      "id": 2597,
+      "name": "Magic Charged Rock",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2595,
+      "name": "Mystic Crystal Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2599,
+      "name": "Spirit's Tear",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    },
+    {
+      "id": 2600,
+      "name": "Waldfee",
+      "type_id": 5,
+      "type_label": "[2 Handed Sword]"
+    }
+  ]
+}

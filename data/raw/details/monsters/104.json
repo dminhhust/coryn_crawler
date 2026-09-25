@@ -1,0 +1,46 @@
+{
+  "id": 104,
+  "name": "Rutin",
+  "level": 26,
+  "map_id": 28,
+  "map_name": "Nisel Mountain: Mountainside",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 750,
+  "exp": 32,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 99,
+      "name": "Hard Dragon Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 114,
+      "name": "Jagged Fang",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 120,
+      "name": "Little Wyvern Wing",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 509,
+      "name": "Long Bow",
+      "type_id": 9,
+      "type_label": "[Bow]"
+    }
+  ]
+}

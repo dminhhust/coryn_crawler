@@ -1,0 +1,46 @@
+{
+  "id": 3440,
+  "name": "Dendro",
+  "level": 292,
+  "map_id": 672,
+  "map_name": "Wizka Forest",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 1169,
+  "element_id": -1,
+  "element_label": "Unknown",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "Update 03/26/26",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 8455,
+      "name": "Eerie Mask",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 8456,
+      "name": "Tree Spirit Talisman",
+      "type_id": 18,
+      "type_label": "[Special]"
+    },
+    {
+      "id": 8453,
+      "name": "Twisted Woodchip",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 8454,
+      "name": "Wooden Spring",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

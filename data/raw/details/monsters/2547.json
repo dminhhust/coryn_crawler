@@ -1,0 +1,46 @@
+{
+  "id": 2547,
+  "name": "Torturock",
+  "level": 199,
+  "map_id": 453,
+  "map_name": "Prime Ramus: Area 2",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 40000,
+  "exp": 663,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5919,
+      "name": "Laguna Sword",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    },
+    {
+      "id": 5957,
+      "name": "Rock-Hard Carapace",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5958,
+      "name": "Serrated Beak",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5959,
+      "name": "Tortoise Oil",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

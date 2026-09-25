@@ -1,0 +1,76 @@
+{
+  "id": 2204,
+  "name": "Rainy Season Event",
+  "level": 0,
+  "map_id": 87,
+  "map_name": "Event",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 0,
+  "exp": 0,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2904,
+      "name": "Frog Hat",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 2906,
+      "name": "Hydrangea",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2920,
+      "name": "Iris Ark Bow",
+      "type_id": 9,
+      "type_label": "[Bow]"
+    },
+    {
+      "id": 5462,
+      "name": "Iris Ark Staff",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    },
+    {
+      "id": 2902,
+      "name": "Regera (Purple)",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 2901,
+      "name": "Revita (Purple)",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 2903,
+      "name": "Sauteed Butter Snails",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 5107,
+      "name": "Solar Ring",
+      "type_id": 18,
+      "type_label": "[Special]"
+    },
+    {
+      "id": 2905,
+      "name": "Teru Teru Bozu",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

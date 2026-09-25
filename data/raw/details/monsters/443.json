@@ -1,0 +1,52 @@
+{
+  "id": 443,
+  "name": "Ghost Potum",
+  "level": 66,
+  "map_id": 126,
+  "map_name": "Calle mort",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 61,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1505,
+      "name": "Filthy Bandage",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1508,
+      "name": "Potum Talisman",
+      "type_id": 18,
+      "type_label": "[Special]"
+    },
+    {
+      "id": 1506,
+      "name": "Potum's Soul",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1504,
+      "name": "Purification Salt",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1507,
+      "name": "Unknown Luminous Object",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

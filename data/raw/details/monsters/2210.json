@@ -1,0 +1,52 @@
+{
+  "id": 2210,
+  "name": "Acernix",
+  "level": 160,
+  "map_id": 386,
+  "map_name": "Tomte Pavillion (150-170)",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": -1,
+  "element_id": -1,
+  "element_label": "Unknown",
+  "tameable": true,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4456,
+      "name": "Aquarator",
+      "type_id": 15,
+      "type_label": "[Magic Device]"
+    },
+    {
+      "id": 4615,
+      "name": "Citrine Eye",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4454,
+      "name": "Hard Water",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 5109,
+      "name": "Holy Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4688,
+      "name": "Spirit Staff",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    }
+  ]
+}

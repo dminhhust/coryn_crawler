@@ -1,0 +1,14 @@
+{
+  "id": 5367,
+  "name": "Powerful Jagged Tooth",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 27,
+  "process": 1,
+  "process_amount": 27,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

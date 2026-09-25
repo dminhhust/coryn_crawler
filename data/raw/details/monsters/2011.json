@@ -1,0 +1,64 @@
+{
+  "id": 2011,
+  "name": "Gravicep",
+  "level": 224,
+  "map_id": 348,
+  "map_name": "Recetacula Sector: Depot Rooftop",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Ultimate",
+  "hp": 51500000,
+  "exp": 191900,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4537,
+      "name": "Gravicep",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 4540,
+      "name": "Gravicep Accessory Chip",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4534,
+      "name": "Gravicep Claw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4536,
+      "name": "Gravicep Eye Crest",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4535,
+      "name": "Gravicep Huge Arm",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4539,
+      "name": "Mortal Lamina",
+      "type_id": 27,
+      "type_label": "[Katana]"
+    },
+    {
+      "id": 4538,
+      "name": "Mortal Slate",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    }
+  ]
+}

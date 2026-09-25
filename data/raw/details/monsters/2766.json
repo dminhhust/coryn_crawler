@@ -1,0 +1,52 @@
+{
+  "id": 2766,
+  "name": "Neewollah (Very Hard)",
+  "level": 225,
+  "map_id": 486,
+  "map_name": "Manor of Surprises: Grand Hall",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 4500000,
+  "exp": 20130,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5907,
+      "name": "Crimson One-Eyed Wolf",
+      "type_id": 21,
+      "type_label": "[Weapon Crysta]"
+    },
+    {
+      "id": 5908,
+      "name": "Halloween Garb III",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 5901,
+      "name": "Neewollah",
+      "type_id": 230,
+      "type_label": "[Enhancer Crysta (Yellow)]"
+    },
+    {
+      "id": 911,
+      "name": "Orichalcum Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 1463,
+      "name": "Sweets Box",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": 939,
+  "name": "Potumkin",
+  "level": 50,
+  "map_id": 177,
+  "map_name": "Halloween Castle: Entrance",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 3000,
+  "exp": -1,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": true,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1493,
+      "name": "Barmbrack",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1491,
+      "name": "Ginger Cake",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1492,
+      "name": "Jack Pudding",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1494,
+      "name": "Pumpkin Candy",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1490,
+      "name": "Pumpkin Cookie",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1496,
+      "name": "Pumpkin Soup",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1495,
+      "name": "Zombie Cake",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

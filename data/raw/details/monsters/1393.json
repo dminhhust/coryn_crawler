@@ -1,0 +1,52 @@
+{
+  "id": 1393,
+  "name": "Hero Potum (10M DL)",
+  "level": 150,
+  "map_id": 79,
+  "map_name": "Sofya City: Government Office",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Easy",
+  "hp": 180000,
+  "exp": 1300,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3352,
+      "name": "Hero Shield (Pom)",
+      "type_id": 17,
+      "type_label": "[Shield]"
+    },
+    {
+      "id": 3353,
+      "name": "Hero Sword (Pom)",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    },
+    {
+      "id": 3203,
+      "name": "Heroic Butter Cake",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 3202,
+      "name": "Heroic Revita",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 911,
+      "name": "Orichalcum Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    }
+  ]
+}

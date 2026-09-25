@@ -1,0 +1,14 @@
+{
+  "id": 2906,
+  "name": "Hydrangea",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 100,
+  "process": 5,
+  "process_amount": 100,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

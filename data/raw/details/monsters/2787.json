@@ -1,0 +1,46 @@
+{
+  "id": 2787,
+  "name": "Smocky",
+  "level": 218,
+  "map_id": 491,
+  "map_name": "Operation Zone: Power Control Area",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 40200,
+  "exp": 555,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6633,
+      "name": "Shattered Silver Crest",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6635,
+      "name": "Smoke Curse",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6634,
+      "name": "Solid Fuel",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 6636,
+      "name": "Storm Radar",
+      "type_id": 15,
+      "type_label": "[Magic Device]"
+    }
+  ]
+}

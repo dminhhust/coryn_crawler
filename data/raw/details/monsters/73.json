@@ -1,0 +1,40 @@
+{
+  "id": 73,
+  "name": "Crimsosh",
+  "level": 37,
+  "map_id": 20,
+  "map_name": "Athema Ruins: Area 2",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "Normal",
+  "hp": 22500,
+  "exp": 500,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 436,
+      "name": "Adventurer's Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 287,
+      "name": "Crimsosch",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 461,
+      "name": "Dawn Hat",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

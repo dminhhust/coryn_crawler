@@ -1,0 +1,33 @@
+{
+  "id": 4046,
+  "name": "Katze Gloves",
+  "type_id": 13,
+  "type_label": "[Knuckles]",
+  "sell": 150,
+  "process": 4,
+  "process_amount": 75,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 155,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 90,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 113,
+      "effect_name": "Potential",
+      "amount": 39,
+      "applies_to": 0
+    }
+  ]
+}

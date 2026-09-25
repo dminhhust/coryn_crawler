@@ -1,0 +1,46 @@
+{
+  "id": 2786,
+  "name": "Spaleon",
+  "level": 217,
+  "map_id": 491,
+  "map_name": "Operation Zone: Power Control Area",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 49795,
+  "exp": 722,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6629,
+      "name": "Dented Chestplate",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6632,
+      "name": "Dragon Slayer",
+      "type_id": 5,
+      "type_label": "[2 Handed Sword]"
+    },
+    {
+      "id": 6630,
+      "name": "Elongated Tongue",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6631,
+      "name": "Nimble Tail",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

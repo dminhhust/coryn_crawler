@@ -1,0 +1,14 @@
+{
+  "id": 8466,
+  "name": "Shark Meat Steak",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 28,
+  "process": 5,
+  "process_amount": 28,
+  "meta": {
+    "badge": "Summer Event 2025",
+    "note": ""
+  },
+  "stats": []
+}

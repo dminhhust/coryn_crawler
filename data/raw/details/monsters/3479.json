@@ -1,0 +1,40 @@
+{
+  "id": 3479,
+  "name": "Onivant",
+  "level": 262,
+  "map_id": 692,
+  "map_name": "Early Sakura Shrine: Fortress Path",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 92620,
+  "exp": 1422,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 78,
+      "name": "Flower Nectar",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1065,
+      "name": "Toram Liquor",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 8508,
+      "name": "Young Oni Sacred Rope",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

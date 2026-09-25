@@ -1,0 +1,39 @@
+{
+  "id": 4664,
+  "name": "Mohawk Wig",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 87,
+  "process": 4,
+  "process_amount": 43,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 200,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 31,
+      "effect_name": "Physical Resistance %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 38,
+      "effect_name": "ASPD %",
+      "amount": 30,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 104,
+      "effect_name": "Revive Time %",
+      "amount": -20,
+      "applies_to": 0
+    }
+  ]
+}

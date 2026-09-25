@@ -1,0 +1,27 @@
+{
+  "id": 539,
+  "name": "Pointed Hat",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 2,
+  "process": 4,
+  "process_amount": 2,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 3,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 19,
+      "effect_name": "MaxMP",
+      "amount": 50,
+      "applies_to": 0
+    }
+  ]
+}

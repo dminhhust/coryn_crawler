@@ -1,0 +1,45 @@
+{
+  "id": 6006,
+  "name": "Integridar",
+  "type_id": 5,
+  "type_label": "[2 Handed Sword]",
+  "sell": 1,
+  "process": 6,
+  "process_amount": 1000,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 630,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 17,
+      "effect_name": "MaxHP",
+      "amount": 10000,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 33,
+      "effect_name": "Accuracy",
+      "amount": 200,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 70,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 127,
+      "effect_name": "Fractional Barrier %",
+      "amount": 25,
+      "applies_to": 0
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 604,
+  "name": "Black Mist Candy",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": -1,
+  "process": -1,
+  "process_amount": -1,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 59,
+      "effect_name": "Guard Recharge %",
+      "amount": -5,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 60,
+      "effect_name": "Evasion Recharge %",
+      "amount": 5,
+      "applies_to": 0
+    }
+  ]
+}

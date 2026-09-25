@@ -1,0 +1,14 @@
+{
+  "id": 8479,
+  "name": "Leafy Sakura Stone",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 25,
+  "process": 3,
+  "process_amount": 25,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

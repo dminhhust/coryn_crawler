@@ -1,0 +1,46 @@
+{
+  "id": 3364,
+  "name": "Lavulago",
+  "level": 283,
+  "map_id": 656,
+  "map_name": "Grazen Forecourt",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 432,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "Update 02/26/26",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 8393,
+      "name": "Crystal Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 8392,
+      "name": "Mineral Claw",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 8402,
+      "name": "Pincer Tail",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 8403,
+      "name": "Rockbreaker Naginata",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    }
+  ]
+}

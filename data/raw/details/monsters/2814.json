@@ -1,0 +1,58 @@
+{
+  "id": 2814,
+  "name": "Filrocas",
+  "level": 231,
+  "map_id": 498,
+  "map_name": "Royal Dragon Cocoon Chamber",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Easy",
+  "hp": 576000,
+  "exp": 2440,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6709,
+      "name": "Filrocas Arms",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    },
+    {
+      "id": 6708,
+      "name": "Filrocas Core",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6710,
+      "name": "Filrocas Sword",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    },
+    {
+      "id": 6706,
+      "name": "Filrocas' Blue Eye",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6705,
+      "name": "Strange Crystal Fang",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6704,
+      "name": "Strange Rubber Fiber",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

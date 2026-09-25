@@ -1,0 +1,21 @@
+{
+  "id": 4595,
+  "name": "Fish Bone Chips",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 0,
+  "process": 6,
+  "process_amount": 1,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 79,
+      "effect_name": "HP",
+      "amount": 250,
+      "applies_to": 0
+    }
+  ]
+}

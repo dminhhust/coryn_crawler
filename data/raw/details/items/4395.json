@@ -1,0 +1,39 @@
+{
+  "id": 4395,
+  "name": "Kuzto Mask",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 90,
+  "process": 2,
+  "process_amount": 45,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 105,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 17,
+      "effect_name": "MaxHP",
+      "amount": 5000,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 127,
+      "effect_name": "Fractional Barrier %",
+      "amount": 25,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 173,
+      "effect_name": "Reduce Dmg (Floor) %",
+      "amount": -50,
+      "applies_to": 0
+    }
+  ]
+}

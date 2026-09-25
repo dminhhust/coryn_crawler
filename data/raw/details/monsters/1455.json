@@ -1,0 +1,52 @@
+{
+  "id": 1455,
+  "name": "Ice Evil Clock",
+  "level": 137,
+  "map_id": 263,
+  "map_name": "Noeliel Castle Entrance (120-140)",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 20000,
+  "exp": 322,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3330,
+      "name": "Curved Edge",
+      "type_id": 5,
+      "type_label": "[2 Handed Sword]"
+    },
+    {
+      "id": 3454,
+      "name": "Frozen Gear",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3453,
+      "name": "Frozen Iron Fragment",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3455,
+      "name": "Frozen Magic Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3209,
+      "name": "Plant Arm",
+      "type_id": 15,
+      "type_label": "[Magic Device]"
+    }
+  ]
+}

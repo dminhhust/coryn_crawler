@@ -1,0 +1,52 @@
+{
+  "id": 1422,
+  "name": "Yashiro Azuki (Lv60)",
+  "level": 100,
+  "map_id": 87,
+  "map_name": "Event",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Hard",
+  "hp": 960000,
+  "exp": 6900,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3357,
+      "name": "Plastic Fragment",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 902,
+      "name": "Revita IV",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 3358,
+      "name": "Sacred Light Page",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1976,
+      "name": "Super Anti-Degradation",
+      "type_id": 2,
+      "type_label": "[Refinement Support]"
+    },
+    {
+      "id": 3363,
+      "name": "Yashiro Azuki",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    }
+  ]
+}

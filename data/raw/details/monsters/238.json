@@ -1,0 +1,46 @@
+{
+  "id": 238,
+  "name": "Black Jelly",
+  "level": 47,
+  "map_id": 72,
+  "map_name": "Ancient Empress Tomb: Area 1",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 196,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 626,
+      "name": "Black Gelatin",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 625,
+      "name": "Black Liquid Ink",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 624,
+      "name": "High-Purity Oil",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 543,
+      "name": "Ribbon",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

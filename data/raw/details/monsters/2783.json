@@ -1,0 +1,46 @@
+{
+  "id": 2783,
+  "name": "Eyeloon",
+  "level": 210,
+  "map_id": 490,
+  "map_name": "Freight Corridor",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 32665,
+  "exp": 489,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6619,
+      "name": "Blowtorch",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6617,
+      "name": "Crushed Gas Canister",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6618,
+      "name": "Eye Balloon Fragment",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6620,
+      "name": "Luster Shield",
+      "type_id": 17,
+      "type_label": "[Shield]"
+    }
+  ]
+}

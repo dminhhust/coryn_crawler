@@ -1,0 +1,40 @@
+{
+  "id": 1892,
+  "name": "Santabby",
+  "level": 154,
+  "map_id": 327,
+  "map_name": "Joulu House: Center (Lv 150)",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 40000,
+  "exp": 705,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": true,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3503,
+      "name": "Beautiful Pebble",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 816,
+      "name": "Mithril Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 4321,
+      "name": "Poinsettia Hair Ornament",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

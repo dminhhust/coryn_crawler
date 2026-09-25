@@ -1,0 +1,33 @@
+{
+  "id": 4262,
+  "name": "Shotel",
+  "type_id": 4,
+  "type_label": "[1 Handed Sword]",
+  "sell": 150,
+  "process": 3,
+  "process_amount": 75,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 220,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 80,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 113,
+      "effect_name": "Potential",
+      "amount": 39,
+      "applies_to": 0
+    }
+  ]
+}

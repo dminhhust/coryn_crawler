@@ -1,0 +1,40 @@
+{
+  "id": 2324,
+  "name": "Gespenst",
+  "level": 225,
+  "map_id": 404,
+  "map_name": "High Difficulty Boss Battle Event Venue",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Ultimate",
+  "hp": -1,
+  "exp": -1,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2917,
+      "name": "Cursed Hood of Death",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 2915,
+      "name": "Evil Garb of Death",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 2916,
+      "name": "Gespenst II",
+      "type_id": 23,
+      "type_label": "[Additional Crysta]"
+    }
+  ]
+}

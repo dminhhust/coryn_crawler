@@ -1,0 +1,14 @@
+{
+  "id": 7722,
+  "name": "Excellent Firewood",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 28,
+  "process": 2,
+  "process_amount": 28,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

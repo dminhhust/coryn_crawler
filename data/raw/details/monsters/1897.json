@@ -1,0 +1,34 @@
+{
+  "id": 1897,
+  "name": "Inspector Golem",
+  "level": 164,
+  "map_id": 328,
+  "map_name": "Joulu House: Depot (Lv 150)",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 80000,
+  "exp": 1061,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": true,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4314,
+      "name": "Driver Bolt",
+      "type_id": 7,
+      "type_label": "[Arrow]"
+    },
+    {
+      "id": 4319,
+      "name": "Sacred Red Candle",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

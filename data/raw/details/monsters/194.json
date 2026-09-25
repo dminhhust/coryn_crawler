@@ -1,0 +1,46 @@
+{
+  "id": 194,
+  "name": "Kinote",
+  "level": 27,
+  "map_id": 58,
+  "map_name": "Nehelo Swamp",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 400,
+  "exp": 17,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 126,
+      "name": "Luminescent Moss",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 255,
+      "name": "Mushroom",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 529,
+      "name": "Mushroom Arrow",
+      "type_id": 7,
+      "type_label": "[Arrow]"
+    },
+    {
+      "id": 147,
+      "name": "Mushroom Spore",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

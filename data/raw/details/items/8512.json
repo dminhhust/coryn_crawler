@@ -1,0 +1,14 @@
+{
+  "id": 8512,
+  "name": "Ghostfire Bow",
+  "type_id": 9,
+  "type_label": "[Bow]",
+  "sell": 300,
+  "process": 2,
+  "process_amount": 150,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

@@ -1,0 +1,46 @@
+{
+  "id": 3366,
+  "name": "Tanti",
+  "level": 286,
+  "map_id": 658,
+  "map_name": "Grazen Tower : Level 1",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 894,
+  "element_id": -1,
+  "element_label": "Unknown",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "Update 02/26/26",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 8413,
+      "name": "Arm Corsets",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 8410,
+      "name": "Broken Detector",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 8412,
+      "name": "Spying Eye",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 8411,
+      "name": "Tubular Arm",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

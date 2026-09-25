@@ -1,0 +1,39 @@
+{
+  "id": 6583,
+  "name": "Floating Pumpkin Lanterns",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 185,
+  "process": 5,
+  "process_amount": 92,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 27,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 17,
+      "effect_name": "MaxHP",
+      "amount": 2000,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 124,
+      "effect_name": "Physical Barrier",
+      "amount": 2000,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 128,
+      "effect_name": "Magic Barrier",
+      "amount": 2000,
+      "applies_to": 0
+    }
+  ]
+}

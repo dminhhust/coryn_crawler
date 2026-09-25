@@ -1,0 +1,52 @@
+{
+  "id": 660,
+  "name": "Raffy",
+  "level": 10,
+  "map_id": 11,
+  "map_name": "Ruined Temple Town",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 134,
+  "exp": 6,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6,
+      "name": "Animal Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 80,
+      "name": "Fluffy Fur",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 317,
+      "name": "MP+50",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 543,
+      "name": "Ribbon",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 191,
+      "name": "Short Nail",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

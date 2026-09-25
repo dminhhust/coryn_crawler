@@ -1,0 +1,21 @@
+{
+  "id": 3503,
+  "name": "Arnold (Collab Battle Lv270)",
+  "level": 290,
+  "map_id": 695,
+  "map_name": "Grieving Souls Collab Venue For Lv190-270",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Nightmare",
+  "hp": 92000000,
+  "exp": 495000,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": []
+}

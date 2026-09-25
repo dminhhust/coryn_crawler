@@ -1,0 +1,21 @@
+{
+  "id": 7347,
+  "name": "Silver View Shrine",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 1,
+  "process": 6,
+  "process_amount": 1,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 313,
+      "effect_name": "Teleport to a mysterious place where you can get colored weapons",
+      "amount": 1,
+      "applies_to": 0
+    }
+  ]
+}

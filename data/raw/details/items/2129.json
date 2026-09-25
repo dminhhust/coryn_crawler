@@ -1,0 +1,14 @@
+{
+  "id": 2129,
+  "name": "Ifrid's Robot Leg",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 16,
+  "process": 3,
+  "process_amount": 16,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

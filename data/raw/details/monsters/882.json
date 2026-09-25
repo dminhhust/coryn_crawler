@@ -1,0 +1,52 @@
+{
+  "id": 882,
+  "name": "Demon's Gate",
+  "level": 50,
+  "map_id": 65,
+  "map_name": "Saham Crater",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Easy",
+  "hp": 180000,
+  "exp": 144,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 64,
+      "name": "Eerie Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 93,
+      "name": "Goddess Sculpture",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 148,
+      "name": "Nail of Demon's gate",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 542,
+      "name": "Relief Shield",
+      "type_id": 17,
+      "type_label": "[Shield]"
+    },
+    {
+      "id": 562,
+      "name": "Sword of Sin",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": 1001,
+  "name": "Freeze Ant",
+  "level": 111,
+  "map_id": 193,
+  "map_name": "Navida City: Crossroad (100-120)",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 234,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2340,
+      "name": "Bayonet",
+      "type_id": 10,
+      "type_label": "[Bowgun]"
+    },
+    {
+      "id": 1450,
+      "name": "Hard Leaf",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1582,
+      "name": "Ice Fragment",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2449,
+      "name": "Paladin Spear",
+      "type_id": 26,
+      "type_label": "[Halberd]"
+    },
+    {
+      "id": 1959,
+      "name": "Strange Essence",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

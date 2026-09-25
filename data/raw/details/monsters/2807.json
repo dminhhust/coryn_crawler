@@ -1,0 +1,46 @@
+{
+  "id": 2807,
+  "name": "Exdocus",
+  "level": 266,
+  "map_id": 495,
+  "map_name": "Stairway to Vital Point",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 50286,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6692,
+      "name": "Exdocus",
+      "type_id": 230,
+      "type_label": "[Enhancer Crysta (Yellow)]"
+    },
+    {
+      "id": 6684,
+      "name": "Solid Vertebra",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6685,
+      "name": "Stairway Pebble",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6691,
+      "name": "Strange Eye",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 8003,
+  "name": "DEX+8",
+  "type_id": 20,
+  "type_label": "[Normal Crysta]",
+  "sell": 1,
+  "process": 6,
+  "process_amount": 2,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 11,
+      "effect_name": "DEX",
+      "amount": 8,
+      "applies_to": 0
+    }
+  ]
+}

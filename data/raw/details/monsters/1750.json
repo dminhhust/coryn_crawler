@@ -1,0 +1,46 @@
+{
+  "id": 1750,
+  "name": "Wolfret",
+  "level": 156,
+  "map_id": 302,
+  "map_name": "Eryldan Street: Area 2",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 18000,
+  "exp": 400,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4075,
+      "name": "Lunar Rock",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4076,
+      "name": "Shotel",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    },
+    {
+      "id": 4074,
+      "name": "Werewolf Fang",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4073,
+      "name": "Werewolf Fur",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

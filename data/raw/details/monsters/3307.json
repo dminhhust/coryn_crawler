@@ -1,0 +1,46 @@
+{
+  "id": 3307,
+  "name": "Corey",
+  "level": 212,
+  "map_id": 629,
+  "map_name": "Tower of Clamor: Area 1 (210-214)",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 49450,
+  "exp": 794,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7479,
+      "name": "Clamor Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7038,
+      "name": "Flamma Blade",
+      "type_id": 5,
+      "type_label": "[2 Handed Sword]"
+    },
+    {
+      "id": 6331,
+      "name": "Gloomy Gaze",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5070,
+      "name": "Rubbery Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

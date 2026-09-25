@@ -1,0 +1,14 @@
+{
+  "id": 7932,
+  "name": "Blood Coffee",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 21,
+  "process": 6,
+  "process_amount": 45,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

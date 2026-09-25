@@ -1,0 +1,33 @@
+{
+  "id": 469,
+  "name": "Flower Headband",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 15,
+  "process": 5,
+  "process_amount": 7,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 7,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 24,
+      "effect_name": "Stability %",
+      "amount": -5,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 68,
+      "effect_name": "Attack MP Recovery",
+      "amount": 5,
+      "applies_to": 0
+    }
+  ]
+}

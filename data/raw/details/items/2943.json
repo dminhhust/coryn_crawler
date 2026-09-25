@@ -1,0 +1,39 @@
+{
+  "id": 2943,
+  "name": "Mechanic Hat",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 65,
+  "process": 4,
+  "process_amount": 32,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 63,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 12,
+      "effect_name": "DEX %",
+      "amount": 5,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 43,
+      "effect_name": "Critical Damage",
+      "amount": 3,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 57,
+      "effect_name": "Ailment Resistance %",
+      "amount": 4,
+      "applies_to": 0
+    }
+  ]
+}

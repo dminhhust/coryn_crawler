@@ -1,0 +1,40 @@
+{
+  "id": 1814,
+  "name": "Narumi Hina (Lv 50 Raid)",
+  "level": 40,
+  "map_id": 87,
+  "map_name": "Event",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Easy",
+  "hp": 8200,
+  "exp": 114,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 364,
+      "name": "Anti-Degradation",
+      "type_id": 2,
+      "type_label": "[Refinement Support]"
+    },
+    {
+      "id": 4251,
+      "name": "Dark Note Paper",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 588,
+      "name": "Revita II",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

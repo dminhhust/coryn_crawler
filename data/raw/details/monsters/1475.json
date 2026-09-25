@@ -1,0 +1,52 @@
+{
+  "id": 1475,
+  "name": "Ice Evil Clocl",
+  "level": 120,
+  "map_id": 270,
+  "map_name": "Noeliel Castle: 2F (100-120)",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 10000,
+  "exp": 317,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2806,
+      "name": "Cracked Iron Lid",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1960,
+      "name": "Deseperanza",
+      "type_id": 5,
+      "type_label": "[2 Handed Sword]"
+    },
+    {
+      "id": 3454,
+      "name": "Frozen Gear",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3453,
+      "name": "Frozen Iron Fragment",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2716,
+      "name": "Iron Fang",
+      "type_id": 27,
+      "type_label": "[Katana]"
+    }
+  ]
+}

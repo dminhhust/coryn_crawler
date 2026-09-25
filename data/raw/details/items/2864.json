@@ -1,0 +1,33 @@
+{
+  "id": 2864,
+  "name": "Chakrums",
+  "type_id": 13,
+  "type_label": "[Knuckles]",
+  "sell": 120,
+  "process": 3,
+  "process_amount": 60,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 115,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 90,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 113,
+      "effect_name": "Potential",
+      "amount": 34,
+      "applies_to": 0
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": 338,
+  "name": "High-Purity Damascus",
+  "type_id": 16,
+  "type_label": "[Ore]",
+  "sell": 200,
+  "process": 3,
+  "process_amount": 13,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

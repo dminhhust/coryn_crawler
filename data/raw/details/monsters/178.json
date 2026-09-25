@@ -1,0 +1,46 @@
+{
+  "id": 178,
+  "name": "Billy",
+  "level": 24,
+  "map_id": 51,
+  "map_name": "Yorl Highlands",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 650,
+  "exp": 27,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 90,
+      "name": "Goat Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 108,
+      "name": "High Quality Horn",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 507,
+      "name": "Leather Cap",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 230,
+      "name": "Twisted Horn",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

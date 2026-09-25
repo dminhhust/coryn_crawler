@@ -1,0 +1,76 @@
+{
+  "id": 2921,
+  "name": "Broker Goblin (Plain)",
+  "level": 180,
+  "map_id": 511,
+  "map_name": "El Scaro: Back Alley",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 495000,
+  "exp": 24000,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6979,
+      "name": "Amargon",
+      "type_id": 230,
+      "type_label": "[Enhancer Crysta (Yellow)]"
+    },
+    {
+      "id": 6974,
+      "name": "Bad Liquor",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6977,
+      "name": "Broker Goblin",
+      "type_id": 24,
+      "type_label": "[Special Crysta]"
+    },
+    {
+      "id": 6982,
+      "name": "Broker Hat",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 6976,
+      "name": "Broker Mask",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 6980,
+      "name": "Emotion Ticket R",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 6973,
+      "name": "Filthy Bag",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6978,
+      "name": "Soldner",
+      "type_id": 230,
+      "type_label": "[Enhancer Crysta (Yellow)]"
+    },
+    {
+      "id": 6975,
+      "name": "Suspicious Order Form",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

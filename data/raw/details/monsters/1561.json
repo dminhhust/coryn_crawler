@@ -1,0 +1,46 @@
+{
+  "id": 1561,
+  "name": "Bubble Angel (Yellow)",
+  "level": 146,
+  "map_id": 282,
+  "map_name": "Hall of Construction Gods",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "",
+  "hp": -1,
+  "exp": 360,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3647,
+      "name": "Elemental Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3585,
+      "name": "God Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3634,
+      "name": "Knit Fabric",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3628,
+      "name": "Prism Ring (Earth)",
+      "type_id": 15,
+      "type_label": "[Magic Device]"
+    }
+  ]
+}

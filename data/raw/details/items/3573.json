@@ -1,0 +1,14 @@
+{
+  "id": 3573,
+  "name": "Sacred Jewel",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 5,
+  "process": 6,
+  "process_amount": 24,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

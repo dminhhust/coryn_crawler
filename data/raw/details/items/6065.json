@@ -1,0 +1,33 @@
+{
+  "id": 6065,
+  "name": "Gemma Anello",
+  "type_id": 19,
+  "type_label": "[Staff]",
+  "sell": 205,
+  "process": 6,
+  "process_amount": 102,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 353,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 60,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 113,
+      "effect_name": "Potential",
+      "amount": 48,
+      "applies_to": 0
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 3131,
+  "name": "Limacina",
+  "level": 290,
+  "map_id": 574,
+  "map_name": "Deep Sea: Zone 2",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "Ultimate",
+  "hp": 0,
+  "exp": 71600,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7570,
+      "name": "Cute Marine Wing",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7498,
+      "name": "Limacina",
+      "type_id": 200,
+      "type_label": "[Enhancer Crysta (Blue)]"
+    },
+    {
+      "id": 7571,
+      "name": "Luminous Bacteria",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7574,
+      "name": "Seabed Serenity",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

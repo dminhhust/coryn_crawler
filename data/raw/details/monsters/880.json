@@ -1,0 +1,64 @@
+{
+  "id": 880,
+  "name": "Warmonger",
+  "level": 80,
+  "map_id": 57,
+  "map_name": "Haotas Ravine: Deepest Part",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Nightmare",
+  "hp": 738450,
+  "exp": 4800,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 58,
+      "name": "Dark Gray Claw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 112,
+      "name": "Huge Skull",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 549,
+      "name": "Scale Armor",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 219,
+      "name": "Thick Green Scale",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 571,
+      "name": "War Bowgun",
+      "type_id": 10,
+      "type_label": "[Bowgun]"
+    },
+    {
+      "id": 572,
+      "name": "War Helmet",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 330,
+      "name": "Warmonger",
+      "type_id": 23,
+      "type_label": "[Additional Crysta]"
+    }
+  ]
+}

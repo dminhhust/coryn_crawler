@@ -1,0 +1,46 @@
+{
+  "id": 2131,
+  "name": "Seaclin",
+  "level": 149,
+  "map_id": 368,
+  "map_name": "Underwater Ruins",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 45000,
+  "exp": 899,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": true,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4868,
+      "name": "Deep Ocean Water",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 4867,
+      "name": "Sea Crystal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4866,
+      "name": "Underwater Ruins Pebble",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4869,
+      "name": "Watermelon Slice",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

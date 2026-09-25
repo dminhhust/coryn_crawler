@@ -1,0 +1,46 @@
+{
+  "id": 2510,
+  "name": "Anti-Xmas Killer Blade",
+  "level": 181,
+  "map_id": 445,
+  "map_name": "Noeliel Castle: B2F (170-190)",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": -1,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4529,
+      "name": "Chipped Blade Fin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5935,
+      "name": "Dull Crest",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5931,
+      "name": "Santa Hooded Cape",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 5249,
+      "name": "Warped Blade",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

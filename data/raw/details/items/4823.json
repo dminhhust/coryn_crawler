@@ -1,0 +1,33 @@
+{
+  "id": 4823,
+  "name": "5th Anniv Staff VI",
+  "type_id": 19,
+  "type_label": "[Staff]",
+  "sell": 185,
+  "process": 2,
+  "process_amount": 92,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 301,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 60,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 113,
+      "effect_name": "Potential",
+      "amount": 45,
+      "applies_to": 0
+    }
+  ]
+}

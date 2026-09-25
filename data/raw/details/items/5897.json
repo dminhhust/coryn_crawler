@@ -1,0 +1,45 @@
+{
+  "id": 5897,
+  "name": "Wolf Ears",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": -1,
+  "process": -1,
+  "process_amount": -1,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 123,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 41,
+      "effect_name": "Critical Rate",
+      "amount": 25,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 129,
+      "effect_name": "Additional Melee %",
+      "amount": 50,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 139,
+      "effect_name": "Anticipate %",
+      "amount": 25,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 159,
+      "effect_name": "ATK UP (AGI %)",
+      "amount": 50,
+      "applies_to": 0
+    }
+  ]
+}

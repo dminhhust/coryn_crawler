@@ -1,0 +1,33 @@
+{
+  "id": 3975,
+  "name": "4th Anniv Knuckles VI",
+  "type_id": 13,
+  "type_label": "[Knuckles]",
+  "sell": 130,
+  "process": 3,
+  "process_amount": 65,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 125,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 90,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 113,
+      "effect_name": "Potential",
+      "amount": 36,
+      "applies_to": 0
+    }
+  ]
+}

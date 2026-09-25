@@ -1,0 +1,46 @@
+{
+  "id": 1167,
+  "name": "Cannon Golem",
+  "level": 123,
+  "map_id": 230,
+  "map_name": "Suburb of Droma Square: Area 1",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 15000,
+  "exp": 328,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2884,
+      "name": "Cooling Oil",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2883,
+      "name": "Cracked Heatproof Board",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2882,
+      "name": "Iron Scrap",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2885,
+      "name": "Kasakiri",
+      "type_id": 27,
+      "type_label": "[Katana]"
+    }
+  ]
+}

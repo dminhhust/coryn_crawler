@@ -1,0 +1,52 @@
+{
+  "id": 1500,
+  "name": "Guignol (Megiston 2018)",
+  "level": 150,
+  "map_id": 87,
+  "map_name": "Event",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 900000,
+  "exp": 16000,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2761,
+      "name": "Guignol",
+      "type_id": 200,
+      "type_label": "[Enhancer Crysta (Blue)]"
+    },
+    {
+      "id": 2754,
+      "name": "Guignol's Iron Scrap",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3482,
+      "name": "Mad Palms",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    },
+    {
+      "id": 3486,
+      "name": "Mad Sniper",
+      "type_id": 10,
+      "type_label": "[Bowgun]"
+    },
+    {
+      "id": 816,
+      "name": "Mithril Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    }
+  ]
+}

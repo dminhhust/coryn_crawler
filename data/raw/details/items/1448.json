@@ -1,0 +1,14 @@
+{
+  "id": 1448,
+  "name": "Growing Root",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 7,
+  "process": 2,
+  "process_amount": 7,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

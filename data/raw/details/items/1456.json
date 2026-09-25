@@ -1,0 +1,14 @@
+{
+  "id": 1456,
+  "name": "Old Wood",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 7,
+  "process": 2,
+  "process_amount": 7,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

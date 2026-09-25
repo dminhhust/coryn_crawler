@@ -1,0 +1,46 @@
+{
+  "id": 2630,
+  "name": "Bitum",
+  "level": 209,
+  "map_id": 467,
+  "map_name": "Mt. Vulcani: Area 2",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 36600,
+  "exp": 581,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6191,
+      "name": "Ardent Eye",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6189,
+      "name": "Burnt-Out Pebble",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6192,
+      "name": "Clement Headband",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 6190,
+      "name": "Fine Coal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

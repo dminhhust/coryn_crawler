@@ -1,0 +1,40 @@
+{
+  "id": 1903,
+  "name": "Shawle",
+  "level": 170,
+  "map_id": 332,
+  "map_name": "Joulu House: Hall (Lv 150)",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 2000000,
+  "exp": 9600,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4326,
+      "name": "Glacial Icicle",
+      "type_id": 15,
+      "type_label": "[Magic Device]"
+    },
+    {
+      "id": 3108,
+      "name": "Revita VI",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 4323,
+      "name": "Shawle",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    }
+  ]
+}

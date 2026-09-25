@@ -1,0 +1,46 @@
+{
+  "id": 3186,
+  "name": "Helicina",
+  "level": 245,
+  "map_id": 573,
+  "map_name": "Deep Sea: Zone 1",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 0,
+  "exp": 659,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7569,
+      "name": "Corroded Deepslate",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7570,
+      "name": "Cute Marine Wing",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7571,
+      "name": "Luminous Bacteria",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7573,
+      "name": "Profound Sword",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    }
+  ]
+}

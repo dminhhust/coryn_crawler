@@ -1,0 +1,112 @@
+{
+  "id": 1369,
+  "name": "Persimmon Coryn",
+  "level": 125,
+  "map_id": 248,
+  "map_name": "Tolbas GrassLand",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "Normal",
+  "hp": 5000,
+  "exp": 1410,
+  "element_id": -1,
+  "element_label": "Unknown",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1428,
+      "name": "Baked Sweet Potato",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1427,
+      "name": "Dried Persimon",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1433,
+      "name": "Fallen in Fall",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1432,
+      "name": "Ginkgo Nut Rice",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 519,
+      "name": "Market Hat",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 519,
+      "name": "Market Hat",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 519,
+      "name": "Market Hat",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 519,
+      "name": "Market Hat",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 519,
+      "name": "Market Hat",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 519,
+      "name": "Market Hat",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 519,
+      "name": "Market Hat",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 519,
+      "name": "Market Hat",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 1430,
+      "name": "Mashed Sweet Potato",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1431,
+      "name": "Matsutake Soup",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1429,
+      "name": "Salt-Grilled Saury",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

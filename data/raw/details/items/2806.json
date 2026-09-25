@@ -1,0 +1,14 @@
+{
+  "id": 2806,
+  "name": "Cracked Iron Lid",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 11,
+  "process": 3,
+  "process_amount": 10,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

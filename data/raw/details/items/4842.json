@@ -1,0 +1,14 @@
+{
+  "id": 4842,
+  "name": "Silpom 5th Anniv Medal",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 150,
+  "process": 6,
+  "process_amount": 25,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

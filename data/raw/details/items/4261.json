@@ -1,0 +1,39 @@
+{
+  "id": 4261,
+  "name": "Thief's Keys",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 85,
+  "process": 3,
+  "process_amount": 42,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 87,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 10,
+      "effect_name": "AGI %",
+      "amount": 6,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 36,
+      "effect_name": "Dodge %",
+      "amount": 12,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 38,
+      "effect_name": "ASPD %",
+      "amount": 24,
+      "applies_to": 0
+    }
+  ]
+}

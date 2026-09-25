@@ -1,0 +1,27 @@
+{
+  "id": 6182,
+  "name": "Water Ninjutsu Scroll",
+  "type_id": 28,
+  "type_label": "[Ninjutsu Scroll]",
+  "sell": 1,
+  "process": 2,
+  "process_amount": 2,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 57,
+      "effect_name": "Ailment Resistance %",
+      "amount": 5,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 61,
+      "effect_name": "Aggro %",
+      "amount": -10,
+      "applies_to": 4
+    }
+  ]
+}

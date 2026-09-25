@@ -1,0 +1,142 @@
+{
+  "id": 2821,
+  "name": "Hero Potum Party (13M DL)",
+  "level": 210,
+  "map_id": 399,
+  "map_name": "Archfiend's Throne",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Hard",
+  "hp": 10000000,
+  "exp": 52800,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5417,
+      "name": "Doctor Pom Pom",
+      "type_id": 22,
+      "type_label": "[Armor Crysta]"
+    },
+    {
+      "id": 5416,
+      "name": "Hero Potum II",
+      "type_id": 210,
+      "type_label": "[Enhancer Crysta (Red)]"
+    },
+    {
+      "id": 6729,
+      "name": "Hero Potum III",
+      "type_id": 210,
+      "type_label": "[Enhancer Crysta (Red)]"
+    },
+    {
+      "id": 3352,
+      "name": "Hero Shield (Pom)",
+      "type_id": 17,
+      "type_label": "[Shield]"
+    },
+    {
+      "id": 3353,
+      "name": "Hero Sword (Pom)",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    },
+    {
+      "id": 3203,
+      "name": "Heroic Butter Cake",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 3202,
+      "name": "Heroic Revita",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 4477,
+      "name": "Lightning Flame",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    },
+    {
+      "id": 911,
+      "name": "Orichalcum Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 5414,
+      "name": "Pom Biscuit",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 5412,
+      "name": "Pom Pom Staff Mace",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    },
+    {
+      "id": 5411,
+      "name": "Pom Pom Sword Mace",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    },
+    {
+      "id": 3355,
+      "name": "Pomie Chan",
+      "type_id": 21,
+      "type_label": "[Weapon Crysta]"
+    },
+    {
+      "id": 6730,
+      "name": "Pomie Chan II",
+      "type_id": 210,
+      "type_label": "[Enhancer Crysta (Red)]"
+    },
+    {
+      "id": 5413,
+      "name": "Potum Backpack",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 5415,
+      "name": "Potum Beans",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 6727,
+      "name": "Potum Popper",
+      "type_id": 10,
+      "type_label": "[Bowgun]"
+    },
+    {
+      "id": 6728,
+      "name": "Potum Staff",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    },
+    {
+      "id": 4478,
+      "name": "Potumotter",
+      "type_id": 24,
+      "type_label": "[Special Crysta]"
+    },
+    {
+      "id": 3354,
+      "name": "Twin Eagles",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    }
+  ]
+}

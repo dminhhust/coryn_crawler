@@ -1,0 +1,45 @@
+{
+  "id": 8185,
+  "name": "White Beast Dagger",
+  "type_id": 11,
+  "type_label": "[Dagger]",
+  "sell": 210,
+  "process": 1,
+  "process_amount": 105,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 180,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 35,
+      "effect_name": "Dodge",
+      "amount": 20,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 50,
+      "effect_name": "% stronger against Dark",
+      "amount": 5,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 56,
+      "effect_name": "Dark resistance %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 60,
+      "effect_name": "Evasion Recharge %",
+      "amount": 15,
+      "applies_to": 0
+    }
+  ]
+}

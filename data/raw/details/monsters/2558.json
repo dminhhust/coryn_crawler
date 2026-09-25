@@ -1,0 +1,40 @@
+{
+  "id": 2558,
+  "name": "Tuscog (Megiston 2021)",
+  "level": 200,
+  "map_id": 87,
+  "map_name": "Event",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 3250000,
+  "exp": 15500,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4081,
+      "name": "Porcupine Crossbow",
+      "type_id": 10,
+      "type_label": "[Bowgun]"
+    },
+    {
+      "id": 4082,
+      "name": "Porcupine Quills Shield",
+      "type_id": 17,
+      "type_label": "[Shield]"
+    },
+    {
+      "id": 4083,
+      "name": "Tuscog",
+      "type_id": 200,
+      "type_label": "[Enhancer Crysta (Blue)]"
+    }
+  ]
+}

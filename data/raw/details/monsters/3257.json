@@ -1,0 +1,46 @@
+{
+  "id": 3257,
+  "name": "Raptar",
+  "level": 256,
+  "map_id": 616,
+  "map_name": "Umidus Valley: Area 1",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 60800,
+  "exp": 912,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7961,
+      "name": "Creepy Choker",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7960,
+      "name": "Cruciform Claw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7962,
+      "name": "Exorcist Fist",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    },
+    {
+      "id": 7959,
+      "name": "Shaking Patagium",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

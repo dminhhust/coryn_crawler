@@ -1,0 +1,46 @@
+{
+  "id": 54,
+  "name": "Corda",
+  "level": 6,
+  "map_id": 16,
+  "map_name": "Underground Channel",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 180,
+  "exp": 5,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 480,
+      "name": "Hachimaki",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 145,
+      "name": "Moss Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 170,
+      "name": "Rat Hair",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 238,
+      "name": "Woodchip",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

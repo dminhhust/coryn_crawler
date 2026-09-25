@@ -1,0 +1,46 @@
+{
+  "id": 230,
+  "name": "Sand Mole",
+  "level": 50,
+  "map_id": 93,
+  "map_name": "Centerio Highlands",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "Normal",
+  "hp": 20000,
+  "exp": 380,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 527,
+      "name": "Mole Eyes",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 184,
+      "name": "Sand Crystal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 264,
+      "name": "Sand Mole Meat",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 186,
+      "name": "Sand Mole Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 1386,
+  "name": "Shark Wolf",
+  "level": 135,
+  "map_id": 258,
+  "map_name": "Curonne Forest: North Area 2",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 20000,
+  "exp": 413,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3337,
+      "name": "Lupus Claws",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    },
+    {
+      "id": 3335,
+      "name": "Wolf Shark Fang",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3336,
+      "name": "Wolf Shark Heart",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3334,
+      "name": "Work Shark Claw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

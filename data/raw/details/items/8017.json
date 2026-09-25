@@ -1,0 +1,14 @@
+{
+  "id": 8017,
+  "name": "Biskyva Web",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 30,
+  "process": 4,
+  "process_amount": 30,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

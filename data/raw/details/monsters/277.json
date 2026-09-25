@@ -1,0 +1,40 @@
+{
+  "id": 277,
+  "name": "Owl",
+  "level": 54,
+  "map_id": 83,
+  "map_name": "Land Under Cultivation: Area 3",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 84,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 811,
+      "name": "Owl Feather",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 821,
+      "name": "Philosopher's Ring",
+      "type_id": 18,
+      "type_label": "[Special]"
+    },
+    {
+      "id": 812,
+      "name": "Roost",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

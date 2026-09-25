@@ -1,0 +1,46 @@
+{
+  "id": 585,
+  "name": "Blood Draining Jelly",
+  "level": 81,
+  "map_id": 156,
+  "map_name": "Plastida: Area 2",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 219,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1966,
+      "name": "Blood-Draining Tentacle",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1965,
+      "name": "Mermaid Ears",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 1967,
+      "name": "Paralyzing Powder",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1968,
+      "name": "Pulsing Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

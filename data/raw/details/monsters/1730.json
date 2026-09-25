@@ -1,0 +1,46 @@
+{
+  "id": 1730,
+  "name": "Chief Guard Buse",
+  "level": 205,
+  "map_id": 299,
+  "map_name": "Anniversary Arena: 4th Venue",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Nightmare",
+  "hp": 5000000,
+  "exp": 35000,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4008,
+      "name": "Anniversary Silk",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4007,
+      "name": "Golpom 4th Anniv Medal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2253,
+      "name": "Magiadd V",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 3108,
+      "name": "Revita VI",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

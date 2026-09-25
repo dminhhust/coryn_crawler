@@ -1,0 +1,40 @@
+{
+  "id": 1908,
+  "name": "Crystal Titan (Megiston 2019)",
+  "level": 175,
+  "map_id": 87,
+  "map_name": "Event",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 2300000,
+  "exp": 12500,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4349,
+      "name": "Crystal Knuckles",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    },
+    {
+      "id": 4348,
+      "name": "Crystal Lamina",
+      "type_id": 27,
+      "type_label": "[Katana]"
+    },
+    {
+      "id": 3343,
+      "name": "Crystal Titan",
+      "type_id": 24,
+      "type_label": "[Special Crysta]"
+    }
+  ]
+}

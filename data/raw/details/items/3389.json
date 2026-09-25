@@ -1,0 +1,51 @@
+{
+  "id": 3389,
+  "name": "Fleur Rod",
+  "type_id": 19,
+  "type_label": "[Staff]",
+  "sell": 130,
+  "process": 3,
+  "process_amount": 65,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 161,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 23,
+      "effect_name": "MATK %",
+      "amount": 5,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 65,
+      "effect_name": "Earth Element",
+      "amount": 1,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 70,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 127,
+      "effect_name": "Fractional Barrier %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 174,
+      "effect_name": "Reduce Dmg (Charge) %",
+      "amount": 20,
+      "applies_to": 0
+    }
+  ]
+}

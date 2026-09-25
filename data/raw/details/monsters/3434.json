@@ -1,0 +1,70 @@
+{
+  "id": 3434,
+  "name": "Doy & Mari",
+  "level": 353,
+  "map_id": 670,
+  "map_name": "Wizka Forest : Depths",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Ultimate",
+  "hp": -1,
+  "exp": -1,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "Update 03/26/26",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 8435,
+      "name": "Doy",
+      "type_id": 210,
+      "type_label": "[Enhancer Crysta (Red)]"
+    },
+    {
+      "id": 8431,
+      "name": "Dualblight Arm",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 8437,
+      "name": "Dualblight Halo",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 8430,
+      "name": "Dualblight Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 8434,
+      "name": "Geminus Shield",
+      "type_id": 3,
+      "type_label": "[Piercer]"
+    },
+    {
+      "id": 8433,
+      "name": "Geminus Sword",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    },
+    {
+      "id": 8436,
+      "name": "Mari",
+      "type_id": 220,
+      "type_label": "[Enhancer Crysta (Green)]"
+    },
+    {
+      "id": 8432,
+      "name": "Resonating Heart",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

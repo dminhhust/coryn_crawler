@@ -1,0 +1,33 @@
+{
+  "id": 467,
+  "name": "Fightwear",
+  "type_id": 8,
+  "type_label": "[Armor]",
+  "sell": 30,
+  "process": 4,
+  "process_amount": 15,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 25,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 33,
+      "effect_name": "Accuracy",
+      "amount": 10,
+      "applies_to": 2
+    },
+    {
+      "effect_id": 69,
+      "effect_name": "Short Range Damage %",
+      "amount": 2,
+      "applies_to": 0
+    }
+  ]
+}

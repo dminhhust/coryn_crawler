@@ -1,0 +1,46 @@
+{
+  "id": 451,
+  "name": "Phobos",
+  "level": 77,
+  "map_id": 129,
+  "map_name": "Lunagent Mountain: Area 3",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 136,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1512,
+      "name": "Assault Barrel",
+      "type_id": 10,
+      "type_label": "[Bowgun]"
+    },
+    {
+      "id": 1511,
+      "name": "Evil Spirit Claw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1510,
+      "name": "Evil Spirit Fang",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1553,
+      "name": "Soul of the Evil Spirit",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

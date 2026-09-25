@@ -1,0 +1,46 @@
+{
+  "id": 2153,
+  "name": "Galamp",
+  "level": 121,
+  "map_id": 372,
+  "map_name": "Phantom Wisp's Hideout",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 14500,
+  "exp": -1,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": true,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4930,
+      "name": "Astral Lamp",
+      "type_id": 18,
+      "type_label": "[Special]"
+    },
+    {
+      "id": 4934,
+      "name": "Shining Mantle",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4937,
+      "name": "Sparkly Candy",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 4932,
+      "name": "Torn Playing Card",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": 1894,
+  "name": "Toy Bolg",
+  "level": 157,
+  "map_id": 327,
+  "map_name": "Joulu House: Center (Lv 150)",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 20000,
+  "exp": 565,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": true,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4279,
+      "name": "Dirty Leather Shoes",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4318,
+      "name": "Gift Toy",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4115,
+      "name": "Shaman Staff",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    }
+  ]
+}

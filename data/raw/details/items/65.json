@@ -1,0 +1,14 @@
+{
+  "id": 65,
+  "name": "Emerald Stone",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 13,
+  "process": 6,
+  "process_amount": 3,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

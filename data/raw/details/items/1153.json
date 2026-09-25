@@ -1,0 +1,33 @@
+{
+  "id": 1153,
+  "name": "Curled Horns",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 30,
+  "process": 1,
+  "process_amount": 15,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 21,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 23,
+      "effect_name": "MATK %",
+      "amount": 2,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 24,
+      "effect_name": "Stability %",
+      "amount": 4,
+      "applies_to": 0
+    }
+  ]
+}

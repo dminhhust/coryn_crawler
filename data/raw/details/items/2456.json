@@ -1,0 +1,14 @@
+{
+  "id": 2456,
+  "name": "Mysterious Luminary",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 15,
+  "process": 6,
+  "process_amount": 4,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

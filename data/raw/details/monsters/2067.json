@@ -1,0 +1,46 @@
+{
+  "id": 2067,
+  "name": "Monoglare",
+  "level": 173,
+  "map_id": 360,
+  "map_name": "Deltzon Research Zone: Area 3",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 20000,
+  "exp": 330,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4623,
+      "name": "Illegible Academic Book",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4624,
+      "name": "Librarian Hat",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 4622,
+      "name": "Quality Parchment",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4621,
+      "name": "Strange Page",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

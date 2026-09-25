@@ -1,0 +1,82 @@
+{
+  "id": 2882,
+  "name": "Mysterious Exchange (P. Avatar 2023)",
+  "level": 0,
+  "map_id": 87,
+  "map_name": "Event",
+  "type_code": "C",
+  "type_label": "NPC",
+  "mode": "Normal",
+  "hp": 0,
+  "exp": 0,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6791,
+      "name": "Dignidad",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    },
+    {
+      "id": 6785,
+      "name": "Evgenis",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    },
+    {
+      "id": 6788,
+      "name": "Generos",
+      "type_id": 10,
+      "type_label": "[Bowgun]"
+    },
+    {
+      "id": 6786,
+      "name": "Integridar",
+      "type_id": 5,
+      "type_label": "[2 Handed Sword]"
+    },
+    {
+      "id": 6787,
+      "name": "Metriofron",
+      "type_id": 9,
+      "type_label": "[Bow]"
+    },
+    {
+      "id": 6793,
+      "name": "Modestia",
+      "type_id": 27,
+      "type_label": "[Katana]"
+    },
+    {
+      "id": 6794,
+      "name": "Peismataris",
+      "type_id": 17,
+      "type_label": "[Shield]"
+    },
+    {
+      "id": 6789,
+      "name": "Reticencia",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    },
+    {
+      "id": 6790,
+      "name": "Temperament",
+      "type_id": 15,
+      "type_label": "[Magic Device]"
+    },
+    {
+      "id": 6792,
+      "name": "Tolerancia",
+      "type_id": 26,
+      "type_label": "[Halberd]"
+    }
+  ]
+}

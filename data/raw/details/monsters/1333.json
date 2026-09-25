@@ -1,0 +1,46 @@
+{
+  "id": 1333,
+  "name": "Light Angler",
+  "level": 132,
+  "map_id": 251,
+  "map_name": "Turnus Mine: Area 3",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 15000,
+  "exp": 367,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3213,
+      "name": "Guidance Lantern",
+      "type_id": 18,
+      "type_label": "[Special]"
+    },
+    {
+      "id": 3235,
+      "name": "HQ Monkfish Liver",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3234,
+      "name": "Strange Luminous Liquid",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3219,
+      "name": "Tough Fin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 497,
+  "name": "Corroded Fighter",
+  "level": 73,
+  "map_id": 136,
+  "map_name": "Dark Wasteland",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 6500,
+  "exp": 145,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1743,
+      "name": "Corroded Armor Bit",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1744,
+      "name": "Corroded Huge Arm",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1745,
+      "name": "Dark Crystal Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1296,
+      "name": "Neck Warmer",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

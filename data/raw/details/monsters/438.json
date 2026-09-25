@@ -1,0 +1,52 @@
+{
+  "id": 438,
+  "name": "Granny",
+  "level": 88,
+  "map_id": 124,
+  "map_name": "Abyss of No Return: Area 3",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 3818,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1549,
+      "name": "Ancient Big Tree",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1460,
+      "name": "Bloom of Peace",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    },
+    {
+      "id": 1461,
+      "name": "Granny",
+      "type_id": 24,
+      "type_label": "[Special Crysta]"
+    },
+    {
+      "id": 1457,
+      "name": "Magic Charged Branch",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1458,
+      "name": "Tree Spirit Soul",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

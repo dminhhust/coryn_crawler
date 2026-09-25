@@ -1,0 +1,46 @@
+{
+  "id": 3156,
+  "name": "Fangs",
+  "level": 236,
+  "map_id": 572,
+  "map_name": "Path to the Deep Sea",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 0,
+  "exp": 249,
+  "element_id": -1,
+  "element_label": "Unknown",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7555,
+      "name": "Fierce Fish Head",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7556,
+      "name": "Huge Fang",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7601,
+      "name": "Scary Face Talisman",
+      "type_id": 18,
+      "type_label": "[Special]"
+    },
+    {
+      "id": 7560,
+      "name": "Thick Cut Sashimi",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

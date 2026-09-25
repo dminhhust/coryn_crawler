@@ -1,0 +1,46 @@
+{
+  "id": 2669,
+  "name": "Nuemon",
+  "level": 212,
+  "map_id": 473,
+  "map_name": "Milcaska Falls: Waterfall",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 38100,
+  "exp": 596,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6299,
+      "name": "Apple Beret",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 6296,
+      "name": "Serpent Tail Fang",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6297,
+      "name": "Tiger Arm Claw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6298,
+      "name": "Wisp Fragment",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

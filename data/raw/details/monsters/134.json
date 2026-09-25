@@ -1,0 +1,46 @@
+{
+  "id": 134,
+  "name": "Savaran (big)",
+  "level": 19,
+  "map_id": 37,
+  "map_name": "Witeka Scorched Plains",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 600,
+  "exp": 25,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 437,
+      "name": "Adventurer's Hat",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 11,
+      "name": "Bead Fragment",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 117,
+      "name": "Lava Fragment",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 157,
+      "name": "Pebble",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

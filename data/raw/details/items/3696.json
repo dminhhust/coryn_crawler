@@ -1,0 +1,14 @@
+{
+  "id": 3696,
+  "name": "Dusky Sakura Branch",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 12,
+  "process": 2,
+  "process_amount": 11,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

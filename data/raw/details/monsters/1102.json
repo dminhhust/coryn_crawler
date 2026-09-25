@@ -1,0 +1,46 @@
+{
+  "id": 1102,
+  "name": "Retainer Doll",
+  "level": 120,
+  "map_id": 215,
+  "map_name": "Brahe Laboratory: 2nd Building",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 13000,
+  "exp": 264,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2745,
+      "name": "Broken Feather Duster",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2746,
+      "name": "Clean Wiping Cloth",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2716,
+      "name": "Iron Fang",
+      "type_id": 27,
+      "type_label": "[Katana]"
+    },
+    {
+      "id": 2747,
+      "name": "Retainer Doll Core",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

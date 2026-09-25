@@ -1,0 +1,14 @@
+{
+  "id": 7562,
+  "name": "Oxygen Ball",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 54,
+  "process": 6,
+  "process_amount": 5,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

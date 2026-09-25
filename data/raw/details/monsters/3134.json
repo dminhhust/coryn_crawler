@@ -1,0 +1,46 @@
+{
+  "id": 3134,
+  "name": "Trast",
+  "level": 238,
+  "map_id": 580,
+  "map_name": "Pipeline Corridor",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 0,
+  "exp": 289,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7750,
+      "name": "Profound Shield",
+      "type_id": 17,
+      "type_label": "[Shield]"
+    },
+    {
+      "id": 7537,
+      "name": "Sunken Helmet",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7540,
+      "name": "Water Adaptive Shell",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7536,
+      "name": "Water Deflector Claw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

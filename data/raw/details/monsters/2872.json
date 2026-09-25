@@ -1,0 +1,40 @@
+{
+  "id": 2872,
+  "name": "War Dragon Turba (Megiston 2022)",
+  "level": 240,
+  "map_id": 87,
+  "map_name": "Event",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 5000000,
+  "exp": 36000,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6775,
+      "name": "Cruel Lamina",
+      "type_id": 27,
+      "type_label": "[Katana]"
+    },
+    {
+      "id": 6774,
+      "name": "Cruel Wings",
+      "type_id": 15,
+      "type_label": "[Magic Device]"
+    },
+    {
+      "id": 5916,
+      "name": "War Dragon Turba",
+      "type_id": 240,
+      "type_label": "[Enhancer Crysta (Purple)]"
+    }
+  ]
+}

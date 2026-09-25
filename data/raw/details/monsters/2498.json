@@ -1,0 +1,46 @@
+{
+  "id": 2498,
+  "name": "Confeito",
+  "level": 199,
+  "map_id": 447,
+  "map_name": "Noeliel Castle: B1F (190-210)",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 596,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5935,
+      "name": "Dull Crest",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5727,
+      "name": "Elastic Thorn",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5785,
+      "name": "Hard Wood Board",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5726,
+      "name": "Homura",
+      "type_id": 27,
+      "type_label": "[Katana]"
+    }
+  ]
+}

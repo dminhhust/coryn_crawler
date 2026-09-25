@@ -1,0 +1,21 @@
+{
+  "id": 1548,
+  "name": "Critical Rate+3",
+  "type_id": 20,
+  "type_label": "[Normal Crysta]",
+  "sell": 1,
+  "process": 6,
+  "process_amount": 2,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 41,
+      "effect_name": "Critical Rate",
+      "amount": 3,
+      "applies_to": 0
+    }
+  ]
+}

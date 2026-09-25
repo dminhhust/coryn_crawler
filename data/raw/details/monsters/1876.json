@@ -1,0 +1,40 @@
+{
+  "id": 1876,
+  "name": "Toy Bolg",
+  "level": 115,
+  "map_id": 321,
+  "map_name": "Joulu House: Center (Lv 110)",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 15000,
+  "exp": 395,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": true,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3636,
+      "name": "Cracked Spear Tip",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4318,
+      "name": "Gift Toy",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3501,
+      "name": "Rostrum Bowgun",
+      "type_id": 10,
+      "type_label": "[Bowgun]"
+    }
+  ]
+}

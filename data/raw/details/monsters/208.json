@@ -1,0 +1,46 @@
+{
+  "id": 208,
+  "name": "Cliff Pico",
+  "level": 33,
+  "map_id": 63,
+  "map_name": "Lonogo Canyon",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 1100,
+  "exp": 40,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 276,
+      "name": "AGI+2",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 250,
+      "name": "Chicken Meat",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 122,
+      "name": "Long Beak",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 124,
+      "name": "Lonogo Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

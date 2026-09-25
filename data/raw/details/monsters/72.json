@@ -1,0 +1,46 @@
+{
+  "id": 72,
+  "name": "Rio Frosch",
+  "level": 11,
+  "map_id": 20,
+  "map_name": "Athema Ruins: Area 2",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 290,
+  "exp": 6,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7,
+      "name": "Athema Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 460,
+      "name": "Dawn Hat",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 218,
+      "name": "Thick Frog Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 229,
+      "name": "Twinkle Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 2683,
+  "name": "Ocello",
+  "level": 201,
+  "map_id": 477,
+  "map_name": "Weredragon's Throat",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 15500,
+  "exp": 243,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6331,
+      "name": "Gloomy Gaze",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6330,
+      "name": "Hardened Eggshell",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6329,
+      "name": "Light Brown Tail Feather",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6332,
+      "name": "Luster Sword",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    }
+  ]
+}

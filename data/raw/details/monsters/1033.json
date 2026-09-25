@@ -1,0 +1,40 @@
+{
+  "id": 1033,
+  "name": "Bexiz (Megiston 2017)",
+  "level": 140,
+  "map_id": 87,
+  "map_name": "Event",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 740000,
+  "exp": 21000,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1901,
+      "name": "Bexiz",
+      "type_id": 24,
+      "type_label": "[Special Crysta]"
+    },
+    {
+      "id": 2560,
+      "name": "Bexiz Bowgun",
+      "type_id": 10,
+      "type_label": "[Bowgun]"
+    },
+    {
+      "id": 2559,
+      "name": "Bexiz Staff",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    }
+  ]
+}

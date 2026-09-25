@@ -1,0 +1,39 @@
+{
+  "id": 8095,
+  "name": "Choco Bear Ears",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 127,
+  "process": 1,
+  "process_amount": 63,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 190,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 40,
+      "effect_name": "CSPD %",
+      "amount": 30,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 44,
+      "effect_name": "Critical Damage %",
+      "amount": 15,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 61,
+      "effect_name": "Aggro %",
+      "amount": -60,
+      "applies_to": 0
+    }
+  ]
+}

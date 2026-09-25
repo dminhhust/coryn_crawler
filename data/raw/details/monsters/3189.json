@@ -1,0 +1,46 @@
+{
+  "id": 3189,
+  "name": "Coelacans",
+  "level": 245,
+  "map_id": 574,
+  "map_name": "Deep Sea: Zone 2",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 0,
+  "exp": 627,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7745,
+      "name": "Ancient Fish Gill",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7572,
+      "name": "Camaron Arms",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    },
+    {
+      "id": 7567,
+      "name": "Corroded Spinal Column",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7566,
+      "name": "Hard Fish Scale",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

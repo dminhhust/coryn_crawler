@@ -1,0 +1,46 @@
+{
+  "id": 2912,
+  "name": "Trus",
+  "level": 269,
+  "map_id": 517,
+  "map_name": "Propulsion System Zone: Power Tank",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "Normal",
+  "hp": 12800000,
+  "exp": 98000,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6950,
+      "name": "Hot Glass",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6955,
+      "name": "Scorching Core",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6949,
+      "name": "Small Wing",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6956,
+      "name": "Trus",
+      "type_id": 24,
+      "type_label": "[Special Crysta]"
+    }
+  ]
+}

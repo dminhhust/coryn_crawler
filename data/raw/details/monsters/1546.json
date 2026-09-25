@@ -1,0 +1,46 @@
+{
+  "id": 1546,
+  "name": "Bubble Angel (Red)",
+  "level": 143,
+  "map_id": 277,
+  "map_name": "Shrine of The Gods: Area 2",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 17488,
+  "exp": 348,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3586,
+      "name": "Cracked Halo",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3585,
+      "name": "God Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3587,
+      "name": "Mysterious Shiny Cloth",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3588,
+      "name": "Prism Ring (Fire)",
+      "type_id": 15,
+      "type_label": "[Magic Device]"
+    }
+  ]
+}

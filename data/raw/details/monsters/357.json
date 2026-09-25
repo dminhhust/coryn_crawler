@@ -1,0 +1,52 @@
+{
+  "id": 357,
+  "name": "Miragela",
+  "level": 65,
+  "map_id": 104,
+  "map_name": "Gravel Terrace",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 189,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1103,
+      "name": "Gemstone Heart",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1196,
+      "name": "Geometric Feather",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 816,
+      "name": "Mithril Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 1197,
+      "name": "Shining Beak",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1198,
+      "name": "White Petal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

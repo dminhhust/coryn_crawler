@@ -1,0 +1,46 @@
+{
+  "id": 1103,
+  "name": "Parasitized Spider",
+  "level": 121,
+  "map_id": 216,
+  "map_name": "Brahe Laboratory: 3rd Building",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 11000,
+  "exp": 241,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2749,
+      "name": "Good Spider Silk",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2750,
+      "name": "Priest Hat",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 266,
+      "name": "Save Point",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 2748,
+      "name": "Shiny Shell",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

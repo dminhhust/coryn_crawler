@@ -1,0 +1,40 @@
+{
+  "id": 1346,
+  "name": "Usami (New Moon Lv30+)",
+  "level": 30,
+  "map_id": 253,
+  "map_name": "Otsukimi Event Venue",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 32000,
+  "exp": 800,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3256,
+      "name": "Joshin Powder",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3244,
+      "name": "Otsukimi Dango",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 3260,
+      "name": "Usami",
+      "type_id": 220,
+      "type_label": "[Enhancer Crysta (Green)]"
+    }
+  ]
+}

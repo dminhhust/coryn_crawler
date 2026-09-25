@@ -1,0 +1,14 @@
+{
+  "id": 2039,
+  "name": "Toss Bouquet",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 3,
+  "process": 6,
+  "process_amount": 3,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

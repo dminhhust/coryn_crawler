@@ -1,0 +1,33 @@
+{
+  "id": 2083,
+  "name": "Scorching Grass",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 13,
+  "process": 5,
+  "process_amount": 13,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 21,
+      "effect_name": "ATK %",
+      "amount": 0,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 23,
+      "effect_name": "MATK %",
+      "amount": 0,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 73,
+      "effect_name": "Weapon ATK",
+      "amount": 8,
+      "applies_to": 0
+    }
+  ]
+}

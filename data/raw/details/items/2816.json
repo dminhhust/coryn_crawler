@@ -1,0 +1,14 @@
+{
+  "id": 2816,
+  "name": "Stout Handcuffs",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 16,
+  "process": 3,
+  "process_amount": 16,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

@@ -1,0 +1,45 @@
+{
+  "id": 6267,
+  "name": "Goldigem",
+  "type_id": 230,
+  "type_label": "[Enhancer Crysta (Yellow)]",
+  "sell": 1,
+  "process": 6,
+  "process_amount": 100,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 17,
+      "effect_name": "MaxHP",
+      "amount": 3000,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 148,
+      "effect_name": "Upgrade for",
+      "amount": 4554,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 170,
+      "effect_name": "Reduce Dmg (Player Epicenter) %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 174,
+      "effect_name": "Reduce Dmg (Charge) %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 187,
+      "effect_name": "Reduce Dmg (Straight Line) %",
+      "amount": 10,
+      "applies_to": 0
+    }
+  ]
+}

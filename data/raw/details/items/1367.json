@@ -1,0 +1,27 @@
+{
+  "id": 1367,
+  "name": "Orange Gelatin",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 9,
+  "process": 5,
+  "process_amount": 9,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 73,
+      "effect_name": "Weapon ATK",
+      "amount": 5,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 74,
+      "effect_name": "Weapon ATK %",
+      "amount": 5,
+      "applies_to": 0
+    }
+  ]
+}

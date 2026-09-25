@@ -1,0 +1,58 @@
+{
+  "id": 743,
+  "name": "Boss Roga",
+  "level": 72,
+  "map_id": 69,
+  "map_name": "Saham Underground Cave - Deepest Part",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Hard",
+  "hp": 500000,
+  "exp": 6000,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 284,
+      "name": "Boss Roga",
+      "type_id": 22,
+      "type_label": "[Armor Crysta]"
+    },
+    {
+      "id": 23,
+      "name": "Boss Roga's Belt",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 29,
+      "name": "Broken Huge Mace",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 501,
+      "name": "Killer Coat",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 511,
+      "name": "Mace of Destruction",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    },
+    {
+      "id": 155,
+      "name": "Ore from Another World",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

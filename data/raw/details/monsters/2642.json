@@ -1,0 +1,46 @@
+{
+  "id": 2642,
+  "name": "Cormorant",
+  "level": 197,
+  "map_id": 470,
+  "map_name": "Vulcani Crater Base",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 16500,
+  "exp": 264,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6215,
+      "name": "Alchemy Belt",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 6212,
+      "name": "Geometric Wing",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6214,
+      "name": "Mutated Backbone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6213,
+      "name": "Strange Arm",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

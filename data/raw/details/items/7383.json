@@ -1,0 +1,21 @@
+{
+  "id": 7383,
+  "name": "Accuracy+16",
+  "type_id": 20,
+  "type_label": "[Normal Crysta]",
+  "sell": 1,
+  "process": 6,
+  "process_amount": 2,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 33,
+      "effect_name": "Accuracy",
+      "amount": 16,
+      "applies_to": 0
+    }
+  ]
+}

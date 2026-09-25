@@ -1,0 +1,46 @@
+{
+  "id": 2172,
+  "name": "Lutris",
+  "level": 179,
+  "map_id": 378,
+  "map_name": "Ducia Coast: Area 3",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 32000,
+  "exp": 550,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4983,
+      "name": "Distinct Pebble",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4985,
+      "name": "Sake Steamed Scallops",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 4984,
+      "name": "Sea Otter Fur",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4986,
+      "name": "Shell Orb",
+      "type_id": 15,
+      "type_label": "[Magic Device]"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": 6256,
+  "name": "Sakura Kimono",
+  "type_id": 8,
+  "type_label": "[Armor]",
+  "sell": -1,
+  "process": -1,
+  "process_amount": -1,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

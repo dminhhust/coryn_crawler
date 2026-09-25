@@ -1,0 +1,46 @@
+{
+  "id": 597,
+  "name": "Controlled Knight",
+  "level": 93,
+  "map_id": 158,
+  "map_name": "Dark Castle: Area 1",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 54,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2001,
+      "name": "Corroded Armor Fragment",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2007,
+      "name": "Dark Castle Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2008,
+      "name": "Dark Knight Amulet",
+      "type_id": 18,
+      "type_label": "[Special]"
+    },
+    {
+      "id": 2009,
+      "name": "Deformed Blade",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 209,
+  "name": "Ratia",
+  "level": 42,
+  "map_id": 64,
+  "map_name": "Korda Basin",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 1600,
+  "exp": 60,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 242,
+      "name": "Damascus Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 483,
+      "name": "Hard Buckler",
+      "type_id": 17,
+      "type_label": "[Shield]"
+    },
+    {
+      "id": 169,
+      "name": "Rat Fur",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 171,
+      "name": "Rat Tooth",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

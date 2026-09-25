@@ -1,0 +1,57 @@
+{
+  "id": 5308,
+  "name": "Snow Bear Shield",
+  "type_id": 17,
+  "type_label": "[Shield]",
+  "sell": -1,
+  "process": -1,
+  "process_amount": 0,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 40,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 52,
+      "effect_name": "Water resistance %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 58,
+      "effect_name": "Guard Power %",
+      "amount": 30,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 59,
+      "effect_name": "Guard Recharge %",
+      "amount": 20,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 61,
+      "effect_name": "Aggro %",
+      "amount": 40,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 174,
+      "effect_name": "Reduce Dmg (Charge) %",
+      "amount": 20,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 272,
+      "effect_name": "Aggro %",
+      "amount": -50,
+      "applies_to": 8
+    }
+  ]
+}

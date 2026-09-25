@@ -1,0 +1,46 @@
+{
+  "id": 1802,
+  "name": "Carotabat",
+  "level": 106,
+  "map_id": 311,
+  "map_name": "Zarth's Mansion: Entrance",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 221,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": true,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2651,
+      "name": "Hard Nut",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1594,
+      "name": "HP+300",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 4175,
+      "name": "Shocking House Choco",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 2322,
+      "name": "Soft Tree Bark",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

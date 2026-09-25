@@ -1,0 +1,46 @@
+{
+  "id": 2582,
+  "name": "Pantarum",
+  "level": 204,
+  "map_id": 458,
+  "map_name": "Divido Valley: Area 2",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 35000,
+  "exp": 558,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6043,
+      "name": "Elongated Insect Wings",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 243,
+      "name": "Hematite",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 6044,
+      "name": "Sickle-Like Front Leg",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6045,
+      "name": "Temple Spear",
+      "type_id": 26,
+      "type_label": "[Halberd]"
+    }
+  ]
+}

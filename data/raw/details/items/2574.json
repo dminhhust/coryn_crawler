@@ -1,0 +1,33 @@
+{
+  "id": 2574,
+  "name": "Sombrero",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 55,
+  "process": 2,
+  "process_amount": 27,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 49,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 21,
+      "effect_name": "ATK %",
+      "amount": 5,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 51,
+      "effect_name": "Fire resistance %",
+      "amount": 15,
+      "applies_to": 0
+    }
+  ]
+}

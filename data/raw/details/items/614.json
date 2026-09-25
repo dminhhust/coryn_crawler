@@ -1,0 +1,14 @@
+{
+  "id": 614,
+  "name": "Tree Dragon Branch",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 3,
+  "process": 2,
+  "process_amount": 4,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

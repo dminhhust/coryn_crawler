@@ -1,0 +1,46 @@
+{
+  "id": 1143,
+  "name": "Toy Bolg",
+  "level": 123,
+  "map_id": 227,
+  "map_name": "Cuervo Jail: 3rd Floor",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 15000,
+  "exp": 329,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2823,
+      "name": "Crushed Long Lance",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2824,
+      "name": "Knight Doll Core",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2488,
+      "name": "MP+250",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 2822,
+      "name": "Squashed Helm",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

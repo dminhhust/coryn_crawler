@@ -1,0 +1,46 @@
+{
+  "id": 284,
+  "name": "Floral Bee",
+  "level": 41,
+  "map_id": 80,
+  "map_name": "Figo's Manor",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 26,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 799,
+      "name": "Accuracy+4",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 800,
+      "name": "Bee Wing",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 802,
+      "name": "Golden Honey",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 801,
+      "name": "Sweet Bee Larva",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

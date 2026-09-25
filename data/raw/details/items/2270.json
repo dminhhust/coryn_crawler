@@ -1,0 +1,14 @@
+{
+  "id": 2270,
+  "name": "Lump of Garbage",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 9,
+  "process": 5,
+  "process_amount": 7,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

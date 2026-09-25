@@ -1,0 +1,70 @@
+{
+  "id": 3001,
+  "name": "Dr. Leonardo (DX Subcontractor)",
+  "level": 295,
+  "map_id": 527,
+  "map_name": "Eagle Talon Collab Venue",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Hard",
+  "hp": 28000000,
+  "exp": 186000,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7089,
+      "name": "Dr. Leonardo II",
+      "type_id": 220,
+      "type_label": "[Enhancer Crysta (Green)]"
+    },
+    {
+      "id": 7090,
+      "name": "DX Fighter II",
+      "type_id": 220,
+      "type_label": "[Enhancer Crysta (Green)]"
+    },
+    {
+      "id": 7084,
+      "name": "Hero's Rag",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 911,
+      "name": "Orichalcum Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 3108,
+      "name": "Revita VI",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 4850,
+      "name": "Revita VII",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1976,
+      "name": "Super Anti-Degradation",
+      "type_id": 2,
+      "type_label": "[Refinement Support]"
+    },
+    {
+      "id": 7083,
+      "name": "Vanquisher Mecha Wreck",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

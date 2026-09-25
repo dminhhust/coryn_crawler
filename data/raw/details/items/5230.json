@@ -1,0 +1,39 @@
+{
+  "id": 5230,
+  "name": "Magical Stole",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 87,
+  "process": 3,
+  "process_amount": 43,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 25,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 6,
+      "effect_name": "INT %",
+      "amount": 7,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 17,
+      "effect_name": "MaxHP",
+      "amount": 700,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 23,
+      "effect_name": "MATK %",
+      "amount": 7,
+      "applies_to": 0
+    }
+  ]
+}

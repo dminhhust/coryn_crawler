@@ -1,0 +1,46 @@
+{
+  "id": 375,
+  "name": "Metal Stinger",
+  "level": 82,
+  "map_id": 105,
+  "map_name": "Akaku Desert: Area 1",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 4050,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1205,
+      "name": "Hard Scissor",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1312,
+      "name": "Metal Stinger",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 1354,
+      "name": "Sand Pyroxene",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1203,
+      "name": "Scorpion Tail",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

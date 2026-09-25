@@ -1,0 +1,14 @@
+{
+  "id": 3350,
+  "name": "White Wood",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 15,
+  "process": 2,
+  "process_amount": 14,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

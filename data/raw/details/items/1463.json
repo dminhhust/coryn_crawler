@@ -1,0 +1,14 @@
+{
+  "id": 1463,
+  "name": "Sweets Box",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 1000,
+  "process": 0,
+  "process_amount": 0,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

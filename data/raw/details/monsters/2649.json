@@ -1,0 +1,64 @@
+{
+  "id": 2649,
+  "name": "Crysmort",
+  "level": 240,
+  "map_id": 471,
+  "map_name": "Celesa's Tree Garden",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Very Hard",
+  "hp": 10000000,
+  "exp": 43000,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6253,
+      "name": "Crysmort",
+      "type_id": 240,
+      "type_label": "[Enhancer Crysta (Purple)]"
+    },
+    {
+      "id": 6252,
+      "name": "Light Blue Wicker Box",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 6567,
+      "name": "Moonlight Sword II",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    },
+    {
+      "id": 911,
+      "name": "Orichalcum Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 6256,
+      "name": "Sakura Kimono",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 6251,
+      "name": "Sinister Origami",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6250,
+      "name": "Torn Paper Crane",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

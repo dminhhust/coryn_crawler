@@ -1,0 +1,46 @@
+{
+  "id": 322,
+  "name": "Moss Mushroom",
+  "level": 60,
+  "map_id": 95,
+  "map_name": "Vyshed the Tainted Land: Area 1",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 8000,
+  "exp": 221,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1121,
+      "name": "Green Mushroom",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1113,
+      "name": "Hard Knuckles",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    },
+    {
+      "id": 1112,
+      "name": "Mossy Ore",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1111,
+      "name": "Old Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

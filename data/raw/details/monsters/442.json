@@ -1,0 +1,40 @@
+{
+  "id": 442,
+  "name": "Chandler",
+  "level": 67,
+  "map_id": 126,
+  "map_name": "Calle mort",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 62,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1501,
+      "name": "Broken Glass",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1502,
+      "name": "Inextinguishable Candle",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1503,
+      "name": "Shell Buckler",
+      "type_id": 17,
+      "type_label": "[Shield]"
+    }
+  ]
+}

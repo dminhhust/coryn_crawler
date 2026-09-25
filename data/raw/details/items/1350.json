@@ -1,0 +1,21 @@
+{
+  "id": 1350,
+  "name": "Sofys Talisman",
+  "type_id": 18,
+  "type_label": "[Special]",
+  "sell": 0,
+  "process": 0,
+  "process_amount": 0,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 19,
+      "effect_name": "MaxMP",
+      "amount": 300,
+      "applies_to": 0
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": 265,
+  "name": "Nelfon",
+  "level": 0,
+  "map_id": 80,
+  "map_name": "Figo's Manor",
+  "type_code": "C",
+  "type_label": "NPC",
+  "mode": "Normal",
+  "hp": 0,
+  "exp": 0,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 856,
+      "name": "Aegis Gem",
+      "type_id": 12,
+      "type_label": "[Gem]"
+    },
+    {
+      "id": 854,
+      "name": "Dark Gem",
+      "type_id": 12,
+      "type_label": "[Gem]"
+    },
+    {
+      "id": 852,
+      "name": "Earth Gem",
+      "type_id": 12,
+      "type_label": "[Gem]"
+    },
+    {
+      "id": 849,
+      "name": "Fire Gem",
+      "type_id": 12,
+      "type_label": "[Gem]"
+    },
+    {
+      "id": 853,
+      "name": "Light Gem",
+      "type_id": 12,
+      "type_label": "[Gem]"
+    },
+    {
+      "id": 426,
+      "name": "Normal Gem",
+      "type_id": 12,
+      "type_label": "[Gem]"
+    },
+    {
+      "id": 855,
+      "name": "Protection Gem",
+      "type_id": 12,
+      "type_label": "[Gem]"
+    },
+    {
+      "id": 850,
+      "name": "Water Gem",
+      "type_id": 12,
+      "type_label": "[Gem]"
+    },
+    {
+      "id": 851,
+      "name": "Wind Gem",
+      "type_id": 12,
+      "type_label": "[Gem]"
+    }
+  ]
+}

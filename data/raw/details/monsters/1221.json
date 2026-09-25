@@ -1,0 +1,58 @@
+{
+  "id": 1221,
+  "name": "Priest Warmonger",
+  "level": 60,
+  "map_id": 239,
+  "map_name": "Anniversary Arena: 1st Venue",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Hard",
+  "hp": 120000,
+  "exp": 2400,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 485,
+      "name": "Headband",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 585,
+      "name": "Magiadd II",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 588,
+      "name": "Revita II",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 543,
+      "name": "Ribbon",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 2968,
+      "name": "Silver 3rd Anniv Medal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 572,
+      "name": "War Helmet",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

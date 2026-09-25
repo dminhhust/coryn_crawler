@@ -1,0 +1,46 @@
+{
+  "id": 1995,
+  "name": "Orustica",
+  "level": 157,
+  "map_id": 344,
+  "map_name": "Pupalov Sector",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 10000,
+  "exp": 181,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4513,
+      "name": "Homunculus Tooth",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4511,
+      "name": "Strong Jaws",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4514,
+      "name": "VIT+6",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 4512,
+      "name": "Wriggling Sphere",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

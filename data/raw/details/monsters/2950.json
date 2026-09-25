@@ -1,0 +1,46 @@
+{
+  "id": 2950,
+  "name": "Drail",
+  "level": 228,
+  "map_id": 525,
+  "map_name": "Boma Konda: Underground Area",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 48331,
+  "exp": 748,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7032,
+      "name": "Boma Konda Ore",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7034,
+      "name": "Flammarem",
+      "type_id": 15,
+      "type_label": "[Magic Device]"
+    },
+    {
+      "id": 7031,
+      "name": "Moist Pebble",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7033,
+      "name": "Small Dragon Wing",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

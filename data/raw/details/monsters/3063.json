@@ -1,0 +1,64 @@
+{
+  "id": 3063,
+  "name": "Falburrows",
+  "level": 255,
+  "map_id": 539,
+  "map_name": "Saltau's Beach (Night)",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Ultimate",
+  "hp": 74800000,
+  "exp": 335600,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7334,
+      "name": "Emotion Ticket U",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 7333,
+      "name": "Falburrows",
+      "type_id": 23,
+      "type_label": "[Additional Crysta]"
+    },
+    {
+      "id": 7335,
+      "name": "Falburrows Feelers",
+      "type_id": 15,
+      "type_label": "[Magic Device]"
+    },
+    {
+      "id": 7336,
+      "name": "Ocean Phantom Sword",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    },
+    {
+      "id": 911,
+      "name": "Orichalcum Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 7332,
+      "name": "Sea Ghost Bone Fragment",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7331,
+      "name": "Sea Ghost Tentacle",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

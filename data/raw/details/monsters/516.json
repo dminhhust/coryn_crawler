@@ -1,0 +1,46 @@
+{
+  "id": 516,
+  "name": "Sunion",
+  "level": 73,
+  "map_id": 142,
+  "map_name": "Dark Mirror",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 4000,
+  "exp": 101,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1803,
+      "name": "Burning Bulb",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1802,
+      "name": "Burning Root",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1811,
+      "name": "Flame Arrow",
+      "type_id": 7,
+      "type_label": "[Arrow]"
+    },
+    {
+      "id": 1801,
+      "name": "Scorching Onion",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

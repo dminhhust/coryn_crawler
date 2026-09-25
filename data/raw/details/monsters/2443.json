@@ -1,0 +1,52 @@
+{
+  "id": 2443,
+  "name": "Arbogazella",
+  "level": 236,
+  "map_id": 419,
+  "map_name": "Guardian Forest: Lost Woods",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 41820,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5718,
+      "name": "Arbogazella",
+      "type_id": 21,
+      "type_label": "[Weapon Crysta]"
+    },
+    {
+      "id": 5717,
+      "name": "Guardian Forest Arrow",
+      "type_id": 7,
+      "type_label": "[Arrow]"
+    },
+    {
+      "id": 5716,
+      "name": "Sacred Forest Sound",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5706,
+      "name": "Sharp Wooden Horn",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5707,
+      "name": "Star Fruit",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

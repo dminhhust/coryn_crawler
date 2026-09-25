@@ -1,0 +1,14 @@
+{
+  "id": 6641,
+  "name": "Brassozard Claw",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": -1,
+  "process": 1,
+  "process_amount": -1,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

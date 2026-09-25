@@ -1,0 +1,64 @@
+{
+  "id": 1449,
+  "name": "Mom Fluck",
+  "level": 141,
+  "map_id": 262,
+  "map_name": "Forgotten Cave",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Easy",
+  "hp": 145000,
+  "exp": 1240,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3435,
+      "name": "Blue Rock Fragment",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3438,
+      "name": "Fluck Bowgun",
+      "type_id": 10,
+      "type_label": "[Bowgun]"
+    },
+    {
+      "id": 3437,
+      "name": "Fluck Egg",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3439,
+      "name": "Fluck Sword",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    },
+    {
+      "id": 3433,
+      "name": "Mom Fluck Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3434,
+      "name": "Mom Fluck Web",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3436,
+      "name": "Vivid Crest",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 1375,
+  "name": "Squirreen",
+  "level": 121,
+  "map_id": 255,
+  "map_name": "Curonne Forest: East",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 7000,
+  "exp": 121,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3317,
+      "name": "Loincloth",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 3318,
+      "name": "Sharp Foretooth",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3319,
+      "name": "Stingy Whisker",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3320,
+      "name": "Strange Nut",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

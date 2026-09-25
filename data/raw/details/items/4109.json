@@ -1,0 +1,14 @@
+{
+  "id": 4109,
+  "name": "Spoiled Herb",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 15,
+  "process": 5,
+  "process_amount": 14,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

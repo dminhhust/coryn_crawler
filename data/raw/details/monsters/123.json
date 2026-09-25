@@ -1,0 +1,46 @@
+{
+  "id": 123,
+  "name": "Goblin (sword)",
+  "level": 24,
+  "map_id": 35,
+  "map_name": "Ribisco Cave: Area 3",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 700,
+  "exp": 30,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 32,
+      "name": "Broken Metal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 50,
+      "name": "Cracked Helmet",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 477,
+      "name": "Great Sword",
+      "type_id": 5,
+      "type_label": "[2 Handed Sword]"
+    },
+    {
+      "id": 150,
+      "name": "Nicked Blade",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

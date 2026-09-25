@@ -1,0 +1,39 @@
+{
+  "id": 5313,
+  "name": "Amber Charm",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 85,
+  "process": 5,
+  "process_amount": 42,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 47,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 57,
+      "effect_name": "Ailment Resistance %",
+      "amount": 13,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 124,
+      "effect_name": "Physical Barrier",
+      "amount": 1300,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 128,
+      "effect_name": "Magic Barrier",
+      "amount": 1300,
+      "applies_to": 0
+    }
+  ]
+}

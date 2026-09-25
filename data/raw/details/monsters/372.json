@@ -1,0 +1,46 @@
+{
+  "id": 372,
+  "name": "Scalar Roar",
+  "level": 69,
+  "map_id": 105,
+  "map_name": "Akaku Desert: Area 1",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 81,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 67,
+      "name": "Fairy Feather",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 485,
+      "name": "Headband",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 1302,
+      "name": "Quicksand Crystal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 266,
+      "name": "Save Point",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

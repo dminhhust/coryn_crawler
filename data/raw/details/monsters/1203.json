@@ -1,0 +1,46 @@
+{
+  "id": 1203,
+  "name": "Young Pore",
+  "level": 114,
+  "map_id": 238,
+  "map_name": "Copia Reservoir",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 5000,
+  "exp": 110,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2966,
+      "name": "Elven Ear Cuffs",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 2964,
+      "name": "Green Ball",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2965,
+      "name": "Mossy Fur",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2963,
+      "name": "Spiral Tree Root",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 1380,
+  "name": "Tehon",
+  "level": 131,
+  "map_id": 257,
+  "map_name": "Curonne Forest: North Area 1",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 13000,
+  "exp": 302,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3330,
+      "name": "Curved Edge",
+      "type_id": 5,
+      "type_label": "[2 Handed Sword]"
+    },
+    {
+      "id": 3329,
+      "name": "Good Fertilizer",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3322,
+      "name": "Light Red Hair",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3321,
+      "name": "Vertical Stripe Fur",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

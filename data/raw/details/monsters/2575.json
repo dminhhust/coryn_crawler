@@ -1,0 +1,46 @@
+{
+  "id": 2575,
+  "name": "Treekat",
+  "level": 193,
+  "map_id": 456,
+  "map_name": "Flumen Plains",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 14000,
+  "exp": 255,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6028,
+      "name": "Cat Wing",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6030,
+      "name": "Crystal Ear Cuffs",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 6029,
+      "name": "Lost Cat Mana",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6027,
+      "name": "Tiny Cat Claw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

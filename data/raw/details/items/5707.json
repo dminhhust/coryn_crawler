@@ -1,0 +1,21 @@
+{
+  "id": 5707,
+  "name": "Star Fruit",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 22,
+  "process": 5,
+  "process_amount": 21,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 79,
+      "effect_name": "HP",
+      "amount": 5000,
+      "applies_to": 0
+    }
+  ]
+}

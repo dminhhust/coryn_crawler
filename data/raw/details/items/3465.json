@@ -1,0 +1,39 @@
+{
+  "id": 3465,
+  "name": "Noeliel the Ice Statue",
+  "type_id": 220,
+  "type_label": "[Enhancer Crysta (Green)]",
+  "sell": 1,
+  "process": 6,
+  "process_amount": 100,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 23,
+      "effect_name": "MATK %",
+      "amount": 5,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 40,
+      "effect_name": "CSPD %",
+      "amount": 30,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 148,
+      "effect_name": "Upgrade for",
+      "amount": 3464,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 165,
+      "effect_name": "Attack MP Recovery %",
+      "amount": 10,
+      "applies_to": 0
+    }
+  ]
+}

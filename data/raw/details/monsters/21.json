@@ -1,0 +1,52 @@
+{
+  "id": 21,
+  "name": "Pomum",
+  "level": 3,
+  "map_id": 7,
+  "map_name": "Rakau Plains",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 130,
+  "exp": 3,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 256,
+      "name": "Nut",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 162,
+      "name": "Pomum Leaf",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 545,
+      "name": "Rod",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    },
+    {
+      "id": 1930,
+      "name": "Spear",
+      "type_id": 26,
+      "type_label": "[Halberd]"
+    },
+    {
+      "id": 205,
+      "name": "Spider Thread",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": 2782,
+  "name": "Cherry Blossom Crystal",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 10,
+  "process": 1,
+  "process_amount": 9,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

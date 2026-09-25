@@ -1,0 +1,46 @@
+{
+  "id": 2370,
+  "name": "Rhinoceros",
+  "level": 191,
+  "map_id": 411,
+  "map_name": "Fugitive Lake Swamp: Area 3",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "normal",
+  "hp": 38000,
+  "exp": 722,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5510,
+      "name": "Antler Glaive",
+      "type_id": 26,
+      "type_label": "[Halberd]"
+    },
+    {
+      "id": 5509,
+      "name": "Bold Gaze",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5507,
+      "name": "Broken Horn",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5508,
+      "name": "Hard Armor Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

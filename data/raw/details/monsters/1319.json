@@ -1,0 +1,52 @@
+{
+  "id": 1319,
+  "name": "Hero Potum (9M DL)",
+  "level": 140,
+  "map_id": 79,
+  "map_name": "Sofya City: Government Office",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Easy",
+  "hp": 130000,
+  "exp": 1200,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3203,
+      "name": "Heroic Butter Cake",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 3202,
+      "name": "Heroic Revita",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 911,
+      "name": "Orichalcum Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 3205,
+      "name": "Satan Armor",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 3204,
+      "name": "Satan Helmet",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

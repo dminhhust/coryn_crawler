@@ -1,0 +1,58 @@
+{
+  "id": 2779,
+  "name": "Sibylares (Very Hard)",
+  "level": 250,
+  "map_id": 489,
+  "map_name": "Phasma Forest: Area 3",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 6500000,
+  "exp": 26500,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6611,
+      "name": "Dark Shaman Talisman",
+      "type_id": 18,
+      "type_label": "[Special]"
+    },
+    {
+      "id": 6594,
+      "name": "Dripping Spirit Dew",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6610,
+      "name": "Ghost Forest Dark Shaman",
+      "type_id": 24,
+      "type_label": "[Special Crysta]"
+    },
+    {
+      "id": 6612,
+      "name": "Mischievous Buckler",
+      "type_id": 17,
+      "type_label": "[Shield]"
+    },
+    {
+      "id": 911,
+      "name": "Orichalcum Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 1463,
+      "name": "Sweets Box",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

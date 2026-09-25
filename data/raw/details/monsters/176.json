@@ -1,0 +1,52 @@
+{
+  "id": 176,
+  "name": "Seltirios",
+  "level": 60,
+  "map_id": 50,
+  "map_name": "Aulada Ancient Tower",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "Normal",
+  "hp": 60000,
+  "exp": 960,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 53,
+      "name": "Crimson Claw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 120,
+      "name": "Little Wyvern Wing",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 173,
+      "name": "Red Crystal Stone Fragment",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 321,
+      "name": "Seltirios",
+      "type_id": 23,
+      "type_label": "[Additional Crysta]"
+    },
+    {
+      "id": 567,
+      "name": "Vampire Cape",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 4,
+  "name": "Shell Mask",
+  "level": 4,
+  "map_id": 2,
+  "map_name": "Land Under Development",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 90,
+  "exp": 2,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 450,
+      "name": "Buckler",
+      "type_id": 17,
+      "type_label": "[Shield]"
+    },
+    {
+      "id": 256,
+      "name": "Nut",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 201,
+      "name": "Small Wood",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 238,
+      "name": "Woodchip",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

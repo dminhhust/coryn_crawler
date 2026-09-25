@@ -1,0 +1,46 @@
+{
+  "id": 2752,
+  "name": "Guffin",
+  "level": 216,
+  "map_id": 483,
+  "map_name": "Boma Moja: Area 3",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 43420,
+  "exp": 682,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6532,
+      "name": "Holy Hood",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 6531,
+      "name": "Observant Eye",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6530,
+      "name": "Pure White Feather",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6529,
+      "name": "Simple Accessory Piece",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

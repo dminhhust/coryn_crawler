@@ -1,0 +1,64 @@
+{
+  "id": 1757,
+  "name": "Tuscog",
+  "level": 179,
+  "map_id": 304,
+  "map_name": "Eryldan Street: Near the Forest of Ein",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Hard",
+  "hp": 3900000,
+  "exp": 26600,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4080,
+      "name": "Heinous Gaze",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4079,
+      "name": "Mottled Quill",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4081,
+      "name": "Porcupine Crossbow",
+      "type_id": 10,
+      "type_label": "[Bowgun]"
+    },
+    {
+      "id": 4082,
+      "name": "Porcupine Quills Shield",
+      "type_id": 17,
+      "type_label": "[Shield]"
+    },
+    {
+      "id": 4083,
+      "name": "Tuscog",
+      "type_id": 200,
+      "type_label": "[Enhancer Crysta (Blue)]"
+    },
+    {
+      "id": 4078,
+      "name": "Tuscog Claw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4077,
+      "name": "Tuscog Fang",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

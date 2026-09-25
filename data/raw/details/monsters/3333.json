@@ -1,0 +1,58 @@
+{
+  "id": 3333,
+  "name": "Goblin Zucotto (Choco)",
+  "level": 280,
+  "map_id": 640,
+  "map_name": "Anglaise Forest",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Choco",
+  "hp": 17240020,
+  "exp": 64370,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 8075,
+      "name": "Beautiful Corsage",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 8083,
+      "name": "Blue Rose Gloves",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    },
+    {
+      "id": 8080,
+      "name": "Blue Rose Umbrella Sword",
+      "type_id": 5,
+      "type_label": "[2 Handed Sword]"
+    },
+    {
+      "id": 8076,
+      "name": "Caramel Tie",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 8043,
+      "name": "Goblin Zucotto",
+      "type_id": 230,
+      "type_label": "[Enhancer Crysta (Yellow)]"
+    },
+    {
+      "id": 8073,
+      "name": "Ripped Suit",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

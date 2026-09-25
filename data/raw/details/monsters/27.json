@@ -1,0 +1,52 @@
+{
+  "id": 27,
+  "name": "Night Mushroom",
+  "level": 10,
+  "map_id": 8,
+  "map_name": "Reug Salt Plains: Wanderers Camp",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 145,
+  "exp": 7,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 290,
+      "name": "CSPD+20",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 147,
+      "name": "Mushroom Spore",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 161,
+      "name": "Poisonous Mushroom",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 551,
+      "name": "Scholar's Glasses",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 227,
+      "name": "Turbid Crystal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

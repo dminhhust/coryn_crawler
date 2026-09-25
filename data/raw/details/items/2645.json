@@ -1,0 +1,14 @@
+{
+  "id": 2645,
+  "name": "Painkiller",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 14,
+  "process": 5,
+  "process_amount": 15,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

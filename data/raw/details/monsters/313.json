@@ -1,0 +1,52 @@
+{
+  "id": 313,
+  "name": "Shining Gentleman",
+  "level": 82,
+  "map_id": 91,
+  "map_name": "Lost Town: Square",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 6000,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 436,
+      "name": "Adventurer's Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 1048,
+      "name": "Lost Footstep",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1025,
+      "name": "Polyester Cloth",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1054,
+      "name": "Revolver",
+      "type_id": 10,
+      "type_label": "[Bowgun]"
+    },
+    {
+      "id": 1052,
+      "name": "Shining Gentleman",
+      "type_id": 24,
+      "type_label": "[Special Crysta]"
+    }
+  ]
+}

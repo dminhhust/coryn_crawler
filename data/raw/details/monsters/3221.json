@@ -1,0 +1,46 @@
+{
+  "id": 3221,
+  "name": "Venofly",
+  "level": 246,
+  "map_id": 593,
+  "map_name": "Perdida Wasteland",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 0,
+  "exp": 268,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7715,
+      "name": "Dragonfly Ring",
+      "type_id": 18,
+      "type_label": "[Special]"
+    },
+    {
+      "id": 7714,
+      "name": "Mysteriously Glowing Tail",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7712,
+      "name": "Poisonous Scytheclaw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7713,
+      "name": "Transparent Compound Eye",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

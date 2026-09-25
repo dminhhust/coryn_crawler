@@ -1,0 +1,52 @@
+{
+  "id": 2655,
+  "name": "Glory Ring Case",
+  "level": 0,
+  "map_id": 79,
+  "map_name": "Sofya City: Government Office",
+  "type_code": "O",
+  "type_label": "Orb Shop",
+  "mode": "Easy",
+  "hp": 0,
+  "exp": 0,
+  "element_id": -1,
+  "element_label": "Unknown",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6263,
+      "name": "Glory Ring (Indirect)",
+      "type_id": 18,
+      "type_label": "[Special]"
+    },
+    {
+      "id": 6264,
+      "name": "Glory Ring (Magic Sword)",
+      "type_id": 18,
+      "type_label": "[Special]"
+    },
+    {
+      "id": 6265,
+      "name": "Glory Ring (Melee)",
+      "type_id": 18,
+      "type_label": "[Special]"
+    },
+    {
+      "id": 6262,
+      "name": "Glory Ring (Memory)",
+      "type_id": 18,
+      "type_label": "[Special]"
+    },
+    {
+      "id": 6266,
+      "name": "Glory Ring (Restore)",
+      "type_id": 18,
+      "type_label": "[Special]"
+    }
+  ]
+}

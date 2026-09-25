@@ -1,0 +1,14 @@
+{
+  "id": 3793,
+  "name": "Shining Tail",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 17,
+  "process": 1,
+  "process_amount": 17,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

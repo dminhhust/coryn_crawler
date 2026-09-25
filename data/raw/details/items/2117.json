@@ -1,0 +1,21 @@
+{
+  "id": 2117,
+  "name": "Prime Piercer [KN]",
+  "type_id": 3,
+  "type_label": "[Piercer]",
+  "sell": 0,
+  "process": 0,
+  "process_amount": 0,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 156,
+      "effect_name": "Adds 1 slot to a 1-slotted knuckles",
+      "amount": 1,
+      "applies_to": 2
+    }
+  ]
+}

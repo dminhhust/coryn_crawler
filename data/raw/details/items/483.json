@@ -1,0 +1,39 @@
+{
+  "id": 483,
+  "name": "Hard Buckler",
+  "type_id": 17,
+  "type_label": "[Shield]",
+  "sell": 40,
+  "process": 2,
+  "process_amount": 20,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 3,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 41,
+      "effect_name": "Critical Rate",
+      "amount": 2,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 58,
+      "effect_name": "Guard Power %",
+      "amount": 17,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 59,
+      "effect_name": "Guard Recharge %",
+      "amount": 17,
+      "applies_to": 0
+    }
+  ]
+}

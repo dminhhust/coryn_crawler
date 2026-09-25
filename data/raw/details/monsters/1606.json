@@ -1,0 +1,46 @@
+{
+  "id": 1606,
+  "name": "Death Hound",
+  "level": 152,
+  "map_id": 294,
+  "map_name": "Dark Dragon Shrine: Lower",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 17500,
+  "exp": 384,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3780,
+      "name": "Achti Bowgun",
+      "type_id": 10,
+      "type_label": "[Bowgun]"
+    },
+    {
+      "id": 3782,
+      "name": "Black Shadow Claw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3784,
+      "name": "Creeping Dread",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3783,
+      "name": "Jet-Black Fur",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

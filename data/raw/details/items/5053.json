@@ -1,0 +1,21 @@
+{
+  "id": 5053,
+  "name": "Concert Drink",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": -1,
+  "process": -1,
+  "process_amount": -1,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 79,
+      "effect_name": "HP",
+      "amount": 10000,
+      "applies_to": 0
+    }
+  ]
+}

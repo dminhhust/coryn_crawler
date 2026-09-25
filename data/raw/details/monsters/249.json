@@ -1,0 +1,922 @@
+{
+  "id": 249,
+  "name": "Synthesist: Mubia",
+  "level": 0,
+  "map_id": 77,
+  "map_name": "Sofya City: Synthesist",
+  "type_code": "C",
+  "type_label": "NPC",
+  "mode": "Normal",
+  "hp": 0,
+  "exp": 0,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 596,
+      "name": "Accuracy Potion",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 3528,
+      "name": "Aggro Tonic",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 4642,
+      "name": "Airbag Vest",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 888,
+      "name": "Amethyst",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2765,
+      "name": "Anti Darkness Gloves",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 907,
+      "name": "Aquamarine",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1428,
+      "name": "Baked Sweet Potato",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 4641,
+      "name": "Barrier Analyzer Lithograph",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 889,
+      "name": "Beryl",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6515,
+      "name": "Big Takoyaki (Pack)",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 604,
+      "name": "Black Mist Candy",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1990,
+      "name": "Blade Oil",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 2470,
+      "name": "Bronze Pom Refine",
+      "type_id": 2,
+      "type_label": "[Refinement Support]"
+    },
+    {
+      "id": 601,
+      "name": "Butterfly Float",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 2092,
+      "name": "Citrine",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6328,
+      "name": "Clear Sky Ocarina",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 331,
+      "name": "Damascus Steel",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 875,
+      "name": "Diamond",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6323,
+      "name": "Disguise Scarf",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1427,
+      "name": "Dried Persimon",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1560,
+      "name": "Earth Protection Charm",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 6327,
+      "name": "Elf Berry Pot",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 885,
+      "name": "Emerald",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5670,
+      "name": "Emotion Ticket D",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 4639,
+      "name": "Energy Pill",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 900,
+      "name": "Eye Catalog",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 899,
+      "name": "Face Catalog",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 599,
+      "name": "Fairy Eye Drop",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 2762,
+      "name": "Fighter's Red Loincloth",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1557,
+      "name": "Fire Protection Charm",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 78,
+      "name": "Flower Nectar",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 6490,
+      "name": "Flower Nectar Syrup",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 880,
+      "name": "Garnet",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 906,
+      "name": "Giga Speed Potion",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1432,
+      "name": "Ginkgo Nut Rice",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1554,
+      "name": "Gloves of Aiming",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 2472,
+      "name": "Gold Pom Refine",
+      "type_id": 2,
+      "type_label": "[Refinement Support]"
+    },
+    {
+      "id": 4585,
+      "name": "Golden Casket",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 6324,
+      "name": "Goodbye Hat",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 598,
+      "name": "Grape Chewing Gum",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 2359,
+      "name": "Grape Jelly",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 602,
+      "name": "Guard Potion",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 895,
+      "name": "Hairstyle: Back (Long)",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 894,
+      "name": "Hairstyle: Back (Medium)",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 893,
+      "name": "Hairstyle: Back (Short)",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 892,
+      "name": "Hairstyle: Bangs (Long)",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 891,
+      "name": "Hairstyle: Bangs (Medium)",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 890,
+      "name": "Hairstyle: Bangs (Short)",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 898,
+      "name": "Hairstyle: Tail (Long)",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 897,
+      "name": "Hairstyle: Tail (Medium)",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 896,
+      "name": "Hairstyle: Tail (Short)",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 933,
+      "name": "Heart Chocolate",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 918,
+      "name": "Heart Cookie",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1561,
+      "name": "Hot Tomato Juice",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1992,
+      "name": "Inspiration Scarf",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 244,
+      "name": "Iron",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 2090,
+      "name": "Lapiz Lazuli",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 254,
+      "name": "Magiadd I",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 585,
+      "name": "Magiadd II",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1287,
+      "name": "Magiadd III",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1989,
+      "name": "Magic Absorption Stone",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1555,
+      "name": "Magic Amplifier",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1215,
+      "name": "Magic Barrier Wand",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 600,
+      "name": "Magic Fragrant Wood",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 2767,
+      "name": "Magic Proof Coat",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 901,
+      "name": "Magical Stadiometer",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4637,
+      "name": "Mana Catalyst",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1213,
+      "name": "Mana Supply Stone",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1430,
+      "name": "Mashed Sweet Potato",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1431,
+      "name": "Matsutake Soup",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 606,
+      "name": "Mega Speed Potion",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 5695,
+      "name": "Midsummer Passion",
+      "type_id": 21,
+      "type_label": "[Weapon Crysta]"
+    },
+    {
+      "id": 332,
+      "name": "Mithril",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 2317,
+      "name": "Monster Pot",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 878,
+      "name": "Moonstone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 597,
+      "name": "Muscle Mushroom",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1556,
+      "name": "Muscle Oil",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 874,
+      "name": "Obsidian",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 881,
+      "name": "Onyx",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3244,
+      "name": "Otsukimi Dango",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 603,
+      "name": "Overheat Potion",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 2358,
+      "name": "Pear Tart",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 876,
+      "name": "Pearl",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4640,
+      "name": "Penetrating Oil",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 2091,
+      "name": "Peridot",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1892,
+      "name": "Pet Cage",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2315,
+      "name": "Power Candy",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 903,
+      "name": "Power Essence",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 2766,
+      "name": "Protector Plate",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 6326,
+      "name": "Protector Plate II",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 2089,
+      "name": "Red Agate",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4560,
+      "name": "Red Steel Box",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 259,
+      "name": "Regera I",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 587,
+      "name": "Regera II",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1285,
+      "name": "Regera III",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1717,
+      "name": "Regera IV",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 3107,
+      "name": "Regera V",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 904,
+      "name": "Renowned Archer's Beard",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 260,
+      "name": "Revita I",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 588,
+      "name": "Revita II",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 589,
+      "name": "Revita III",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 902,
+      "name": "Revita IV",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1716,
+      "name": "Revita V",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 3108,
+      "name": "Revita VI",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 4850,
+      "name": "Revita VII",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 887,
+      "name": "Rose Quartz",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 879,
+      "name": "Ruby",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1928,
+      "name": "Sakura Regera",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1063,
+      "name": "Sakuramochi",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1429,
+      "name": "Salt-Grilled Saury",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 882,
+      "name": "Sapphire",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2764,
+      "name": "Shading Handkerchief",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1991,
+      "name": "Shiny Powder",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1216,
+      "name": "Shock Absorbing Cream",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 905,
+      "name": "Shooting Star Potion",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 2471,
+      "name": "Silver Pom Refine",
+      "type_id": 2,
+      "type_label": "[Refinement Support]"
+    },
+    {
+      "id": 7347,
+      "name": "Silver View Shrine",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 4638,
+      "name": "Sorcerer's Nostrum",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 605,
+      "name": "Speed Potion",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 3529,
+      "name": "Spell Headphones",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1214,
+      "name": "Stab-Proof Sheet",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 607,
+      "name": "Stardust Magic Potion",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1552,
+      "name": "Starlight Potion",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 2316,
+      "name": "Sticky Dumpling",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 877,
+      "name": "Sunstone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3527,
+      "name": "Super Bandage",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 2768,
+      "name": "Tera Speed Potion",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 2763,
+      "name": "Third Eye",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 884,
+      "name": "Topaz",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1065,
+      "name": "Toram Liquor",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 886,
+      "name": "Tourmaline",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1064,
+      "name": "Tricolor Dango",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1927,
+      "name": "Tricolor Dango II",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 592,
+      "name": "Vaccine I",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 593,
+      "name": "Vaccine II",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1533,
+      "name": "Vaccine III",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 6325,
+      "name": "Vigilant Skull",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 594,
+      "name": "Vita Plus I",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 595,
+      "name": "Vita Plus II",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1286,
+      "name": "Vita Plus III",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1718,
+      "name": "Vita Plus IV",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 3526,
+      "name": "War Dead Bracelet",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 6322,
+      "name": "Warm Fur Sheet",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1558,
+      "name": "Water Protection Charm",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1559,
+      "name": "Wind Protection Charm",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 883,
+      "name": "Zircon",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4026,
+      "name": "[Book of Dancer]",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 3200,
+      "name": "[Book of Darkness]",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 3201,
+      "name": "[Book of Magic Warrior]",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 4025,
+      "name": "[Book of Minstrel]",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

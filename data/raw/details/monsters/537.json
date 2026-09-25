@@ -1,0 +1,46 @@
+{
+  "id": 537,
+  "name": "Ogler",
+  "level": 75,
+  "map_id": 147,
+  "map_name": "Trace of Dark River",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 86,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1866,
+      "name": "Blueberry",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1863,
+      "name": "Small Beast Ear",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1865,
+      "name": "Tiny Claw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1864,
+      "name": "Two-Headed Snake Crown",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

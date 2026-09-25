@@ -1,0 +1,64 @@
+{
+  "id": 84,
+  "name": "Colon Commander",
+  "level": 33,
+  "map_id": 23,
+  "map_name": "Strum Road",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "Normal",
+  "hp": 22000,
+  "exp": 440,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 436,
+      "name": "Adventurer's Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 37,
+      "name": "Bundled Leaves",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 286,
+      "name": "Colon Commander",
+      "type_id": 22,
+      "type_label": "[Armor Crysta]"
+    },
+    {
+      "id": 456,
+      "name": "Colon Met",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 49,
+      "name": "Colon Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 260,
+      "name": "Revita I",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 206,
+      "name": "Split Wooden Helm",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

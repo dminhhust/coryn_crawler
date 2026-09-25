@@ -1,0 +1,39 @@
+{
+  "id": 5695,
+  "name": "Midsummer Passion",
+  "type_id": 21,
+  "type_label": "[Weapon Crysta]",
+  "sell": -1,
+  "process": -1,
+  "process_amount": -1,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 18,
+      "effect_name": "MaxHP %",
+      "amount": 15,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 41,
+      "effect_name": "Critical Rate",
+      "amount": 20,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 51,
+      "effect_name": "Fire resistance %",
+      "amount": 25,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 172,
+      "effect_name": "Recoil %",
+      "amount": 3,
+      "applies_to": 0
+    }
+  ]
+}

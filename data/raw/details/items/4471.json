@@ -1,0 +1,14 @@
+{
+  "id": 4471,
+  "name": "Sapphire Roga Horns",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 22,
+  "process": 3,
+  "process_amount": 23,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

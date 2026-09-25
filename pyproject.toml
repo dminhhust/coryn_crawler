@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "coryn-crawler"
+version = "0.1.0"
+description = "Polite, resumable crawler for Coryn Club's public JSON API"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  "requests>=2.32,<3",
+  "python-dotenv>=1.0,<2",
+]
+
+[project.scripts]
+coryn-crawl = "coryn_crawler.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

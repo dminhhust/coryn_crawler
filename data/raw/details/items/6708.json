@@ -1,0 +1,14 @@
+{
+  "id": 6708,
+  "name": "Filrocas Core",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 30,
+  "process": 5,
+  "process_amount": 30,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

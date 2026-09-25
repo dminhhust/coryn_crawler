@@ -1,0 +1,106 @@
+{
+  "id": 1583,
+  "name": "Mimesia (Nightmare)",
+  "level": 180,
+  "map_id": 288,
+  "map_name": "Sakura Castle Donjon: Top",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Nightmare",
+  "hp": 495000,
+  "exp": 26000,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 436,
+      "name": "Adventurer's Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 436,
+      "name": "Adventurer's Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 3696,
+      "name": "Dusky Sakura Branch",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3702,
+      "name": "Mimesia",
+      "type_id": 220,
+      "type_label": "[Enhancer Crysta (Green)]"
+    },
+    {
+      "id": 3712,
+      "name": "Sakura Edge",
+      "type_id": 5,
+      "type_label": "[2 Handed Sword]"
+    },
+    {
+      "id": 3715,
+      "name": "Sakura Gloves",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    },
+    {
+      "id": 3711,
+      "name": "Sakura Katana",
+      "type_id": 27,
+      "type_label": "[Katana]"
+    },
+    {
+      "id": 3708,
+      "name": "Sakura Kodachi",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    },
+    {
+      "id": 3713,
+      "name": "Sakura Matchlock",
+      "type_id": 10,
+      "type_label": "[Bowgun]"
+    },
+    {
+      "id": 3716,
+      "name": "Sakura Naginata",
+      "type_id": 26,
+      "type_label": "[Halberd]"
+    },
+    {
+      "id": 3697,
+      "name": "Sakura Petal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3709,
+      "name": "Sakura Shooter",
+      "type_id": 9,
+      "type_label": "[Bow]"
+    },
+    {
+      "id": 3714,
+      "name": "Sakura Staff",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    },
+    {
+      "id": 3710,
+      "name": "Sakura Wings",
+      "type_id": 15,
+      "type_label": "[Magic Device]"
+    }
+  ]
+}

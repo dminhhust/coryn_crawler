@@ -1,0 +1,14 @@
+{
+  "id": 2040,
+  "name": "Marriage Gift",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 3,
+  "process": 6,
+  "process_amount": 3,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

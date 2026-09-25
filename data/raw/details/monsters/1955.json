@@ -1,0 +1,46 @@
+{
+  "id": 1955,
+  "name": "Bloodie Crystal",
+  "level": 207,
+  "map_id": 340,
+  "map_name": "Avant Plastida: Area 1",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 34280,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4466,
+      "name": "Blood Crystal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4465,
+      "name": "Blood Red Gemstone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4467,
+      "name": "Blood Smeared Crystal",
+      "type_id": 210,
+      "type_label": "[Enhancer Crysta (Red)]"
+    },
+    {
+      "id": 4450,
+      "name": "Perilous Essence",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

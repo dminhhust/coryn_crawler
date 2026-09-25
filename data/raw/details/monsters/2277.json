@@ -1,0 +1,52 @@
+{
+  "id": 2277,
+  "name": "Gift from the Syndicate",
+  "level": 0,
+  "map_id": 87,
+  "map_name": "Event",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": -1,
+  "element_id": -1,
+  "element_label": "Unknown",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5381,
+      "name": "Granny on Shoulder",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 5383,
+      "name": "Kinaco Scarf",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 5382,
+      "name": "Traffic Cone Earmuffs",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 5384,
+      "name": "†Dark Syndicate† Vilment",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 5385,
+      "name": "†Dark Syndicate† Vilment",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    }
+  ]
+}

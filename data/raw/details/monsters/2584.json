@@ -1,0 +1,46 @@
+{
+  "id": 2584,
+  "name": "Mycorina",
+  "level": 204,
+  "map_id": 459,
+  "map_name": "Divido Valley: Area 3",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 38000,
+  "exp": 620,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6042,
+      "name": "Douse Knuckles",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    },
+    {
+      "id": 6041,
+      "name": "Mycelial Skull",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6039,
+      "name": "Shining Gleba",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6040,
+      "name": "Transparent Pileus",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

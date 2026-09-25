@@ -1,0 +1,45 @@
+{
+  "id": 7505,
+  "name": "Balaclava",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 0,
+  "process": -1,
+  "process_amount": 0,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 94,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 39,
+      "effect_name": "CSPD",
+      "amount": 700,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 41,
+      "effect_name": "Critical Rate",
+      "amount": 30,
+      "applies_to": 524288
+    },
+    {
+      "effect_id": 61,
+      "effect_name": "Aggro %",
+      "amount": -70,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 248,
+      "effect_name": "CSPD",
+      "amount": 300,
+      "applies_to": 0
+    }
+  ]
+}

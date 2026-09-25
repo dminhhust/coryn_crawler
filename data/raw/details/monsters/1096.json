@@ -1,0 +1,46 @@
+{
+  "id": 1096,
+  "name": "Grape Jelly",
+  "level": 110,
+  "map_id": 213,
+  "map_name": "Ultimea Sewer: Southeast",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 7000,
+  "exp": 128,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2732,
+      "name": "Red Purple Gelatin",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 543,
+      "name": "Ribbon",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 2731,
+      "name": "Sour-Sweet Liquid",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2733,
+      "name": "Ultimea Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

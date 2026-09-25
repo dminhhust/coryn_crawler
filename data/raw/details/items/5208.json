@@ -1,0 +1,14 @@
+{
+  "id": 5208,
+  "name": "Experiment Report I",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 10,
+  "process": 5,
+  "process_amount": 20,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

@@ -1,0 +1,46 @@
+{
+  "id": 3305,
+  "name": "Galactopi",
+  "level": 193,
+  "map_id": 628,
+  "map_name": "Tower of Clamor: Area 3 (190-194)",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 47380,
+  "exp": 792,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4617,
+      "name": "Diaphragm",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 243,
+      "name": "Hematite",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 5073,
+      "name": "Metal Shackles",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5920,
+      "name": "Repeating Crossbow",
+      "type_id": 10,
+      "type_label": "[Bowgun]"
+    }
+  ]
+}

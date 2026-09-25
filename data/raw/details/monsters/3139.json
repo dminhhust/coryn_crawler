@@ -1,0 +1,58 @@
+{
+  "id": 3139,
+  "name": "Raging Dragon Bovinari",
+  "level": 258,
+  "map_id": 584,
+  "map_name": "Little Shrine of Grace Sanctuary",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Easy",
+  "hp": 840000,
+  "exp": 3360,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7515,
+      "name": "Avid Blade",
+      "type_id": 5,
+      "type_label": "[2 Handed Sword]"
+    },
+    {
+      "id": 7514,
+      "name": "Avid Glaive",
+      "type_id": 26,
+      "type_label": "[Halberd]"
+    },
+    {
+      "id": 7519,
+      "name": "Bovinari Crystal Horn",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7516,
+      "name": "Raging Dragon Hard Wing",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7517,
+      "name": "Raging Dragon Scute",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7518,
+      "name": "Raging Heart",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

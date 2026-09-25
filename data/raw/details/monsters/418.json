@@ -1,0 +1,46 @@
+{
+  "id": 418,
+  "name": "Verdesch",
+  "level": 68,
+  "map_id": 116,
+  "map_name": "Teaus Hill: Marshland",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 68,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1402,
+      "name": "CSPD+60",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 1401,
+      "name": "Flexible Tongue",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1102,
+      "name": "Sharp Webbed Foot",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1400,
+      "name": "Thick Eyebrow",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

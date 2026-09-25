@@ -1,0 +1,14 @@
+{
+  "id": 7718,
+  "name": "Sad Thought",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 28,
+  "process": 6,
+  "process_amount": 5,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

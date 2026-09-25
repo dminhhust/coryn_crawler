@@ -1,0 +1,46 @@
+{
+  "id": 3145,
+  "name": "Bangrudom (Choco)",
+  "level": 260,
+  "map_id": 511,
+  "map_name": "El Scaro: Back Alley",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Nightmare",
+  "hp": 14400000,
+  "exp": 56600,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7522,
+      "name": "Bangrudom",
+      "type_id": 22,
+      "type_label": "[Armor Crysta]"
+    },
+    {
+      "id": 7452,
+      "name": "Circular Plate",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7453,
+      "name": "Coral Rock",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7451,
+      "name": "Thin Snout",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

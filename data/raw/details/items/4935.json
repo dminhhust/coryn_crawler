@@ -1,0 +1,21 @@
+{
+  "id": 4935,
+  "name": "Ultra Cheesy Pizza",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 16,
+  "process": 5,
+  "process_amount": 15,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 80,
+      "effect_name": "MP",
+      "amount": 75,
+      "applies_to": 0
+    }
+  ]
+}

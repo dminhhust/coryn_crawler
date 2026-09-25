@@ -1,0 +1,70 @@
+{
+  "id": 2594,
+  "name": "Mieli (Bitter)",
+  "level": 220,
+  "map_id": 7,
+  "map_name": "Rakau Plains",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Nightmare",
+  "hp": 3200000,
+  "exp": 14700,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6075,
+      "name": "Gold Flower",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6073,
+      "name": "Mieli",
+      "type_id": 23,
+      "type_label": "[Additional Crysta]"
+    },
+    {
+      "id": 6068,
+      "name": "Mieli's Lovely Wing",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 911,
+      "name": "Orichalcum Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 6077,
+      "name": "Queen Bee Needle",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    },
+    {
+      "id": 6078,
+      "name": "Queen Bee Wings",
+      "type_id": 15,
+      "type_label": "[Magic Device]"
+    },
+    {
+      "id": 6076,
+      "name": "Queen Bee-races",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    },
+    {
+      "id": 6069,
+      "name": "Royal Jelly",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

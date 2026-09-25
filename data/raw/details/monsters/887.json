@@ -1,0 +1,46 @@
+{
+  "id": 887,
+  "name": "Foxiger",
+  "level": 48,
+  "map_id": 93,
+  "map_name": "Centerio Highlands",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 3000,
+  "exp": 101,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 248,
+      "name": "Bear Meat",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 12,
+      "name": "Beast Claw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 13,
+      "name": "Beast Mane",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 466,
+      "name": "Fighter Chignon Cap",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

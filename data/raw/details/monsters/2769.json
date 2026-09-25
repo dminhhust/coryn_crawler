@@ -1,0 +1,46 @@
+{
+  "id": 2769,
+  "name": "Tomaton",
+  "level": 170,
+  "map_id": 487,
+  "map_name": "Phasma Forest: Area 1",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 29500,
+  "exp": 460,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6591,
+      "name": "Kitchen Knife",
+      "type_id": 11,
+      "type_label": "[Dagger]"
+    },
+    {
+      "id": 6589,
+      "name": "Salad Dressing",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6590,
+      "name": "Tomato Chips",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 6588,
+      "name": "Tomato Seed",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

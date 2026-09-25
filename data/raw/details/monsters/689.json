@@ -1,0 +1,58 @@
+{
+  "id": 689,
+  "name": "Cerberus",
+  "level": 87,
+  "map_id": 141,
+  "map_name": "Spring of Rebirth: Top",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Easy",
+  "hp": 80000,
+  "exp": 922,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1736,
+      "name": "Cerberus Crystal Shell",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1739,
+      "name": "Cerberus Head Crystal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1737,
+      "name": "Cerberus Hell Claw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1738,
+      "name": "Chain of Purgatory",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1740,
+      "name": "Death Eater",
+      "type_id": 9,
+      "type_label": "[Bow]"
+    },
+    {
+      "id": 1741,
+      "name": "Gardien",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    }
+  ]
+}

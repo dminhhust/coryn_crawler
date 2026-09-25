@@ -1,0 +1,46 @@
+{
+  "id": 378,
+  "name": "Sand Anglerfish",
+  "level": 67,
+  "map_id": 106,
+  "map_name": "Akaku Desert: Area 2",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 158,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1309,
+      "name": "Big Fin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1330,
+      "name": "Monkfish Liver",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1311,
+      "name": "Shining Antena",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1310,
+      "name": "Storm Staff",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": 3355,
+  "name": "Mortares",
+  "level": 315,
+  "map_id": 655,
+  "map_name": "Izolara Underground Passage : Hidden Passage",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Hard",
+  "hp": -1,
+  "exp": -1,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "Update 02/26/26",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 8385,
+      "name": "Death Scorpion Carapace",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 8387,
+      "name": "Death Scorpion Crimson Eye",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 8386,
+      "name": "Death Scorpion Stinger",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

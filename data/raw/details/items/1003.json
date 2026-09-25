@@ -1,0 +1,27 @@
+{
+  "id": 1003,
+  "name": "Ooze Armor",
+  "type_id": 8,
+  "type_label": "[Armor]",
+  "sell": 50,
+  "process": 3,
+  "process_amount": 25,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 36,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 113,
+      "effect_name": "Potential",
+      "amount": 23,
+      "applies_to": 0
+    }
+  ]
+}

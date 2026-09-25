@@ -1,0 +1,46 @@
+{
+  "id": 1378,
+  "name": "Fanalizard",
+  "level": 123,
+  "map_id": 255,
+  "map_name": "Curonne Forest: East",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 6000,
+  "exp": 150,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3325,
+      "name": "Broken Cane",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3328,
+      "name": "INT+5",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 3327,
+      "name": "Lizard Liquor",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 3326,
+      "name": "Red and White Shide",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

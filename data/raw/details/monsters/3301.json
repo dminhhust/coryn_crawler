@@ -1,0 +1,46 @@
+{
+  "id": 3301,
+  "name": "Mikrodia",
+  "level": 191,
+  "map_id": 627,
+  "map_name": "Tower of Clamor: Area 2 (190-194)",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 30940,
+  "exp": 500,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7098,
+      "name": "Cold Branch",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7477,
+      "name": "Cold Crest",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6031,
+      "name": "Superfluous Branch",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7478,
+      "name": "Wreath Crown",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

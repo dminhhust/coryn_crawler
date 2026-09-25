@@ -1,0 +1,27 @@
+{
+  "id": 6504,
+  "name": "Big Takoyaki (Salt)",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 62,
+  "process": 0,
+  "process_amount": 0,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 41,
+      "effect_name": "Critical Rate",
+      "amount": 15,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 55,
+      "effect_name": "Light resistance %",
+      "amount": 30,
+      "applies_to": 0
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 3172,
+  "name": "Doridodi",
+  "level": 296,
+  "map_id": 588,
+  "map_name": "Marinatown: Area 2",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Ultimate",
+  "hp": 0,
+  "exp": 74130,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7597,
+      "name": "Cnidosac",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7496,
+      "name": "Doridodi",
+      "type_id": 210,
+      "type_label": "[Enhancer Crysta (Red)]"
+    },
+    {
+      "id": 7497,
+      "name": "Sanguine Fragment",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7582,
+      "name": "Sea Cucumber",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

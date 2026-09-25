@@ -1,0 +1,14 @@
+{
+  "id": 1899,
+  "name": "Bexiz Magic Cannon",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 15,
+  "process": 3,
+  "process_amount": 15,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

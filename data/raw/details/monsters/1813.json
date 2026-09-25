@@ -1,0 +1,70 @@
+{
+  "id": 1813,
+  "name": "Zarth",
+  "level": 175,
+  "map_id": 314,
+  "map_name": "Zarth's Mansion: Back",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Very Hard",
+  "hp": 4400000,
+  "exp": 20000,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4188,
+      "name": "Drama Clown",
+      "type_id": 21,
+      "type_label": "[Weapon Crysta]"
+    },
+    {
+      "id": 4181,
+      "name": "Medic Coat",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 911,
+      "name": "Orichalcum Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 4182,
+      "name": "Pumpkin Mask",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 1463,
+      "name": "Sweets Box",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 4190,
+      "name": "Treat Arrow",
+      "type_id": 7,
+      "type_label": "[Arrow]"
+    },
+    {
+      "id": 4189,
+      "name": "Trick Dagger",
+      "type_id": 11,
+      "type_label": "[Dagger]"
+    },
+    {
+      "id": 4183,
+      "name": "Zarth",
+      "type_id": 230,
+      "type_label": "[Enhancer Crysta (Yellow)]"
+    }
+  ]
+}

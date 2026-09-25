@@ -1,0 +1,33 @@
+{
+  "id": 437,
+  "name": "Adventurer's Hat",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 5,
+  "process": 4,
+  "process_amount": 2,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 3,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 17,
+      "effect_name": "MaxHP",
+      "amount": 30,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 19,
+      "effect_name": "MaxMP",
+      "amount": 30,
+      "applies_to": 0
+    }
+  ]
+}

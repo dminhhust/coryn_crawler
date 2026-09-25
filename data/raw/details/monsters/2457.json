@@ -1,0 +1,28 @@
+{
+  "id": 2457,
+  "name": "Gerumi",
+  "level": 220,
+  "map_id": 87,
+  "map_name": "Event",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 10000000,
+  "exp": 77700,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5758,
+      "name": "Rainbow Orb",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

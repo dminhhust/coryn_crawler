@@ -1,0 +1,52 @@
+{
+  "id": 483,
+  "name": "Zega (Megiston 2016)",
+  "level": 120,
+  "map_id": 87,
+  "map_name": "Event",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 800000,
+  "exp": 28000,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 816,
+      "name": "Mithril Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 335,
+      "name": "Orichalcum",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 911,
+      "name": "Orichalcum Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 1699,
+      "name": "Revita Box",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1338,
+      "name": "Zega",
+      "type_id": 21,
+      "type_label": "[Weapon Crysta]"
+    }
+  ]
+}

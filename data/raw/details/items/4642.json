@@ -1,0 +1,27 @@
+{
+  "id": 4642,
+  "name": "Airbag Vest",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 15,
+  "process": 5,
+  "process_amount": 16,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 28,
+      "effect_name": "DEF %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 202,
+      "effect_name": "Thrust Resistance %",
+      "amount": 15,
+      "applies_to": 0
+    }
+  ]
+}

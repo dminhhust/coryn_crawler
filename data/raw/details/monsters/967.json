@@ -1,0 +1,46 @@
+{
+  "id": 967,
+  "name": "Mech Little Boar",
+  "level": 97,
+  "map_id": 184,
+  "map_name": "Sykea Deep Valley",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 3300,
+  "exp": 77,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2437,
+      "name": "Beast Fang Talisman",
+      "type_id": 18,
+      "type_label": "[Special]"
+    },
+    {
+      "id": 2434,
+      "name": "Coarse Beast Fur",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2436,
+      "name": "Energy Bottle",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 2435,
+      "name": "Steel Horn",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 7876,
+  "name": "9th Anniv Katana III",
+  "type_id": 27,
+  "type_label": "[Katana]",
+  "sell": 0,
+  "process": -1,
+  "process_amount": 0,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 146,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 70,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 113,
+      "effect_name": "Potential",
+      "amount": 49,
+      "applies_to": 0
+    }
+  ]
+}

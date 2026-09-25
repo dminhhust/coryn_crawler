@@ -1,0 +1,64 @@
+{
+  "id": 2798,
+  "name": "Trickster Dragon Mimyugon",
+  "level": 258,
+  "map_id": 494,
+  "map_name": "Operation Zone: Cockpit Area",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Nightmare",
+  "hp": 27000000,
+  "exp": 113000,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6644,
+      "name": "Detached Tentacle",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6647,
+      "name": "Trickster Costume",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 6646,
+      "name": "Trickster Dragon Eye",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6648,
+      "name": "Trickster Dragon Mimyugon",
+      "type_id": 210,
+      "type_label": "[Enhancer Crysta (Red)]"
+    },
+    {
+      "id": 6645,
+      "name": "Trickster Dragon Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6649,
+      "name": "Trickster Kerato",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 6650,
+      "name": "Trickster Wings",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

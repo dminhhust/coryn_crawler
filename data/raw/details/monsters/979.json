@@ -1,0 +1,46 @@
+{
+  "id": 979,
+  "name": "Ledon Machina",
+  "level": 111,
+  "map_id": 187,
+  "map_name": "Large Demi Machina Factory: Area 3",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 10000,
+  "exp": 281,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2448,
+      "name": "Huge Eyeball",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2449,
+      "name": "Paladin Spear",
+      "type_id": 26,
+      "type_label": "[Halberd]"
+    },
+    {
+      "id": 2446,
+      "name": "Strange Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2447,
+      "name": "Tough Tentacle",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

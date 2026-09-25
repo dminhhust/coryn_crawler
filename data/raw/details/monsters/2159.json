@@ -1,0 +1,52 @@
+{
+  "id": 2159,
+  "name": "Phantom Wisp",
+  "level": 175,
+  "map_id": 373,
+  "map_name": "Phantom Wisp's Hideout: Theater",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Hard",
+  "hp": 1600000,
+  "exp": 7600,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4940,
+      "name": "Masquerade Hat",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 816,
+      "name": "Mithril Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 4939,
+      "name": "P.Wisp's Warning Letter",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4941,
+      "name": "Phantom Wisp",
+      "type_id": 22,
+      "type_label": "[Armor Crysta]"
+    },
+    {
+      "id": 1463,
+      "name": "Sweets Box",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 2146,
+  "name": "Tappler",
+  "level": 218,
+  "map_id": 370,
+  "map_name": "Ruins of Urban Elban",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 37400,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4901,
+      "name": "Geometric Metal Bit",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4907,
+      "name": "Glow Pebble",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4897,
+      "name": "Strange Dust",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4908,
+      "name": "Tappler",
+      "type_id": 200,
+      "type_label": "[Enhancer Crysta (Blue)]"
+    }
+  ]
+}

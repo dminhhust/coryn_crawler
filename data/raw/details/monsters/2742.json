@@ -1,0 +1,46 @@
+{
+  "id": 2742,
+  "name": "Mist Roar",
+  "level": 206,
+  "map_id": 480,
+  "map_name": "Nebula Plain",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 18000,
+  "exp": 283,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6528,
+      "name": "CSPD+140",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 6526,
+      "name": "Mist Droplet",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6525,
+      "name": "Mystical Wing",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6527,
+      "name": "Shining Flower",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": 553,
+  "name": "Bexiz",
+  "level": 123,
+  "map_id": 150,
+  "map_name": "Cradle of Soldier: Deepest Part",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Nightmare",
+  "hp": 3325000,
+  "exp": 38050,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1901,
+      "name": "Bexiz",
+      "type_id": 24,
+      "type_label": "[Special Crysta]"
+    },
+    {
+      "id": 1898,
+      "name": "Bexiz Bowgun",
+      "type_id": 10,
+      "type_label": "[Bowgun]"
+    },
+    {
+      "id": 1899,
+      "name": "Bexiz Magic Cannon",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1897,
+      "name": "Bexiz Staff",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    },
+    {
+      "id": 1895,
+      "name": "Bexiz Stone Shell",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1896,
+      "name": "Broken Floating Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1900,
+      "name": "Magic Energy Core",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

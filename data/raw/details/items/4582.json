@@ -1,0 +1,14 @@
+{
+  "id": 4582,
+  "name": "Otherworld Rubble",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 23,
+  "process": 3,
+  "process_amount": 23,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

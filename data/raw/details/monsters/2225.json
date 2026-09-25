@@ -1,0 +1,64 @@
+{
+  "id": 2225,
+  "name": "Zodiac Ox Box",
+  "level": 0,
+  "map_id": 88,
+  "map_name": "-",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 0,
+  "exp": 0,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2552,
+      "name": "Osechi",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 2553,
+      "name": "Otoshidama",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2554,
+      "name": "Otoshidama",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2555,
+      "name": "Otoshidama",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2556,
+      "name": "Otoshidama",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2557,
+      "name": "Otoshidama",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5190,
+      "name": "Zodiac Hat: Ox",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": 410,
+  "name": "Helmcoon",
+  "level": 71,
+  "map_id": 118,
+  "map_name": "Magic Waste Site: Area 2",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 171,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1374,
+      "name": "Big Bolt",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1377,
+      "name": "Huge Steel Bow",
+      "type_id": 9,
+      "type_label": "[Bow]"
+    },
+    {
+      "id": 1376,
+      "name": "Iron Hat Fragment",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1933,
+      "name": "Knight Lance",
+      "type_id": 26,
+      "type_label": "[Halberd]"
+    },
+    {
+      "id": 1375,
+      "name": "Tough Tail",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

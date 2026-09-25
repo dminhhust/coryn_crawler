@@ -1,0 +1,46 @@
+{
+  "id": 191,
+  "name": "Fin Frog",
+  "level": 47,
+  "map_id": 56,
+  "map_name": "Haotas Ravine",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 132,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 242,
+      "name": "Damascus Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 87,
+      "name": "Frog Webbed Foot",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 114,
+      "name": "Jagged Fang",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 544,
+      "name": "Rock Staff",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    }
+  ]
+}

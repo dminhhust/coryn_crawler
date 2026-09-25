@@ -1,0 +1,46 @@
+{
+  "id": 3253,
+  "name": "Nygana",
+  "level": 253,
+  "map_id": 602,
+  "map_name": "Siccus Plains",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 32400,
+  "exp": 492,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7950,
+      "name": "Dandelion Coffee",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 7949,
+      "name": "Dandelion Fluff",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7948,
+      "name": "Hollow Stem",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7898,
+      "name": "Yermo Turban",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

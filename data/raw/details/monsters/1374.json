@@ -1,0 +1,70 @@
+{
+  "id": 1374,
+  "name": "Zoe",
+  "level": 150,
+  "map_id": 254,
+  "map_name": "Halloween Mansion Basement",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Very Hard",
+  "hp": 1730000,
+  "exp": 21300,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 679,
+      "name": "Oracle Robe",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 911,
+      "name": "Orichalcum Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 3276,
+      "name": "Pumpkin Mask",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 1463,
+      "name": "Sweets Box",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 3283,
+      "name": "The Great Witch of Crow",
+      "type_id": 22,
+      "type_label": "[Armor Crysta]"
+    },
+    {
+      "id": 3277,
+      "name": "Zoe",
+      "type_id": 230,
+      "type_label": "[Enhancer Crysta (Yellow)]"
+    },
+    {
+      "id": 3279,
+      "name": "Zoe's Hat",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 3278,
+      "name": "Zoe's Magic Book",
+      "type_id": 17,
+      "type_label": "[Shield]"
+    }
+  ]
+}

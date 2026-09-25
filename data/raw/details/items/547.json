@@ -1,0 +1,39 @@
+{
+  "id": 547,
+  "name": "Sallet",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 15,
+  "process": 3,
+  "process_amount": 7,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 11,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 24,
+      "effect_name": "Stability %",
+      "amount": 3,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 31,
+      "effect_name": "Physical Resistance %",
+      "amount": 2,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 34,
+      "effect_name": "Accuracy %",
+      "amount": 1,
+      "applies_to": 0
+    }
+  ]
+}

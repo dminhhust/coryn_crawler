@@ -1,0 +1,14 @@
+{
+  "id": 3590,
+  "name": "Luminous Green Wing",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 16,
+  "process": 4,
+  "process_amount": 16,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

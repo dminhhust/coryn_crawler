@@ -1,0 +1,51 @@
+{
+  "id": 6019,
+  "name": "Birdie Wings",
+  "type_id": 15,
+  "type_label": "[Magic Device]",
+  "sell": 1,
+  "process": 6,
+  "process_amount": 2,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 8,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 39,
+      "effect_name": "CSPD",
+      "amount": 500,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 100,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 124,
+      "effect_name": "Physical Barrier",
+      "amount": 500,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 128,
+      "effect_name": "Magic Barrier",
+      "amount": 500,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 188,
+      "effect_name": "Pet EXP %",
+      "amount": 5,
+      "applies_to": 0
+    }
+  ]
+}

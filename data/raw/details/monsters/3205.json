@@ -1,0 +1,46 @@
+{
+  "id": 3205,
+  "name": "Orchis",
+  "level": 243,
+  "map_id": 592,
+  "map_name": "Menabra Plains",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Easy",
+  "hp": 0,
+  "exp": 304,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7665,
+      "name": "Bulb",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7666,
+      "name": "Dondurma",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 7667,
+      "name": "Happy Flower",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 7664,
+      "name": "Healthy Cotyledon",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

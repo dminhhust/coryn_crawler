@@ -1,0 +1,46 @@
+{
+  "id": 521,
+  "name": "Kodama",
+  "level": 85,
+  "map_id": 143,
+  "map_name": "Garden of Sublimation: Area 1",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 7500,
+  "exp": 174,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1821,
+      "name": "Charmed Cloth",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1820,
+      "name": "Cute Horn",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1823,
+      "name": "Spirit Tree Bangle",
+      "type_id": 18,
+      "type_label": "[Special]"
+    },
+    {
+      "id": 1822,
+      "name": "Strange Mask",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

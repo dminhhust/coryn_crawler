@@ -1,0 +1,46 @@
+{
+  "id": 603,
+  "name": "Corroded Sentry Fighter",
+  "level": 97,
+  "map_id": 159,
+  "map_name": "Dark Castle: Area 2",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 730,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2014,
+      "name": "Collapsed Stone Pillar",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2016,
+      "name": "Cracked Platinum Armguard",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2015,
+      "name": "Cracked Platinum Armor",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2017,
+      "name": "Pollaxe",
+      "type_id": 26,
+      "type_label": "[Halberd]"
+    }
+  ]
+}

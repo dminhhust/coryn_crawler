@@ -1,0 +1,45 @@
+{
+  "id": 8015,
+  "name": "Accessory Twin Tails",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 125,
+  "process": 4,
+  "process_amount": 62,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 90,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 10,
+      "effect_name": "AGI %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 42,
+      "effect_name": "Critical Rate %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 70,
+      "effect_name": "Long Range Damage %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 317,
+      "effect_name": "Reduce Explosion %",
+      "amount": 30,
+      "applies_to": 0
+    }
+  ]
+}

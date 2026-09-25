@@ -1,0 +1,46 @@
+{
+  "id": 754,
+  "name": "Sufard",
+  "level": 98,
+  "map_id": 165,
+  "map_name": "Blazing Graben: Upper",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 16000,
+  "exp": 359,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2122,
+      "name": "Graben Crystal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 485,
+      "name": "Headband",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 2120,
+      "name": "Hot Pebble",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2121,
+      "name": "Scorched Dragon Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

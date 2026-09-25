@@ -1,0 +1,64 @@
+{
+  "id": 2475,
+  "name": "Junior Dragon Zyvio",
+  "level": 254,
+  "map_id": 425,
+  "map_name": "Storage Yard: Arena",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Ultimate",
+  "hp": 35500000,
+  "exp": 162000,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5795,
+      "name": "Black Patagium",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5801,
+      "name": "Junior Dragon Black Thorn",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5797,
+      "name": "Junior Dragon Horn",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5800,
+      "name": "Junior Dragon Zyvio",
+      "type_id": 23,
+      "type_label": "[Additional Crysta]"
+    },
+    {
+      "id": 5796,
+      "name": "Zyvimmon",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5798,
+      "name": "Zyvio Blade",
+      "type_id": 5,
+      "type_label": "[2 Handed Sword]"
+    },
+    {
+      "id": 5799,
+      "name": "Zyvio Bowgun",
+      "type_id": 10,
+      "type_label": "[Bowgun]"
+    }
+  ]
+}

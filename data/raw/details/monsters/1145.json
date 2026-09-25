@@ -1,0 +1,46 @@
+{
+  "id": 1145,
+  "name": "Ghost in the Jail",
+  "level": 122,
+  "map_id": 227,
+  "map_name": "Cuervo Jail: 3rd Floor",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 20000,
+  "exp": 324,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2813,
+      "name": "Charm Belt",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 2810,
+      "name": "Jail Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2812,
+      "name": "Restless Soul",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2811,
+      "name": "Tatterred Ghost Cloth",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

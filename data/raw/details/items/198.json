@@ -1,0 +1,14 @@
+{
+  "id": 198,
+  "name": "Small Hilt",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 3,
+  "process": 2,
+  "process_amount": 3,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

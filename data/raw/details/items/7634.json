@@ -1,0 +1,39 @@
+{
+  "id": 7634,
+  "name": "Sakura Branch Dagger",
+  "type_id": 11,
+  "type_label": "[Dagger]",
+  "sell": 240,
+  "process": 2,
+  "process_amount": 120,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 300,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 12,
+      "effect_name": "DEX %",
+      "amount": 1,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 25,
+      "effect_name": "Physical Pierce %",
+      "amount": 2,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 26,
+      "effect_name": "Magic Pierce %",
+      "amount": 3,
+      "applies_to": 0
+    }
+  ]
+}

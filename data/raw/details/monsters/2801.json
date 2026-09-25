@@ -1,0 +1,58 @@
+{
+  "id": 2801,
+  "name": "Slayers: Collab Prize Exchange",
+  "level": 0,
+  "map_id": 1,
+  "map_name": "Sofya City",
+  "type_code": "C",
+  "type_label": "NPC",
+  "mode": "Normal",
+  "hp": 0,
+  "exp": 0,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6675,
+      "name": "Sword of Light (Katana)",
+      "type_id": 27,
+      "type_label": "[Katana]"
+    },
+    {
+      "id": 6673,
+      "name": "Sword of Light (OHS)",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    },
+    {
+      "id": 6674,
+      "name": "Sword of Light (THS)",
+      "type_id": 5,
+      "type_label": "[2 Handed Sword]"
+    },
+    {
+      "id": 6677,
+      "name": "Visphalanx (Knuckle)",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    },
+    {
+      "id": 6678,
+      "name": "Visphalanx (Magic Device)",
+      "type_id": 15,
+      "type_label": "[Magic Device]"
+    },
+    {
+      "id": 6676,
+      "name": "Xellos' Staff",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    }
+  ]
+}

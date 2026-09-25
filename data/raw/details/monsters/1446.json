@@ -1,0 +1,46 @@
+{
+  "id": 1446,
+  "name": "Melon Soda Potum",
+  "level": 138,
+  "map_id": 262,
+  "map_name": "Forgotten Cave",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 18000,
+  "exp": 360,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3424,
+      "name": "Green Fizzwater",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 3422,
+      "name": "Mud Water",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3423,
+      "name": "Potum Top Fin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3425,
+      "name": "Spada Lance",
+      "type_id": 26,
+      "type_label": "[Halberd]"
+    }
+  ]
+}

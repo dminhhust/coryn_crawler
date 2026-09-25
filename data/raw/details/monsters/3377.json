@@ -1,0 +1,21 @@
+{
+  "id": 3377,
+  "name": "Rondine",
+  "level": 315,
+  "map_id": 661,
+  "map_name": "Nebbia Coast: Rocky Area",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Nightmare",
+  "hp": 0,
+  "exp": 0,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": []
+}

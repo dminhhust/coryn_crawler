@@ -1,0 +1,82 @@
+{
+  "id": 413,
+  "name": "Cursed Clock",
+  "level": 71,
+  "map_id": 119,
+  "map_name": "Magic Waste Site: Area 3",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 232,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1383,
+      "name": "Antique Knife",
+      "type_id": 11,
+      "type_label": "[Dagger]"
+    },
+    {
+      "id": 1378,
+      "name": "Big Pendulum",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1380,
+      "name": "Broken Clock Hand",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1385,
+      "name": "Broken Watch",
+      "type_id": 18,
+      "type_label": "[Special]"
+    },
+    {
+      "id": 1381,
+      "name": "Dirty Antique",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1382,
+      "name": "Dust Gemstone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1384,
+      "name": "Handless Watch",
+      "type_id": 18,
+      "type_label": "[Special]"
+    },
+    {
+      "id": 1386,
+      "name": "Magic Arrow",
+      "type_id": 7,
+      "type_label": "[Arrow]"
+    },
+    {
+      "id": 1379,
+      "name": "Magic Gear",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1387,
+      "name": "Ribbon Charm",
+      "type_id": 15,
+      "type_label": "[Magic Device]"
+    }
+  ]
+}

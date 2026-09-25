@@ -1,0 +1,14 @@
+{
+  "id": 2261,
+  "name": "2nd Anniv Zega Holder",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 300,
+  "process": 6,
+  "process_amount": 35,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

@@ -1,0 +1,40 @@
+{
+  "id": 245,
+  "name": "Caspy",
+  "level": 77,
+  "map_id": 73,
+  "map_name": "Ancient Empress Tomb: Area 2",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 2720,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 436,
+      "name": "Adventurer's Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 632,
+      "name": "Caspy",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 837,
+      "name": "Cat-Ear Hood",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

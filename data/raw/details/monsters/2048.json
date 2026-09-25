@@ -1,0 +1,21 @@
+{
+  "id": 2048,
+  "name": "Demonic Quasar",
+  "level": 205,
+  "map_id": 356,
+  "map_name": "Morga Wasteland: Deepest Area",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Nightmare",
+  "hp": 40000000,
+  "exp": 202500,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": []
+}

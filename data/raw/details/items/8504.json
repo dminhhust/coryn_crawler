@@ -1,0 +1,14 @@
+{
+  "id": 8504,
+  "name": "Ninja Furoshiki",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 29,
+  "process": 4,
+  "process_amount": 29,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

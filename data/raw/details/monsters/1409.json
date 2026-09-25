@@ -1,0 +1,34 @@
+{
+  "id": 1409,
+  "name": "Yashiro Azuki's Mom (Lv30)",
+  "level": 25,
+  "map_id": 87,
+  "map_name": "Event",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Easy",
+  "hp": 1000,
+  "exp": 41,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3360,
+      "name": "Watching Mom",
+      "type_id": 15,
+      "type_label": "[Magic Device]"
+    },
+    {
+      "id": 3359,
+      "name": "Yashiro Mom Mask",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

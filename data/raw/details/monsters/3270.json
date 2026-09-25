@@ -1,0 +1,46 @@
+{
+  "id": 3270,
+  "name": "Coofer",
+  "level": 257,
+  "map_id": 619,
+  "map_name": "Umidus Valley: Cliff Path",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 55700,
+  "exp": 826,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7969,
+      "name": "Dried Fruit",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 7970,
+      "name": "Dry Water Arrow",
+      "type_id": 7,
+      "type_label": "[Arrow]"
+    },
+    {
+      "id": 7967,
+      "name": "Geometric Snake Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7968,
+      "name": "Sharp Dorsal Blade",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 2231,
+  "name": "Liqueur Potum",
+  "level": 123,
+  "map_id": 388,
+  "map_name": "Creme Cliff (Valentine's Day Event)",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 587,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1763,
+      "name": "Clean Water",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 267,
+      "name": "Soda Water",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 5222,
+      "name": "Strange Liqueur",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5217,
+      "name": "Swirly Whirly Shield",
+      "type_id": 17,
+      "type_label": "[Shield]"
+    }
+  ]
+}

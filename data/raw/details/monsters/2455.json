@@ -1,0 +1,46 @@
+{
+  "id": 2455,
+  "name": "Smilodocanis",
+  "level": 194,
+  "map_id": 421,
+  "map_name": "Guardian Forest: Inner Area",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 33000,
+  "exp": 518,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5726,
+      "name": "Homura",
+      "type_id": 27,
+      "type_label": "[Katana]"
+    },
+    {
+      "id": 5724,
+      "name": "Long Mane",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5723,
+      "name": "Striped Fur",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5725,
+      "name": "Wonderful Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 3404,
+  "name": "HP+500",
+  "type_id": 20,
+  "type_label": "[Normal Crysta]",
+  "sell": 1,
+  "process": 6,
+  "process_amount": 2,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 17,
+      "effect_name": "MaxHP",
+      "amount": 500,
+      "applies_to": 0
+    }
+  ]
+}

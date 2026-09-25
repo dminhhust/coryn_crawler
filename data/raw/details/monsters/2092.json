@@ -1,0 +1,40 @@
+{
+  "id": 2092,
+  "name": "Chocopy",
+  "level": 190,
+  "map_id": 367,
+  "map_name": "Anniversary Arena: 5th Venue",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 1700000,
+  "exp": 7500,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4008,
+      "name": "Anniversary Silk",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3108,
+      "name": "Revita VI",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 4842,
+      "name": "Silpom 5th Anniv Medal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

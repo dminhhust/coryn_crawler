@@ -1,0 +1,46 @@
+{
+  "id": 2518,
+  "name": "Anti-Xmas Killer Blade",
+  "level": 203,
+  "map_id": 449,
+  "map_name": "Noeliel Castle: B3F (190-210)",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 924,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5963,
+      "name": "Bloody Claw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5730,
+      "name": "Desert Blade",
+      "type_id": 5,
+      "type_label": "[2 Handed Sword]"
+    },
+    {
+      "id": 5935,
+      "name": "Dull Crest",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5958,
+      "name": "Serrated Beak",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

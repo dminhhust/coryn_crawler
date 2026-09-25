@@ -1,0 +1,70 @@
+{
+  "id": 1618,
+  "name": "Finstern the Dark Dragon",
+  "level": 176,
+  "map_id": 297,
+  "map_name": "Dark Dragon Shrine: Near the Top",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Hard",
+  "hp": 4800000,
+  "exp": 28000,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3806,
+      "name": "Dark Dragon Fang Sword",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    },
+    {
+      "id": 3807,
+      "name": "Dark Gemstone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3805,
+      "name": "Dragon Claw Katana",
+      "type_id": 27,
+      "type_label": "[Katana]"
+    },
+    {
+      "id": 3801,
+      "name": "Finstern Claw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3800,
+      "name": "Finstern Fang",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3802,
+      "name": "Finstern Horns",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3804,
+      "name": "Finstern the Dark Dragon",
+      "type_id": 210,
+      "type_label": "[Enhancer Crysta (Red)]"
+    },
+    {
+      "id": 3803,
+      "name": "Suspicious Old Box",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

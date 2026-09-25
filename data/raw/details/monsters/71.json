@@ -1,0 +1,52 @@
+{
+  "id": 71,
+  "name": "King Potum",
+  "level": 50,
+  "map_id": 19,
+  "map_name": "Athema Ruins: Area 1",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "Normal",
+  "hp": 8000,
+  "exp": 320,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 11,
+      "name": "Bead Fragment",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 482,
+      "name": "Hair Band",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 252,
+      "name": "Hard Apple",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 310,
+      "name": "King Potum",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 164,
+      "name": "Potum Nail",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

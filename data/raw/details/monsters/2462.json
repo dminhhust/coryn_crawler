@@ -1,0 +1,46 @@
+{
+  "id": 2462,
+  "name": "Bo Peep",
+  "level": 187,
+  "map_id": 422,
+  "map_name": "Country Road",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 15000,
+  "exp": 268,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5776,
+      "name": "Beautiful Wool",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5779,
+      "name": "Road Sheep Talisman",
+      "type_id": 18,
+      "type_label": "[Special]"
+    },
+    {
+      "id": 5778,
+      "name": "Sheep Crystal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5777,
+      "name": "Twisted Thick Horn",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

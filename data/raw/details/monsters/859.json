@@ -1,0 +1,46 @@
+{
+  "id": 859,
+  "name": "Muddy Gnome",
+  "level": 94,
+  "map_id": 172,
+  "map_name": "Site of Simcracker",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 6000,
+  "exp": 137,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2321,
+      "name": "Jiangshi Hat",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 2320,
+      "name": "Mud Dumpling",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2318,
+      "name": "Muddy Wood Tip",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2319,
+      "name": "Plant Mane",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

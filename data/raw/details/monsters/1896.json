@@ -1,0 +1,46 @@
+{
+  "id": 1896,
+  "name": "Toy Bolg",
+  "level": 160,
+  "map_id": 328,
+  "map_name": "Joulu House: Depot (Lv 150)",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 20000,
+  "exp": 582,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": true,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4279,
+      "name": "Dirty Leather Shoes",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4318,
+      "name": "Gift Toy",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4111,
+      "name": "Natra Bowgun",
+      "type_id": 10,
+      "type_label": "[Bowgun]"
+    },
+    {
+      "id": 4319,
+      "name": "Sacred Red Candle",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

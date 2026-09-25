@@ -1,0 +1,58 @@
+{
+  "id": 2553,
+  "name": "War Dragon Turba",
+  "level": 207,
+  "map_id": 455,
+  "map_name": "Prime Ramus: Village",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Easy",
+  "hp": 380000,
+  "exp": 1670,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5915,
+      "name": "Cruel Lamina",
+      "type_id": 27,
+      "type_label": "[Katana]"
+    },
+    {
+      "id": 5914,
+      "name": "Cruel Wings",
+      "type_id": 15,
+      "type_label": "[Magic Device]"
+    },
+    {
+      "id": 5968,
+      "name": "Fluorescent Dragon Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5967,
+      "name": "Green Luminescent Black Claw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5966,
+      "name": "Lime Shell",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5969,
+      "name": "War Dragon Horn",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

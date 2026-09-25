@@ -1,0 +1,33 @@
+{
+  "id": 3088,
+  "name": "3rd Anniv Katana V",
+  "type_id": 27,
+  "type_label": "[Katana]",
+  "sell": -1,
+  "process": 3,
+  "process_amount": 55,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 56,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 70,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 113,
+      "effect_name": "Potential",
+      "amount": 32,
+      "applies_to": 0
+    }
+  ]
+}

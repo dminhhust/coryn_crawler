@@ -1,0 +1,39 @@
+{
+  "id": 3608,
+  "name": "Stingy Shoulder Pads",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 65,
+  "process": 1,
+  "process_amount": 32,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 26,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 17,
+      "effect_name": "MaxHP",
+      "amount": 1200,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 126,
+      "effect_name": "Reflect %",
+      "amount": 15,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 174,
+      "effect_name": "Reduce Dmg (Charge) %",
+      "amount": 20,
+      "applies_to": 0
+    }
+  ]
+}

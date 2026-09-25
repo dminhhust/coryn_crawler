@@ -1,0 +1,14 @@
+{
+  "id": 2402,
+  "name": "Torn Chain",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 10,
+  "process": 3,
+  "process_amount": 9,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

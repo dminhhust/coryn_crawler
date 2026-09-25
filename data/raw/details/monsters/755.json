@@ -1,0 +1,52 @@
+{
+  "id": 755,
+  "name": "Blaze Ant",
+  "level": 99,
+  "map_id": 165,
+  "map_name": "Blazing Graben: Upper",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 7000,
+  "exp": 158,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2124,
+      "name": "Burning Tentacle",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2050,
+      "name": "Einklang",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 2125,
+      "name": "Hot Fang",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2547,
+      "name": "Kuro Momiji",
+      "type_id": 27,
+      "type_label": "[Katana]"
+    },
+    {
+      "id": 2126,
+      "name": "Layered Magic System",
+      "type_id": 15,
+      "type_label": "[Magic Device]"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": 324,
+  "name": "Colon Zombie",
+  "level": 59,
+  "map_id": 95,
+  "map_name": "Vyshed the Tainted Land: Area 1",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 3850,
+  "exp": 94,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1104,
+      "name": "Decayed Branch",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2544,
+      "name": "Koga Koshirae",
+      "type_id": 27,
+      "type_label": "[Katana]"
+    },
+    {
+      "id": 1105,
+      "name": "Rotten Colon Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1122,
+      "name": "VIT+3",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 1106,
+      "name": "Withered Leaf",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

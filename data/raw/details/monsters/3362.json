@@ -1,0 +1,40 @@
+{
+  "id": 3362,
+  "name": "Baratok",
+  "level": 330,
+  "map_id": 657,
+  "map_name": "Grazen Tower : Top Floor",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Nightmare",
+  "hp": -1,
+  "exp": -1,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "Update 02/26/26",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 8397,
+      "name": "Core of Hatred",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 8396,
+      "name": "Wrathful Ear",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 8395,
+      "name": "Wrathful Face Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

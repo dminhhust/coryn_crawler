@@ -1,0 +1,316 @@
+{
+  "id": 2214,
+  "name": "HATSUNE MIKU's Collab Event Reception (2nd Part)",
+  "level": 0,
+  "map_id": 383,
+  "map_name": "HATSUNE MIKU Collab Venue",
+  "type_code": "C",
+  "type_label": "NPC",
+  "mode": "Normal",
+  "hp": 0,
+  "exp": 0,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5142,
+      "name": "Audio Console",
+      "type_id": 15,
+      "type_label": "[Magic Device]"
+    },
+    {
+      "id": 5143,
+      "name": "Audio Console",
+      "type_id": 15,
+      "type_label": "[Magic Device]"
+    },
+    {
+      "id": 5144,
+      "name": "Audio Console",
+      "type_id": 15,
+      "type_label": "[Magic Device]"
+    },
+    {
+      "id": 5145,
+      "name": "Audio Console",
+      "type_id": 15,
+      "type_label": "[Magic Device]"
+    },
+    {
+      "id": 5146,
+      "name": "Audio Console",
+      "type_id": 15,
+      "type_label": "[Magic Device]"
+    },
+    {
+      "id": 5147,
+      "name": "Audio Console",
+      "type_id": 15,
+      "type_label": "[Magic Device]"
+    },
+    {
+      "id": 5148,
+      "name": "Audio Console",
+      "type_id": 15,
+      "type_label": "[Magic Device]"
+    },
+    {
+      "id": 5149,
+      "name": "Audio Console",
+      "type_id": 15,
+      "type_label": "[Magic Device]"
+    },
+    {
+      "id": 5150,
+      "name": "Audio Console",
+      "type_id": 15,
+      "type_label": "[Magic Device]"
+    },
+    {
+      "id": 5053,
+      "name": "Concert Drink",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 5054,
+      "name": "Concert Vita",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 5177,
+      "name": "Emotion Ticket A",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 5178,
+      "name": "Emotion Ticket B",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 5179,
+      "name": "Emotion Ticket C",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 5174,
+      "name": "HATSUNE MIKU COLLAB BGM I",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5175,
+      "name": "HATSUNE MIKU COLLAB BGM II",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5176,
+      "name": "HATSUNE MIKU COLLAB BGM III",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5151,
+      "name": "Infini Glaive",
+      "type_id": 26,
+      "type_label": "[Halberd]"
+    },
+    {
+      "id": 5152,
+      "name": "Infini Glaive",
+      "type_id": 26,
+      "type_label": "[Halberd]"
+    },
+    {
+      "id": 5153,
+      "name": "Infini Glaive",
+      "type_id": 26,
+      "type_label": "[Halberd]"
+    },
+    {
+      "id": 5154,
+      "name": "Infini Glaive",
+      "type_id": 26,
+      "type_label": "[Halberd]"
+    },
+    {
+      "id": 5155,
+      "name": "Infini Glaive",
+      "type_id": 26,
+      "type_label": "[Halberd]"
+    },
+    {
+      "id": 5156,
+      "name": "Infini Glaive",
+      "type_id": 26,
+      "type_label": "[Halberd]"
+    },
+    {
+      "id": 5157,
+      "name": "Infini Glaive",
+      "type_id": 26,
+      "type_label": "[Halberd]"
+    },
+    {
+      "id": 5158,
+      "name": "Infini Glaive",
+      "type_id": 26,
+      "type_label": "[Halberd]"
+    },
+    {
+      "id": 5159,
+      "name": "Infini Glaive",
+      "type_id": 26,
+      "type_label": "[Halberd]"
+    },
+    {
+      "id": 5160,
+      "name": "Patriot Edge",
+      "type_id": 27,
+      "type_label": "[Katana]"
+    },
+    {
+      "id": 5161,
+      "name": "Patriot Edge",
+      "type_id": 27,
+      "type_label": "[Katana]"
+    },
+    {
+      "id": 5162,
+      "name": "Patriot Edge",
+      "type_id": 27,
+      "type_label": "[Katana]"
+    },
+    {
+      "id": 5163,
+      "name": "Patriot Edge",
+      "type_id": 27,
+      "type_label": "[Katana]"
+    },
+    {
+      "id": 5164,
+      "name": "Patriot Edge",
+      "type_id": 27,
+      "type_label": "[Katana]"
+    },
+    {
+      "id": 5165,
+      "name": "Patriot Edge",
+      "type_id": 27,
+      "type_label": "[Katana]"
+    },
+    {
+      "id": 5166,
+      "name": "Patriot Edge",
+      "type_id": 27,
+      "type_label": "[Katana]"
+    },
+    {
+      "id": 5167,
+      "name": "Patriot Edge",
+      "type_id": 27,
+      "type_label": "[Katana]"
+    },
+    {
+      "id": 5168,
+      "name": "Patriot Edge",
+      "type_id": 27,
+      "type_label": "[Katana]"
+    },
+    {
+      "id": 5133,
+      "name": "Sonic Megaphone",
+      "type_id": 10,
+      "type_label": "[Bowgun]"
+    },
+    {
+      "id": 5134,
+      "name": "Sonic Megaphone",
+      "type_id": 10,
+      "type_label": "[Bowgun]"
+    },
+    {
+      "id": 5135,
+      "name": "Sonic Megaphone",
+      "type_id": 10,
+      "type_label": "[Bowgun]"
+    },
+    {
+      "id": 5136,
+      "name": "Sonic Megaphone",
+      "type_id": 10,
+      "type_label": "[Bowgun]"
+    },
+    {
+      "id": 5137,
+      "name": "Sonic Megaphone",
+      "type_id": 10,
+      "type_label": "[Bowgun]"
+    },
+    {
+      "id": 5138,
+      "name": "Sonic Megaphone",
+      "type_id": 10,
+      "type_label": "[Bowgun]"
+    },
+    {
+      "id": 5139,
+      "name": "Sonic Megaphone",
+      "type_id": 10,
+      "type_label": "[Bowgun]"
+    },
+    {
+      "id": 5140,
+      "name": "Sonic Megaphone",
+      "type_id": 10,
+      "type_label": "[Bowgun]"
+    },
+    {
+      "id": 5141,
+      "name": "Sonic Megaphone",
+      "type_id": 10,
+      "type_label": "[Bowgun]"
+    },
+    {
+      "id": 5169,
+      "name": "Windgrace Shield",
+      "type_id": 17,
+      "type_label": "[Shield]"
+    },
+    {
+      "id": 5170,
+      "name": "Windgrace Shield",
+      "type_id": 17,
+      "type_label": "[Shield]"
+    },
+    {
+      "id": 5171,
+      "name": "Windgrace Shield",
+      "type_id": 17,
+      "type_label": "[Shield]"
+    },
+    {
+      "id": 5172,
+      "name": "Windgrace Shield",
+      "type_id": 17,
+      "type_label": "[Shield]"
+    },
+    {
+      "id": 5173,
+      "name": "Windgrace Shield",
+      "type_id": 17,
+      "type_label": "[Shield]"
+    }
+  ]
+}

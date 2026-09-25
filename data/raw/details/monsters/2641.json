@@ -1,0 +1,46 @@
+{
+  "id": 2641,
+  "name": "Ignios",
+  "level": 196,
+  "map_id": 470,
+  "map_name": "Vulcani Crater Base",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 16300,
+  "exp": 261,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6211,
+      "name": "Heavy Knight Helmet",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 6210,
+      "name": "Rhyolite",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6208,
+      "name": "Scorching Rock Fragment",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6209,
+      "name": "Vulcani Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

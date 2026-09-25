@@ -1,0 +1,21 @@
+{
+  "id": 3523,
+  "name": "Florashroom Petarie",
+  "level": 310,
+  "map_id": 110,
+  "map_name": "Wanderer's Plain",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Hard",
+  "hp": 75000000,
+  "exp": 275000,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": []
+}

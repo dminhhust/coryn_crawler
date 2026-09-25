@@ -1,0 +1,52 @@
+{
+  "id": 2723,
+  "name": "Megiston",
+  "level": 275,
+  "map_id": 479,
+  "map_name": "Anniversary Arena: 7th Venue",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Hard",
+  "hp": 60000000,
+  "exp": 532000,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6496,
+      "name": "Emotion Ticket M",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 6497,
+      "name": "Gladiator's Helm",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 6498,
+      "name": "Megiston the Champion V",
+      "type_id": 210,
+      "type_label": "[Enhancer Crysta (Red)]"
+    },
+    {
+      "id": 911,
+      "name": "Orichalcum Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 6488,
+      "name": "Revita VIII",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

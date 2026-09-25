@@ -1,0 +1,52 @@
+{
+  "id": 111,
+  "name": "Kijimu",
+  "level": 11,
+  "map_id": 31,
+  "map_name": "Suedor Cliff",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 150,
+  "exp": 6,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 78,
+      "name": "Flower Nectar",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 115,
+      "name": "Kijimu Splinter",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2538,
+      "name": "Nameless Uchigatana",
+      "type_id": 27,
+      "type_label": "[Katana]"
+    },
+    {
+      "id": 158,
+      "name": "Petal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 263,
+      "name": "Rugio Ruins",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 1099,
+  "name": "Singing Eye",
+  "level": 119,
+  "map_id": 214,
+  "map_name": "Brahe Laboratory: 1st Building",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 7000,
+  "exp": 338,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2727,
+      "name": "Broken Headphones",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2713,
+      "name": "Crystal Rod",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    },
+    {
+      "id": 2726,
+      "name": "Dancing Tentacle",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2728,
+      "name": "Noisy Music Note",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

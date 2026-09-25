@@ -1,0 +1,27 @@
+{
+  "id": 1992,
+  "name": "Inspiration Scarf",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 9,
+  "process": 5,
+  "process_amount": 10,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 35,
+      "effect_name": "Dodge",
+      "amount": -36,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 60,
+      "effect_name": "Evasion Recharge %",
+      "amount": 7,
+      "applies_to": 0
+    }
+  ]
+}

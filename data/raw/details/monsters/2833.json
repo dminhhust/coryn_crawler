@@ -1,0 +1,46 @@
+{
+  "id": 2833,
+  "name": "Nix",
+  "level": 180,
+  "map_id": 501,
+  "map_name": "Illuminare City: Route 3 (170-190)",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 554,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": true,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5492,
+      "name": "Gigantic Fang",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5289,
+      "name": "Mana Cascade Staff",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    },
+    {
+      "id": 6736,
+      "name": "Stolen Box (Red)",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5497,
+      "name": "Sweet-Scented Flower",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

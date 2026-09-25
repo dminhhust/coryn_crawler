@@ -1,0 +1,33 @@
+{
+  "id": 2398,
+  "name": "Phetor Hat",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 50,
+  "process": 4,
+  "process_amount": 25,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 43,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 33,
+      "effect_name": "Accuracy",
+      "amount": 30,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 158,
+      "effect_name": "ATK UP (DEX %)",
+      "amount": 3,
+      "applies_to": 0
+    }
+  ]
+}

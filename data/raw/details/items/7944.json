@@ -1,0 +1,51 @@
+{
+  "id": 7944,
+  "name": "Zombie Bunny Backpack",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 137,
+  "process": 4,
+  "process_amount": 68,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 318,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 41,
+      "effect_name": "Critical Rate",
+      "amount": 30,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 56,
+      "effect_name": "Dark resistance %",
+      "amount": 30,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 70,
+      "effect_name": "Long Range Damage %",
+      "amount": 3,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 275,
+      "effect_name": "Long Range Damage %",
+      "amount": 3,
+      "applies_to": 16
+    },
+    {
+      "effect_id": 319,
+      "effect_name": "Long Range Damage %",
+      "amount": 3,
+      "applies_to": 262144
+    }
+  ]
+}

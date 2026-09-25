@@ -1,0 +1,46 @@
+{
+  "id": 2361,
+  "name": "Hippopo",
+  "level": 179,
+  "map_id": 408,
+  "map_name": "Noisy Woodland",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "normal",
+  "hp": 18700,
+  "exp": 300,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5492,
+      "name": "Gigantic Fang",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5493,
+      "name": "Lumpy Mushrooms",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5494,
+      "name": "Moisturizing Mucus",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5495,
+      "name": "Safari Hat",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

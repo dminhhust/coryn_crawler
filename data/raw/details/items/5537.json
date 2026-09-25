@@ -1,0 +1,14 @@
+{
+  "id": 5537,
+  "name": "Gold 6th Anniv Medal",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 45,
+  "process": 6,
+  "process_amount": 15,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

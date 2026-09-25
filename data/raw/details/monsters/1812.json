@@ -1,0 +1,58 @@
+{
+  "id": 1812,
+  "name": "Zarth",
+  "level": 150,
+  "map_id": 314,
+  "map_name": "Zarth's Mansion: Back",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Hard",
+  "hp": 1300000,
+  "exp": 7100,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4184,
+      "name": "Crow Robe",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 4181,
+      "name": "Medic Coat",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 816,
+      "name": "Mithril Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 4182,
+      "name": "Pumpkin Mask",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 1463,
+      "name": "Sweets Box",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 4183,
+      "name": "Zarth",
+      "type_id": 230,
+      "type_label": "[Enhancer Crysta (Yellow)]"
+    }
+  ]
+}

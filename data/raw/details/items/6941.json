@@ -1,0 +1,45 @@
+{
+  "id": 6941,
+  "name": "Round Sunglasses",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 117,
+  "process": 3,
+  "process_amount": 58,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 124,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 10,
+      "effect_name": "AGI %",
+      "amount": 9,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 21,
+      "effect_name": "ATK %",
+      "amount": 9,
+      "applies_to": 2
+    },
+    {
+      "effect_id": 39,
+      "effect_name": "CSPD",
+      "amount": 900,
+      "applies_to": 8192
+    },
+    {
+      "effect_id": 41,
+      "effect_name": "Critical Rate",
+      "amount": 18,
+      "applies_to": 0
+    }
+  ]
+}

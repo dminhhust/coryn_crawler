@@ -1,0 +1,33 @@
+{
+  "id": 2389,
+  "name": "Priest Mace",
+  "type_id": 19,
+  "type_label": "[Staff]",
+  "sell": 100,
+  "process": 3,
+  "process_amount": 50,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 130,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 60,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 113,
+      "effect_name": "Potential",
+      "amount": 31,
+      "applies_to": 0
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": 3601,
+  "name": "Sparkling Purple Wing",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 15,
+  "process": 4,
+  "process_amount": 15,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

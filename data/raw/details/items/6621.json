@@ -1,0 +1,21 @@
+{
+  "id": 6621,
+  "name": "Half-Eaten Fruit",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 21,
+  "process": 5,
+  "process_amount": 20,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 79,
+      "effect_name": "HP",
+      "amount": 33,
+      "applies_to": 0
+    }
+  ]
+}

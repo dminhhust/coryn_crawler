@@ -1,0 +1,46 @@
+{
+  "id": 1439,
+  "name": "Tylul",
+  "level": 123,
+  "map_id": 260,
+  "map_name": "Mt. Mithurna: Entrance",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 6000,
+  "exp": 137,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3405,
+      "name": "Blue Feather",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3408,
+      "name": "Happiness Talisman",
+      "type_id": 18,
+      "type_label": "[Special]"
+    },
+    {
+      "id": 3406,
+      "name": "Mithurna Wood",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3407,
+      "name": "Small Egg",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

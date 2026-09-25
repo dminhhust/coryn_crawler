@@ -1,0 +1,46 @@
+{
+  "id": 3160,
+  "name": "Frilled Shark Potum",
+  "level": 243,
+  "map_id": 573,
+  "map_name": "Deep Sea: Zone 1",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 0,
+  "exp": 630,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7602,
+      "name": "Collagen",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7746,
+      "name": "Mop",
+      "type_id": 26,
+      "type_label": "[Halberd]"
+    },
+    {
+      "id": 7568,
+      "name": "Potum's Fang",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7563,
+      "name": "Potum's Shark Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

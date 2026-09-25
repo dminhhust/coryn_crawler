@@ -1,0 +1,46 @@
+{
+  "id": 3442,
+  "name": "Seagel",
+  "level": 241,
+  "map_id": 678,
+  "map_name": "Pirates' Hideout: Area 1",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 53950,
+  "exp": -1,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "Summer Event 2025",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 8219,
+      "name": "Fresh Seagrass",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 8222,
+      "name": "Pirate Hat",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 8224,
+      "name": "Sea Angel Gummy",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 8223,
+      "name": "Transparent Gelatin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

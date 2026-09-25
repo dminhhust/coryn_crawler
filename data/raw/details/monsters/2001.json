@@ -1,0 +1,46 @@
+{
+  "id": 2001,
+  "name": "Bladefish",
+  "level": 169,
+  "map_id": 346,
+  "map_name": "Recetacula Sector: Area 2",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 25000,
+  "exp": 363,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4529,
+      "name": "Chipped Blade Fin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4531,
+      "name": "Fish Bone Cracker",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 4532,
+      "name": "Holy Sword",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    },
+    {
+      "id": 4530,
+      "name": "Sharp Twisted Horns",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

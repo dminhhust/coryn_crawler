@@ -1,0 +1,45 @@
+{
+  "id": 3770,
+  "name": "Esca Shield",
+  "type_id": 17,
+  "type_label": "[Shield]",
+  "sell": 140,
+  "process": 3,
+  "process_amount": 70,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 34,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 58,
+      "effect_name": "Guard Power %",
+      "amount": 31,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 59,
+      "effect_name": "Guard Recharge %",
+      "amount": 20,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 61,
+      "effect_name": "Aggro %",
+      "amount": 30,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 187,
+      "effect_name": "Reduce Dmg (Straight Line) %",
+      "amount": 15,
+      "applies_to": 0
+    }
+  ]
+}

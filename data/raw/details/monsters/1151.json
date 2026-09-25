@@ -1,0 +1,46 @@
+{
+  "id": 1151,
+  "name": "Lyark Master Specialist",
+  "level": 157,
+  "map_id": 215,
+  "map_name": "Brahe Laboratory: 2nd Building",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 19089,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2841,
+      "name": "Lyark Master Specialist",
+      "type_id": 200,
+      "type_label": "[Enhancer Crysta (Blue)]"
+    },
+    {
+      "id": 2744,
+      "name": "Lyark Tranquilizer",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 2743,
+      "name": "Ox Fabric",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2835,
+      "name": "Soldier Leader's Badge",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

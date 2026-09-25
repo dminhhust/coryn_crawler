@@ -1,0 +1,34 @@
+{
+  "id": 989,
+  "name": "Grecia the Goddess of Courage (7M DL)",
+  "level": 150,
+  "map_id": 87,
+  "map_name": "Event",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": -1,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2468,
+      "name": "Fortistra",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 2469,
+      "name": "Grecia",
+      "type_id": 21,
+      "type_label": "[Weapon Crysta]"
+    }
+  ]
+}

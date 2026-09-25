@@ -1,0 +1,14 @@
+{
+  "id": 2554,
+  "name": "Otoshidama",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 1000,
+  "process": 4,
+  "process_amount": 1000,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

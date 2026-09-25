@@ -1,0 +1,46 @@
+{
+  "id": 2929,
+  "name": "Gemare",
+  "level": 220,
+  "map_id": 519,
+  "map_name": "Kabla Jabali",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 22500,
+  "exp": 282,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6997,
+      "name": "Jabali Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6998,
+      "name": "Pupil Gem",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6999,
+      "name": "Sheep Hood",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 6996,
+      "name": "Sleek Horse Hair",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

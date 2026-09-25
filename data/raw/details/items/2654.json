@@ -1,0 +1,14 @@
+{
+  "id": 2654,
+  "name": "Crimson Loincloth",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 13,
+  "process": 4,
+  "process_amount": 13,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

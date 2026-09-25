@@ -1,0 +1,14 @@
+{
+  "id": 7993,
+  "name": "Luminous Caudal Fin",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 25,
+  "process": 4,
+  "process_amount": 25,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

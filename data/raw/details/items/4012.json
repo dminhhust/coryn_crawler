@@ -1,0 +1,14 @@
+{
+  "id": 4012,
+  "name": "4th Anniversary Box",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": -1,
+  "process": -1,
+  "process_amount": -1,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": 725,
+  "name": "Dexterity Talisman",
+  "type_id": 18,
+  "type_label": "[Special]",
+  "sell": 5,
+  "process": 2,
+  "process_amount": 5,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 11,
+      "effect_name": "DEX",
+      "amount": 2,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 19,
+      "effect_name": "MaxMP",
+      "amount": 200,
+      "applies_to": 0
+    }
+  ]
+}

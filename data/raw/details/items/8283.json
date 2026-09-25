@@ -1,0 +1,69 @@
+{
+  "id": 8283,
+  "name": "10th Anniv Shield VI",
+  "type_id": 17,
+  "type_label": "[Shield]",
+  "sell": 1,
+  "process": 1,
+  "process_amount": 1,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 150,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 8,
+      "effect_name": "VIT %",
+      "amount": 11,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 31,
+      "effect_name": "Physical Resistance %",
+      "amount": 16,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 32,
+      "effect_name": "Magic Resistance %",
+      "amount": 16,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 58,
+      "effect_name": "Guard Power %",
+      "amount": 46,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 59,
+      "effect_name": "Guard Recharge %",
+      "amount": 18,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 61,
+      "effect_name": "Aggro %",
+      "amount": 32,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 272,
+      "effect_name": "Aggro %",
+      "amount": 30,
+      "applies_to": 16384
+    },
+    {
+      "effect_id": 278,
+      "effect_name": "Weapon ATK %",
+      "amount": 10,
+      "applies_to": 32768
+    }
+  ]
+}

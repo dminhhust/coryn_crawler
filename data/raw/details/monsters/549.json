@@ -1,0 +1,46 @@
+{
+  "id": 549,
+  "name": "Moxiz",
+  "level": 91,
+  "map_id": 149,
+  "map_name": "Cradle of Soldier: Inside",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 174,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1887,
+      "name": "Aurora Crystal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1888,
+      "name": "Moxiz Strap",
+      "type_id": 18,
+      "type_label": "[Special]"
+    },
+    {
+      "id": 1885,
+      "name": "Mysterious Metal Bit",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1886,
+      "name": "Smooth Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": 2130,
+  "name": "Broken Robot Arm",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 18,
+  "process": 3,
+  "process_amount": 19,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

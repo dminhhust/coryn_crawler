@@ -1,0 +1,21 @@
+{
+  "id": 1977,
+  "name": "Hyper Anti-Degradation",
+  "type_id": 2,
+  "type_label": "[Refinement Support]",
+  "sell": -1,
+  "process": -1,
+  "process_amount": -1,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 103,
+      "effect_name": "Prevents degradation %",
+      "amount": 95,
+      "applies_to": 0
+    }
+  ]
+}

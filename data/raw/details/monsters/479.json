@@ -1,0 +1,34 @@
+{
+  "id": 479,
+  "name": "Boss Goblin (Megiston 2016)",
+  "level": 80,
+  "map_id": 87,
+  "map_name": "Event",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 54000,
+  "exp": 1500,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1704,
+      "name": "Boss Gob Sword",
+      "type_id": 5,
+      "type_label": "[2 Handed Sword]"
+    },
+    {
+      "id": 283,
+      "name": "Boss Goblin",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    }
+  ]
+}

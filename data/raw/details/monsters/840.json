@@ -1,0 +1,52 @@
+{
+  "id": 840,
+  "name": "Rocksaur",
+  "level": 101,
+  "map_id": 171,
+  "map_name": "Singolare Ruins: 3rd Floor",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 267,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2280,
+      "name": "Cracked Stone Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2282,
+      "name": "Enigmatic Lithograph",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2281,
+      "name": "Hard Stone Horn",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 816,
+      "name": "Mithril Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 911,
+      "name": "Orichalcum Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    }
+  ]
+}

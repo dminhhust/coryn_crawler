@@ -1,0 +1,46 @@
+{
+  "id": 2363,
+  "name": "Boarlet",
+  "level": 181,
+  "map_id": 408,
+  "map_name": "Noisy Woodland",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "normal",
+  "hp": 13200,
+  "exp": 228,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5498,
+      "name": "Boar Meat",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5499,
+      "name": "Picnic Bag",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 5496,
+      "name": "Soft Boar Fur",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5497,
+      "name": "Sweet-Scented Flower",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

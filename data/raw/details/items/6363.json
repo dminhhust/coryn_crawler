@@ -1,0 +1,14 @@
+{
+  "id": 6363,
+  "name": "Silver 7th Anniv Medal",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 30,
+  "process": 6,
+  "process_amount": 10,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

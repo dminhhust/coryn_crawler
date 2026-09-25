@@ -1,0 +1,58 @@
+{
+  "id": 97,
+  "name": "Tortuga",
+  "level": 40,
+  "map_id": 26,
+  "map_name": "Icule Lake",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "Normal",
+  "hp": 13500,
+  "exp": 560,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 436,
+      "name": "Adventurer's Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 242,
+      "name": "Damascus Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 179,
+      "name": "Lizard Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 553,
+      "name": "Shell Shield",
+      "type_id": 17,
+      "type_label": "[Shield]"
+    },
+    {
+      "id": 328,
+      "name": "Tortuga",
+      "type_id": 22,
+      "type_label": "[Armor Crysta]"
+    },
+    {
+      "id": 228,
+      "name": "Turtle Shell",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

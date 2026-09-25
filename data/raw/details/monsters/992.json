@@ -1,0 +1,52 @@
+{
+  "id": 992,
+  "name": "Finpen",
+  "level": 90,
+  "map_id": 189,
+  "map_name": "Navida City: Crossroad (80-100)",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 361,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": true,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1763,
+      "name": "Clean Water",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1884,
+      "name": "Grand Horn Bow",
+      "type_id": 9,
+      "type_label": "[Bow]"
+    },
+    {
+      "id": 1818,
+      "name": "Ilwoon",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    },
+    {
+      "id": 1761,
+      "name": "Soft Fin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1762,
+      "name": "Yellow Beak",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

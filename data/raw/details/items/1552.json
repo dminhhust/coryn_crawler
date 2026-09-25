@@ -1,0 +1,21 @@
+{
+  "id": 1552,
+  "name": "Starlight Potion",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 8,
+  "process": 5,
+  "process_amount": 9,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 39,
+      "effect_name": "CSPD",
+      "amount": 500,
+      "applies_to": 0
+    }
+  ]
+}

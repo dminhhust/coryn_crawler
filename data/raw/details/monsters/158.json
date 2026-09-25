@@ -1,0 +1,46 @@
+{
+  "id": 158,
+  "name": "Wooly",
+  "level": 22,
+  "map_id": 45,
+  "map_name": "Douce Hamlet",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 150,
+  "exp": 13,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 109,
+      "name": "High Quality Wool",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 202,
+      "name": "Soft Fur",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 557,
+      "name": "Spy's Talisman",
+      "type_id": 18,
+      "type_label": "[Special]"
+    },
+    {
+      "id": 230,
+      "name": "Twisted Horn",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

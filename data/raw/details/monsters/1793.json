@@ -1,0 +1,46 @@
+{
+  "id": 1793,
+  "name": "Frenzy Viola",
+  "level": 198,
+  "map_id": 309,
+  "map_name": "Morthell Swell: Area 3",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 42126,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4155,
+      "name": "Dark Red Fluid",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4154,
+      "name": "Frenzy Viola",
+      "type_id": 24,
+      "type_label": "[Special Crysta]"
+    },
+    {
+      "id": 4117,
+      "name": "Mysterious Skull",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4118,
+      "name": "Temptation Flower",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

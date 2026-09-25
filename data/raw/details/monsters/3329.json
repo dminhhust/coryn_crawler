@@ -1,0 +1,70 @@
+{
+  "id": 3329,
+  "name": "Gegner",
+  "level": 270,
+  "map_id": 639,
+  "map_name": "Tower of Clamor: Rooftop",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Very Hard",
+  "hp": 26000000,
+  "exp": 79200,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 8034,
+      "name": "Gegner's Mic Stand",
+      "type_id": 5,
+      "type_label": "[2 Handed Sword]"
+    },
+    {
+      "id": 7644,
+      "name": "Iced Chicken Vita",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 8035,
+      "name": "Megashout Microphone",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    },
+    {
+      "id": 816,
+      "name": "Mithril Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 4850,
+      "name": "Revita VII",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 7613,
+      "name": "Scream Shadow",
+      "type_id": 24,
+      "type_label": "[Special Crysta]"
+    },
+    {
+      "id": 8027,
+      "name": "Spiky WIg",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 8030,
+      "name": "Winter Outfit II",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    }
+  ]
+}

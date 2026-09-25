@@ -1,0 +1,46 @@
+{
+  "id": 2660,
+  "name": "Sumari",
+  "level": 182,
+  "map_id": 471,
+  "map_name": "Celesa's Tree Garden",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 565,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": true,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 78,
+      "name": "Flower Nectar",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 6568,
+      "name": "Moonlight Shield II",
+      "type_id": 17,
+      "type_label": "[Shield]"
+    },
+    {
+      "id": 1927,
+      "name": "Tricolor Dango II",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 5232,
+      "name": "Yummy Pickles",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

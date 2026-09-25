@@ -1,0 +1,52 @@
+{
+  "id": 3463,
+  "name": "Black Peach Ninja",
+  "level": 240,
+  "map_id": 687,
+  "map_name": "Mt. Black Peach: Depth",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Easy",
+  "hp": 4000000,
+  "exp": 46675,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 8275,
+      "name": "Black Peach Ninja",
+      "type_id": 220,
+      "type_label": "[Enhancer Crysta (Green)]"
+    },
+    {
+      "id": 8494,
+      "name": "Broken Ninja Gear",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 8493,
+      "name": "Dusky Brown Bag",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 8484,
+      "name": "Nin-Ninja Headscarf",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 5407,
+      "name": "[Book of Ninja]",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

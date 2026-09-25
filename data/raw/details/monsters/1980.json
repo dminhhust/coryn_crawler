@@ -1,0 +1,40 @@
+{
+  "id": 1980,
+  "name": "Potumotter (11M DL)",
+  "level": 180,
+  "map_id": 79,
+  "map_name": "Sofya City: Government Office",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Hard",
+  "hp": -1,
+  "exp": 14500,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4477,
+      "name": "Lightning Flame",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    },
+    {
+      "id": 5415,
+      "name": "Potum Beans",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 4478,
+      "name": "Potumotter",
+      "type_id": 24,
+      "type_label": "[Special Crysta]"
+    }
+  ]
+}

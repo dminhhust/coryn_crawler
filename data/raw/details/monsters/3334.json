@@ -1,0 +1,64 @@
+{
+  "id": 3334,
+  "name": "Goblin Zucotto (Coffee)",
+  "level": 310,
+  "map_id": 640,
+  "map_name": "Anglaise Forest",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Coffee",
+  "hp": 29600000,
+  "exp": 109700,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 8075,
+      "name": "Beautiful Corsage",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 8055,
+      "name": "Big Gob Hat",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 8083,
+      "name": "Blue Rose Gloves",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    },
+    {
+      "id": 8080,
+      "name": "Blue Rose Umbrella Sword",
+      "type_id": 5,
+      "type_label": "[2 Handed Sword]"
+    },
+    {
+      "id": 8076,
+      "name": "Caramel Tie",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 8043,
+      "name": "Goblin Zucotto",
+      "type_id": 230,
+      "type_label": "[Enhancer Crysta (Yellow)]"
+    },
+    {
+      "id": 8073,
+      "name": "Ripped Suit",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

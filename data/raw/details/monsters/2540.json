@@ -1,0 +1,46 @@
+{
+  "id": 2540,
+  "name": "Grass Tapir",
+  "level": 186,
+  "map_id": 451,
+  "map_name": "Eumano Glade",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 16000,
+  "exp": 266,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5921,
+      "name": "Folklore Headband",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 5952,
+      "name": "Nightmare Gallstone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5950,
+      "name": "Soft Thicket",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5951,
+      "name": "Tough Thick Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": 4701,
+  "name": "Leader's Hair Accessory",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": -1,
+  "process": 3,
+  "process_amount": -1,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

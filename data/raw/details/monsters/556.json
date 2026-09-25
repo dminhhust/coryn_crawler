@@ -1,0 +1,34 @@
+{
+  "id": 556,
+  "name": "Raffy (Hanami 2017)",
+  "level": 54,
+  "map_id": 151,
+  "map_name": "Hanami Mountain Path",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": -1,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": true,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 80,
+      "name": "Fluffy Fur",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1063,
+      "name": "Sakuramochi",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 2145,
+  "name": "Cabrigo",
+  "level": 177,
+  "map_id": 370,
+  "map_name": "Ruins of Urban Elban",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 75000,
+  "exp": 1421,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4906,
+      "name": "Cape of Divinity",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 4904,
+      "name": "Corroded Leather",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4905,
+      "name": "Light Crimson Bead",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4897,
+      "name": "Strange Dust",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

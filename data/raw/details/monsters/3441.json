@@ -1,0 +1,46 @@
+{
+  "id": 3441,
+  "name": "Anemona",
+  "level": 240,
+  "map_id": 678,
+  "map_name": "Pirates' Hideout: Area 1",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 63230,
+  "exp": -1,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "Summer Event 2025",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 8217,
+      "name": "Pirate Cave Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 8169,
+      "name": "Reefy Coast Arrow",
+      "type_id": 7,
+      "type_label": "[Arrow]"
+    },
+    {
+      "id": 8216,
+      "name": "Sea Breeze Pebble",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 8218,
+      "name": "Shrimp Stuffed Tofu",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

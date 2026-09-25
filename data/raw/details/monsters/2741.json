@@ -1,0 +1,46 @@
+{
+  "id": 2741,
+  "name": "Bombor",
+  "level": 205,
+  "map_id": 480,
+  "map_name": "Nebula Plain",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 21400,
+  "exp": 344,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6523,
+      "name": "Joyful Rhythm",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6522,
+      "name": "Stump",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6524,
+      "name": "Stump Drum",
+      "type_id": 18,
+      "type_label": "[Special]"
+    },
+    {
+      "id": 6521,
+      "name": "Swirling Tail",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

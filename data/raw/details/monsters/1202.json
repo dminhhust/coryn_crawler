@@ -1,0 +1,46 @@
+{
+  "id": 1202,
+  "name": "Copia Cat",
+  "level": 116,
+  "map_id": 238,
+  "map_name": "Copia Reservoir",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 6000,
+  "exp": 138,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2962,
+      "name": "ASPD+100",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 2959,
+      "name": "Cat Fur",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2961,
+      "name": "Cat Powder",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2960,
+      "name": "Sharp Claw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": 5115,
+  "name": "Reindeer Beanie",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": -1,
+  "process": -1,
+  "process_amount": -1,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 190,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 57,
+      "effect_name": "Ailment Resistance %",
+      "amount": 5,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 177,
+      "effect_name": "Reduce Dmg (Bowling) %",
+      "amount": 20,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 186,
+      "effect_name": "ATK UP (STR %)",
+      "amount": 50,
+      "applies_to": 0
+    }
+  ]
+}

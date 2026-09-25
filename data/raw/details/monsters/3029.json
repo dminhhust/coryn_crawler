@@ -1,0 +1,46 @@
+{
+  "id": 3029,
+  "name": "Atoble",
+  "level": 228,
+  "map_id": 533,
+  "map_name": "Labrum Atoll",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 21970,
+  "exp": 374,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7142,
+      "name": "Blue Slime",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7145,
+      "name": "Coral Peach Talisman",
+      "type_id": 18,
+      "type_label": "[Special]"
+    },
+    {
+      "id": 7144,
+      "name": "Coral Pink Bubble",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7143,
+      "name": "Dusk Feeler",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 1135,
+  "name": "Mine Digger",
+  "level": 113,
+  "map_id": 224,
+  "map_name": "Ultimea Sewer: South",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 7000,
+  "exp": 132,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2806,
+      "name": "Cracked Iron Lid",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2809,
+      "name": "Drill Bolt",
+      "type_id": 7,
+      "type_label": "[Arrow]"
+    },
+    {
+      "id": 2808,
+      "name": "Mining Drill",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2807,
+      "name": "Wide Lens",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

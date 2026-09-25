@@ -1,0 +1,46 @@
+{
+  "id": 2945,
+  "name": "Boma Owl",
+  "level": 219,
+  "map_id": 524,
+  "map_name": "Boma Konda: Entrance",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 18250,
+  "exp": 314,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7022,
+      "name": "Aeria Shield",
+      "type_id": 17,
+      "type_label": "[Shield]"
+    },
+    {
+      "id": 7020,
+      "name": "Gorgeous Plumicorn",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7019,
+      "name": "Jagged Feather",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7021,
+      "name": "Owl's Pupil",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

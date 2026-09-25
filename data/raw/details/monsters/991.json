@@ -1,0 +1,46 @@
+{
+  "id": 991,
+  "name": "Evil Ice Crystal",
+  "level": 92,
+  "map_id": 189,
+  "map_name": "Navida City: Crossroad (80-100)",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 246,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2482,
+      "name": "Crystal Cluster",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 1027,
+      "name": "Crystal Powder",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 242,
+      "name": "Damascus Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 1024,
+      "name": "Parasite Crystal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

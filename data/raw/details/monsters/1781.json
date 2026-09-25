@@ -1,0 +1,46 @@
+{
+  "id": 1781,
+  "name": "Rafflesian",
+  "level": 157,
+  "map_id": 307,
+  "map_name": "Morthell Swell: Area 1",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 32000,
+  "exp": 404,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4116,
+      "name": "Carnivorous Plant Tooth",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4119,
+      "name": "Kanpuu",
+      "type_id": 27,
+      "type_label": "[Katana]"
+    },
+    {
+      "id": 4117,
+      "name": "Mysterious Skull",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4118,
+      "name": "Temptation Flower",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": 914,
+  "name": "Cloth Box II",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 100,
+  "process": 4,
+  "process_amount": 200,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1297,
+  "name": "Titeres",
+  "level": 160,
+  "map_id": 87,
+  "map_name": "Event",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 4000000,
+  "exp": 44000,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 364,
+      "name": "Anti-Degradation",
+      "type_id": 2,
+      "type_label": "[Refinement Support]"
+    },
+    {
+      "id": 335,
+      "name": "Orichalcum",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 911,
+      "name": "Orichalcum Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 366,
+      "name": "Refinement Powder",
+      "type_id": 2,
+      "type_label": "[Refinement Support]"
+    },
+    {
+      "id": 3108,
+      "name": "Revita VI",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 3157,
+      "name": "Ritual Dress",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 3158,
+      "name": "Titeres",
+      "type_id": 24,
+      "type_label": "[Special Crysta]"
+    }
+  ]
+}

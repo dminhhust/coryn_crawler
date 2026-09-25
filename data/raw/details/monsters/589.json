@@ -1,0 +1,64 @@
+{
+  "id": 589,
+  "name": "Imitator",
+  "level": 126,
+  "map_id": 157,
+  "map_name": "Plastida: Deepest Part",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Nightmare",
+  "hp": 3900000,
+  "exp": 43500,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1970,
+      "name": "Broken Dark Great Sword",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1971,
+      "name": "Dark General's Shield",
+      "type_id": 17,
+      "type_label": "[Shield]"
+    },
+    {
+      "id": 1972,
+      "name": "Dark General's Sword",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    },
+    {
+      "id": 1969,
+      "name": "Fake General's Armor Bit",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1974,
+      "name": "Fake General's Helm",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1973,
+      "name": "High-Purity Magic Crystal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1975,
+      "name": "Imitator",
+      "type_id": 21,
+      "type_label": "[Weapon Crysta]"
+    }
+  ]
+}

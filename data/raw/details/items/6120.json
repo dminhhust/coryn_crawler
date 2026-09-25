@@ -1,0 +1,14 @@
+{
+  "id": 6120,
+  "name": "Jabot Pattern",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 23,
+  "process": 5,
+  "process_amount": 22,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

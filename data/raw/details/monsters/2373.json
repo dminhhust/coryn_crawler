@@ -1,0 +1,52 @@
+{
+  "id": 2373,
+  "name": "Rhinosaur",
+  "level": 233,
+  "map_id": 411,
+  "map_name": "Fugitive Lake Swamp: Area 3",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "normal",
+  "hp": -1,
+  "exp": 41000,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5515,
+      "name": "Adamantite Horn",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5509,
+      "name": "Bold Gaze",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5516,
+      "name": "Drill Shaft",
+      "type_id": 26,
+      "type_label": "[Halberd]"
+    },
+    {
+      "id": 5508,
+      "name": "Hard Armor Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5517,
+      "name": "Rhinosaur",
+      "type_id": 200,
+      "type_label": "[Enhancer Crysta (Blue)]"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": 2337,
+  "name": "Gespenst High Difficulty Exchange",
+  "level": 0,
+  "map_id": 404,
+  "map_name": "High Difficulty Boss Battle Event Venue",
+  "type_code": "n",
+  "type_label": "",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": -1,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 364,
+      "name": "Anti-Degradation",
+      "type_id": 2,
+      "type_label": "[Refinement Support]"
+    },
+    {
+      "id": 2916,
+      "name": "Gespenst II",
+      "type_id": 23,
+      "type_label": "[Additional Crysta]"
+    },
+    {
+      "id": 3824,
+      "name": "Hell Reaper (Halberd)",
+      "type_id": 26,
+      "type_label": "[Halberd]"
+    },
+    {
+      "id": 3823,
+      "name": "Hell Reaper (Sword)",
+      "type_id": 5,
+      "type_label": "[2 Handed Sword]"
+    },
+    {
+      "id": 3822,
+      "name": "Specter of Death",
+      "type_id": 24,
+      "type_label": "[Special Crysta]"
+    },
+    {
+      "id": 5407,
+      "name": "[Book of Ninja]",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

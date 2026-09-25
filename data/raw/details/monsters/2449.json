@@ -1,0 +1,52 @@
+{
+  "id": 2449,
+  "name": "Ferzen the Rock Dragon",
+  "level": 201,
+  "map_id": 420,
+  "map_name": "Guardian Forest: Giant Tree",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Easy",
+  "hp": 317100,
+  "exp": 1515,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5753,
+      "name": "Blue Rock",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 816,
+      "name": "Mithril Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 5752,
+      "name": "Rock Dragon Armor Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5751,
+      "name": "Rock Dragon Pebble",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5754,
+      "name": "Terrestrial Tears",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

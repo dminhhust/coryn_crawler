@@ -1,0 +1,46 @@
+{
+  "id": 1740,
+  "name": "Muckus",
+  "level": 145,
+  "map_id": 300,
+  "map_name": "Wazeero Street",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 8000,
+  "exp": 178,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4055,
+      "name": "Gem Earrings",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 4052,
+      "name": "Green Slime",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4054,
+      "name": "Wazeero Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4053,
+      "name": "Weird Blob",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

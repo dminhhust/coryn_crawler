@@ -1,0 +1,39 @@
+{
+  "id": 8155,
+  "name": "Round-Eared Hat",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 107,
+  "process": 1,
+  "process_amount": 53,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 70,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 38,
+      "effect_name": "ASPD %",
+      "amount": 30,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 39,
+      "effect_name": "CSPD",
+      "amount": 600,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 68,
+      "effect_name": "Attack MP Recovery",
+      "amount": 15,
+      "applies_to": 0
+    }
+  ]
+}

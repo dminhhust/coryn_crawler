@@ -1,0 +1,58 @@
+{
+  "id": 465,
+  "name": "Don Yeti",
+  "level": 103,
+  "map_id": 131,
+  "map_name": "Polde Ice Valley",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 9482,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 436,
+      "name": "Adventurer's Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 1563,
+      "name": "Cold Wood Stick",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1565,
+      "name": "Cracked Big Axe",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1595,
+      "name": "Don Yeti",
+      "type_id": 24,
+      "type_label": "[Special Crysta]"
+    },
+    {
+      "id": 1577,
+      "name": "Ear Muff",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 1564,
+      "name": "Thick Fur",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

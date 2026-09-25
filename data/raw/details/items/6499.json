@@ -1,0 +1,14 @@
+{
+  "id": 6499,
+  "name": "Octopus Tentacle",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 41,
+  "process": 1,
+  "process_amount": 40,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": 6328,
+  "name": "Clear Sky Ocarina",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": -1,
+  "process": -1,
+  "process_amount": -1,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 30,
+      "effect_name": "MDEF %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 180,
+      "effect_name": "Reduce Dmg (Meteor) %",
+      "amount": 15,
+      "applies_to": 0
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": 7432,
+  "name": "Anger Knife",
+  "type_id": 11,
+  "type_label": "[Dagger]",
+  "sell": 235,
+  "process": 3,
+  "process_amount": 117,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 219,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 41,
+      "effect_name": "Critical Rate",
+      "amount": 20,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 61,
+      "effect_name": "Aggro %",
+      "amount": 80,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 139,
+      "effect_name": "Anticipate %",
+      "amount": 5,
+      "applies_to": 0
+    }
+  ]
+}

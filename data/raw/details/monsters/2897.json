@@ -1,0 +1,46 @@
+{
+  "id": 2897,
+  "name": "Comasela",
+  "level": 200,
+  "map_id": 513,
+  "map_name": "Mt. Sakuraten",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 240,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 78,
+      "name": "Flower Nectar",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 6918,
+      "name": "Sakura Warrior Emblem",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5430,
+      "name": "Soft-Boiled Egg",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1927,
+      "name": "Tricolor Dango II",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

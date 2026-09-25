@@ -1,0 +1,46 @@
+{
+  "id": 3080,
+  "name": "Alipipi",
+  "level": 230,
+  "map_id": 540,
+  "map_name": "Subma Cave",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 342,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7383,
+      "name": "Accuracy+16",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 7382,
+      "name": "Dark Red Eye",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7380,
+      "name": "Sharp Clawed Wing",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7381,
+      "name": "Sharp Ear",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

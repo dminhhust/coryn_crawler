@@ -1,0 +1,46 @@
+{
+  "id": 546,
+  "name": "Flying Executioner",
+  "level": 89,
+  "map_id": 149,
+  "map_name": "Cradle of Soldier: Inside",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 202,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1879,
+      "name": "Bloody Scarf",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1880,
+      "name": "Floating Cloth",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1878,
+      "name": "Rusty Huge Axe",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2546,
+      "name": "Sumire Renkyoku",
+      "type_id": 27,
+      "type_label": "[Katana]"
+    }
+  ]
+}

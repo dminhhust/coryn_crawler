@@ -1,0 +1,14 @@
+{
+  "id": 2369,
+  "name": "Pumpkin Diamond",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 15,
+  "process": 6,
+  "process_amount": 30,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

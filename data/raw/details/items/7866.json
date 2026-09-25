@@ -1,0 +1,33 @@
+{
+  "id": 7866,
+  "name": "9th Anniv Halberd V",
+  "type_id": 26,
+  "type_label": "[Halberd]",
+  "sell": 0,
+  "process": -1,
+  "process_amount": 0,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 776,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 60,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 113,
+      "effect_name": "Potential",
+      "amount": 55,
+      "applies_to": 0
+    }
+  ]
+}

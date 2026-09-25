@@ -1,0 +1,14 @@
+{
+  "id": 6051,
+  "name": "Flame Dragon Carapace Scale",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 23,
+  "process": 1,
+  "process_amount": 23,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

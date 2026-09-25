@@ -1,0 +1,46 @@
+{
+  "id": 1587,
+  "name": "Billy",
+  "level": 139,
+  "map_id": 289,
+  "map_name": "Garden of Ice & Snow",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 9000,
+  "exp": 166,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3723,
+      "name": "Black Deer Antlers",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3722,
+      "name": "Frozen Fir Tree",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3724,
+      "name": "STR+5",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 3721,
+      "name": "Thick White Fur",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

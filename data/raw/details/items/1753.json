@@ -1,0 +1,21 @@
+{
+  "id": 1753,
+  "name": "Garden of Beginning",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 1,
+  "process": 6,
+  "process_amount": 2,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 195,
+      "effect_name": "Teleport to Garden of Beginning",
+      "amount": 1,
+      "applies_to": 0
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 3175,
+  "name": "Sea Puffer",
+  "level": 251,
+  "map_id": 587,
+  "map_name": "Marinatown: Area 1",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 0,
+  "exp": 698,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7590,
+      "name": "Blowfish Sashimi",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7588,
+      "name": "Broken Poison Needle",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7586,
+      "name": "Corroded Iron Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7593,
+      "name": "Nero Saber",
+      "type_id": 5,
+      "type_label": "[2 Handed Sword]"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": 2211,
+  "name": "Minimyu",
+  "level": 140,
+  "map_id": 387,
+  "map_name": "Tomte Pavillion (130-150)",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": -1,
+  "element_id": -1,
+  "element_label": "Unknown",
+  "tameable": true,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4058,
+      "name": "Blue Fortune",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4072,
+      "name": "Crescent Blade",
+      "type_id": 26,
+      "type_label": "[Halberd]"
+    },
+    {
+      "id": 4379,
+      "name": "Elfin Bow",
+      "type_id": 9,
+      "type_label": "[Bow]"
+    },
+    {
+      "id": 5109,
+      "name": "Holy Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3223,
+      "name": "Small Claw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

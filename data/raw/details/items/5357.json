@@ -1,0 +1,21 @@
+{
+  "id": 5357,
+  "name": "Cucumber Rice Bowl",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 21,
+  "process": 5,
+  "process_amount": 20,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 80,
+      "effect_name": "MP",
+      "amount": 50,
+      "applies_to": 0
+    }
+  ]
+}

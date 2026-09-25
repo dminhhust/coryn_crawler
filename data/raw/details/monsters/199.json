@@ -1,0 +1,52 @@
+{
+  "id": 199,
+  "name": "Stone",
+  "level": 39,
+  "map_id": 59,
+  "map_name": "New Moon Palace",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 1800,
+  "exp": 64,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 11,
+      "name": "Bead Fragment",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 295,
+      "name": "DEX+2",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 102,
+      "name": "Hard Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2542,
+      "name": "Kiraboshi",
+      "type_id": 27,
+      "type_label": "[Katana]"
+    },
+    {
+      "id": 149,
+      "name": "New Moon Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

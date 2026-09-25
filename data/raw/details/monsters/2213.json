@@ -1,0 +1,46 @@
+{
+  "id": 2213,
+  "name": "Acernix",
+  "level": 141,
+  "map_id": 387,
+  "map_name": "Tomte Pavillion (130-150)",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": -1,
+  "element_id": -1,
+  "element_label": "Unknown",
+  "tameable": true,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3224,
+      "name": "Golden Sting",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5109,
+      "name": "Holy Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5117,
+      "name": "Icy Dagger",
+      "type_id": 11,
+      "type_label": "[Dagger]"
+    },
+    {
+      "id": 3234,
+      "name": "Strange Luminous Liquid",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

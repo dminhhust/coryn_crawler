@@ -1,0 +1,46 @@
+{
+  "id": 426,
+  "name": "Fimera",
+  "level": 60,
+  "map_id": 121,
+  "map_name": "Dunkel Valley",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 38,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1355,
+      "name": "El Scaro",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1440,
+      "name": "Flower Nectar (Bouquet)",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1439,
+      "name": "Insect Antenna",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1438,
+      "name": "Thin Insect Wing",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

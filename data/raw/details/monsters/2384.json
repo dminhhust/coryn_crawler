@@ -1,0 +1,21 @@
+{
+  "id": 2384,
+  "name": "Raging Sand Dragon",
+  "level": 230,
+  "map_id": 413,
+  "map_name": "Anniversary Arena: 6th Venue",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "NIghtmare",
+  "hp": 11500000,
+  "exp": 50000,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": []
+}

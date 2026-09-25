@@ -1,0 +1,27 @@
+{
+  "id": 7935,
+  "name": "Zombie Meat",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 24,
+  "process": 5,
+  "process_amount": 24,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 17,
+      "effect_name": "MaxHP",
+      "amount": 10000,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 37,
+      "effect_name": "ASPD",
+      "amount": -1000,
+      "applies_to": 0
+    }
+  ]
+}

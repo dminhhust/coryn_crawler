@@ -1,0 +1,51 @@
+{
+  "id": 4484,
+  "name": "Milk Chocolate Churro",
+  "type_id": 27,
+  "type_label": "[Katana]",
+  "sell": 190,
+  "process": 5,
+  "process_amount": 95,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 125,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 36,
+      "effect_name": "Dodge %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 37,
+      "effect_name": "ASPD",
+      "amount": 1000,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 38,
+      "effect_name": "ASPD %",
+      "amount": 100,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 80,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 159,
+      "effect_name": "ATK UP (AGI %)",
+      "amount": 250,
+      "applies_to": 0
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": 8567,
+  "name": "Petarie Flower",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 67,
+  "process": -1,
+  "process_amount": 0,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

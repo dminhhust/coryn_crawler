@@ -1,0 +1,39 @@
+{
+  "id": 4249,
+  "name": "Yashiro Azuki's Dad",
+  "type_id": 23,
+  "type_label": "[Additional Crysta]",
+  "sell": 58,
+  "process": -1,
+  "process_amount": 58,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 21,
+      "effect_name": "ATK %",
+      "amount": 4,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 38,
+      "effect_name": "ASPD %",
+      "amount": 20,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 61,
+      "effect_name": "Aggro %",
+      "amount": -10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 69,
+      "effect_name": "Short Range Damage %",
+      "amount": 3,
+      "applies_to": 0
+    }
+  ]
+}

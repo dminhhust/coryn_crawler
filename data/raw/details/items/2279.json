@@ -1,0 +1,51 @@
+{
+  "id": 2279,
+  "name": "Pointed Ore Arrow",
+  "type_id": 7,
+  "type_label": "[Arrow]",
+  "sell": 90,
+  "process": 3,
+  "process_amount": 45,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 43,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 27,
+      "effect_name": "DEF",
+      "amount": 50,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 31,
+      "effect_name": "Physical Resistance %",
+      "amount": 3,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 34,
+      "effect_name": "Accuracy %",
+      "amount": -1,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 65,
+      "effect_name": "Earth Element",
+      "amount": 1,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 20,
+      "applies_to": 0
+    }
+  ]
+}

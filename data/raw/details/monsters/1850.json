@@ -1,0 +1,46 @@
+{
+  "id": 1850,
+  "name": "Moculus",
+  "level": 160,
+  "map_id": 316,
+  "map_name": "Fractum Sector: Area 1",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 20000,
+  "exp": 458,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4286,
+      "name": "Goggling Eyes",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4284,
+      "name": "Mysterious Waist Sash",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4285,
+      "name": "Old Metal Part",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4269,
+      "name": "Rozerum",
+      "type_id": 5,
+      "type_label": "[2 Handed Sword]"
+    }
+  ]
+}

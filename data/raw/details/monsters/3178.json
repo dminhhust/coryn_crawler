@@ -1,0 +1,46 @@
+{
+  "id": 3178,
+  "name": "Pterois",
+  "level": 242,
+  "map_id": 585,
+  "map_name": "Carretera Mar",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 0,
+  "exp": 268,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7575,
+      "name": "Big Pectoral Fin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7581,
+      "name": "MP+400",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 7583,
+      "name": "Sea Salt",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7579,
+      "name": "Striped Scale",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

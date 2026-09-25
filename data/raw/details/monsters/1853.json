@@ -1,0 +1,46 @@
+{
+  "id": 1853,
+  "name": "Armasite",
+  "level": 201,
+  "map_id": 316,
+  "map_name": "Fractum Sector: Area 1",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 33330,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4295,
+      "name": "Amethyst Flower",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4296,
+      "name": "Armasite",
+      "type_id": 21,
+      "type_label": "[Weapon Crysta]"
+    },
+    {
+      "id": 4293,
+      "name": "Corroded Stem",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4292,
+      "name": "Mutated Plant Thorn",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 1326,
+  "name": "Lanbat",
+  "level": 121,
+  "map_id": 248,
+  "map_name": "Tolbas GrassLand",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 6000,
+  "exp": 94,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3221,
+      "name": "Anti-Heat Membrane",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3216,
+      "name": "Broken Lantern",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3207,
+      "name": "DEX+5",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 3230,
+      "name": "Lantern Oil",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

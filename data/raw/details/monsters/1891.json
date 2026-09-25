@@ -1,0 +1,34 @@
+{
+  "id": 1891,
+  "name": "Sorter Golem",
+  "level": 146,
+  "map_id": 326,
+  "map_name": "Joulu House: Gift Room (Lv 130)",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 70000,
+  "exp": 1114,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": true,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4320,
+      "name": "Sacred Blue Candle",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4313,
+      "name": "Sorting Knife",
+      "type_id": 11,
+      "type_label": "[Dagger]"
+    }
+  ]
+}

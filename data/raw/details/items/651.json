@@ -1,0 +1,27 @@
+{
+  "id": 651,
+  "name": "Caravan Dagger",
+  "type_id": 11,
+  "type_label": "[Dagger]",
+  "sell": -1,
+  "process": 0,
+  "process_amount": -1,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 4,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 60,
+      "effect_name": "Evasion Recharge %",
+      "amount": 10,
+      "applies_to": 0
+    }
+  ]
+}

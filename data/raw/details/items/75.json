@@ -1,0 +1,27 @@
+{
+  "id": 75,
+  "name": "Flame Grass",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 5,
+  "process": 5,
+  "process_amount": 6,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 20,
+      "effect_name": "ATK",
+      "amount": 5,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 48,
+      "effect_name": "% stronger against Earth",
+      "amount": 1,
+      "applies_to": 0
+    }
+  ]
+}

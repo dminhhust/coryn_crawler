@@ -1,0 +1,14 @@
+{
+  "id": 2719,
+  "name": "Underground Rat Tail",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 12,
+  "process": 1,
+  "process_amount": 12,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

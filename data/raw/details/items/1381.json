@@ -1,0 +1,14 @@
+{
+  "id": 1381,
+  "name": "Dirty Antique",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 1,
+  "process": 6,
+  "process_amount": 2,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

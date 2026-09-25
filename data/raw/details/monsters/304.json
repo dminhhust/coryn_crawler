@@ -1,0 +1,46 @@
+{
+  "id": 304,
+  "name": "Death Zombeast",
+  "level": 45,
+  "map_id": 89,
+  "map_name": "Ethos Fortress",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 3000,
+  "exp": 86,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1036,
+      "name": "Cracked Rib",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1037,
+      "name": "Cursed Dagger",
+      "type_id": 11,
+      "type_label": "[Dagger]"
+    },
+    {
+      "id": 1038,
+      "name": "Dead Beast's Horn",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1035,
+      "name": "Strange Fur",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

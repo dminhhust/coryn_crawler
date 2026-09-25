@@ -1,0 +1,46 @@
+{
+  "id": 3454,
+  "name": "Metaccio",
+  "level": 240,
+  "map_id": 683,
+  "map_name": "Leafy Sakura Village",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 26750,
+  "exp": 408,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 78,
+      "name": "Flower Nectar",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 8477,
+      "name": "Sakura Chip",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 8476,
+      "name": "Sakura Leaf",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 8108,
+      "name": "Tuning Knife",
+      "type_id": 11,
+      "type_label": "[Dagger]"
+    }
+  ]
+}

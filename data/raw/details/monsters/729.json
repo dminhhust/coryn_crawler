@@ -1,0 +1,64 @@
+{
+  "id": 729,
+  "name": "Forestia",
+  "level": 69,
+  "map_id": 49,
+  "map_name": "Land Of Chaos",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Nightmare",
+  "hp": 675000,
+  "exp": 7400,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 302,
+      "name": "Forestia",
+      "type_id": 22,
+      "type_label": "[Armor Crysta]"
+    },
+    {
+      "id": 96,
+      "name": "Green Dragon Claw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 97,
+      "name": "Green Dragon Fur",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 478,
+      "name": "Green Dragon Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 167,
+      "name": "Rainbow Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 560,
+      "name": "Storm Dagger",
+      "type_id": 11,
+      "type_label": "[Dagger]"
+    },
+    {
+      "id": 563,
+      "name": "Tempest Arrow",
+      "type_id": 7,
+      "type_label": "[Arrow]"
+    }
+  ]
+}

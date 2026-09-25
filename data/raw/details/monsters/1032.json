@@ -1,0 +1,46 @@
+{
+  "id": 1032,
+  "name": "Evil Crystal Beast (Megiston 2017)",
+  "level": 130,
+  "map_id": 87,
+  "map_name": "Event",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 470000,
+  "exp": 12600,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2565,
+      "name": "Armigma",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 2564,
+      "name": "Aunigma",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 1524,
+      "name": "Crystalized Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1529,
+      "name": "Evil Crystal Beast",
+      "type_id": 21,
+      "type_label": "[Weapon Crysta]"
+    }
+  ]
+}

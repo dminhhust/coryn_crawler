@@ -1,0 +1,70 @@
+{
+  "id": 1150,
+  "name": "Gwaimol",
+  "level": 176,
+  "map_id": 228,
+  "map_name": "Cuervo Jail: Roof",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Ultimate",
+  "hp": 8500000,
+  "exp": 81000,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2828,
+      "name": "Berserk Wind",
+      "type_id": 9,
+      "type_label": "[Bow]"
+    },
+    {
+      "id": 2825,
+      "name": "Black Knight Armor Bit",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2827,
+      "name": "Cracked Black Knight Emblem",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2829,
+      "name": "Dark Fear",
+      "type_id": 15,
+      "type_label": "[Magic Device]"
+    },
+    {
+      "id": 2830,
+      "name": "Gwaimol",
+      "type_id": 210,
+      "type_label": "[Enhancer Crysta (Red)]"
+    },
+    {
+      "id": 2833,
+      "name": "Gwaimol's Horn",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2834,
+      "name": "Gwaimol's Huge Blade",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2826,
+      "name": "Lyark Alloy",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 277,
+  "name": "Arcoiris",
+  "type_id": 22,
+  "type_label": "[Armor Crysta]",
+  "sell": 1,
+  "process": 6,
+  "process_amount": 2,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 14,
+      "effect_name": "Natural HP Regen %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 18,
+      "effect_name": "MaxHP %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 28,
+      "effect_name": "DEF %",
+      "amount": 10,
+      "applies_to": 0
+    }
+  ]
+}

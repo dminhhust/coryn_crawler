@@ -1,0 +1,46 @@
+{
+  "id": 2082,
+  "name": "Sand Bandits Gan",
+  "level": 176,
+  "map_id": 364,
+  "map_name": "Geist Desert: Area 2",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 40000,
+  "exp": 631,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4696,
+      "name": "Ignis Glaive",
+      "type_id": 26,
+      "type_label": "[Halberd]"
+    },
+    {
+      "id": 4694,
+      "name": "Sand Bandits Cape",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4695,
+      "name": "Spiky Shoulder Pads",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4693,
+      "name": "Tattered Boots",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": 2064,
+  "name": "Fuel Pipe",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 15,
+  "process": 3,
+  "process_amount": 16,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

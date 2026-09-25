@@ -1,0 +1,27 @@
+{
+  "id": 2583,
+  "name": "Holy Robe",
+  "type_id": 8,
+  "type_label": "[Armor]",
+  "sell": 120,
+  "process": 4,
+  "process_amount": 60,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 86,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 113,
+      "effect_name": "Potential",
+      "amount": 34,
+      "applies_to": 0
+    }
+  ]
+}

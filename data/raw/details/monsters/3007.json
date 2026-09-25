@@ -1,0 +1,46 @@
+{
+  "id": 3007,
+  "name": "Glafur",
+  "level": 225,
+  "map_id": 528,
+  "map_name": "Algid Passage",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 21400,
+  "exp": 329,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7093,
+      "name": "Cold Chicken",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7092,
+      "name": "Frozen Claw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7091,
+      "name": "Frozen Feather",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7094,
+      "name": "Ice Bird Talisman",
+      "type_id": 18,
+      "type_label": "[Special]"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": 3219,
+  "name": "Tough Fin",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 12,
+  "process": 4,
+  "process_amount": 12,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

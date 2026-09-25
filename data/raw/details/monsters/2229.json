@@ -1,0 +1,28 @@
+{
+  "id": 2229,
+  "name": "Stoodie's Experiment (100-150)",
+  "level": 0,
+  "map_id": 111,
+  "map_name": "El Scaro",
+  "type_code": "C",
+  "type_label": "NPC",
+  "mode": "Normal",
+  "hp": 0,
+  "exp": 0,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5209,
+      "name": "Experiment Report II",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

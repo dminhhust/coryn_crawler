@@ -1,0 +1,46 @@
+{
+  "id": 1074,
+  "name": "Lyark Vanguard",
+  "level": 117,
+  "map_id": 210,
+  "map_name": "Lufenas Mansion: Library",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 13000,
+  "exp": 279,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2666,
+      "name": "Battle Spear",
+      "type_id": 26,
+      "type_label": "[Halberd]"
+    },
+    {
+      "id": 2664,
+      "name": "Broken Surgical Knife",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2665,
+      "name": "Lyark Ointment",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 2663,
+      "name": "Torn Tool Pouch",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

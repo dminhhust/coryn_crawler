@@ -1,0 +1,46 @@
+{
+  "id": 2784,
+  "name": "Wymax",
+  "level": 211,
+  "map_id": 490,
+  "map_name": "Freight Corridor",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 22610,
+  "exp": 328,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6616,
+      "name": "INT+7",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 6615,
+      "name": "Sharp Dragon Fang",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6614,
+      "name": "Sharp Nail",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6613,
+      "name": "Torn Wing Membrane",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

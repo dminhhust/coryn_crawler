@@ -1,0 +1,64 @@
+{
+  "id": 2591,
+  "name": "Vlam the Flame Dragon",
+  "level": 260,
+  "map_id": 460,
+  "map_name": "Divido Spring",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Ultimate",
+  "hp": 56000000,
+  "exp": 167000,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6051,
+      "name": "Flame Dragon Carapace Scale",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6053,
+      "name": "Hot Poison Gland",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6056,
+      "name": "Poison Flame Dragon Bow",
+      "type_id": 9,
+      "type_label": "[Bow]"
+    },
+    {
+      "id": 6055,
+      "name": "Poison Flame Dragon Halberd",
+      "type_id": 26,
+      "type_label": "[Halberd]"
+    },
+    {
+      "id": 6052,
+      "name": "Red Purple Wingtalon",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6057,
+      "name": "Toxic Dragon Caudal Claw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6054,
+      "name": "Vlam the Flame Dragon",
+      "type_id": 210,
+      "type_label": "[Enhancer Crysta (Red)]"
+    }
+  ]
+}

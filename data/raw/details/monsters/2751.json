@@ -1,0 +1,46 @@
+{
+  "id": 2751,
+  "name": "Megadon",
+  "level": 215,
+  "map_id": 483,
+  "map_name": "Boma Moja: Area 3",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 46930,
+  "exp": 745,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6542,
+      "name": "Dragon Hardstone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6543,
+      "name": "Quake Sound",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6541,
+      "name": "Rugged Scute",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6544,
+      "name": "STR+7",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    }
+  ]
+}

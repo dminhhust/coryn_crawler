@@ -1,0 +1,45 @@
+{
+  "id": 6215,
+  "name": "Alchemy Belt",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 102,
+  "process": 5,
+  "process_amount": 51,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 130,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 19,
+      "effect_name": "MaxMP",
+      "amount": 500,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 40,
+      "effect_name": "CSPD %",
+      "amount": 30,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 179,
+      "effect_name": "Invincible Aid (sec)",
+      "amount": 3,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 190,
+      "effect_name": "Item Cooldown",
+      "amount": 0,
+      "applies_to": 0
+    }
+  ]
+}

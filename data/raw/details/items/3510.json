@@ -1,0 +1,14 @@
+{
+  "id": 3510,
+  "name": "Shining Blue Tear",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 18,
+  "process": 6,
+  "process_amount": 4,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

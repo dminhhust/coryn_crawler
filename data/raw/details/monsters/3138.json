@@ -1,0 +1,46 @@
+{
+  "id": 3138,
+  "name": "Jiva",
+  "level": 293,
+  "map_id": 582,
+  "map_name": "Little Shrine of Grace: Area 2",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 0,
+  "exp": 58291,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7551,
+      "name": "Bone-In Short Rib",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 7553,
+      "name": "Deadly Spiral Horn",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7542,
+      "name": "Divine Building Supply",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7511,
+      "name": "Jiva",
+      "type_id": 230,
+      "type_label": "[Enhancer Crysta (Yellow)]"
+    }
+  ]
+}

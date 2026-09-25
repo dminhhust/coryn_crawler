@@ -1,0 +1,46 @@
+{
+  "id": 520,
+  "name": "Corroded Fighter",
+  "level": 84,
+  "map_id": 143,
+  "map_name": "Garden of Sublimation: Area 1",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 15000,
+  "exp": 354,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1744,
+      "name": "Corroded Huge Arm",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1819,
+      "name": "Huge Vine",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1818,
+      "name": "Ilwoon",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    },
+    {
+      "id": 1841,
+      "name": "Stone of Sublimation",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

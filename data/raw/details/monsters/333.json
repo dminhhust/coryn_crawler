@@ -1,0 +1,46 @@
+{
+  "id": 333,
+  "name": "White Jelly",
+  "level": 48,
+  "map_id": 98,
+  "map_name": "Road to Another World: Area 1",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 4350,
+  "exp": 130,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1132,
+      "name": "Outer World Liquid",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1134,
+      "name": "Outer World Sand",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 543,
+      "name": "Ribbon",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 1133,
+      "name": "White Gelatin",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

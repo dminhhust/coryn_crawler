@@ -1,0 +1,64 @@
+{
+  "id": 739,
+  "name": "Mauez",
+  "level": 95,
+  "map_id": 62,
+  "map_name": "New Moon Palace: Innermost",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Ultimate",
+  "hp": 860000,
+  "exp": 12900,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 130,
+      "name": "Magic Armor Fragment",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 515,
+      "name": "Magic Bowgun",
+      "type_id": 10,
+      "type_label": "[Bowgun]"
+    },
+    {
+      "id": 311,
+      "name": "Mauez",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 134,
+      "name": "Mauez's Broken Rod",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1783,
+      "name": "Mauez's Pole",
+      "type_id": 26,
+      "type_label": "[Halberd]"
+    },
+    {
+      "id": 182,
+      "name": "Runestone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 568,
+      "name": "Vita Cores",
+      "type_id": 15,
+      "type_label": "[Magic Device]"
+    }
+  ]
+}

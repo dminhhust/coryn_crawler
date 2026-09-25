@@ -1,0 +1,64 @@
+{
+  "id": 697,
+  "name": "Zolban",
+  "level": 118,
+  "map_id": 142,
+  "map_name": "Dark Mirror",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Nightmare",
+  "hp": 1220000,
+  "exp": 19500,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1813,
+      "name": "Broken Swordstick",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1812,
+      "name": "Crest of Dark Captain",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2535,
+      "name": "Mafu Swordstick",
+      "type_id": 27,
+      "type_label": "[Katana]"
+    },
+    {
+      "id": 2093,
+      "name": "Magic Crystal Wing Fragment",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1816,
+      "name": "Wind Plunder",
+      "type_id": 5,
+      "type_label": "[2 Handed Sword]"
+    },
+    {
+      "id": 1814,
+      "name": "Windblast Gemstone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1815,
+      "name": "Zolban",
+      "type_id": 21,
+      "type_label": "[Weapon Crysta]"
+    }
+  ]
+}

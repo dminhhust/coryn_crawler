@@ -1,0 +1,76 @@
+{
+  "id": 108,
+  "name": "Brutal Dragon Decel",
+  "level": 40,
+  "map_id": 30,
+  "map_name": "Nisel Mountain: The Top",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 53000,
+  "exp": 560,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 16,
+      "name": "Black Crystal Fragment",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 447,
+      "name": "Brutal Dragon Armor",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 33,
+      "name": "Brutal Dragon Claw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 448,
+      "name": "Brutal Dragon Crown",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 285,
+      "name": "Brutal Dragon Decel",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 34,
+      "name": "Brutal Dragon Horn",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 35,
+      "name": "Brutal Dragon Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 449,
+      "name": "Brutal Dragon Sword",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    },
+    {
+      "id": 36,
+      "name": "Brutal Dragon Tail",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

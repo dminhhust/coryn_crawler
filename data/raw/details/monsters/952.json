@@ -1,0 +1,46 @@
+{
+  "id": 952,
+  "name": "Fist Machina",
+  "level": 107,
+  "map_id": 181,
+  "map_name": "Small Demi Machina Factory: Area 2",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 25000,
+  "exp": 533,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2413,
+      "name": "Epetal",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    },
+    {
+      "id": 2412,
+      "name": "Giant Hand Print",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2410,
+      "name": "Huge Bone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2411,
+      "name": "Monster's Big Arm",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

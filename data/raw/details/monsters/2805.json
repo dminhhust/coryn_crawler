@@ -1,0 +1,46 @@
+{
+  "id": 2805,
+  "name": "Plodocus",
+  "level": 213,
+  "map_id": 495,
+  "map_name": "Stairway to Vital Point",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 21120,
+  "exp": 300,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6686,
+      "name": "Dragon Ring",
+      "type_id": 18,
+      "type_label": "[Special]"
+    },
+    {
+      "id": 6683,
+      "name": "Mutated Dragon Leg",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6684,
+      "name": "Solid Vertebra",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6685,
+      "name": "Stairway Pebble",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

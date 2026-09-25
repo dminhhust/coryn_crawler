@@ -1,0 +1,21 @@
+{
+  "id": 905,
+  "name": "Shooting Star Potion",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 5,
+  "process": 5,
+  "process_amount": 6,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 39,
+      "effect_name": "CSPD",
+      "amount": 300,
+      "applies_to": 0
+    }
+  ]
+}

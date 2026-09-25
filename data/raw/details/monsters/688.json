@@ -1,0 +1,46 @@
+{
+  "id": 688,
+  "name": "Finpen",
+  "level": 85,
+  "map_id": 140,
+  "map_name": "Spring of Rebirth: Upper",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 14500,
+  "exp": 332,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1763,
+      "name": "Clean Water",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1764,
+      "name": "Fin Knife",
+      "type_id": 11,
+      "type_label": "[Dagger]"
+    },
+    {
+      "id": 1761,
+      "name": "Soft Fin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1762,
+      "name": "Yellow Beak",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

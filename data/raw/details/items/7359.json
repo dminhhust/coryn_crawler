@@ -1,0 +1,27 @@
+{
+  "id": 7359,
+  "name": "Eggplant Skewer",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 1,
+  "process": 5,
+  "process_amount": 10,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 19,
+      "effect_name": "MaxMP",
+      "amount": 100,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 96,
+      "effect_name": "Drop Rate %",
+      "amount": 1,
+      "applies_to": 0
+    }
+  ]
+}

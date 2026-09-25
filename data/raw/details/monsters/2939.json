@@ -1,0 +1,46 @@
+{
+  "id": 2939,
+  "name": "Kiton",
+  "level": 229,
+  "map_id": 522,
+  "map_name": "Jabali Kubwa: Area 3",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 62047,
+  "exp": 980,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6741,
+      "name": "Azure Spear",
+      "type_id": 26,
+      "type_label": "[Halberd]"
+    },
+    {
+      "id": 7009,
+      "name": "Kiton's Horn Fragment",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7011,
+      "name": "Kiton's Meat",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 7010,
+      "name": "Kiton's Wing",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

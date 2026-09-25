@@ -1,0 +1,46 @@
+{
+  "id": 2920,
+  "name": "Hunky Chocogato",
+  "level": 172,
+  "map_id": 510,
+  "map_name": "Chocolate Reservoir",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": -1,
+  "element_id": -1,
+  "element_label": "Unknown",
+  "tameable": true,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6970,
+      "name": "Cacao Paste",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2959,
+      "name": "Cat Fur",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6971,
+      "name": "Heavy Chocolate",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 6972,
+      "name": "Hefty Knife",
+      "type_id": 11,
+      "type_label": "[Dagger]"
+    }
+  ]
+}

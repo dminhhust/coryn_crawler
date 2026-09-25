@@ -1,0 +1,14 @@
+{
+  "id": 5241,
+  "name": "Corroded Insect Wings",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 17,
+  "process": 1,
+  "process_amount": 16,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

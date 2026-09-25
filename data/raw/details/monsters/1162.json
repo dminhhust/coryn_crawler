@@ -1,0 +1,46 @@
+{
+  "id": 1162,
+  "name": "Ignis Golem",
+  "level": 113,
+  "map_id": 229,
+  "map_name": "Ultimea City: Roof",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 6000,
+  "exp": 132,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2865,
+      "name": "Chipped Red Horn",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2868,
+      "name": "Gust Googles",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 2866,
+      "name": "Melted Bangle",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2867,
+      "name": "Some Kind of Curse",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

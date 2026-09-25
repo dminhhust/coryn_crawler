@@ -1,0 +1,46 @@
+{
+  "id": 3443,
+  "name": "Serpean",
+  "level": 242,
+  "map_id": 678,
+  "map_name": "Pirates' Hideout: Area 1",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 74170,
+  "exp": -1,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "Summer Event 2025",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 8220,
+      "name": "Coral Pink Pearl",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 8219,
+      "name": "Fresh Seagrass",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 8217,
+      "name": "Pirate Cave Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 8221,
+      "name": "Sea Foam Talisman",
+      "type_id": 18,
+      "type_label": "[Special]"
+    }
+  ]
+}

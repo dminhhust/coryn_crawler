@@ -1,0 +1,33 @@
+{
+  "id": 4652,
+  "name": "Scratched Hachigane",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 0,
+  "process": 0,
+  "process_amount": 0,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 1,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 17,
+      "effect_name": "MaxHP",
+      "amount": 120,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 104,
+      "effect_name": "Revive Time %",
+      "amount": -10,
+      "applies_to": 0
+    }
+  ]
+}

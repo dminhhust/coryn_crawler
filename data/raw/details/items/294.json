@@ -1,0 +1,21 @@
+{
+  "id": 294,
+  "name": "DEX+1",
+  "type_id": 20,
+  "type_label": "[Normal Crysta]",
+  "sell": 1,
+  "process": 6,
+  "process_amount": 2,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 11,
+      "effect_name": "DEX",
+      "amount": 1,
+      "applies_to": 0
+    }
+  ]
+}

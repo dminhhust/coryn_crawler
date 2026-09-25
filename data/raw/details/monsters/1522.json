@@ -1,0 +1,52 @@
+{
+  "id": 1522,
+  "name": "Mithurna Lynx",
+  "level": 177,
+  "map_id": 272,
+  "map_name": "Ruins of Mt. Mithurna: Stylobate",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 25725,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3525,
+      "name": "Cat Claw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3521,
+      "name": "Lucid White Fur",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3522,
+      "name": "Lucid White Spirit Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3524,
+      "name": "Mithurna Lynx",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 3523,
+      "name": "White Eyepatch",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

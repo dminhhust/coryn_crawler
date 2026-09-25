@@ -1,0 +1,14 @@
+{
+  "id": 1440,
+  "name": "Flower Nectar (Bouquet)",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 5,
+  "process": 5,
+  "process_amount": 3,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

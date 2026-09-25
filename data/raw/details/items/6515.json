@@ -1,0 +1,14 @@
+{
+  "id": 6515,
+  "name": "Big Takoyaki (Pack)",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 500,
+  "process": 0,
+  "process_amount": 0,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

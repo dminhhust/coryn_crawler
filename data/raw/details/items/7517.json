@@ -1,0 +1,14 @@
+{
+  "id": 7517,
+  "name": "Raging Dragon Scute",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 0,
+  "process": 1,
+  "process_amount": 0,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

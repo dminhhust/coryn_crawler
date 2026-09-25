@@ -1,0 +1,46 @@
+{
+  "id": 1502,
+  "name": "Felien (Megiston 2018)",
+  "level": 170,
+  "map_id": 87,
+  "map_name": "Event",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 1800000,
+  "exp": 39000,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3481,
+      "name": "Clarity Rose",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    },
+    {
+      "id": 3493,
+      "name": "Dress of Wish",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 3480,
+      "name": "Felien",
+      "type_id": 24,
+      "type_label": "[Special Crysta]"
+    },
+    {
+      "id": 3492,
+      "name": "Proto Clarity Rose",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    }
+  ]
+}

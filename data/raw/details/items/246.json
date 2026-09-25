@@ -1,0 +1,14 @@
+{
+  "id": 246,
+  "name": "Bitter Medicine",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 8,
+  "process": 5,
+  "process_amount": 8,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

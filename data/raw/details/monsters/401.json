@@ -1,0 +1,21 @@
+{
+  "id": 401,
+  "name": "Consignment Board",
+  "level": 0,
+  "map_id": 111,
+  "map_name": "El Scaro",
+  "type_code": "C",
+  "type_label": "NPC",
+  "mode": "Normal",
+  "hp": 0,
+  "exp": 0,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": []
+}

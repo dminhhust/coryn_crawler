@@ -1,0 +1,46 @@
+{
+  "id": 3222,
+  "name": "Corroded Eumano",
+  "level": 254,
+  "map_id": 598,
+  "map_name": "Eumano Village Ruins: Area 1",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 0,
+  "exp": 117,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7716,
+      "name": "Corroded Splinter",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7717,
+      "name": "Dirty Thick Cloth",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7718,
+      "name": "Sad Thought",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7719,
+      "name": "Sylvan Cowl",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 869,
+  "name": "Crafted Golem",
+  "level": 106,
+  "map_id": 175,
+  "map_name": "Huge Crysta Factory: 3rd Floor",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 17000,
+  "exp": 371,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2330,
+      "name": "Big Spanner",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2331,
+      "name": "Cracked Lense",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2329,
+      "name": "Rusted Iron Plate",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2332,
+      "name": "Strange Tool Box",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

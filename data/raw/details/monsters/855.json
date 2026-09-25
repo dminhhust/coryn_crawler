@@ -1,0 +1,58 @@
+{
+  "id": 855,
+  "name": "Platinum Potum (6M DL)",
+  "level": 107,
+  "map_id": 87,
+  "map_name": "Event",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Hard",
+  "hp": 17400000,
+  "exp": 42000,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2305,
+      "name": "Cracked Tiara",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 816,
+      "name": "Mithril Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 2307,
+      "name": "Platinum Potum",
+      "type_id": 200,
+      "type_label": "[Enhancer Crysta (Blue)]"
+    },
+    {
+      "id": 2304,
+      "name": "Platinum Potum Hat",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 2303,
+      "name": "Potum's Jewelry Box",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 2306,
+      "name": "Queen Staff (Potum)",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    }
+  ]
+}

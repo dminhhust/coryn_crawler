@@ -1,0 +1,58 @@
+{
+  "id": 2248,
+  "name": "Alfenix",
+  "level": 180,
+  "map_id": 111,
+  "map_name": "El Scaro",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Hard",
+  "hp": 5000000,
+  "exp": 26500,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5269,
+      "name": "Alfenix",
+      "type_id": 230,
+      "type_label": "[Enhancer Crysta (Yellow)]"
+    },
+    {
+      "id": 5281,
+      "name": "Amezaiku Wings",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5282,
+      "name": "Cute Ornament String",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5280,
+      "name": "Japanese Caramel Candy",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 911,
+      "name": "Orichalcum Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 5284,
+      "name": "Superbia Head Chain",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

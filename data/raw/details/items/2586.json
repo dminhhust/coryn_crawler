@@ -1,0 +1,21 @@
+{
+  "id": 2586,
+  "name": "Mysterious Mushroom",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 15,
+  "process": 5,
+  "process_amount": 15,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 80,
+      "effect_name": "MP",
+      "amount": 40,
+      "applies_to": 0
+    }
+  ]
+}

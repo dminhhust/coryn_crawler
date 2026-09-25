@@ -1,0 +1,52 @@
+{
+  "id": 3447,
+  "name": "Shark Potum",
+  "level": 290,
+  "map_id": 679,
+  "map_name": "Pirates' Hideout: Area 2",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "Normal",
+  "hp": 18800000,
+  "exp": 68490,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "Summer Event 2025",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 8165,
+      "name": "Cuddle Shark Shield",
+      "type_id": 17,
+      "type_label": "[Shield]"
+    },
+    {
+      "id": 7563,
+      "name": "Potum's Shark Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 8466,
+      "name": "Shark Meat Steak",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 8264,
+      "name": "Shark Potum",
+      "type_id": 230,
+      "type_label": "[Enhancer Crysta (Yellow)]"
+    },
+    {
+      "id": 8467,
+      "name": "Undersea Terror",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

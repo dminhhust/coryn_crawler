@@ -1,0 +1,52 @@
+{
+  "id": 1309,
+  "name": "Seraph Machina",
+  "level": 167,
+  "map_id": 246,
+  "map_name": "Buried Tower: Inside",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 21073,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3188,
+      "name": "Angel Halo",
+      "type_id": 15,
+      "type_label": "[Magic Device]"
+    },
+    {
+      "id": 3187,
+      "name": "Angel Heart",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3185,
+      "name": "Broken Magic Device",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3186,
+      "name": "Light Emitting Cloth",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3189,
+      "name": "Seraph Machina",
+      "type_id": 200,
+      "type_label": "[Enhancer Crysta (Blue)]"
+    }
+  ]
+}

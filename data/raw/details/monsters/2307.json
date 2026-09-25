@@ -1,0 +1,70 @@
+{
+  "id": 2307,
+  "name": "Irestida",
+  "level": 245,
+  "map_id": 403,
+  "map_name": "Nov Diela Central",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Ultimate",
+  "hp": 29400000,
+  "exp": 144600,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5456,
+      "name": "Amorphous Substance",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5461,
+      "name": "Irestida",
+      "type_id": 210,
+      "type_label": "[Enhancer Crysta (Red)]"
+    },
+    {
+      "id": 5458,
+      "name": "Irestida's Bubble",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5454,
+      "name": "Irestida's Liquid",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5457,
+      "name": "Irestida's Tail",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5455,
+      "name": "Strange Whirpool",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5460,
+      "name": "Wanderer's Spear",
+      "type_id": 26,
+      "type_label": "[Halberd]"
+    },
+    {
+      "id": 5459,
+      "name": "Wanderflasche",
+      "type_id": 15,
+      "type_label": "[Magic Device]"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 3181,
+  "name": "Apapat",
+  "level": 247,
+  "map_id": 582,
+  "map_name": "Little Shrine of Grace: Area 2",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 0,
+  "exp": 663,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7550,
+      "name": "Dagger of Grace",
+      "type_id": 11,
+      "type_label": "[Dagger]"
+    },
+    {
+      "id": 7544,
+      "name": "Fan-Shaped Tail Fin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7548,
+      "name": "Hidden Long Tongue",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7547,
+      "name": "Sticky Foam",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

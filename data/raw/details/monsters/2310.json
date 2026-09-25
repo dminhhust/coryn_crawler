@@ -1,0 +1,94 @@
+{
+  "id": 2310,
+  "name": "Groom Box",
+  "level": 0,
+  "map_id": 87,
+  "map_name": "Event",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 0,
+  "exp": 0,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2042,
+      "name": "Caro Crown",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 4635,
+      "name": "Darling Crown",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 2041,
+      "name": "Dragon Steak",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 3765,
+      "name": "Engagement Crown",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 2045,
+      "name": "Glow Ray Soup",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 7654,
+      "name": "Interesse Crown",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 7655,
+      "name": "Interesse Tiara",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 2918,
+      "name": "Jewelry Crown",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 1605,
+      "name": "Marriage Crown",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 2040,
+      "name": "Marriage Gift",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5465,
+      "name": "Unity Crown",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 2035,
+      "name": "Wedding Wine",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

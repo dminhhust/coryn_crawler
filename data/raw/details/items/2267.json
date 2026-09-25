@@ -1,0 +1,45 @@
+{
+  "id": 2267,
+  "name": "Ninja Hat",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 50,
+  "process": 4,
+  "process_amount": 25,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 40,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 42,
+      "effect_name": "Critical Rate %",
+      "amount": 2,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 44,
+      "effect_name": "Critical Damage %",
+      "amount": 3,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 70,
+      "effect_name": "Long Range Damage %",
+      "amount": 3,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 159,
+      "effect_name": "ATK UP (AGI %)",
+      "amount": 2,
+      "applies_to": 0
+    }
+  ]
+}

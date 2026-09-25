@@ -1,0 +1,46 @@
+{
+  "id": 1387,
+  "name": "Fanadon",
+  "level": 171,
+  "map_id": 258,
+  "map_name": "Curonne Forest: North Area 2",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 24360,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3339,
+      "name": "Fanadon",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 3332,
+      "name": "Lizard Dango",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 3338,
+      "name": "Lizard Spirit Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3331,
+      "name": "Split Mask",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

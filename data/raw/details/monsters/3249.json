@@ -1,0 +1,46 @@
+{
+  "id": 3249,
+  "name": "Momia",
+  "level": 225,
+  "map_id": 611,
+  "map_name": "Deusania's Lab",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Easy",
+  "hp": 55640,
+  "exp": 805,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7942,
+      "name": "Booster Cast",
+      "type_id": 18,
+      "type_label": "[Special]"
+    },
+    {
+      "id": 3790,
+      "name": "Dusky Fabric",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7940,
+      "name": "Gauze Fabric",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7941,
+      "name": "Mummy Roll Cake",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

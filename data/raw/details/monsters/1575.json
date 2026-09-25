@@ -1,0 +1,46 @@
+{
+  "id": 1575,
+  "name": "Violaccoon",
+  "level": 122,
+  "map_id": 285,
+  "map_name": "Sakura Castle: Outside",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 6000,
+  "exp": 148,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": true,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2782,
+      "name": "Cherry Blossom Crystal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 78,
+      "name": "Flower Nectar",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 3694,
+      "name": "Sakura Cloud Pyroxene",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1065,
+      "name": "Toram Liquor",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

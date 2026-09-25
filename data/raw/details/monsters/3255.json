@@ -1,0 +1,46 @@
+{
+  "id": 3255,
+  "name": "Rosalia",
+  "level": 250,
+  "map_id": 602,
+  "map_name": "Siccus Plains",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 29000,
+  "exp": 438,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7953,
+      "name": "Burning Flower",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7951,
+      "name": "Prickly Thorn",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7952,
+      "name": "Prickly Vine",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7954,
+      "name": "Rafflesia Hat",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

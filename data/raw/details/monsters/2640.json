@@ -1,0 +1,46 @@
+{
+  "id": 2640,
+  "name": "Acamia",
+  "level": 195,
+  "map_id": 470,
+  "map_name": "Vulcani Crater Base",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 13000,
+  "exp": 202,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6204,
+      "name": "Heatproof Shell",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6206,
+      "name": "Magma Fruit",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6205,
+      "name": "Short Red Claw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6207,
+      "name": "Valley Guardian Stone",
+      "type_id": 18,
+      "type_label": "[Special]"
+    }
+  ]
+}

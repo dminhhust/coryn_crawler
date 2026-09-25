@@ -1,0 +1,40 @@
+{
+  "id": 1655,
+  "name": "False God",
+  "level": 95,
+  "map_id": 239,
+  "map_name": "Anniversary Arena: 1st Venue",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Nightmare",
+  "hp": 900000,
+  "exp": 13500,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4001,
+      "name": "Bronze 4th Anniv Medal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 589,
+      "name": "Revita III",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1286,
+      "name": "Vita Plus III",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

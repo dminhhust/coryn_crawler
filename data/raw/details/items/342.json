@@ -1,0 +1,14 @@
+{
+  "id": 342,
+  "name": "High-Purity Orichalcum",
+  "type_id": 16,
+  "type_label": "[Ore]",
+  "sell": 800,
+  "process": 3,
+  "process_amount": 39,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

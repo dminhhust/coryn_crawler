@@ -1,0 +1,70 @@
+{
+  "id": 662,
+  "name": "Minotaur",
+  "level": 42,
+  "map_id": 15,
+  "map_name": "Ruined Temple: Forbidden hall",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Hard",
+  "hp": 36000,
+  "exp": 840,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 242,
+      "name": "Damascus Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 312,
+      "name": "Minotaur",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 136,
+      "name": "Minotaur Hoof",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 137,
+      "name": "Minotaur Horn",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 522,
+      "name": "Minotaur Knuckles",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    },
+    {
+      "id": 138,
+      "name": "Minotaur Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 523,
+      "name": "Minotaur Staff",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    },
+    {
+      "id": 2541,
+      "name": "Minotaur's Katana",
+      "type_id": 27,
+      "type_label": "[Katana]"
+    }
+  ]
+}

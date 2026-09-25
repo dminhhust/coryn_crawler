@@ -1,0 +1,21 @@
+{
+  "id": 360,
+  "name": "Infinity Gem",
+  "type_id": 12,
+  "type_label": "[Gem]",
+  "sell": 0,
+  "process": 0,
+  "process_amount": 0,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 68,
+      "effect_name": "Attack MP Recovery",
+      "amount": 25,
+      "applies_to": 0
+    }
+  ]
+}

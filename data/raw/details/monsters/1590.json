@@ -1,0 +1,46 @@
+{
+  "id": 1590,
+  "name": "Snowman",
+  "level": 148,
+  "map_id": 290,
+  "map_name": "Elf Mountains: Area 1",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 14000,
+  "exp": 294,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3731,
+      "name": "Big Boa Hood",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 3458,
+      "name": "Chipped Scoop",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3730,
+      "name": "Elven Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3457,
+      "name": "Torn Scarf",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

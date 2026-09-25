@@ -1,0 +1,46 @@
+{
+  "id": 2422,
+  "name": "Capten Amiya",
+  "level": 227,
+  "map_id": 416,
+  "map_name": "Underwater Canyon: Area 3",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 65300,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5688,
+      "name": "Captain Amiya",
+      "type_id": 24,
+      "type_label": "[Special Crysta]"
+    },
+    {
+      "id": 5687,
+      "name": "Lovely Bubble",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5673,
+      "name": "Seabed Crystal Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5676,
+      "name": "Sweet Shrimp",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

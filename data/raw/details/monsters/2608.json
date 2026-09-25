@@ -1,0 +1,46 @@
+{
+  "id": 2608,
+  "name": "Glaucius",
+  "level": 248,
+  "map_id": 463,
+  "map_name": "Arstida: Area 2",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 44670,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6128,
+      "name": "Dangerous Cnidoblast",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6135,
+      "name": "Glaucius",
+      "type_id": 220,
+      "type_label": "[Enhancer Crysta (Green)]"
+    },
+    {
+      "id": 6134,
+      "name": "Mutated Sphere Core",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6127,
+      "name": "Strange Claw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

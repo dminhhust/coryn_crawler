@@ -1,0 +1,21 @@
+{
+  "id": 265,
+  "name": "Sashimi",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 7,
+  "process": 5,
+  "process_amount": 6,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 79,
+      "effect_name": "HP",
+      "amount": 300,
+      "applies_to": 0
+    }
+  ]
+}

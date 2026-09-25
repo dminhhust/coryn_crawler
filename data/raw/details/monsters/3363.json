@@ -1,0 +1,64 @@
+{
+  "id": 3363,
+  "name": "Baratok",
+  "level": 350,
+  "map_id": 657,
+  "map_name": "Grazen Tower : Top Floor",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Ultimate",
+  "hp": -1,
+  "exp": -1,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "Update 02/26/26",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 8400,
+      "name": "Baratok",
+      "type_id": 23,
+      "type_label": "[Additional Crysta]"
+    },
+    {
+      "id": 8397,
+      "name": "Core of Hatred",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 8399,
+      "name": "Parea Knuckles",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    },
+    {
+      "id": 8398,
+      "name": "Parea Staff",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    },
+    {
+      "id": 8401,
+      "name": "Thorny Wrathful Tail",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 8396,
+      "name": "Wrathful Ear",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 8395,
+      "name": "Wrathful Face Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 1276,
+  "name": "Masked Gloom",
+  "level": 180,
+  "map_id": 241,
+  "map_name": "Anniversary Arena: 3rd Venue",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Ultimate",
+  "hp": 4800000,
+  "exp": 46000,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1716,
+      "name": "Revita V",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 2972,
+      "name": "Silpom 3rd Anniv Medal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

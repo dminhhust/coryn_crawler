@@ -1,0 +1,27 @@
+{
+  "id": 5894,
+  "name": "Sugar Cookie",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 20,
+  "process": 6,
+  "process_amount": 5,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 79,
+      "effect_name": "HP",
+      "amount": 1500,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 80,
+      "effect_name": "MP",
+      "amount": 200,
+      "applies_to": 0
+    }
+  ]
+}

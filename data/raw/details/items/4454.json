@@ -1,0 +1,21 @@
+{
+  "id": 4454,
+  "name": "Hard Water",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 18,
+  "process": 5,
+  "process_amount": 16,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 80,
+      "effect_name": "MP",
+      "amount": 50,
+      "applies_to": 0
+    }
+  ]
+}

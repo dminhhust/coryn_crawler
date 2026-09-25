@@ -1,0 +1,46 @@
+{
+  "id": 1140,
+  "name": "Lyark Jailer",
+  "level": 121,
+  "map_id": 226,
+  "map_name": "Cuervo Jail: 2nd Floor",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 15000,
+  "exp": 348,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2815,
+      "name": "Holey Glove",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2795,
+      "name": "Noble Glaive",
+      "type_id": 26,
+      "type_label": "[Halberd]"
+    },
+    {
+      "id": 2816,
+      "name": "Stout Handcuffs",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2814,
+      "name": "Torn Officer Clothes",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

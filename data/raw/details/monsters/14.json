@@ -1,0 +1,52 @@
+{
+  "id": 14,
+  "name": "Nemico",
+  "level": 11,
+  "map_id": 5,
+  "map_name": "Underground Ruins: B2",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 170,
+  "exp": 9,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 9,
+      "name": "Bat Claw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 10,
+      "name": "Bat Wing",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 294,
+      "name": "DEX+1",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 512,
+      "name": "Mage Hat",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 579,
+      "name": "Wind Staff",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    }
+  ]
+}

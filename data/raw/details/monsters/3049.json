@@ -1,0 +1,52 @@
+{
+  "id": 3049,
+  "name": "EX Prize Exchange (8th Anniv)",
+  "level": 0,
+  "map_id": 538,
+  "map_name": "Anniversary Arena: 8th Venue",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 0,
+  "exp": 0,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7303,
+      "name": "8th Anniv Hat",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 7304,
+      "name": "8th Anniv Ribbon",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 5541,
+      "name": "Anniv Festive Ticket",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7305,
+      "name": "Celebration Cloth",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7187,
+      "name": "Golpom 8th Anniv Medal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

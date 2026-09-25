@@ -1,0 +1,63 @@
+{
+  "id": 6569,
+  "name": "Lovely Bunny Hoodie",
+  "type_id": 8,
+  "type_label": "[Armor]",
+  "sell": 240,
+  "process": 4,
+  "process_amount": 120,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 158,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 34,
+      "effect_name": "Accuracy %",
+      "amount": 100,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 41,
+      "effect_name": "Critical Rate",
+      "amount": 20,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 57,
+      "effect_name": "Ailment Resistance %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 61,
+      "effect_name": "Aggro %",
+      "amount": 25,
+      "applies_to": 128
+    },
+    {
+      "effect_id": 68,
+      "effect_name": "Attack MP Recovery",
+      "amount": 15,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 139,
+      "effect_name": "Anticipate %",
+      "amount": 5,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 272,
+      "effect_name": "Aggro %",
+      "amount": 25,
+      "applies_to": 2
+    }
+  ]
+}

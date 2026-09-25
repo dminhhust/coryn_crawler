@@ -1,0 +1,52 @@
+{
+  "id": 3123,
+  "name": "Capo Profundo",
+  "level": 287,
+  "map_id": 553,
+  "map_name": "Abandoned District: Area 3",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "Normal",
+  "hp": 15800000,
+  "exp": 60500,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7463,
+      "name": "Abyssal Creature Fang",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7449,
+      "name": "Abyssal Kelp",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7465,
+      "name": "Capo Profundo",
+      "type_id": 220,
+      "type_label": "[Enhancer Crysta (Green)]"
+    },
+    {
+      "id": 7464,
+      "name": "Mace Sword",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    },
+    {
+      "id": 7448,
+      "name": "Sharp Caudal Fin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

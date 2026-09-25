@@ -1,0 +1,172 @@
+{
+  "id": 2222,
+  "name": "Lalun (Summer Event Exchange)",
+  "level": 0,
+  "map_id": 87,
+  "map_name": "Event",
+  "type_code": "C",
+  "type_label": "NPC",
+  "mode": "Normal",
+  "hp": 0,
+  "exp": 0,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4029,
+      "name": "Aqua Shooter",
+      "type_id": 10,
+      "type_label": "[Bowgun]"
+    },
+    {
+      "id": 3147,
+      "name": "BBQ Spear",
+      "type_id": 26,
+      "type_label": "[Halberd]"
+    },
+    {
+      "id": 3148,
+      "name": "Beer Mugs",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    },
+    {
+      "id": 4036,
+      "name": "Blindfold",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 4034,
+      "name": "Bokuto",
+      "type_id": 27,
+      "type_label": "[Katana]"
+    },
+    {
+      "id": 3145,
+      "name": "Candy Coryn Staff",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    },
+    {
+      "id": 3144,
+      "name": "Choco Banana Blade",
+      "type_id": 5,
+      "type_label": "[2 Handed Sword]"
+    },
+    {
+      "id": 3149,
+      "name": "Cool Summer Yukata",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 4035,
+      "name": "Cool Summer Yukata II",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 3153,
+      "name": "Diver's Bowgun",
+      "type_id": 10,
+      "type_label": "[Bowgun]"
+    },
+    {
+      "id": 4027,
+      "name": "Firework Stick",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    },
+    {
+      "id": 3146,
+      "name": "Fireworks",
+      "type_id": 15,
+      "type_label": "[Magic Device]"
+    },
+    {
+      "id": 3151,
+      "name": "Fish Head",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 3152,
+      "name": "Fisherman's Harpoon",
+      "type_id": 26,
+      "type_label": "[Halberd]"
+    },
+    {
+      "id": 4033,
+      "name": "Float",
+      "type_id": 15,
+      "type_label": "[Magic Device]"
+    },
+    {
+      "id": 4032,
+      "name": "Grilled Squid",
+      "type_id": 26,
+      "type_label": "[Halberd]"
+    },
+    {
+      "id": 3143,
+      "name": "Marine Headband",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 3142,
+      "name": "Marine Visor",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 4031,
+      "name": "Popsicle",
+      "type_id": 5,
+      "type_label": "[2 Handed Sword]"
+    },
+    {
+      "id": 3160,
+      "name": "Seashell",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 3150,
+      "name": "Shaved Ice Hat",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 4028,
+      "name": "Slingshot",
+      "type_id": 9,
+      "type_label": "[Bow]"
+    },
+    {
+      "id": 4037,
+      "name": "Summer Fest Potum Mask",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 4038,
+      "name": "Takoyaki Head",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 4030,
+      "name": "Toy Gun",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    }
+  ]
+}

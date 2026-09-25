@@ -1,0 +1,39 @@
+{
+  "id": 3611,
+  "name": "Candy Hairpin",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 1,
+  "process": 5,
+  "process_amount": 2,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 26,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 16,
+      "effect_name": "Natural MP Regen %",
+      "amount": 15,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 126,
+      "effect_name": "Reflect %",
+      "amount": 15,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 127,
+      "effect_name": "Fractional Barrier %",
+      "amount": 15,
+      "applies_to": 0
+    }
+  ]
+}

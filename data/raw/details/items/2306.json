@@ -1,0 +1,57 @@
+{
+  "id": 2306,
+  "name": "Queen Staff (Potum)",
+  "type_id": 19,
+  "type_label": "[Staff]",
+  "sell": 1,
+  "process": 6,
+  "process_amount": 1000,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 220,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 19,
+      "effect_name": "MaxMP",
+      "amount": 1000,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 23,
+      "effect_name": "MATK %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 39,
+      "effect_name": "CSPD",
+      "amount": -9999,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 60,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 160,
+      "effect_name": "MATK UP (INT %)",
+      "amount": 100,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 161,
+      "effect_name": "MATK DOWN (VIT %)",
+      "amount": 100,
+      "applies_to": 0
+    }
+  ]
+}

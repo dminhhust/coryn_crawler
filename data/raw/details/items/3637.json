@@ -1,0 +1,14 @@
+{
+  "id": 3637,
+  "name": "Hermit Heart",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 17,
+  "process": 6,
+  "process_amount": 4,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

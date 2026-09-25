@@ -1,0 +1,39 @@
+{
+  "id": 3562,
+  "name": "Holy Cape",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 72,
+  "process": 4,
+  "process_amount": 36,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 75,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 30,
+      "effect_name": "MDEF %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 32,
+      "effect_name": "Magic Resistance %",
+      "amount": 15,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 128,
+      "effect_name": "Magic Barrier",
+      "amount": 2000,
+      "applies_to": 0
+    }
+  ]
+}

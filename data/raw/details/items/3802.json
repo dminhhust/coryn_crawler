@@ -1,0 +1,14 @@
+{
+  "id": 3802,
+  "name": "Finstern Horns",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 25,
+  "process": 1,
+  "process_amount": 26,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

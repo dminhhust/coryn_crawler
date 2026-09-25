@@ -1,0 +1,70 @@
+{
+  "id": 1389,
+  "name": "Crystal Titan",
+  "level": 148,
+  "map_id": 259,
+  "map_name": "Decaying Ruins",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 1000000,
+  "exp": 9300,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3341,
+      "name": "Corroded Stone Hand",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3340,
+      "name": "Corroded Titan Fragment",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3344,
+      "name": "Corroded Trunk",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3346,
+      "name": "Crystal Knuckles",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    },
+    {
+      "id": 3345,
+      "name": "Crystal Lamina",
+      "type_id": 27,
+      "type_label": "[Katana]"
+    },
+    {
+      "id": 3343,
+      "name": "Crystal Titan",
+      "type_id": 24,
+      "type_label": "[Special Crysta]"
+    },
+    {
+      "id": 3347,
+      "name": "Rare Diopside",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3342,
+      "name": "Titan Heart",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

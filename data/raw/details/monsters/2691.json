@@ -1,0 +1,64 @@
+{
+  "id": 2691,
+  "name": "Guard Golem",
+  "level": 242,
+  "map_id": 477,
+  "map_name": "Weredragon's Throat",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Hard",
+  "hp": 20000000,
+  "exp": 76000,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6353,
+      "name": "Crusher Arm",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6354,
+      "name": "Giant Rock Shield Bit",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6358,
+      "name": "Guard Bone Bow",
+      "type_id": 9,
+      "type_label": "[Bow]"
+    },
+    {
+      "id": 6359,
+      "name": "Guard Bone Lance",
+      "type_id": 26,
+      "type_label": "[Halberd]"
+    },
+    {
+      "id": 6357,
+      "name": "Guard Golem",
+      "type_id": 200,
+      "type_label": "[Enhancer Crysta (Blue)]"
+    },
+    {
+      "id": 6355,
+      "name": "Vicious Glare",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6356,
+      "name": "Weredragon Golem Core",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

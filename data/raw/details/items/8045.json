@@ -1,0 +1,51 @@
+{
+  "id": 8045,
+  "name": "Rose Eyepatch",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 132,
+  "process": 5,
+  "process_amount": 66,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 20,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 41,
+      "effect_name": "Critical Rate",
+      "amount": 15,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 51,
+      "effect_name": "Fire resistance %",
+      "amount": -30,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 117,
+      "effect_name": "Unsheathe Attack %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 139,
+      "effect_name": "Anticipate %",
+      "amount": 20,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 250,
+      "effect_name": "Critical Rate",
+      "amount": 15,
+      "applies_to": 8192
+    }
+  ]
+}

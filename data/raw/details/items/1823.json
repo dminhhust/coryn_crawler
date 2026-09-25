@@ -1,0 +1,27 @@
+{
+  "id": 1823,
+  "name": "Spirit Tree Bangle",
+  "type_id": 18,
+  "type_label": "[Special]",
+  "sell": 42,
+  "process": 2,
+  "process_amount": 21,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 68,
+      "effect_name": "Attack MP Recovery",
+      "amount": 5,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 130,
+      "effect_name": "Additional Magic %",
+      "amount": 25,
+      "applies_to": 0
+    }
+  ]
+}

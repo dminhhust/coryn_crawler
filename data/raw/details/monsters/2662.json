@@ -1,0 +1,46 @@
+{
+  "id": 2662,
+  "name": "Skullpion",
+  "level": 198,
+  "map_id": 472,
+  "map_name": "Vulcani Underground Passage",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 15000,
+  "exp": 236,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6279,
+      "name": "Bone Scissors",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6281,
+      "name": "Devil's Arrow",
+      "type_id": 7,
+      "type_label": "[Arrow]"
+    },
+    {
+      "id": 6280,
+      "name": "Poison Crystal Tail",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6278,
+      "name": "Strong Carapace",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

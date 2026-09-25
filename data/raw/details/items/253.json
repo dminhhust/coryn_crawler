@@ -1,0 +1,21 @@
+{
+  "id": 253,
+  "name": "Lamb Meat",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 3,
+  "process": 5,
+  "process_amount": 3,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 17,
+      "effect_name": "MaxHP",
+      "amount": 75,
+      "applies_to": 0
+    }
+  ]
+}

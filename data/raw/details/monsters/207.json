@@ -1,0 +1,46 @@
+{
+  "id": 207,
+  "name": "Pova",
+  "level": 32,
+  "map_id": 63,
+  "map_name": "Lonogo Canyon",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 900,
+  "exp": 29,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 78,
+      "name": "Flower Nectar",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 525,
+      "name": "Mistletoe Talisman",
+      "type_id": 18,
+      "type_label": "[Special]"
+    },
+    {
+      "id": 193,
+      "name": "Slender Branch",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 204,
+      "name": "Soft Leaf",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

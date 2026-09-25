@@ -1,0 +1,46 @@
+{
+  "id": 1090,
+  "name": "Soldier Rat",
+  "level": 107,
+  "map_id": 212,
+  "map_name": "Ultimea Sewer: East",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 6000,
+  "exp": 100,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2723,
+      "name": "Blunt Knife",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2712,
+      "name": "Rat Knife",
+      "type_id": 11,
+      "type_label": "[Dagger]"
+    },
+    {
+      "id": 2721,
+      "name": "Rough Gloves",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2722,
+      "name": "Rusted Helm",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

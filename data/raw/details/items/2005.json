@@ -1,0 +1,14 @@
+{
+  "id": 2005,
+  "name": "Shadow Scale",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 13,
+  "process": 5,
+  "process_amount": 13,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

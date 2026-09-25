@@ -1,0 +1,40 @@
+{
+  "id": 2218,
+  "name": "Kuzto (Megiston 2020)",
+  "level": 190,
+  "map_id": 87,
+  "map_name": "Event",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 3500000,
+  "exp": 13900,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5194,
+      "name": "Bark Mail",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 4398,
+      "name": "Kuzto",
+      "type_id": 21,
+      "type_label": "[Weapon Crysta]"
+    },
+    {
+      "id": 4392,
+      "name": "Kuzto Splinter",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 6490,
+  "name": "Flower Nectar Syrup",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 10,
+  "process": 5,
+  "process_amount": 6,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 80,
+      "effect_name": "MP",
+      "amount": 20,
+      "applies_to": 0
+    }
+  ]
+}

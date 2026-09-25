@@ -1,0 +1,14 @@
+{
+  "id": 7973,
+  "name": "Relaxia Leaf",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 35,
+  "process": 5,
+  "process_amount": 35,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

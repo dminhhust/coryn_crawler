@@ -1,0 +1,46 @@
+{
+  "id": 3100,
+  "name": "Calabari",
+  "level": 180,
+  "map_id": 548,
+  "map_name": "Risus Valley: Area 3",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 33020,
+  "exp": 500,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7379,
+      "name": "Bitter Pumpkin Talisman",
+      "type_id": 18,
+      "type_label": "[Special]"
+    },
+    {
+      "id": 7398,
+      "name": "Pumpkie Parfait",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 7396,
+      "name": "Ripe Pumpkin Fragment",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7397,
+      "name": "Spidey Chocolate",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

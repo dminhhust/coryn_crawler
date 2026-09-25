@@ -1,0 +1,46 @@
+{
+  "id": 1846,
+  "name": "Mobster Golem",
+  "level": 148,
+  "map_id": 315,
+  "map_name": "Fabriska Sector",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 11000,
+  "exp": 204,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4274,
+      "name": "Broken Mainspring",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4276,
+      "name": "Elf Ingot",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4267,
+      "name": "Neckerchief",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 4275,
+      "name": "Processed Iron Plate",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

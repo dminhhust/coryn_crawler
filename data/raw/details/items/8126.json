@@ -1,0 +1,14 @@
+{
+  "id": 8126,
+  "name": "Test1",
+  "type_id": 8,
+  "type_label": "[Armor]",
+  "sell": 44,
+  "process": 2,
+  "process_amount": 44,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

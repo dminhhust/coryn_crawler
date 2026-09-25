@@ -1,0 +1,40 @@
+{
+  "id": 1774,
+  "name": "Bunny Summoner",
+  "level": 50,
+  "map_id": 305,
+  "map_name": "Otsukimi Event Venue: Crater Zone",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 4500,
+  "exp": 152,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": true,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3244,
+      "name": "Otsukimi Dango",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1871,
+      "name": "Soft Paw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1870,
+      "name": "Torn Robe",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

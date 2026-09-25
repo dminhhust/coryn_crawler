@@ -1,0 +1,40 @@
+{
+  "id": 2263,
+  "name": "Alfenix",
+  "level": 180,
+  "map_id": 393,
+  "map_name": "Cookie Road",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 2520,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": true,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5281,
+      "name": "Amezaiku Wings",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5282,
+      "name": "Cute Ornament String",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5280,
+      "name": "Japanese Caramel Candy",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2315,
+  "name": "Power Candy",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 10,
+  "process": 5,
+  "process_amount": 11,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 20,
+      "effect_name": "ATK",
+      "amount": 40,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 21,
+      "effect_name": "ATK %",
+      "amount": 4,
+      "applies_to": 0
+    }
+  ]
+}

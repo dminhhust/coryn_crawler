@@ -1,0 +1,14 @@
+{
+  "id": 2330,
+  "name": "Big Spanner",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 12,
+  "process": 3,
+  "process_amount": 13,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

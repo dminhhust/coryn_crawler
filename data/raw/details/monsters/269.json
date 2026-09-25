@@ -1,0 +1,124 @@
+{
+  "id": 269,
+  "name": "Avatar Recycling",
+  "level": 0,
+  "map_id": 85,
+  "map_name": "Orb Shop",
+  "type_code": "O",
+  "type_label": "Orb Shop",
+  "mode": "Normal",
+  "hp": 0,
+  "exp": 0,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 374,
+      "name": "Colored Shard",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 338,
+      "name": "High-Purity Damascus",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 337,
+      "name": "High-Purity Iron",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 340,
+      "name": "High-Purity Mithril",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 342,
+      "name": "High-Purity Orichalcum",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 360,
+      "name": "Infinity Gem",
+      "type_id": 12,
+      "type_label": "[Gem]"
+    },
+    {
+      "id": 352,
+      "name": "Insurance Ticket (100%)",
+      "type_id": 2,
+      "type_label": "[Refinement Support]"
+    },
+    {
+      "id": 368,
+      "name": "Legendary Gem",
+      "type_id": 12,
+      "type_label": "[Gem]"
+    },
+    {
+      "id": 373,
+      "name": "Light Shard",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 365,
+      "name": "Rare Drop Gem",
+      "type_id": 12,
+      "type_label": "[Gem]"
+    },
+    {
+      "id": 354,
+      "name": "Refinement Ticket (200%)",
+      "type_id": 2,
+      "type_label": "[Refinement Support]"
+    },
+    {
+      "id": 356,
+      "name": "Refinement Ticket (300%)",
+      "type_id": 2,
+      "type_label": "[Refinement Support]"
+    },
+    {
+      "id": 363,
+      "name": "Resurrection Gem",
+      "type_id": 12,
+      "type_label": "[Gem]"
+    },
+    {
+      "id": 359,
+      "name": "Smith's Hammer",
+      "type_id": 2,
+      "type_label": "[Refinement Support]"
+    },
+    {
+      "id": 367,
+      "name": "Super Rare Drop Gem",
+      "type_id": 12,
+      "type_label": "[Gem]"
+    },
+    {
+      "id": 376,
+      "name": "Tattered Catalog",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 371,
+      "name": "Ultimate Gem",
+      "type_id": 12,
+      "type_label": "[Gem]"
+    }
+  ]
+}

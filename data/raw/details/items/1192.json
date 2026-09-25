@@ -1,0 +1,14 @@
+{
+  "id": 1192,
+  "name": "Large Withered Leaf",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 5,
+  "process": 2,
+  "process_amount": 5,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

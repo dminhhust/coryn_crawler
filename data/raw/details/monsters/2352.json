@@ -1,0 +1,46 @@
+{
+  "id": 2352,
+  "name": "Climber Potum",
+  "level": 169,
+  "map_id": 375,
+  "map_name": "Inje Village",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 16500,
+  "exp": 298,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4961,
+      "name": "Climber's Paw Pad",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4962,
+      "name": "Durable Rope",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4964,
+      "name": "Sunshine Talisman",
+      "type_id": 18,
+      "type_label": "[Special]"
+    },
+    {
+      "id": 4963,
+      "name": "Village Building Supply",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": 3689,
+  "name": "Sakura Drawstring Bag",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 130,
+  "process": 6,
+  "process_amount": 140,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 31,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 23,
+      "effect_name": "MATK %",
+      "amount": 5,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 40,
+      "effect_name": "CSPD %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 41,
+      "effect_name": "Critical Rate",
+      "amount": 20,
+      "applies_to": 0
+    }
+  ]
+}

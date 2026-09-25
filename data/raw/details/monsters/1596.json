@@ -1,0 +1,46 @@
+{
+  "id": 1596,
+  "name": "Silveria",
+  "level": 151,
+  "map_id": 292,
+  "map_name": "Elf Mountains: Area 3",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 26000,
+  "exp": 570,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3733,
+      "name": "Glossy Black Leather",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3734,
+      "name": "Spiky Horns",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3732,
+      "name": "Stiff Grey Fur",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3735,
+      "name": "White Bear Knuckles",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    }
+  ]
+}

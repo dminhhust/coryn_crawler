@@ -1,0 +1,52 @@
+{
+  "id": 1299,
+  "name": "Megiston",
+  "level": 170,
+  "map_id": 241,
+  "map_name": "Anniversary Arena: 3rd Venue",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Hard",
+  "hp": 20000000,
+  "exp": 172000,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3154,
+      "name": "3rd Anniv Champion Holder",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1268,
+      "name": "Gladiator Armor",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 3155,
+      "name": "Megiston The Champion",
+      "type_id": 21,
+      "type_label": "[Weapon Crysta]"
+    },
+    {
+      "id": 911,
+      "name": "Orichalcum Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 3108,
+      "name": "Revita VI",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

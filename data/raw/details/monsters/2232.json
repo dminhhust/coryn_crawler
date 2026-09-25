@@ -1,0 +1,46 @@
+{
+  "id": 2232,
+  "name": "Pico",
+  "level": 125,
+  "map_id": 388,
+  "map_name": "Creme Cliff (Valentine's Day Event)",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 494,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": true,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 15,
+      "name": "Bird Wing",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 101,
+      "name": "Hard Stem",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5223,
+      "name": "Macapicoa Nut",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5220,
+      "name": "Pico Cream Ring",
+      "type_id": 18,
+      "type_label": "[Special]"
+    }
+  ]
+}

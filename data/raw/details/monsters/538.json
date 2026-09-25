@@ -1,0 +1,46 @@
+{
+  "id": 538,
+  "name": "Bunny Summoner",
+  "level": 79,
+  "map_id": 147,
+  "map_name": "Trace of Dark River",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 71,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1872,
+      "name": "Cracked Skull",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1873,
+      "name": "One-Winged Headband",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 1871,
+      "name": "Soft Paw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1870,
+      "name": "Torn Robe",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": 1463,
+  "name": "Ice Evil Clock",
+  "level": 97,
+  "map_id": 266,
+  "map_name": "Noeliel Castle: Entrance (80-100)",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 10000,
+  "exp": 230,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1380,
+      "name": "Broken Clock Hand",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2806,
+      "name": "Cracked Iron Lid",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3453,
+      "name": "Frozen Iron Fragment",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2020,
+      "name": "Indigo Sword",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    },
+    {
+      "id": 2084,
+      "name": "Sage Staff",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    }
+  ]
+}

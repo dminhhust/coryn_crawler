@@ -1,0 +1,46 @@
+{
+  "id": 3030,
+  "name": "Coquilatoll",
+  "level": 229,
+  "map_id": 533,
+  "map_name": "Labrum Atoll",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 26592,
+  "exp": 414,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7146,
+      "name": "Broken Old Wooden Rod",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7147,
+      "name": "Eternal Shell",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7148,
+      "name": "Old Tortoise Mustache",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7149,
+      "name": "Solid Guard Helmet",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

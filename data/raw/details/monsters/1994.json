@@ -1,0 +1,46 @@
+{
+  "id": 1994,
+  "name": "Cadaverustica",
+  "level": 160,
+  "map_id": 344,
+  "map_name": "Pupalov Sector",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 12000,
+  "exp": 208,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4504,
+      "name": "Corroded Bone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4503,
+      "name": "Hexa Glasses",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 4506,
+      "name": "Homunculus Heart",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4505,
+      "name": "Pupalov Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

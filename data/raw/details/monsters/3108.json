@@ -1,0 +1,46 @@
+{
+  "id": 3108,
+  "name": "Naticlaw",
+  "level": 231,
+  "map_id": 550,
+  "map_name": "Seabed",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 344,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7426,
+      "name": "Planispiral Shell",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7427,
+      "name": "Pointed Tentacle",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7428,
+      "name": "Rime Wing",
+      "type_id": 15,
+      "type_label": "[Magic Device]"
+    },
+    {
+      "id": 7425,
+      "name": "Seabed Sand",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

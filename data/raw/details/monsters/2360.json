@@ -1,0 +1,46 @@
+{
+  "id": 2360,
+  "name": "Obsidian Lizard",
+  "level": 180,
+  "map_id": 408,
+  "map_name": "Noisy Woodland",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "normal",
+  "hp": 15000,
+  "exp": 252,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5490,
+      "name": "Black Leather",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5489,
+      "name": "Dark Purple Big Fin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5488,
+      "name": "Glassy Scale",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5491,
+      "name": "Reptilian Shield",
+      "type_id": 17,
+      "type_label": "[Shield]"
+    }
+  ]
+}

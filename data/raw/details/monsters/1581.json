@@ -1,0 +1,52 @@
+{
+  "id": 1581,
+  "name": "Ancient Empress Mezzaluna (Hell)",
+  "level": 180,
+  "map_id": 87,
+  "map_name": "Event",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 4000000,
+  "exp": 10,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3705,
+      "name": "Curious Dress",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 3704,
+      "name": "Iron Empress",
+      "type_id": 22,
+      "type_label": "[Armor Crysta]"
+    },
+    {
+      "id": 911,
+      "name": "Orichalcum Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 1976,
+      "name": "Super Anti-Degradation",
+      "type_id": 2,
+      "type_label": "[Refinement Support]"
+    },
+    {
+      "id": 3201,
+      "name": "[Book of Magic Warrior]",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

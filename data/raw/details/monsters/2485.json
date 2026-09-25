@@ -1,0 +1,46 @@
+{
+  "id": 2485,
+  "name": "Hallophantom",
+  "level": 159,
+  "map_id": 427,
+  "map_name": "Manor of Surprises",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 30100,
+  "exp": 494,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4949,
+      "name": "Damp Cloth",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5891,
+      "name": "Ghost Candy",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 4950,
+      "name": "Phantom Cloth",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5890,
+      "name": "Soul Pudding",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

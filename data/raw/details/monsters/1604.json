@@ -1,0 +1,46 @@
+{
+  "id": 1604,
+  "name": "Bubble Angel (White)",
+  "level": 145,
+  "map_id": 281,
+  "map_name": "Shrine of the Gods: Area 4",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 356,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3585,
+      "name": "God Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3634,
+      "name": "Knit Fabric",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3587,
+      "name": "Mysterious Shiny Cloth",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3626,
+      "name": "Prism Ring (Light)",
+      "type_id": 15,
+      "type_label": "[Magic Device]"
+    }
+  ]
+}

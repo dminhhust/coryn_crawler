@@ -1,0 +1,27 @@
+{
+  "id": 854,
+  "name": "Dark Gem",
+  "type_id": 12,
+  "type_label": "[Gem]",
+  "sell": 1,
+  "process": 0,
+  "process_amount": 0,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 50,
+      "effect_name": "% stronger against Dark",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 56,
+      "effect_name": "Dark resistance %",
+      "amount": 10,
+      "applies_to": 0
+    }
+  ]
+}

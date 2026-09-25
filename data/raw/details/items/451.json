@@ -1,0 +1,33 @@
+{
+  "id": 451,
+  "name": "Butterfly Ribbon",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 15,
+  "process": 4,
+  "process_amount": 7,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 1,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 36,
+      "effect_name": "Dodge %",
+      "amount": 2,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 60,
+      "effect_name": "Evasion Recharge %",
+      "amount": 5,
+      "applies_to": 0
+    }
+  ]
+}

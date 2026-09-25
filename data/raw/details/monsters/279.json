@@ -1,0 +1,52 @@
+{
+  "id": 279,
+  "name": "Violacoon",
+  "level": 80,
+  "map_id": 70,
+  "map_name": "Darkanon Plain",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "Normal",
+  "hp": 450000,
+  "exp": 5472,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 828,
+      "name": "Bear Fur",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 78,
+      "name": "Flower Nectar",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 827,
+      "name": "Hero Scarf",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 829,
+      "name": "Sharp Bear Claw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 830,
+      "name": "Violaccoon",
+      "type_id": 24,
+      "type_label": "[Special Crysta]"
+    }
+  ]
+}

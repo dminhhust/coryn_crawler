@@ -1,0 +1,46 @@
+{
+  "id": 175,
+  "name": "Tower Ghost",
+  "level": 37,
+  "map_id": 50,
+  "map_name": "Aulada Ancient Tower",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 1040,
+  "exp": 38,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 27,
+      "name": "Broken Equipment",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 453,
+      "name": "Circlet",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 177,
+      "name": "Remnant of Ghost",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 225,
+      "name": "Torn Rope",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

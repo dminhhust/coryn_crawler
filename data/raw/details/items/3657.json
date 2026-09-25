@@ -1,0 +1,14 @@
+{
+  "id": 3657,
+  "name": "Red Satin Fabric",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 21,
+  "process": 4,
+  "process_amount": 22,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": 4179,
+  "name": "Zoe's Tart",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 1,
+  "process": 5,
+  "process_amount": 2,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 17,
+      "effect_name": "MaxHP",
+      "amount": 3000,
+      "applies_to": 0
+    }
+  ]
+}

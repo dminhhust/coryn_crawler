@@ -1,0 +1,33 @@
+{
+  "id": 450,
+  "name": "Buckler",
+  "type_id": 17,
+  "type_label": "[Shield]",
+  "sell": 1,
+  "process": 2,
+  "process_amount": 2,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 0,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 58,
+      "effect_name": "Guard Power %",
+      "amount": 15,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 59,
+      "effect_name": "Guard Recharge %",
+      "amount": 15,
+      "applies_to": 0
+    }
+  ]
+}

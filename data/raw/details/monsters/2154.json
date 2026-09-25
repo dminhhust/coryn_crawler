@@ -1,0 +1,46 @@
+{
+  "id": 2154,
+  "name": "Thief Rat",
+  "level": 122,
+  "map_id": 372,
+  "map_name": "Phantom Wisp's Hideout",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 13000,
+  "exp": -1,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3795,
+      "name": "Critical Rate +5",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 4931,
+      "name": "Phantom Secret Tool",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4932,
+      "name": "Torn Playing Card",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4935,
+      "name": "Ultra Cheesy Pizza",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

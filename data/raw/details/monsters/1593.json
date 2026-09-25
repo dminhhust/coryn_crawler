@@ -1,0 +1,46 @@
+{
+  "id": 1593,
+  "name": "Corloup",
+  "level": 148,
+  "map_id": 291,
+  "map_name": "Elf Mountains: Area 2",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 15000,
+  "exp": 368,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3729,
+      "name": "Assassin Waistcloth",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 3726,
+      "name": "Broken Long Horn",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3728,
+      "name": "Ice Wolf Fang",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3727,
+      "name": "Ice Wolf Mane",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

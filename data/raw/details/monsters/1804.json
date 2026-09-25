@@ -1,0 +1,46 @@
+{
+  "id": 1804,
+  "name": "Spooky Bat",
+  "level": 104,
+  "map_id": 311,
+  "map_name": "Zarth's Mansion: Entrance",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 169,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": true,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2077,
+      "name": "Dragon Nail",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2455,
+      "name": "Evil Horn",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4178,
+      "name": "Magical Meat Pie",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1329,
+      "name": "MP+150",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    }
+  ]
+}

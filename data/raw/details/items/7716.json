@@ -1,0 +1,14 @@
+{
+  "id": 7716,
+  "name": "Corroded Splinter",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 22,
+  "process": 2,
+  "process_amount": 22,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

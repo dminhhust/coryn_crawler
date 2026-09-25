@@ -1,0 +1,33 @@
+{
+  "id": 5103,
+  "name": "Quasar Barrel",
+  "type_id": 10,
+  "type_label": "[Bowgun]",
+  "sell": -1,
+  "process": -1,
+  "process_amount": -1,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 240,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 50,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 113,
+      "effect_name": "Potential",
+      "amount": 45,
+      "applies_to": 0
+    }
+  ]
+}

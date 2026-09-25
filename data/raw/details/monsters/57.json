@@ -1,0 +1,46 @@
+{
+  "id": 57,
+  "name": "Ghost",
+  "level": 4,
+  "map_id": 16,
+  "map_name": "Underground Channel",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 150,
+  "exp": 6,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 532,
+      "name": "Old Cloak",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 177,
+      "name": "Remnant of Ghost",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 223,
+      "name": "Torn Jute Sack",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 225,
+      "name": "Torn Rope",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

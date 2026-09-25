@@ -1,0 +1,21 @@
+{
+  "id": 6528,
+  "name": "CSPD+140",
+  "type_id": 20,
+  "type_label": "[Normal Crysta]",
+  "sell": 1,
+  "process": 6,
+  "process_amount": 2,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 39,
+      "effect_name": "CSPD",
+      "amount": 140,
+      "applies_to": 0
+    }
+  ]
+}

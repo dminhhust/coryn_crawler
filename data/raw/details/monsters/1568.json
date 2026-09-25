@@ -1,0 +1,58 @@
+{
+  "id": 1568,
+  "name": "Seele Zauga",
+  "level": 150,
+  "map_id": 284,
+  "map_name": "Shrine of the Goddess of Species",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Easy",
+  "hp": 300000,
+  "exp": 1530,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3660,
+      "name": "Heaven Feather Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 3659,
+      "name": "Heaven Feather Headband",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 3658,
+      "name": "High Grade Frill Fabric",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3656,
+      "name": "Messenger Feather",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 911,
+      "name": "Orichalcum Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 3657,
+      "name": "Red Satin Fabric",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

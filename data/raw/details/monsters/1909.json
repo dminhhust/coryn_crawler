@@ -1,0 +1,40 @@
+{
+  "id": 1909,
+  "name": "Zelbuse (Megiston 2019)",
+  "level": 185,
+  "map_id": 87,
+  "map_name": "Event",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 1100000,
+  "exp": 33300,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4351,
+      "name": "Zel Blade",
+      "type_id": 5,
+      "type_label": "[2 Handed Sword]"
+    },
+    {
+      "id": 4350,
+      "name": "Zel Shooter",
+      "type_id": 9,
+      "type_label": "[Bow]"
+    },
+    {
+      "id": 3520,
+      "name": "Zelbuse",
+      "type_id": 240,
+      "type_label": "[Enhancer Crysta (Purple)]"
+    }
+  ]
+}

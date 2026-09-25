@@ -1,0 +1,40 @@
+{
+  "id": 1883,
+  "name": "Santabby",
+  "level": 133,
+  "map_id": 324,
+  "map_name": "Joulu House: Center (Lv 130)",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 30000,
+  "exp": 663,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": true,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 242,
+      "name": "Damascus Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 3409,
+      "name": "Round Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4322,
+      "name": "Santa Hood",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 2400,
+  "name": "Fish Skeleton Spirit",
+  "level": 240,
+  "map_id": 413,
+  "map_name": "Anniversary Arena: 6th Venue",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "NIghtmare",
+  "hp": 16000000,
+  "exp": 70000,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": []
+}

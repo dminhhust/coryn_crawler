@@ -1,0 +1,46 @@
+{
+  "id": 2435,
+  "name": "Arigazella",
+  "level": 180,
+  "map_id": 418,
+  "map_name": "Movere Specula",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 13900,
+  "exp": 227,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5708,
+      "name": "Life Branch Dagger",
+      "type_id": 11,
+      "type_label": "[Dagger]"
+    },
+    {
+      "id": 5706,
+      "name": "Sharp Wooden Horn",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5707,
+      "name": "Star Fruit",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 5705,
+      "name": "Tree Branch",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

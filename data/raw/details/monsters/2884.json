@@ -1,0 +1,322 @@
+{
+  "id": 2884,
+  "name": "HATSUNE MIKU's Collab Event Reception: 1st Part (2023)",
+  "level": 0,
+  "map_id": 383,
+  "map_name": "HATSUNE MIKU Collab Venue",
+  "type_code": "C",
+  "type_label": "NPC",
+  "mode": "Normal",
+  "hp": 0,
+  "exp": 0,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5053,
+      "name": "Concert Drink",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 5054,
+      "name": "Concert Vita",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 6831,
+      "name": "Duplex Knuckles",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    },
+    {
+      "id": 6832,
+      "name": "Duplex Knuckles",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    },
+    {
+      "id": 6833,
+      "name": "Duplex Knuckles",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    },
+    {
+      "id": 6834,
+      "name": "Duplex Knuckles",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    },
+    {
+      "id": 6835,
+      "name": "Duplex Knuckles",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    },
+    {
+      "id": 6836,
+      "name": "Duplex Knuckles",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    },
+    {
+      "id": 6837,
+      "name": "Duplex Knuckles",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    },
+    {
+      "id": 6838,
+      "name": "Duplex Knuckles",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    },
+    {
+      "id": 6839,
+      "name": "Duplex Knuckles",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    },
+    {
+      "id": 5177,
+      "name": "Emotion Ticket A",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 5178,
+      "name": "Emotion Ticket B",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 5179,
+      "name": "Emotion Ticket C",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 6822,
+      "name": "Eternal Melody Staff",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    },
+    {
+      "id": 6823,
+      "name": "Eternal Melody Staff",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    },
+    {
+      "id": 6824,
+      "name": "Eternal Melody Staff",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    },
+    {
+      "id": 6825,
+      "name": "Eternal Melody Staff",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    },
+    {
+      "id": 6826,
+      "name": "Eternal Melody Staff",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    },
+    {
+      "id": 6827,
+      "name": "Eternal Melody Staff",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    },
+    {
+      "id": 6828,
+      "name": "Eternal Melody Staff",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    },
+    {
+      "id": 6829,
+      "name": "Eternal Melody Staff",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    },
+    {
+      "id": 6830,
+      "name": "Eternal Melody Staff",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    },
+    {
+      "id": 6813,
+      "name": "Latria Bow",
+      "type_id": 9,
+      "type_label": "[Bow]"
+    },
+    {
+      "id": 6814,
+      "name": "Latria Bow",
+      "type_id": 9,
+      "type_label": "[Bow]"
+    },
+    {
+      "id": 6815,
+      "name": "Latria Bow",
+      "type_id": 9,
+      "type_label": "[Bow]"
+    },
+    {
+      "id": 6816,
+      "name": "Latria Bow",
+      "type_id": 9,
+      "type_label": "[Bow]"
+    },
+    {
+      "id": 6817,
+      "name": "Latria Bow",
+      "type_id": 9,
+      "type_label": "[Bow]"
+    },
+    {
+      "id": 6818,
+      "name": "Latria Bow",
+      "type_id": 9,
+      "type_label": "[Bow]"
+    },
+    {
+      "id": 6819,
+      "name": "Latria Bow",
+      "type_id": 9,
+      "type_label": "[Bow]"
+    },
+    {
+      "id": 6820,
+      "name": "Latria Bow",
+      "type_id": 9,
+      "type_label": "[Bow]"
+    },
+    {
+      "id": 6821,
+      "name": "Latria Bow",
+      "type_id": 9,
+      "type_label": "[Bow]"
+    },
+    {
+      "id": 6804,
+      "name": "Tone Blade",
+      "type_id": 5,
+      "type_label": "[2 Handed Sword]"
+    },
+    {
+      "id": 6805,
+      "name": "Tone Blade",
+      "type_id": 5,
+      "type_label": "[2 Handed Sword]"
+    },
+    {
+      "id": 6806,
+      "name": "Tone Blade",
+      "type_id": 5,
+      "type_label": "[2 Handed Sword]"
+    },
+    {
+      "id": 6807,
+      "name": "Tone Blade",
+      "type_id": 5,
+      "type_label": "[2 Handed Sword]"
+    },
+    {
+      "id": 6808,
+      "name": "Tone Blade",
+      "type_id": 5,
+      "type_label": "[2 Handed Sword]"
+    },
+    {
+      "id": 6809,
+      "name": "Tone Blade",
+      "type_id": 5,
+      "type_label": "[2 Handed Sword]"
+    },
+    {
+      "id": 6810,
+      "name": "Tone Blade",
+      "type_id": 5,
+      "type_label": "[2 Handed Sword]"
+    },
+    {
+      "id": 6811,
+      "name": "Tone Blade",
+      "type_id": 5,
+      "type_label": "[2 Handed Sword]"
+    },
+    {
+      "id": 6812,
+      "name": "Tone Blade",
+      "type_id": 5,
+      "type_label": "[2 Handed Sword]"
+    },
+    {
+      "id": 6795,
+      "name": "Windgrace Sword",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    },
+    {
+      "id": 6796,
+      "name": "Windgrace Sword",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    },
+    {
+      "id": 6797,
+      "name": "Windgrace Sword",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    },
+    {
+      "id": 6798,
+      "name": "Windgrace Sword",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    },
+    {
+      "id": 6799,
+      "name": "Windgrace Sword",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    },
+    {
+      "id": 6800,
+      "name": "Windgrace Sword",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    },
+    {
+      "id": 6801,
+      "name": "Windgrace Sword",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    },
+    {
+      "id": 6802,
+      "name": "Windgrace Sword",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    },
+    {
+      "id": 6803,
+      "name": "Windgrace Sword",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    }
+  ]
+}

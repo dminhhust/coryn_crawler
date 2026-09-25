@@ -1,0 +1,46 @@
+{
+  "id": 2672,
+  "name": "Nuemon",
+  "level": 214,
+  "map_id": 474,
+  "map_name": "Milcaska Falls: Army Base",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 38800,
+  "exp": 605,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6299,
+      "name": "Apple Beret",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 6296,
+      "name": "Serpent Tail Fang",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6297,
+      "name": "Tiger Arm Claw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6298,
+      "name": "Wisp Fragment",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": 1519,
+  "name": "Fur Ten Gallon",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 37,
+  "process": 1,
+  "process_amount": 18,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 38,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 38,
+      "effect_name": "ASPD %",
+      "amount": 25,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 41,
+      "effect_name": "Critical Rate",
+      "amount": 1,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 70,
+      "effect_name": "Long Range Damage %",
+      "amount": 2,
+      "applies_to": 0
+    }
+  ]
+}

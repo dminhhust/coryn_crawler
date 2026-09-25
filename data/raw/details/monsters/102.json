@@ -1,0 +1,46 @@
+{
+  "id": 102,
+  "name": "Little Boar",
+  "level": 25,
+  "map_id": 28,
+  "map_name": "Nisel Mountain: Mountainside",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 550,
+  "exp": 32,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6,
+      "name": "Animal Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 503,
+      "name": "Knuckle Duster",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    },
+    {
+      "id": 199,
+      "name": "Small Mane",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 213,
+      "name": "Sturdy Fur",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

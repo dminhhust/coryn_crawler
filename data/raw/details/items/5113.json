@@ -1,0 +1,14 @@
+{
+  "id": 5113,
+  "name": "Eletrified Lightning Rod",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": -1,
+  "process": 3,
+  "process_amount": -1,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

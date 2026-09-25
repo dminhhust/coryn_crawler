@@ -1,0 +1,46 @@
+{
+  "id": 2858,
+  "name": "Snorm",
+  "level": 221,
+  "map_id": 507,
+  "map_name": "Illuminare City: Route 3 (210-230)",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 710,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": true,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6741,
+      "name": "Azure Spear",
+      "type_id": 26,
+      "type_label": "[Halberd]"
+    },
+    {
+      "id": 6525,
+      "name": "Mystical Wing",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6530,
+      "name": "Pure White Feather",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6735,
+      "name": "Stolen Box (Blue)",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

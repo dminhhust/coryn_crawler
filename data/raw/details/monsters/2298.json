@@ -1,0 +1,46 @@
+{
+  "id": 2298,
+  "name": "Walkastida",
+  "level": 189,
+  "map_id": 401,
+  "map_name": "Nov Diela Area 2",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 29600,
+  "exp": 491,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5436,
+      "name": "Holy Katar",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    },
+    {
+      "id": 5435,
+      "name": "Strange Ore",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5433,
+      "name": "Wet Sticky Cilium",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5434,
+      "name": "Yellow Gelatin",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 2111,
+  "name": "Prime Piercer [OHS]",
+  "type_id": 3,
+  "type_label": "[Piercer]",
+  "sell": 0,
+  "process": 0,
+  "process_amount": 0,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 150,
+      "effect_name": "Adds 1 slot to a 1-slotted one-handed sword",
+      "amount": 1,
+      "applies_to": 128
+    }
+  ]
+}

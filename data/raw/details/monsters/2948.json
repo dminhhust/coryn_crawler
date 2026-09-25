@@ -1,0 +1,46 @@
+{
+  "id": 2948,
+  "name": "Lettacia",
+  "level": 222,
+  "map_id": 524,
+  "map_name": "Boma Konda: Entrance",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 22900,
+  "exp": 357,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7023,
+      "name": "Head Leaf",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7025,
+      "name": "Saponin Tears",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7026,
+      "name": "Schmet Hairpin",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 7024,
+      "name": "Spiral Tail",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

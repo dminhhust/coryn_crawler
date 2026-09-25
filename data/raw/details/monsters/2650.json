@@ -1,0 +1,46 @@
+{
+  "id": 2650,
+  "name": "Goldigem",
+  "level": 212,
+  "map_id": 79,
+  "map_name": "Sofya City: Government Office",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Easy",
+  "hp": 1000000,
+  "exp": 4500,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6257,
+      "name": "Glory Ring Case",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 2843,
+      "name": "Gold Ingot",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6258,
+      "name": "Golden Bamboo",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 335,
+      "name": "Orichalcum",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    }
+  ]
+}

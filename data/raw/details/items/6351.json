@@ -1,0 +1,39 @@
+{
+  "id": 6351,
+  "name": "Ocarina Strap",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 112,
+  "process": 1,
+  "process_amount": 56,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 127,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 34,
+      "effect_name": "Accuracy %",
+      "amount": 30,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 61,
+      "effect_name": "Aggro %",
+      "amount": -45,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 68,
+      "effect_name": "Attack MP Recovery",
+      "amount": 15,
+      "applies_to": 0
+    }
+  ]
+}

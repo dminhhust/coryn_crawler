@@ -1,0 +1,33 @@
+{
+  "id": 4021,
+  "name": "Braid Extension",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 40,
+  "process": 4,
+  "process_amount": 20,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 31,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 33,
+      "effect_name": "Accuracy",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 159,
+      "effect_name": "ATK UP (AGI %)",
+      "amount": 50,
+      "applies_to": 0
+    }
+  ]
+}

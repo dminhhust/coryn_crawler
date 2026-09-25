@@ -1,0 +1,14 @@
+{
+  "id": 16,
+  "name": "Black Crystal Fragment",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 4,
+  "process": 3,
+  "process_amount": 5,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

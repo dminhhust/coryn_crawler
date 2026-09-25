@@ -1,0 +1,46 @@
+{
+  "id": 3237,
+  "name": "Neeburn",
+  "level": 238,
+  "map_id": 580,
+  "map_name": "Pipeline Corridor",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 0,
+  "exp": 251,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7534,
+      "name": "Blue Cheese",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 7532,
+      "name": "Bushy Blue Fur",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7535,
+      "name": "Pierrot Collar",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 7533,
+      "name": "Silky Furry Tail",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

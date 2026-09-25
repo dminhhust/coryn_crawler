@@ -1,0 +1,39 @@
+{
+  "id": 5973,
+  "name": "Aeras Blade",
+  "type_id": 5,
+  "type_label": "[2 Handed Sword]",
+  "sell": 190,
+  "process": 3,
+  "process_amount": 95,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 471,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 70,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 113,
+      "effect_name": "Potential",
+      "amount": 45,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 211,
+      "effect_name": "Attack Range (m)",
+      "amount": 3,
+      "applies_to": 0
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 3336,
+  "name": "Honey Insector",
+  "level": 221,
+  "map_id": 640,
+  "map_name": "Anglaise Forest",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "",
+  "hp": 22700,
+  "exp": 710,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 8069,
+      "name": "Honey Energy",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 4364,
+      "name": "Luminous Robe Scrap",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 8066,
+      "name": "Maple Arrow",
+      "type_id": 7,
+      "type_label": "[Arrow]"
+    },
+    {
+      "id": 8068,
+      "name": "Sweet Herb",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

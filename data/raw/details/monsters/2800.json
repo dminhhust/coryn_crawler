@@ -1,0 +1,46 @@
+{
+  "id": 2800,
+  "name": "Stellar Ooze (Hell)",
+  "level": 270,
+  "map_id": 87,
+  "map_name": "Event",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 70000000,
+  "exp": 209000,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6671,
+      "name": "Hell Stellar Bow",
+      "type_id": 9,
+      "type_label": "[Bow]"
+    },
+    {
+      "id": 6670,
+      "name": "Pride Glasses",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 6488,
+      "name": "Revita VIII",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 6672,
+      "name": "Stellar Ooze II",
+      "type_id": 24,
+      "type_label": "[Special Crysta]"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 922,
+  "name": "Special Regera",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 1,
+  "process": 0,
+  "process_amount": 0,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 84,
+      "effect_name": "HP %",
+      "amount": 1,
+      "applies_to": 0
+    }
+  ]
+}

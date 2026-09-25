@@ -1,0 +1,46 @@
+{
+  "id": 1296,
+  "name": "Ganglef",
+  "level": 160,
+  "map_id": 243,
+  "map_name": "Saltau's Beach: Beach House",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 2000,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": true,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1444,
+      "name": "Cracked Carapace",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2593,
+      "name": "Emergency Food",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 261,
+      "name": "Rich Crab Butter",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1865,
+      "name": "Tiny Claw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

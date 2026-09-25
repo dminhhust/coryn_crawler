@@ -1,0 +1,52 @@
+{
+  "id": 993,
+  "name": "Maple Fox",
+  "level": 91,
+  "map_id": 189,
+  "map_name": "Navida City: Crossroad (80-100)",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 174,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": true,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1833,
+      "name": "Devil's Staff",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    },
+    {
+      "id": 2012,
+      "name": "Hard Paw Pad",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2273,
+      "name": "Pine Cone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2483,
+      "name": "Sharp Wood Arrow",
+      "type_id": 7,
+      "type_label": "[Arrow]"
+    },
+    {
+      "id": 1865,
+      "name": "Tiny Claw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 5999,
+  "name": "Beastlord Wings",
+  "type_id": 15,
+  "type_label": "[Magic Device]",
+  "sell": -1,
+  "process": -1,
+  "process_amount": -1,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 183,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 70,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 113,
+      "effect_name": "Potential",
+      "amount": 48,
+      "applies_to": 0
+    }
+  ]
+}

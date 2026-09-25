@@ -1,0 +1,46 @@
+{
+  "id": 602,
+  "name": "Controlled Fighter",
+  "level": 95,
+  "map_id": 159,
+  "map_name": "Dark Castle: Area 2",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 93,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2001,
+      "name": "Corroded Armor Fragment",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2003,
+      "name": "Dark Fighter Bangle",
+      "type_id": 18,
+      "type_label": "[Special]"
+    },
+    {
+      "id": 2000,
+      "name": "Deformed Fist",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2002,
+      "name": "Remnant of Eternal Darkness",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

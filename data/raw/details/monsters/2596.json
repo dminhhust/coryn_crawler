@@ -1,0 +1,190 @@
+{
+  "id": 2596,
+  "name": "Stoodie (Lv170)",
+  "level": 0,
+  "map_id": 111,
+  "map_name": "El Scaro",
+  "type_code": "C",
+  "type_label": "NPC",
+  "mode": "Normal",
+  "hp": 0,
+  "exp": 0,
+  "element_id": -1,
+  "element_label": "Unknown",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5818,
+      "name": "Accuracy Boost",
+      "type_id": 241,
+      "type_label": "Registlet"
+    },
+    {
+      "id": 5820,
+      "name": "Attack Speed Boost",
+      "type_id": 241,
+      "type_label": "Registlet"
+    },
+    {
+      "id": 6094,
+      "name": "Berserk Control",
+      "type_id": 241,
+      "type_label": "Registlet"
+    },
+    {
+      "id": 6104,
+      "name": "Bloody Bite Enhancer",
+      "type_id": 241,
+      "type_label": "Registlet"
+    },
+    {
+      "id": 6095,
+      "name": "Decoy Shot Compress",
+      "type_id": 241,
+      "type_label": "Registlet"
+    },
+    {
+      "id": 5819,
+      "name": "Dodge Boost",
+      "type_id": 241,
+      "type_label": "Registlet"
+    },
+    {
+      "id": 6093,
+      "name": "Dominant War Cry",
+      "type_id": 241,
+      "type_label": "Registlet"
+    },
+    {
+      "id": 6097,
+      "name": "Extra Recovery",
+      "type_id": 241,
+      "type_label": "Registlet"
+    },
+    {
+      "id": 6100,
+      "name": "Extreme Concentrate",
+      "type_id": 241,
+      "type_label": "Registlet"
+    },
+    {
+      "id": 6099,
+      "name": "Extreme Whack",
+      "type_id": 241,
+      "type_label": "Registlet"
+    },
+    {
+      "id": 5843,
+      "name": "Final Resistance",
+      "type_id": 241,
+      "type_label": "Registlet"
+    },
+    {
+      "id": 6098,
+      "name": "Frugal Heal",
+      "type_id": 241,
+      "type_label": "Registlet"
+    },
+    {
+      "id": 6096,
+      "name": "Frugal Shield Bash",
+      "type_id": 241,
+      "type_label": "Registlet"
+    },
+    {
+      "id": 6105,
+      "name": "Full Power Qi Charge",
+      "type_id": 241,
+      "type_label": "Registlet"
+    },
+    {
+      "id": 5813,
+      "name": "Magic Attack Boost",
+      "type_id": 241,
+      "type_label": "Registlet"
+    },
+    {
+      "id": 5817,
+      "name": "Magic Defense Boost",
+      "type_id": 241,
+      "type_label": "Registlet"
+    },
+    {
+      "id": 5821,
+      "name": "Magic Speed Boost",
+      "type_id": 241,
+      "type_label": "Registlet"
+    },
+    {
+      "id": 5814,
+      "name": "Max HP Boost",
+      "type_id": 241,
+      "type_label": "Registlet"
+    },
+    {
+      "id": 5815,
+      "name": "Max MP Boost",
+      "type_id": 241,
+      "type_label": "Registlet"
+    },
+    {
+      "id": 5812,
+      "name": "Physical Attack Boost",
+      "type_id": 241,
+      "type_label": "Registlet"
+    },
+    {
+      "id": 5816,
+      "name": "Physical Defense Boost",
+      "type_id": 241,
+      "type_label": "Registlet"
+    },
+    {
+      "id": 6102,
+      "name": "Power Resonance",
+      "type_id": 241,
+      "type_label": "Registlet"
+    },
+    {
+      "id": 6101,
+      "name": "Secret Chase ATK Boost",
+      "type_id": 241,
+      "type_label": "Registlet"
+    },
+    {
+      "id": 6108,
+      "name": "Secret Combo",
+      "type_id": 241,
+      "type_label": "Registlet"
+    },
+    {
+      "id": 6106,
+      "name": "Single Meteor Strike",
+      "type_id": 241,
+      "type_label": "Registlet"
+    },
+    {
+      "id": 6107,
+      "name": "Start Dash",
+      "type_id": 241,
+      "type_label": "Registlet"
+    },
+    {
+      "id": 6103,
+      "name": "Universal Ether Flare",
+      "type_id": 241,
+      "type_label": "Registlet"
+    },
+    {
+      "id": 6109,
+      "name": "Zero Stance",
+      "type_id": 241,
+      "type_label": "Registlet"
+    }
+  ]
+}

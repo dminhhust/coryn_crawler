@@ -1,0 +1,46 @@
+{
+  "id": 95,
+  "name": "Miwi",
+  "level": 15,
+  "map_id": 26,
+  "map_name": "Icule Lake",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 300,
+  "exp": 13,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 487,
+      "name": "Hood",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 113,
+      "name": "Icule Water",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 114,
+      "name": "Jagged Fang",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 195,
+      "name": "Slimy Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

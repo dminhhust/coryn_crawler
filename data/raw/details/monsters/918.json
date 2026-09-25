@@ -1,0 +1,64 @@
+{
+  "id": 918,
+  "name": "Goovua",
+  "level": 72,
+  "map_id": 107,
+  "map_name": "Akaku Desert: Hill",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Easy",
+  "hp": 40000,
+  "exp": 500,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 436,
+      "name": "Adventurer's Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 1314,
+      "name": "Broken Dual Edge",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1317,
+      "name": "Desert Anfel",
+      "type_id": 5,
+      "type_label": "[2 Handed Sword]"
+    },
+    {
+      "id": 1318,
+      "name": "Desert Mentum",
+      "type_id": 9,
+      "type_label": "[Bow]"
+    },
+    {
+      "id": 1315,
+      "name": "Goovua's Mask Fragment",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1313,
+      "name": "Goovua's Shoulder Pad",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1316,
+      "name": "Torn Cloak",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

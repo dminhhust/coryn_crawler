@@ -1,0 +1,14 @@
+{
+  "id": 5657,
+  "name": "Anniv Equipment Box II",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 300,
+  "process": 0,
+  "process_amount": 0,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

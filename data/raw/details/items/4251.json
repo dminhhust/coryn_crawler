@@ -1,0 +1,14 @@
+{
+  "id": 4251,
+  "name": "Dark Note Paper",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 60,
+  "process": -1,
+  "process_amount": 60,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

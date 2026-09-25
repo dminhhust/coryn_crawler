@@ -1,0 +1,14 @@
+{
+  "id": 1449,
+  "name": "Twisted Vine",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 9,
+  "process": 2,
+  "process_amount": 9,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

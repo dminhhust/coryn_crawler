@@ -1,0 +1,46 @@
+{
+  "id": 2888,
+  "name": "Ghilly",
+  "level": 182,
+  "map_id": 512,
+  "map_name": "Sable Plains",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 21100,
+  "exp": 334,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6850,
+      "name": "Almond Powder",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1192,
+      "name": "Large Withered Leaf",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6851,
+      "name": "Leaf Cracker",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 6852,
+      "name": "Spiny Leaf Arrow",
+      "type_id": 7,
+      "type_label": "[Arrow]"
+    }
+  ]
+}

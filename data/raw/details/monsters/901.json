@@ -1,0 +1,70 @@
+{
+  "id": 901,
+  "name": "Pillar Golem",
+  "level": 80,
+  "map_id": 92,
+  "map_name": "Lost Town: Magic Barrier",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Hard",
+  "hp": 648000,
+  "exp": 7200,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1049,
+      "name": "Blaster Bow",
+      "type_id": 9,
+      "type_label": "[Bow]"
+    },
+    {
+      "id": 1050,
+      "name": "Knight Armor",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 1053,
+      "name": "Marble Shield",
+      "type_id": 17,
+      "type_label": "[Shield]"
+    },
+    {
+      "id": 1051,
+      "name": "Pillar Golem",
+      "type_id": 21,
+      "type_label": "[Weapon Crysta]"
+    },
+    {
+      "id": 1058,
+      "name": "Pillar Golem Fragment",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1060,
+      "name": "Pillar Golem Magic Lantern",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1059,
+      "name": "Pillar Golem Stake",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1057,
+      "name": "Shining Copper Ore",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 1038,
+  "name": "Owlzard",
+  "level": 112,
+  "map_id": 199,
+  "map_name": "Monster's Forest: Foggy Way",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 14000,
+  "exp": 238,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2593,
+      "name": "Emergency Food",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 2594,
+      "name": "Floral Light",
+      "type_id": 15,
+      "type_label": "[Magic Device]"
+    },
+    {
+      "id": 2591,
+      "name": "Tattered Robe",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2592,
+      "name": "Tough Wood",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

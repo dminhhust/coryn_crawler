@@ -1,0 +1,45 @@
+{
+  "id": 2348,
+  "name": "York's Pendant",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 60,
+  "process": 3,
+  "process_amount": 30,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 55,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 24,
+      "effect_name": "Stability %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 75,
+      "effect_name": "Neutral Resistance %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 125,
+      "effect_name": "Tumble Unavailable",
+      "amount": 1,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 163,
+      "effect_name": "MATK UP (STR %)",
+      "amount": 5,
+      "applies_to": 0
+    }
+  ]
+}

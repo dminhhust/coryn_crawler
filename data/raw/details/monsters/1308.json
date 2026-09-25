@@ -1,0 +1,46 @@
+{
+  "id": 1308,
+  "name": "Mine Digger",
+  "level": 130,
+  "map_id": 246,
+  "map_name": "Buried Tower: Inside",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 15000,
+  "exp": 330,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3173,
+      "name": "Broken Propeller",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3176,
+      "name": "Chakrums",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    },
+    {
+      "id": 3174,
+      "name": "Oily Cloth",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3175,
+      "name": "Scattered Crystal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

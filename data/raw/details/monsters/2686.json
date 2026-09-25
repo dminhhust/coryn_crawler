@@ -1,0 +1,46 @@
+{
+  "id": 2686,
+  "name": "Stonzard",
+  "level": 202,
+  "map_id": 477,
+  "map_name": "Weredragon's Throat",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 17000,
+  "exp": 275,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6338,
+      "name": "Beige Sail",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6340,
+      "name": "Combat Tonfa",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    },
+    {
+      "id": 6339,
+      "name": "Earth Leather",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6337,
+      "name": "Rock Scale",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

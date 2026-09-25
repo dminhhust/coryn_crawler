@@ -1,0 +1,46 @@
+{
+  "id": 2075,
+  "name": "Minimyu",
+  "level": 164,
+  "map_id": 362,
+  "map_name": "Inanis Wilderness",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 10000,
+  "exp": 143,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4680,
+      "name": "AGI+6",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 4677,
+      "name": "Broken Black Feather",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4679,
+      "name": "Rock Salt",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4678,
+      "name": "White Beak",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

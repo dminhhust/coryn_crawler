@@ -1,0 +1,46 @@
+{
+  "id": 2002,
+  "name": "Actinirania",
+  "level": 170,
+  "map_id": 346,
+  "map_name": "Recetacula Sector: Area 2",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 30000,
+  "exp": 598,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4525,
+      "name": "Sharp Fish Fang",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4523,
+      "name": "Shredded Polyp",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4524,
+      "name": "Strong Copper Scale",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4526,
+      "name": "Waist Armor",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

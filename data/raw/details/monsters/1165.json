@@ -1,0 +1,46 @@
+{
+  "id": 1165,
+  "name": "Lyark Brawler",
+  "level": 124,
+  "map_id": 230,
+  "map_name": "Suburb of Droma Square: Area 1",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 15000,
+  "exp": 278,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2877,
+      "name": "Damaged Artificial Leather",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2878,
+      "name": "Rusted Iron Fist",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2880,
+      "name": "Steel Machine Greatsword",
+      "type_id": 5,
+      "type_label": "[2 Handed Sword]"
+    },
+    {
+      "id": 2879,
+      "name": "Supplement (Muscle)",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

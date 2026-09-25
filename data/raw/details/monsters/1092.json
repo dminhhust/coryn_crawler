@@ -1,0 +1,46 @@
+{
+  "id": 1092,
+  "name": "Energy Quartz",
+  "level": 108,
+  "map_id": 212,
+  "map_name": "Ultimea Sewer: East",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 4500,
+  "exp": 78,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2711,
+      "name": "AGI+5",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 11,
+      "name": "Bead Fragment",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2724,
+      "name": "Blue Crystal Clot",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2725,
+      "name": "Shining Crystal Powder",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

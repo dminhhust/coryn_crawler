@@ -1,0 +1,46 @@
+{
+  "id": 848,
+  "name": "Evil Magic Sword",
+  "level": 134,
+  "map_id": 170,
+  "map_name": "Singolare Ruins: 2nd Floor",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "Normal",
+  "hp": 30,
+  "exp": 19123,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2284,
+      "name": "Crooked Blade",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2285,
+      "name": "Evil Blade",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2300,
+      "name": "Evil Magic Sword",
+      "type_id": 21,
+      "type_label": "[Weapon Crysta]"
+    },
+    {
+      "id": 2301,
+      "name": "Greatly Evil Blade",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

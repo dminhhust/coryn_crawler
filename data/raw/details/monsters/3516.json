@@ -1,0 +1,52 @@
+{
+  "id": 3516,
+  "name": "Aba",
+  "level": 295,
+  "map_id": 698,
+  "map_name": "Ocean Pantry: Deepest Part",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 23900000,
+  "exp": 82800,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 8553,
+      "name": "Aba",
+      "type_id": 23,
+      "type_label": "[Additional Crysta]"
+    },
+    {
+      "id": 8557,
+      "name": "Aba's Face",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 8556,
+      "name": "Nailed Bat (Staff)",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    },
+    {
+      "id": 8554,
+      "name": "Nailed Bat (Sword)",
+      "type_id": 5,
+      "type_label": "[2 Handed Sword]"
+    },
+    {
+      "id": 8555,
+      "name": "White Shark Thug Cape",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

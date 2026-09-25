@@ -1,0 +1,46 @@
+{
+  "id": 2003,
+  "name": "Toxinaria",
+  "level": 171,
+  "map_id": 346,
+  "map_name": "Recetacula Sector: Area 2",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 30000,
+  "exp": 603,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4521,
+      "name": "Highly Poisonous Crystal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4520,
+      "name": "Starfish Crude Venom",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4519,
+      "name": "Sturdy Papula",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4522,
+      "name": "Vise Claws",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    }
+  ]
+}

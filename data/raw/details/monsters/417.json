@@ -1,0 +1,21 @@
+{
+  "id": 417,
+  "name": "Jelfy",
+  "level": 67,
+  "map_id": 116,
+  "map_name": "Teaus Hill: Marshland",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 56,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": []
+}

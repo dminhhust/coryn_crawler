@@ -1,0 +1,57 @@
+{
+  "id": 8058,
+  "name": "Heavy Iron Waist Armor",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 132,
+  "process": 3,
+  "process_amount": 66,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 31,
+      "effect_name": "Physical Resistance %",
+      "amount": 25,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 32,
+      "effect_name": "Magic Resistance %",
+      "amount": 25,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 57,
+      "effect_name": "Ailment Resistance %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 71,
+      "effect_name": "Motion Speed %",
+      "amount": -1,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 240,
+      "effect_name": "Physical Resistance %",
+      "amount": 5,
+      "applies_to": 16384
+    },
+    {
+      "effect_id": 241,
+      "effect_name": "Magic Resistance %",
+      "amount": 5,
+      "applies_to": 16384
+    },
+    {
+      "effect_id": 268,
+      "effect_name": "Ailment Resistance %",
+      "amount": 5,
+      "applies_to": 16384
+    }
+  ]
+}

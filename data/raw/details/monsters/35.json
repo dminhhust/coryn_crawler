@@ -1,0 +1,58 @@
+{
+  "id": 35,
+  "name": "Dark Mushroom",
+  "level": 30,
+  "map_id": 9,
+  "map_name": "Isthmus Of Kaus",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "Normal",
+  "hp": 17500,
+  "exp": 440,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 436,
+      "name": "Adventurer's Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 292,
+      "name": "Dark Mushroom",
+      "type_id": 24,
+      "type_label": "[Special Crysta]"
+    },
+    {
+      "id": 147,
+      "name": "Mushroom Spore",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 161,
+      "name": "Poisonous Mushroom",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 552,
+      "name": "Scholar's Glasses",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 227,
+      "name": "Turbid Crystal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

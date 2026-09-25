@@ -1,0 +1,64 @@
+{
+  "id": 891,
+  "name": "Ancient Empress Mezzaluna",
+  "level": 104,
+  "map_id": 75,
+  "map_name": "Ancient Empress Tomb: Deepest Part",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Ultimate",
+  "hp": 1300000,
+  "exp": 31200,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 436,
+      "name": "Adventurer's Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 641,
+      "name": "Ancient Empress",
+      "type_id": 23,
+      "type_label": "[Additional Crysta]"
+    },
+    {
+      "id": 637,
+      "name": "Empress Aura",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 639,
+      "name": "Empress Bowgun",
+      "type_id": 10,
+      "type_label": "[Bowgun]"
+    },
+    {
+      "id": 638,
+      "name": "Empress Hair Accessory",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 636,
+      "name": "Empress Medal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 640,
+      "name": "Empress Soul",
+      "type_id": 15,
+      "type_label": "[Magic Device]"
+    }
+  ]
+}

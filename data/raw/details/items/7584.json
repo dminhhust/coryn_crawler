@@ -1,0 +1,27 @@
+{
+  "id": 7584,
+  "name": "Stroom Helm",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 120,
+  "process": 1,
+  "process_amount": 60,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 14,
+      "effect_name": "Natural HP Regen %",
+      "amount": 100,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 17,
+      "effect_name": "MaxHP",
+      "amount": 10000,
+      "applies_to": 0
+    }
+  ]
+}

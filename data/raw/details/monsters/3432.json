@@ -1,0 +1,40 @@
+{
+  "id": 3432,
+  "name": "Doy & Mari",
+  "level": 323,
+  "map_id": 670,
+  "map_name": "Wizka Forest : Depths",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Very Hard",
+  "hp": -1,
+  "exp": -1,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "Update 03/26/26",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 8431,
+      "name": "Dualblight Arm",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 8430,
+      "name": "Dualblight Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 8432,
+      "name": "Resonating Heart",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

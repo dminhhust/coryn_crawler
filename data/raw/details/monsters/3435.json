@@ -1,0 +1,46 @@
+{
+  "id": 3435,
+  "name": "Monpaz",
+  "level": 284,
+  "map_id": 671,
+  "map_name": "Ruhig Trail",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 370,
+  "element_id": -1,
+  "element_label": "Unknown",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "Update 03/26/26",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 8444,
+      "name": "Chipped Wingstone",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 8443,
+      "name": "Gorgeous Ornamental Feather",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 8442,
+      "name": "Rare Plume",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 8306,
+      "name": "Stream Claws",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    }
+  ]
+}

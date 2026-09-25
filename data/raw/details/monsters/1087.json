@@ -1,0 +1,172 @@
+{
+  "id": 1087,
+  "name": "Refinement Chest",
+  "level": 0,
+  "map_id": 85,
+  "map_name": "Orb Shop",
+  "type_code": "O",
+  "type_label": "Orb Shop",
+  "mode": "Normal",
+  "hp": 0,
+  "exp": 0,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1984,
+      "name": "Beginner Smith's Hammer",
+      "type_id": 2,
+      "type_label": "[Refinement Support]"
+    },
+    {
+      "id": 2690,
+      "name": "Expert's Hammer",
+      "type_id": 2,
+      "type_label": "[Refinement Support]"
+    },
+    {
+      "id": 352,
+      "name": "Insurance Ticket (100%)",
+      "type_id": 2,
+      "type_label": "[Refinement Support]"
+    },
+    {
+      "id": 1981,
+      "name": "Insurance Ticket (95%)",
+      "type_id": 2,
+      "type_label": "[Refinement Support]"
+    },
+    {
+      "id": 362,
+      "name": "Master Smith's Hammer",
+      "type_id": 2,
+      "type_label": "[Refinement Support]"
+    },
+    {
+      "id": 2691,
+      "name": "Neo Expert's Hammer",
+      "type_id": 2,
+      "type_label": "[Refinement Support]"
+    },
+    {
+      "id": 361,
+      "name": "Neo Smith's Hammer",
+      "type_id": 2,
+      "type_label": "[Refinement Support]"
+    },
+    {
+      "id": 1755,
+      "name": "Refinement Ticket (+5)",
+      "type_id": 2,
+      "type_label": "[Refinement Support]"
+    },
+    {
+      "id": 1774,
+      "name": "Refinement Ticket (+6)",
+      "type_id": 2,
+      "type_label": "[Refinement Support]"
+    },
+    {
+      "id": 1775,
+      "name": "Refinement Ticket (+7)",
+      "type_id": 2,
+      "type_label": "[Refinement Support]"
+    },
+    {
+      "id": 1776,
+      "name": "Refinement Ticket (+8)",
+      "type_id": 2,
+      "type_label": "[Refinement Support]"
+    },
+    {
+      "id": 1777,
+      "name": "Refinement Ticket (+9)",
+      "type_id": 2,
+      "type_label": "[Refinement Support]"
+    },
+    {
+      "id": 1079,
+      "name": "Refinement Ticket (1000%)",
+      "type_id": 2,
+      "type_label": "[Refinement Support]"
+    },
+    {
+      "id": 1985,
+      "name": "Refinement Ticket (150%)",
+      "type_id": 2,
+      "type_label": "[Refinement Support]"
+    },
+    {
+      "id": 354,
+      "name": "Refinement Ticket (200%)",
+      "type_id": 2,
+      "type_label": "[Refinement Support]"
+    },
+    {
+      "id": 356,
+      "name": "Refinement Ticket (300%)",
+      "type_id": 2,
+      "type_label": "[Refinement Support]"
+    },
+    {
+      "id": 349,
+      "name": "Refinement Ticket (400%)",
+      "type_id": 2,
+      "type_label": "[Refinement Support]"
+    },
+    {
+      "id": 351,
+      "name": "Refinement Ticket (500%)",
+      "type_id": 2,
+      "type_label": "[Refinement Support]"
+    },
+    {
+      "id": 353,
+      "name": "Refinement Ticket (600%)",
+      "type_id": 2,
+      "type_label": "[Refinement Support]"
+    },
+    {
+      "id": 355,
+      "name": "Refinement Ticket (700%)",
+      "type_id": 2,
+      "type_label": "[Refinement Support]"
+    },
+    {
+      "id": 357,
+      "name": "Refinement Ticket (800%)",
+      "type_id": 2,
+      "type_label": "[Refinement Support]"
+    },
+    {
+      "id": 358,
+      "name": "Refinement Ticket (900%)",
+      "type_id": 2,
+      "type_label": "[Refinement Support]"
+    },
+    {
+      "id": 359,
+      "name": "Smith's Hammer",
+      "type_id": 2,
+      "type_label": "[Refinement Support]"
+    },
+    {
+      "id": 2692,
+      "name": "Supreme Expert's Hammer",
+      "type_id": 2,
+      "type_label": "[Refinement Support]"
+    },
+    {
+      "id": 2693,
+      "name": "Ultimate Expert's Hammer",
+      "type_id": 2,
+      "type_label": "[Refinement Support]"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": 8257,
+  "name": "Puiet",
+  "type_id": 220,
+  "type_label": "[Enhancer Crysta (Green)]",
+  "sell": 1,
+  "process": 1,
+  "process_amount": 1,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 4,
+      "effect_name": "STR %",
+      "amount": 2,
+      "applies_to": 1
+    },
+    {
+      "effect_id": 17,
+      "effect_name": "MaxHP",
+      "amount": -800,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 19,
+      "effect_name": "MaxMP",
+      "amount": -400,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 21,
+      "effect_name": "ATK %",
+      "amount": 12,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 41,
+      "effect_name": "Critical Rate",
+      "amount": 12,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 148,
+      "effect_name": "Upgrade for",
+      "amount": 7168,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 274,
+      "effect_name": "Short Range Damage %",
+      "amount": 6,
+      "applies_to": 1
+    }
+  ]
+}

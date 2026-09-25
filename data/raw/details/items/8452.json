@@ -1,0 +1,21 @@
+{
+  "id": 8452,
+  "name": "AGI+9",
+  "type_id": 20,
+  "type_label": "[Normal Crysta]",
+  "sell": 1,
+  "process": 0,
+  "process_amount": -1,
+  "meta": {
+    "badge": "Update 03/26/26",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 9,
+      "effect_name": "AGI",
+      "amount": 9,
+      "applies_to": 0
+    }
+  ]
+}

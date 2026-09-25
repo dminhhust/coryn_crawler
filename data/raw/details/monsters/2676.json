@@ -1,0 +1,64 @@
+{
+  "id": 2676,
+  "name": "Gordel",
+  "level": 239,
+  "map_id": 475,
+  "map_name": "Milcaska Falls: Weredragon's Mouth",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Hard",
+  "hp": 11000000,
+  "exp": 50000,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6304,
+      "name": "Explosive Crystal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6305,
+      "name": "Gordel",
+      "type_id": 220,
+      "type_label": "[Enhancer Crysta (Green)]"
+    },
+    {
+      "id": 6308,
+      "name": "Gordel's Caudal Armor",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6303,
+      "name": "Gordel's Claw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6302,
+      "name": "Gordel's Shell",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6307,
+      "name": "Pholidota Blade",
+      "type_id": 5,
+      "type_label": "[2 Handed Sword]"
+    },
+    {
+      "id": 6306,
+      "name": "Pholidota Shield",
+      "type_id": 15,
+      "type_label": "[Magic Device]"
+    }
+  ]
+}

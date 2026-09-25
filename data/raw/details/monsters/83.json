@@ -1,0 +1,40 @@
+{
+  "id": 83,
+  "name": "Helm Colon",
+  "level": 13,
+  "map_id": 23,
+  "map_name": "Strum Road",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 250,
+  "exp": 10,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 48,
+      "name": "Colon Leaf",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 49,
+      "name": "Colon Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 508,
+      "name": "Light Shield",
+      "type_id": 17,
+      "type_label": "[Shield]"
+    }
+  ]
+}

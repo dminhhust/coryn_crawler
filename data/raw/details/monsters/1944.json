@@ -1,0 +1,64 @@
+{
+  "id": 1944,
+  "name": "Jeandoux (Dark)",
+  "level": 210,
+  "map_id": 338,
+  "map_name": "Sweet Hades",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Ultimate",
+  "hp": 6430000,
+  "exp": 31000,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4422,
+      "name": "Chocolate Eater II",
+      "type_id": 5,
+      "type_label": "[2 Handed Sword]"
+    },
+    {
+      "id": 4417,
+      "name": "Fragrant Choco Piece",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4418,
+      "name": "Jeandoux",
+      "type_id": 21,
+      "type_label": "[Weapon Crysta]"
+    },
+    {
+      "id": 4416,
+      "name": "Jeandoux Soft Fur",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 911,
+      "name": "Orichalcum Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 4421,
+      "name": "Valentia II",
+      "type_id": 15,
+      "type_label": "[Magic Device]"
+    },
+    {
+      "id": 4423,
+      "name": "Wrapping Ribbon II",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 3313,
+  "name": "Mikrodia",
+  "level": 190,
+  "map_id": 629,
+  "map_name": "Tower of Clamor: Area 1 (210-214)",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 37330,
+  "exp": 587,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6700,
+      "name": "Aeria Spada",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    },
+    {
+      "id": 6622,
+      "name": "Cargo Woodchip",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7098,
+      "name": "Cold Branch",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7477,
+      "name": "Cold Crest",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

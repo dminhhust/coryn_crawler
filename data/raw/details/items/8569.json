@@ -1,0 +1,14 @@
+{
+  "id": 8569,
+  "name": "Sonbarattle (Staff)",
+  "type_id": 19,
+  "type_label": "[Staff]",
+  "sell": 67,
+  "process": -1,
+  "process_amount": 0,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

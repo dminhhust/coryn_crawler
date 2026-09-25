@@ -1,0 +1,39 @@
+{
+  "id": 6524,
+  "name": "Stump Drum",
+  "type_id": 18,
+  "type_label": "[Special]",
+  "sell": 102,
+  "process": 2,
+  "process_amount": 51,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 18,
+      "effect_name": "MaxHP %",
+      "amount": 25,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 41,
+      "effect_name": "Critical Rate",
+      "amount": 25,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 61,
+      "effect_name": "Aggro %",
+      "amount": 25,
+      "applies_to": 0
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": 2244,
+  "name": "Black Shadow",
+  "level": 239,
+  "map_id": 392,
+  "map_name": "Rokoko City Ruins",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Ultimate",
+  "hp": 27800000,
+  "exp": 125000,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5251,
+      "name": "Black Shadow",
+      "type_id": 200,
+      "type_label": "[Enhancer Crysta (Blue)]"
+    },
+    {
+      "id": 5278,
+      "name": "Black Shadow Cape Fragment",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5275,
+      "name": "Black Shadow Crossbow",
+      "type_id": 10,
+      "type_label": "[Bowgun]"
+    },
+    {
+      "id": 5810,
+      "name": "Black Shadow Crystal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5276,
+      "name": "Black Shadow Nodachi",
+      "type_id": 27,
+      "type_label": "[Katana]"
+    },
+    {
+      "id": 5279,
+      "name": "Black Shadow Talon",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5277,
+      "name": "Scary Black Shadow Face",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

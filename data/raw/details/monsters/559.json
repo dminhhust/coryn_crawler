@@ -1,0 +1,46 @@
+{
+  "id": 559,
+  "name": "Marchitar (Hanami 2017)",
+  "level": 60,
+  "map_id": 152,
+  "map_name": "Hanami Venue: Summit",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 59000,
+  "exp": 480,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 436,
+      "name": "Adventurer's Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 1720,
+      "name": "Adventurer's Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 1920,
+      "name": "Mana Clod",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1921,
+      "name": "Marchitar",
+      "type_id": 21,
+      "type_label": "[Weapon Crysta]"
+    }
+  ]
+}

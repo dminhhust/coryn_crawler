@@ -1,0 +1,46 @@
+{
+  "id": 2487,
+  "name": "Ragus",
+  "level": 158,
+  "map_id": 427,
+  "map_name": "Manor of Surprises",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 25500,
+  "exp": 408,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5895,
+      "name": "Dewclaw Dagger",
+      "type_id": 11,
+      "type_label": "[Dagger]"
+    },
+    {
+      "id": 5894,
+      "name": "Sugar Cookie",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 4074,
+      "name": "Werewolf Fang",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4073,
+      "name": "Werewolf Fur",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

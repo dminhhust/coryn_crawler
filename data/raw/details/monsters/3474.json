@@ -1,0 +1,46 @@
+{
+  "id": 3474,
+  "name": "Furonja",
+  "level": 260,
+  "map_id": 691,
+  "map_name": "Early Sakura Shrine: Big Cherry Blossom Tree",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 85521,
+  "exp": 1310,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 78,
+      "name": "Flower Nectar",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 8504,
+      "name": "Ninja Furoshiki",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 8505,
+      "name": "Sakura Butterfly Hair Ornament",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 1927,
+      "name": "Tricolor Dango II",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

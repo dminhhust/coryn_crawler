@@ -1,0 +1,14 @@
+{
+  "id": 5966,
+  "name": "Lime Shell",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 21,
+  "process": 3,
+  "process_amount": 21,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

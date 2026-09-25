@@ -1,0 +1,27 @@
+{
+  "id": 2485,
+  "name": "Cup Ice Cream",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 13,
+  "process": 5,
+  "process_amount": 13,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 79,
+      "effect_name": "HP",
+      "amount": 2500,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 80,
+      "effect_name": "MP",
+      "amount": 25,
+      "applies_to": 0
+    }
+  ]
+}

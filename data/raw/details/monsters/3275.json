@@ -1,0 +1,52 @@
+{
+  "id": 3275,
+  "name": "Castilia",
+  "level": 310,
+  "map_id": 404,
+  "map_name": "High Difficulty Boss Battle Event Venue",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "",
+  "hp": -1,
+  "exp": -1,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7904,
+      "name": "Castilia",
+      "type_id": 23,
+      "type_label": "[Additional Crysta]"
+    },
+    {
+      "id": 131,
+      "name": "Magic Hammer",
+      "type_id": 2,
+      "type_label": "[Refinement Support]"
+    },
+    {
+      "id": 7988,
+      "name": "Shiny Viridian Hair Ornament",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 7990,
+      "name": "Viridian Butterfly Treasure Box",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 7892,
+      "name": "Viridian Magic Device",
+      "type_id": 15,
+      "type_label": "[Magic Device]"
+    }
+  ]
+}

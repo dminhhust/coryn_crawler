@@ -1,0 +1,46 @@
+{
+  "id": 2813,
+  "name": "Oris",
+  "level": 223,
+  "map_id": 497,
+  "map_name": "Weredragon's Vital Point: Area 2",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 46300,
+  "exp": 648,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6703,
+      "name": "Blue Spinel Sword",
+      "type_id": 27,
+      "type_label": "[Katana]"
+    },
+    {
+      "id": 6702,
+      "name": "Hard Incisor",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 816,
+      "name": "Mithril Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 6701,
+      "name": "Wriggling Tactile Hair",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": 573,
+  "name": "Corroded Knight Captain",
+  "level": 128,
+  "map_id": 153,
+  "map_name": "Dark Manor: Area 1",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 8738,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1987,
+      "name": "Corroded Knight Captain",
+      "type_id": 23,
+      "type_label": "[Additional Crysta]"
+    },
+    {
+      "id": 1988,
+      "name": "Half Face Mask",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 1947,
+      "name": "Sharp Shield Bit",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1948,
+      "name": "Stimulant",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1986,
+      "name": "Torn Captain Crest",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": 7961,
+  "name": "Creepy Choker",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 28,
+  "process": 3,
+  "process_amount": 28,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

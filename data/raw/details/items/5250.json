@@ -1,0 +1,14 @@
+{
+  "id": 5250,
+  "name": "Dark Red Crystal",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 21,
+  "process": 6,
+  "process_amount": 5,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

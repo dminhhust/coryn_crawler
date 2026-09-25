@@ -1,0 +1,46 @@
+{
+  "id": 2347,
+  "name": "Besy",
+  "level": 184,
+  "map_id": 406,
+  "map_name": "Arche Valley: Area 3",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 26500,
+  "exp": 470,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5073,
+      "name": "Metal Shackles",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5078,
+      "name": "Sealing Talisman",
+      "type_id": 11,
+      "type_label": "[Dagger]"
+    },
+    {
+      "id": 5077,
+      "name": "Sealing Talisman Piece",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5074,
+      "name": "Skull Mask Fragment",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

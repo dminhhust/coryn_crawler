@@ -1,0 +1,94 @@
+{
+  "id": 3054,
+  "name": "Anniv Equipment Box V",
+  "level": 0,
+  "map_id": 88,
+  "map_name": "-",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 0,
+  "exp": 0,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4706,
+      "name": "5th Anniv Bow",
+      "type_id": 9,
+      "type_label": "[Bow]"
+    },
+    {
+      "id": 4707,
+      "name": "5th Anniv Bowgun",
+      "type_id": 10,
+      "type_label": "[Bowgun]"
+    },
+    {
+      "id": 4705,
+      "name": "5th Anniv Greatsword",
+      "type_id": 5,
+      "type_label": "[2 Handed Sword]"
+    },
+    {
+      "id": 4711,
+      "name": "5th Anniv Halberd",
+      "type_id": 26,
+      "type_label": "[Halberd]"
+    },
+    {
+      "id": 4712,
+      "name": "5th Anniv Katana",
+      "type_id": 27,
+      "type_label": "[Katana]"
+    },
+    {
+      "id": 4710,
+      "name": "5th Anniv Knuckles",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    },
+    {
+      "id": 4713,
+      "name": "5th Anniv Shield",
+      "type_id": 17,
+      "type_label": "[Shield]"
+    },
+    {
+      "id": 4708,
+      "name": "5th Anniv Staff",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    },
+    {
+      "id": 4704,
+      "name": "5th Anniv Sword",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    },
+    {
+      "id": 4709,
+      "name": "5th Anniv Wings",
+      "type_id": 15,
+      "type_label": "[Magic Device]"
+    },
+    {
+      "id": 5666,
+      "name": "Anniv Festive Arrow III",
+      "type_id": 7,
+      "type_label": "[Arrow]"
+    },
+    {
+      "id": 5667,
+      "name": "Anniv Festive Dagger III",
+      "type_id": 11,
+      "type_label": "[Dagger]"
+    }
+  ]
+}

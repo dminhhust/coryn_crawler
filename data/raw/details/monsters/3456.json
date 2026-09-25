@@ -1,0 +1,46 @@
+{
+  "id": 3456,
+  "name": "Molemet",
+  "level": 242,
+  "map_id": 683,
+  "map_name": "Leafy Sakura Village",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 37086,
+  "exp": 580,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 8479,
+      "name": "Leafy Sakura Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 816,
+      "name": "Mithril Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 8476,
+      "name": "Sakura Leaf",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 8480,
+      "name": "Taiyaki",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

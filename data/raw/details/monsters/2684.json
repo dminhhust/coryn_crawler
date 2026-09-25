@@ -1,0 +1,46 @@
+{
+  "id": 2684,
+  "name": "Seaney",
+  "level": 203,
+  "map_id": 477,
+  "map_name": "Weredragon's Throat",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 19000,
+  "exp": 308,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6333,
+      "name": "Cloud Cat Hairball",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6334,
+      "name": "Cloud Cat Horn",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6335,
+      "name": "Fleecy Cloud",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6336,
+      "name": "Furball Accessories",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 2338,
+  "name": "Neo Maton High Difficulty Exchange",
+  "level": 0,
+  "map_id": 404,
+  "map_name": "High Difficulty Boss Battle Event Venue",
+  "type_code": "n",
+  "type_label": "",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": -1,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3820,
+      "name": "Neo Maton Sword",
+      "type_id": 21,
+      "type_label": "[Weapon Crysta]"
+    }
+  ]
+}

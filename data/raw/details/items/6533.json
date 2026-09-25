@@ -1,0 +1,14 @@
+{
+  "id": 6533,
+  "name": "Flying Dragon Tail",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 21,
+  "process": 1,
+  "process_amount": 21,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

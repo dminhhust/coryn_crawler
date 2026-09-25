@@ -1,0 +1,14 @@
+{
+  "id": 148,
+  "name": "Nail of Demon's gate",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 15,
+  "process": 6,
+  "process_amount": 4,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

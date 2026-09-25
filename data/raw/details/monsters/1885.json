@@ -1,0 +1,40 @@
+{
+  "id": 1885,
+  "name": "Toy Bolg",
+  "level": 136,
+  "map_id": 324,
+  "map_name": "Joulu House: Center (Lv 130)",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 20000,
+  "exp": 557,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": true,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4136,
+      "name": "Crescent Blade",
+      "type_id": 26,
+      "type_label": "[Halberd]"
+    },
+    {
+      "id": 4318,
+      "name": "Gift Toy",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3224,
+      "name": "Golden Sting",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

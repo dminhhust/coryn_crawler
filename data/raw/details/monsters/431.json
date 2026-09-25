@@ -1,0 +1,52 @@
+{
+  "id": 431,
+  "name": "Targa",
+  "level": 77,
+  "map_id": 123,
+  "map_name": "Abyss of No Return: Area 2",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 326,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1446,
+      "name": "Ancient Moss",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1444,
+      "name": "Cracked Carapace",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1447,
+      "name": "Magic Brooch",
+      "type_id": 15,
+      "type_label": "[Magic Device]"
+    },
+    {
+      "id": 2533,
+      "name": "Shura Koshirae",
+      "type_id": 27,
+      "type_label": "[Katana]"
+    },
+    {
+      "id": 1445,
+      "name": "Tough Carapace",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

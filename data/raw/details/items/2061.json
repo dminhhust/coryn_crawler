@@ -1,0 +1,14 @@
+{
+  "id": 2061,
+  "name": "Condensed Heavy Oil",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 12,
+  "process": 5,
+  "process_amount": 13,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

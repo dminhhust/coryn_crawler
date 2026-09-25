@@ -1,0 +1,27 @@
+{
+  "id": 550,
+  "name": "Scarf",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 2,
+  "process": 4,
+  "process_amount": 2,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 1,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 38,
+      "effect_name": "ASPD %",
+      "amount": 5,
+      "applies_to": 0
+    }
+  ]
+}

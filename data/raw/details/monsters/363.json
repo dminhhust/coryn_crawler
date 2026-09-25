@@ -1,0 +1,58 @@
+{
+  "id": 363,
+  "name": "Festival Golem Type A",
+  "level": 25,
+  "map_id": 87,
+  "map_name": "Event",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 320,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 436,
+      "name": "Adventurer's Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 1262,
+      "name": "Copper 1st Anniv Medal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 254,
+      "name": "Magiadd I",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 259,
+      "name": "Regera I",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 260,
+      "name": "Revita I",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 594,
+      "name": "Vita Plus I",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

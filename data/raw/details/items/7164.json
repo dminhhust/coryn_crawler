@@ -1,0 +1,14 @@
+{
+  "id": 7164,
+  "name": "Frog Warrior Skin",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 26,
+  "process": 4,
+  "process_amount": 26,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

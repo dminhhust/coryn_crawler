@@ -1,0 +1,57 @@
+{
+  "id": 8382,
+  "name": "Cupcake Head",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 1,
+  "process": 1,
+  "process_amount": 1,
+  "meta": {
+    "badge": "",
+    "note": "Obtained from NPC Blacksmith: Zaldo.\nUntradable."
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 61,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 4,
+      "effect_name": "STR %",
+      "amount": 12,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 23,
+      "effect_name": "MATK %",
+      "amount": 12,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 41,
+      "effect_name": "Critical Rate",
+      "amount": 24,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 51,
+      "effect_name": "Fire resistance %",
+      "amount": -20,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 160,
+      "effect_name": "MATK UP (INT %)",
+      "amount": 50,
+      "applies_to": 128
+    },
+    {
+      "effect_id": 250,
+      "effect_name": "Critical Rate",
+      "amount": 24,
+      "applies_to": 8
+    }
+  ]
+}

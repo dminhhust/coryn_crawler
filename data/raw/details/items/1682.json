@@ -1,0 +1,63 @@
+{
+  "id": 1682,
+  "name": "Iceclaw Snow",
+  "type_id": 13,
+  "type_label": "[Knuckles]",
+  "sell": 85,
+  "process": 6,
+  "process_amount": 42,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 70,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 42,
+      "effect_name": "Critical Rate %",
+      "amount": 3,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 44,
+      "effect_name": "Critical Damage %",
+      "amount": 1,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 63,
+      "effect_name": "Water Element",
+      "amount": 1,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 90,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 130,
+      "effect_name": "Additional Magic %",
+      "amount": 100,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 131,
+      "effect_name": "ATK UP (INT %)",
+      "amount": 25,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 133,
+      "effect_name": "ATK DOWN (DEX %)",
+      "amount": 50,
+      "applies_to": 0
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 1029,
+  "name": "Perro",
+  "level": 30,
+  "map_id": 87,
+  "map_name": "Event",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Nightmare",
+  "hp": 200000,
+  "exp": 1500,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2550,
+      "name": "Perro",
+      "type_id": 23,
+      "type_label": "[Additional Crysta]"
+    },
+    {
+      "id": 2549,
+      "name": "Zodiac Dog Box",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

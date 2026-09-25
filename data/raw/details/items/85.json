@@ -1,0 +1,14 @@
+{
+  "id": 85,
+  "name": "Four-leaf Clover",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 7,
+  "process": 5,
+  "process_amount": 10,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

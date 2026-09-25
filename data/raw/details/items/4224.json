@@ -1,0 +1,33 @@
+{
+  "id": 4224,
+  "name": "Super Niello Sword",
+  "type_id": 5,
+  "type_label": "[2 Handed Sword]",
+  "sell": 33,
+  "process": -1,
+  "process_amount": 33,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 82,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 70,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 113,
+      "effect_name": "Potential",
+      "amount": 22,
+      "applies_to": 0
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 1586,
+  "name": "Snowman",
+  "level": 137,
+  "map_id": 289,
+  "map_name": "Garden of Ice & Snow",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 6500,
+  "exp": 130,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3458,
+      "name": "Chipped Scoop",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3449,
+      "name": "Frozen Wood",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3725,
+      "name": "Lop Eared Hat",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 3457,
+      "name": "Torn Scarf",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

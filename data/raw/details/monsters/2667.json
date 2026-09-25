@@ -1,0 +1,46 @@
+{
+  "id": 2667,
+  "name": "Omitan",
+  "level": 210,
+  "map_id": 473,
+  "map_name": "Milcaska Falls: Waterfall",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 37400,
+  "exp": 587,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6289,
+      "name": "Firm Meat",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6290,
+      "name": "Omitan Essence",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 6288,
+      "name": "Robust Shell",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6291,
+      "name": "Sanctus Bow",
+      "type_id": 9,
+      "type_label": "[Bow]"
+    }
+  ]
+}

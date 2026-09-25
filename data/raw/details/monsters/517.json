@@ -1,0 +1,46 @@
+{
+  "id": 517,
+  "name": "Corroded Fighter",
+  "level": 74,
+  "map_id": 142,
+  "map_name": "Dark Mirror",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 6000,
+  "exp": 147,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1743,
+      "name": "Corroded Armor Bit",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1804,
+      "name": "Fermented Revita",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1809,
+      "name": "Heated Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1810,
+      "name": "Shining Lake Water",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

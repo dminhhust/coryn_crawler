@@ -1,0 +1,46 @@
+{
+  "id": 316,
+  "name": "Basalt",
+  "level": 49,
+  "map_id": 94,
+  "map_name": "Fabizo Boundary",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 5600,
+  "exp": 178,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1095,
+      "name": "Dusky Ore",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1096,
+      "name": "HP+200",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 1182,
+      "name": "Sparkling Dragon Eye",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1094,
+      "name": "Tough Dragon Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

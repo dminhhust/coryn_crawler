@@ -1,0 +1,88 @@
+{
+  "id": 386,
+  "name": "Zega",
+  "level": 100,
+  "map_id": 87,
+  "map_name": "Event",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": -1,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1342,
+      "name": "Beast Pack (L)",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 867,
+      "name": "Fabric Pack (L)",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1339,
+      "name": "Gladiator's Helm",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 1264,
+      "name": "Gold 1st Anniv Medal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1337,
+      "name": "Killer Coat",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 864,
+      "name": "Medicine Pack (L)",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1269,
+      "name": "Megiston",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 873,
+      "name": "Metal Pack (L)",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 902,
+      "name": "Revita IV",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 870,
+      "name": "Wood Pack (L)",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1338,
+      "name": "Zega",
+      "type_id": 21,
+      "type_label": "[Weapon Crysta]"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": 898,
+  "name": "B.B. Goblin",
+  "level": 90,
+  "map_id": 32,
+  "map_name": "Rinom Plains",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Nightmare",
+  "hp": -1,
+  "exp": 12000,
+  "element_id": -1,
+  "element_label": "Unknown",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 836,
+      "name": "B.B. Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 832,
+      "name": "B.B. Goblin",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 834,
+      "name": "Broken Bone Accessory",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 835,
+      "name": "Dyed Reinforced Cloth",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 68,
+      "name": "Fairy Nose",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

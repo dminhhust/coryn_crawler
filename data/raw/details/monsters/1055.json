@@ -1,0 +1,46 @@
+{
+  "id": 1055,
+  "name": "Chocolate Ooze (Sweet) (Valentine 2018)",
+  "level": 90,
+  "map_id": 16,
+  "map_name": "Underground Channel",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 690000,
+  "exp": 12000,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1781,
+      "name": "Chocolate Chip",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1779,
+      "name": "Chocolate Ooze",
+      "type_id": 23,
+      "type_label": "[Additional Crysta]"
+    },
+    {
+      "id": 816,
+      "name": "Mithril Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 1780,
+      "name": "Mysterious Cacao",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

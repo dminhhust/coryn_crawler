@@ -1,0 +1,46 @@
+{
+  "id": 281,
+  "name": "Maple Fox",
+  "level": 39,
+  "map_id": 80,
+  "map_name": "Figo's Manor",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 27,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 805,
+      "name": "Deep-Fried Bean Curd",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 818,
+      "name": "Fluffy Tail",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 803,
+      "name": "Fox Fur",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 804,
+      "name": "Fox Tail",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

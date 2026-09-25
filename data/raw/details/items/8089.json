@@ -1,0 +1,14 @@
+{
+  "id": 8089,
+  "name": "Maple Berry",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 22,
+  "process": 5,
+  "process_amount": 22,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

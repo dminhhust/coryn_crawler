@@ -1,0 +1,46 @@
+{
+  "id": 2856,
+  "name": "Illuminator",
+  "level": 219,
+  "map_id": 507,
+  "map_name": "Illuminare City: Route 3 (210-230)",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 1047,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": true,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6638,
+      "name": "Iron Pipe",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6633,
+      "name": "Shattered Silver Crest",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6734,
+      "name": "Stolen Box (Green)",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6740,
+      "name": "Thermal Fists",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    }
+  ]
+}

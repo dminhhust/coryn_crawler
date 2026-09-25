@@ -1,0 +1,52 @@
+{
+  "id": 946,
+  "name": "Petally",
+  "level": 94,
+  "map_id": 179,
+  "map_name": "Peligro Landfill",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 4000,
+  "exp": 100,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 78,
+      "name": "Flower Nectar",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 2401,
+      "name": "INT+4",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 543,
+      "name": "Ribbon",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 2400,
+      "name": "Rotten Petal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2399,
+      "name": "Withered Root",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

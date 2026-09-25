@@ -1,0 +1,46 @@
+{
+  "id": 2857,
+  "name": "Nix",
+  "level": 220,
+  "map_id": 507,
+  "map_name": "Illuminare City: Route 3 (210-230)",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 774,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": true,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6742,
+      "name": "Cat Tail Hat",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 6621,
+      "name": "Half-Eaten Fruit",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 6702,
+      "name": "Hard Incisor",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6736,
+      "name": "Stolen Box (Red)",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

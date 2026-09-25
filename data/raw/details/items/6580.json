@@ -1,0 +1,14 @@
+{
+  "id": 6580,
+  "name": "Protruding Tongue",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 17,
+  "process": 1,
+  "process_amount": 16,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

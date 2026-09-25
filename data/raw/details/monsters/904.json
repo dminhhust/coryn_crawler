@@ -1,0 +1,46 @@
+{
+  "id": 904,
+  "name": "Larmo",
+  "level": 48,
+  "map_id": 94,
+  "map_name": "Fabizo Boundary",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 1700,
+  "exp": 36,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1099,
+      "name": "Aged Sap",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1098,
+      "name": "Crimson Wood",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1100,
+      "name": "Fortis Blade",
+      "type_id": 5,
+      "type_label": "[2 Handed Sword]"
+    },
+    {
+      "id": 1097,
+      "name": "Hard Twig",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": 6920,
+  "name": "Mount Sakuraten Pebble",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 23,
+  "process": 3,
+  "process_amount": 23,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

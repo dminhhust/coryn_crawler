@@ -1,0 +1,40 @@
+{
+  "id": 1723,
+  "name": "Ranger Pterosaur",
+  "level": 210,
+  "map_id": 299,
+  "map_name": "Anniversary Arena: 4th Venue",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Ultimate",
+  "hp": 15000000,
+  "exp": 38000,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3108,
+      "name": "Revita VI",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 4006,
+      "name": "Silpom 4th Anniv Medal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2252,
+      "name": "Vita Plus V",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

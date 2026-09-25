@@ -1,0 +1,46 @@
+{
+  "id": 2042,
+  "name": "Mummy Golem",
+  "level": 171,
+  "map_id": 354,
+  "map_name": "Morga Wasteland: Area 2",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 100000,
+  "exp": 1624,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4574,
+      "name": "Morga Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4575,
+      "name": "Mystical Glass Sphere",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4576,
+      "name": "Old Casket",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4573,
+      "name": "Tattered Bandage",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

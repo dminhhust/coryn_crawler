@@ -1,0 +1,46 @@
+{
+  "id": 1541,
+  "name": "Planet Head",
+  "level": 131,
+  "map_id": 275,
+  "map_name": "Barbaros Corridor",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 20000,
+  "exp": 227,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3595,
+      "name": "Belt Eyepatch",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 3593,
+      "name": "Corridor Rubble",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 816,
+      "name": "Mithril Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 3594,
+      "name": "Silver Claw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 462,
+  "name": "Milk Potum",
+  "level": 67,
+  "map_id": 131,
+  "map_name": "Polde Ice Valley",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 56,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1570,
+      "name": "Hot Milk",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1578,
+      "name": "Mysterious Snowball",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1571,
+      "name": "Potum's White Hair",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1572,
+      "name": "Snow Potum Doll",
+      "type_id": 18,
+      "type_label": "[Special]"
+    }
+  ]
+}

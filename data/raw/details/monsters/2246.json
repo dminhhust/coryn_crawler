@@ -1,0 +1,46 @@
+{
+  "id": 2246,
+  "name": "Kruztor",
+  "level": 250,
+  "map_id": 111,
+  "map_name": "El Scaro",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Ultimate",
+  "hp": 50000000,
+  "exp": 200000,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 918,
+      "name": "Heart Cookie",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 5273,
+      "name": "Kruztor",
+      "type_id": 22,
+      "type_label": "[Armor Crysta]"
+    },
+    {
+      "id": 5274,
+      "name": "Mane Cookie",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 335,
+      "name": "Orichalcum",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    }
+  ]
+}

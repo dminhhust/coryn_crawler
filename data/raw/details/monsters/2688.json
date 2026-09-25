@@ -1,0 +1,52 @@
+{
+  "id": 2688,
+  "name": "Wolkissa",
+  "level": 257,
+  "map_id": 477,
+  "map_name": "Weredragon's Throat",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 40800,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6334,
+      "name": "Cloud Cat Horn",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6341,
+      "name": "Cloudbow Light",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6335,
+      "name": "Fleecy Cloud",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6342,
+      "name": "Holy Script gun",
+      "type_id": 10,
+      "type_label": "[Bowgun]"
+    },
+    {
+      "id": 6343,
+      "name": "Wolkissa",
+      "type_id": 24,
+      "type_label": "[Special Crysta]"
+    }
+  ]
+}

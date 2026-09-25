@@ -1,0 +1,46 @@
+{
+  "id": 2919,
+  "name": "Pond Snake",
+  "level": 171,
+  "map_id": 510,
+  "map_name": "Chocolate Reservoir",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": -1,
+  "element_id": -1,
+  "element_label": "Unknown",
+  "tameable": true,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6967,
+      "name": "High Quality Sugar",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6968,
+      "name": "Silver Vine Chocolate",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 2955,
+      "name": "Snake Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6969,
+      "name": "Toe Beans Talisman",
+      "type_id": 18,
+      "type_label": "[Special]"
+    }
+  ]
+}

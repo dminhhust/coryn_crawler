@@ -1,0 +1,52 @@
+{
+  "id": 2000,
+  "name": "Canemofish",
+  "level": 210,
+  "map_id": 345,
+  "map_name": "Recetacula Sector: Area 1",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 39845,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4533,
+      "name": "Acid Gun",
+      "type_id": 10,
+      "type_label": "[Bowgun]"
+    },
+    {
+      "id": 4528,
+      "name": "Canemofish",
+      "type_id": 22,
+      "type_label": "[Armor Crysta]"
+    },
+    {
+      "id": 4527,
+      "name": "Crystal Pouch",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4525,
+      "name": "Sharp Fish Fang",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4524,
+      "name": "Strong Copper Scale",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

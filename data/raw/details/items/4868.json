@@ -1,0 +1,21 @@
+{
+  "id": 4868,
+  "name": "Deep Ocean Water",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 18,
+  "process": 5,
+  "process_amount": 17,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 80,
+      "effect_name": "MP",
+      "amount": 30,
+      "applies_to": 0
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": 2267,
+  "name": "Coofer",
+  "level": 178,
+  "map_id": 396,
+  "map_name": "Nezim Wetlands",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 13500,
+  "exp": 222,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5322,
+      "name": "Black Rock Crystal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5354,
+      "name": "Escudo Blade",
+      "type_id": 5,
+      "type_label": "[2 Handed Sword]"
+    },
+    {
+      "id": 5355,
+      "name": "Painless Left Arm",
+      "type_id": 18,
+      "type_label": "[Special]"
+    },
+    {
+      "id": 5353,
+      "name": "Turbid Particle",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5248,
+      "name": "Weird Snake Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 1319,
+  "name": "Goovua",
+  "type_id": 24,
+  "type_label": "[Special Crysta]",
+  "sell": 1,
+  "process": 6,
+  "process_amount": 2,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 10,
+      "effect_name": "AGI %",
+      "amount": 3,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 60,
+      "effect_name": "Evasion Recharge %",
+      "amount": 6,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 116,
+      "effect_name": "Unsheathe Attack",
+      "amount": 100,
+      "applies_to": 0
+    }
+  ]
+}

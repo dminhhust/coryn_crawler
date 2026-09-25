@@ -1,0 +1,46 @@
+{
+  "id": 1105,
+  "name": "Moth Machina",
+  "level": 120,
+  "map_id": 216,
+  "map_name": "Brahe Laboratory: 3rd Building",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 13000,
+  "exp": 264,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2734,
+      "name": "Broken Armor Plate",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2737,
+      "name": "Photosynthesis System",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 2735,
+      "name": "Special Iron Feather",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2736,
+      "name": "Water Repellent Oil",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

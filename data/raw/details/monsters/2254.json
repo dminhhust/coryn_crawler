@@ -1,0 +1,46 @@
+{
+  "id": 2254,
+  "name": "Bayaga",
+  "level": 186,
+  "map_id": 391,
+  "map_name": "Witch's Woods Area 3",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 25700,
+  "exp": 426,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5238,
+      "name": "Artificial Nails",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 5231,
+      "name": "Floating Stump",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5233,
+      "name": "Presbyopia Lens",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5232,
+      "name": "Yummy Pickles",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

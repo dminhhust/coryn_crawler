@@ -1,0 +1,46 @@
+{
+  "id": 309,
+  "name": "Wandering Shadow",
+  "level": 56,
+  "map_id": 91,
+  "map_name": "Lost Town: Square",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 1450,
+  "exp": 88,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1043,
+      "name": "Lost Cane",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1048,
+      "name": "Lost Footstep",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1025,
+      "name": "Polyester Cloth",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1044,
+      "name": "Rapier",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    }
+  ]
+}

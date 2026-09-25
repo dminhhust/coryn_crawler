@@ -1,0 +1,46 @@
+{
+  "id": 3303,
+  "name": "Corey",
+  "level": 193,
+  "map_id": 627,
+  "map_name": "Tower of Clamor: Area 2 (190-194)",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 41060,
+  "exp": 679,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4564,
+      "name": "Bizarre Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7479,
+      "name": "Clamor Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6042,
+      "name": "Douse Knuckles",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    },
+    {
+      "id": 5952,
+      "name": "Nightmare Gallstone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

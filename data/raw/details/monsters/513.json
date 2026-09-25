@@ -1,0 +1,46 @@
+{
+  "id": 513,
+  "name": "Chocolate Ooze (Sweet) (Valentine 2017)",
+  "level": 30,
+  "map_id": 16,
+  "map_name": "Underground Channel",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": -1,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 247,
+      "name": "Bitter Nut",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1779,
+      "name": "Chocolate Ooze",
+      "type_id": 23,
+      "type_label": "[Additional Crysta]"
+    },
+    {
+      "id": 243,
+      "name": "Hematite",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 262,
+      "name": "Roasted Fruit",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

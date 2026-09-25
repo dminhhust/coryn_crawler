@@ -1,0 +1,33 @@
+{
+  "id": 2516,
+  "name": "El Vento",
+  "type_id": 15,
+  "type_label": "[Magic Device]",
+  "sell": 100,
+  "process": 6,
+  "process_amount": 50,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 60,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 76,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 113,
+      "effect_name": "Potential",
+      "amount": 31,
+      "applies_to": 0
+    }
+  ]
+}

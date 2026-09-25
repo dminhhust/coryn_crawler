@@ -1,0 +1,46 @@
+{
+  "id": 3472,
+  "name": "Sckiri",
+  "level": 261,
+  "map_id": 690,
+  "map_name": "Mt. White Peach: Outskirts",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 31597,
+  "exp": 471,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 78,
+      "name": "Flower Nectar",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 8500,
+      "name": "Small Wooden Shuriken",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 8501,
+      "name": "Tanuki Drum Talisman",
+      "type_id": 18,
+      "type_label": "[Special]"
+    },
+    {
+      "id": 1065,
+      "name": "Toram Liquor",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

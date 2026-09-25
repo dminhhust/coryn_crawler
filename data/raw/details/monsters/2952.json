@@ -1,0 +1,46 @@
+{
+  "id": 2952,
+  "name": "Disaur",
+  "level": 230,
+  "map_id": 525,
+  "map_name": "Boma Konda: Underground Area",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 58115,
+  "exp": 912,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7042,
+      "name": "Anchor Bowgun",
+      "type_id": 10,
+      "type_label": "[Bowgun]"
+    },
+    {
+      "id": 7041,
+      "name": "Big Neck Frill",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7039,
+      "name": "Dirty Weed",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7040,
+      "name": "Half-Eaten Mushroom",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

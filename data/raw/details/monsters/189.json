@@ -1,0 +1,46 @@
+{
+  "id": 189,
+  "name": "White Hound",
+  "level": 43,
+  "map_id": 56,
+  "map_name": "Haotas Ravine",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 62,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 462,
+      "name": "Dog Ears",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 213,
+      "name": "Sturdy Fur",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 272,
+      "name": "Tough Meat",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 234,
+      "name": "White Fur",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

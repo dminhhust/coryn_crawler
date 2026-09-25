@@ -1,0 +1,70 @@
+{
+  "id": 1791,
+  "name": "Eroded Pilz",
+  "level": 192,
+  "map_id": 310,
+  "map_name": "Morthell Swell: Deep Area",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Nightmare",
+  "hp": 11800000,
+  "exp": 93500,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4131,
+      "name": "Broken Mushroom Nail",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4130,
+      "name": "Corroded Mushroom Cap",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4129,
+      "name": "Eroded Pilz",
+      "type_id": 22,
+      "type_label": "[Armor Crysta]"
+    },
+    {
+      "id": 4124,
+      "name": "Eroded Pilz Fragment",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4128,
+      "name": "Eroded Rebellion",
+      "type_id": 26,
+      "type_label": "[Halberd]"
+    },
+    {
+      "id": 4127,
+      "name": "Eroded Strahl",
+      "type_id": 9,
+      "type_label": "[Bow]"
+    },
+    {
+      "id": 4126,
+      "name": "Fellow Spore",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4125,
+      "name": "Gladiate Crystal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

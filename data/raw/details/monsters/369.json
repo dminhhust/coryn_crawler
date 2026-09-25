@@ -1,0 +1,58 @@
+{
+  "id": 369,
+  "name": "False God",
+  "level": 75,
+  "map_id": 87,
+  "map_name": "Event",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 2700,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 470,
+      "name": "Forehead Protector",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 1264,
+      "name": "Gold 1st Anniv Medal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1287,
+      "name": "Magiadd III",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1285,
+      "name": "Regera III",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 589,
+      "name": "Revita III",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1286,
+      "name": "Vita Plus III",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 3166,
+  "name": "Corroded Councilor",
+  "level": 252,
+  "map_id": 589,
+  "map_name": "Marinatown: Area 3",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 0,
+  "exp": 727,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7596,
+      "name": "Broken Parliamentary Badge",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7589,
+      "name": "City Wood",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7595,
+      "name": "Corroded Gauntlet",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7594,
+      "name": "Ocean Bowgun",
+      "type_id": 10,
+      "type_label": "[Bowgun]"
+    }
+  ]
+}

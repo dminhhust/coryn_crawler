@@ -1,0 +1,14 @@
+{
+  "id": 3707,
+  "name": "Flare Volg Flesh",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 10,
+  "process": 5,
+  "process_amount": 9,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

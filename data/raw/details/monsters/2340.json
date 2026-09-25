@@ -1,0 +1,52 @@
+{
+  "id": 2340,
+  "name": "Flooray",
+  "level": 165,
+  "map_id": 374,
+  "map_name": "Lunagent Cliff Base",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 13000,
+  "exp": 241,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4951,
+      "name": "Cry of Sorrow",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4949,
+      "name": "Damp Cloth",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4960,
+      "name": "Magician Mantle",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 4950,
+      "name": "Phantom Cloth",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4952,
+      "name": "STR+6",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    }
+  ]
+}

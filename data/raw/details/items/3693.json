@@ -1,0 +1,39 @@
+{
+  "id": 3693,
+  "name": "Gourd Flash Hanami Wine",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 150,
+  "process": 6,
+  "process_amount": 350,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 158,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 34,
+      "effect_name": "Accuracy %",
+      "amount": 30,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 117,
+      "effect_name": "Unsheathe Attack %",
+      "amount": 6,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 174,
+      "effect_name": "Reduce Dmg (Charge) %",
+      "amount": -15,
+      "applies_to": 0
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 5711,
+  "name": "VIT+7",
+  "type_id": 20,
+  "type_label": "[Normal Crysta]",
+  "sell": 1,
+  "process": 6,
+  "process_amount": 2,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 7,
+      "effect_name": "VIT",
+      "amount": 7,
+      "applies_to": 0
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": 3421,
+  "name": "Grape Plantlet",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 16,
+  "process": 2,
+  "process_amount": 15,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

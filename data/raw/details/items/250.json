@@ -1,0 +1,21 @@
+{
+  "id": 250,
+  "name": "Chicken Meat",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 5,
+  "process": 5,
+  "process_amount": 5,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 17,
+      "effect_name": "MaxHP",
+      "amount": 80,
+      "applies_to": 0
+    }
+  ]
+}

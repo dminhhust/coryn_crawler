@@ -1,0 +1,14 @@
+{
+  "id": 211,
+  "name": "Stone Shard",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 3,
+  "process": 3,
+  "process_amount": 3,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

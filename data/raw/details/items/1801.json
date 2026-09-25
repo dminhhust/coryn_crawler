@@ -1,0 +1,14 @@
+{
+  "id": 1801,
+  "name": "Scorching Onion",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 11,
+  "process": 5,
+  "process_amount": 9,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

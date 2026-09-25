@@ -1,0 +1,46 @@
+{
+  "id": 2132,
+  "name": "Gopherga",
+  "level": 207,
+  "map_id": 368,
+  "map_name": "Underwater Ruins",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 70000,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4872,
+      "name": "Gopherga",
+      "type_id": 22,
+      "type_label": "[Armor Crysta]"
+    },
+    {
+      "id": 4870,
+      "name": "Mysterious Clam",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 911,
+      "name": "Orichalcum Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 4871,
+      "name": "Super Heavy Shell",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

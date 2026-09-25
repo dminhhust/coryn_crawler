@@ -1,0 +1,21 @@
+{
+  "id": 1355,
+  "name": "El Scaro",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 1,
+  "process": 6,
+  "process_amount": 2,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 119,
+      "effect_name": "Teleport to El Scaro",
+      "amount": 1,
+      "applies_to": 0
+    }
+  ]
+}

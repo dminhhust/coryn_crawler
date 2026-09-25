@@ -1,0 +1,14 @@
+{
+  "id": 6040,
+  "name": "Transparent Pileus",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 22,
+  "process": 5,
+  "process_amount": 20,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

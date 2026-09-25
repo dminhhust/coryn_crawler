@@ -1,0 +1,46 @@
+{
+  "id": 2844,
+  "name": "Illuminator",
+  "level": 199,
+  "map_id": 504,
+  "map_name": "Illuminare City: Route 3 (190-210)",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 894,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": true,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5920,
+      "name": "Repeating Crossbow",
+      "type_id": 10,
+      "type_label": "[Bowgun]"
+    },
+    {
+      "id": 6529,
+      "name": "Simple Accessory Piece",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6734,
+      "name": "Stolen Box (Green)",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6040,
+      "name": "Transparent Pileus",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

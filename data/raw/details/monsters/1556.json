@@ -1,0 +1,46 @@
+{
+  "id": 1556,
+  "name": "Meditating Potum",
+  "level": 132,
+  "map_id": 280,
+  "map_name": "Heresy Corridor",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "",
+  "hp": 8465,
+  "exp": 153,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3633,
+      "name": "Enlightened Bangle",
+      "type_id": 18,
+      "type_label": "[Special]"
+    },
+    {
+      "id": 3632,
+      "name": "Enlightened Wing",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3631,
+      "name": "Torn Apron",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 592,
+      "name": "Vaccine I",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": 4342,
+  "name": "Glacial Ice Flower",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": -1,
+  "process": 6,
+  "process_amount": 30,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

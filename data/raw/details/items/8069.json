@@ -1,0 +1,14 @@
+{
+  "id": 8069,
+  "name": "Honey Energy",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 26,
+  "process": 5,
+  "process_amount": 26,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

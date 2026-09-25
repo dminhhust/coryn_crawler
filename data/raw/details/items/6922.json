@@ -1,0 +1,21 @@
+{
+  "id": 6922,
+  "name": "Swordsbear Treasured Sake",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 31,
+  "process": 5,
+  "process_amount": 31,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 79,
+      "effect_name": "HP",
+      "amount": 12000,
+      "applies_to": 0
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": 1370,
+  "name": "Usasama the Necromancer",
+  "level": 185,
+  "map_id": 87,
+  "map_name": "Event",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 3000000,
+  "exp": 30000,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3265,
+      "name": "Sorcery Dress",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 3263,
+      "name": "Sorcery Hat",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 3264,
+      "name": "Usasama the Necromancer",
+      "type_id": 21,
+      "type_label": "[Weapon Crysta]"
+    }
+  ]
+}

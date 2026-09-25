@@ -1,0 +1,46 @@
+{
+  "id": 2371,
+  "name": "Lake Rana",
+  "level": 192,
+  "map_id": 411,
+  "map_name": "Fugitive Lake Swamp: Area 3",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "normal",
+  "hp": 30000,
+  "exp": 560,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5504,
+      "name": "Lake Frog Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5503,
+      "name": "Long Tongue",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5505,
+      "name": "Polka Dot Gemstone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5506,
+      "name": "Portable Sake Jug",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

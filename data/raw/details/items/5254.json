@@ -1,0 +1,21 @@
+{
+  "id": 5254,
+  "name": "Snowball Daifuku",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 50,
+  "process": 6,
+  "process_amount": 2,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 79,
+      "effect_name": "HP",
+      "amount": 5000,
+      "applies_to": 0
+    }
+  ]
+}

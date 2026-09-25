@@ -1,0 +1,70 @@
+{
+  "id": 1991,
+  "name": "Mercy (Choco Banana)",
+  "level": 220,
+  "map_id": 121,
+  "map_name": "Dunkel Valley",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Ultimate",
+  "hp": 24000000,
+  "exp": 110000,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4493,
+      "name": "Cupid Bow II",
+      "type_id": 9,
+      "type_label": "[Bow]"
+    },
+    {
+      "id": 4490,
+      "name": "Fluffy Marshmallow",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4489,
+      "name": "Mercy",
+      "type_id": 23,
+      "type_label": "[Additional Crysta]"
+    },
+    {
+      "id": 911,
+      "name": "Orichalcum Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 4494,
+      "name": "Rose Bun Wig",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 4491,
+      "name": "Super Sweet Syrup",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4492,
+      "name": "Sweet Spoon II",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    },
+    {
+      "id": 2075,
+      "name": "Tapir Hood",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

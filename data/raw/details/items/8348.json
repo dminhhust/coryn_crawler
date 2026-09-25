@@ -1,0 +1,14 @@
+{
+  "id": 8348,
+  "name": "Lunas Slash Absorber",
+  "type_id": 241,
+  "type_label": "Registlet",
+  "sell": -1,
+  "process": -1,
+  "process_amount": -1,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

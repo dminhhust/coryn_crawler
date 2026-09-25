@@ -1,0 +1,100 @@
+{
+  "id": 3077,
+  "name": "Aubergine Dragon Auvio",
+  "level": 275,
+  "map_id": 7,
+  "map_name": "Rakau Plains",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Ultimate",
+  "hp": 74000000,
+  "exp": 330000,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7361,
+      "name": "Aubergine Armor",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 7362,
+      "name": "Aubergine Dragon Auvio",
+      "type_id": 24,
+      "type_label": "[Special Crysta]"
+    },
+    {
+      "id": 7364,
+      "name": "Aubermight",
+      "type_id": 22,
+      "type_label": "[Armor Crysta]"
+    },
+    {
+      "id": 7355,
+      "name": "Eggplant Agebitashi",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 7359,
+      "name": "Eggplant Skewer",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 7358,
+      "name": "Eggplant Tempura",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1433,
+      "name": "Fallen in Fall",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7354,
+      "name": "Mapo Eggplant",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 7356,
+      "name": "Miso-Marinated Eggplant",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 7363,
+      "name": "Persimmon Coryn Forest",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 7353,
+      "name": "Roasted Eggplant",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 7360,
+      "name": "Romanian Eggplant Dip",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 7357,
+      "name": "Sweet Miso Eggplant",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

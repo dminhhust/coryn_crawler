@@ -1,0 +1,46 @@
+{
+  "id": 646,
+  "name": "Boss Colon",
+  "level": 4,
+  "map_id": 2,
+  "map_name": "Land Under Development",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Easy",
+  "hp": 100,
+  "exp": 3,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 22,
+      "name": "Boss Colon Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 48,
+      "name": "Colon Leaf",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 455,
+      "name": "Colon Met",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 268,
+      "name": "Sofya City",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

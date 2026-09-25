@@ -1,0 +1,46 @@
+{
+  "id": 2864,
+  "name": "Illuminitor",
+  "level": 250,
+  "map_id": 505,
+  "map_name": "Illuminare City: Route 1 (210-230)",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 45300,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6749,
+      "name": "Cold Scrap",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6751,
+      "name": "Illuminitor",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 816,
+      "name": "Mithril Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 6750,
+      "name": "Silver Star Ornament",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

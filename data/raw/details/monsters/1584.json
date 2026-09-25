@@ -1,0 +1,46 @@
+{
+  "id": 1584,
+  "name": "Acernix",
+  "level": 135,
+  "map_id": 289,
+  "map_name": "Garden of Ice & Snow",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 4000,
+  "exp": 191,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3717,
+      "name": "Broken Ice Pillar",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3718,
+      "name": "Crushed Ice",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3719,
+      "name": "Garden of Ice & Snow",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 3720,
+      "name": "Snowland Talisman",
+      "type_id": 18,
+      "type_label": "[Special]"
+    }
+  ]
+}

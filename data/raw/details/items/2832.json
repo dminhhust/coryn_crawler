@@ -1,0 +1,39 @@
+{
+  "id": 2832,
+  "name": "Priest Hat",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 62,
+  "process": 4,
+  "process_amount": 31,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 60,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 39,
+      "effect_name": "CSPD",
+      "amount": 450,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 130,
+      "effect_name": "Additional Magic %",
+      "amount": 100,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 162,
+      "effect_name": "MATK UP (VIT %)",
+      "amount": 25,
+      "applies_to": 0
+    }
+  ]
+}

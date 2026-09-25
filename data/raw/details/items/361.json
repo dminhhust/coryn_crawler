@@ -1,0 +1,21 @@
+{
+  "id": 361,
+  "name": "Neo Smith's Hammer",
+  "type_id": 2,
+  "type_label": "[Refinement Support]",
+  "sell": 0,
+  "process": 0,
+  "process_amount": 0,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 147,
+      "effect_name": "Refine Success Rate % (flat)",
+      "amount": 20,
+      "applies_to": 0
+    }
+  ]
+}

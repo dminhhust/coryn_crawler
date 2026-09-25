@@ -1,0 +1,21 @@
+{
+  "id": 299,
+  "name": "Suedor Cliff Relic Box",
+  "level": 0,
+  "map_id": 31,
+  "map_name": "Suedor Cliff",
+  "type_code": "C",
+  "type_label": "NPC",
+  "mode": "Normal",
+  "hp": 0,
+  "exp": 0,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": []
+}

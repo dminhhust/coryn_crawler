@@ -1,0 +1,34 @@
+{
+  "id": 1866,
+  "name": "Volgagon",
+  "level": 200,
+  "map_id": 87,
+  "map_name": "Event",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 40000000,
+  "exp": 68500,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4306,
+      "name": "Thunder Axe",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    },
+    {
+      "id": 4304,
+      "name": "Volgagon",
+      "type_id": 24,
+      "type_label": "[Special Crysta]"
+    }
+  ]
+}

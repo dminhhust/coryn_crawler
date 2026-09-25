@@ -1,0 +1,94 @@
+{
+  "id": 3052,
+  "name": "Anniv Equipment Box III",
+  "level": 0,
+  "map_id": 88,
+  "map_name": "-",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 0,
+  "exp": 0,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2976,
+      "name": "3rd Anniv Bow",
+      "type_id": 9,
+      "type_label": "[Bow]"
+    },
+    {
+      "id": 2977,
+      "name": "3rd Anniv Bowgun",
+      "type_id": 10,
+      "type_label": "[Bowgun]"
+    },
+    {
+      "id": 2975,
+      "name": "3rd Anniv Greatsword",
+      "type_id": 5,
+      "type_label": "[2 Handed Sword]"
+    },
+    {
+      "id": 2981,
+      "name": "3rd Anniv Halberd",
+      "type_id": 26,
+      "type_label": "[Halberd]"
+    },
+    {
+      "id": 2982,
+      "name": "3rd Anniv Katana",
+      "type_id": 27,
+      "type_label": "[Katana]"
+    },
+    {
+      "id": 2980,
+      "name": "3rd Anniv Knuckles",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    },
+    {
+      "id": 2983,
+      "name": "3rd Anniv Shield",
+      "type_id": 17,
+      "type_label": "[Shield]"
+    },
+    {
+      "id": 2978,
+      "name": "3rd Anniv Staff",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    },
+    {
+      "id": 2974,
+      "name": "3rd Anniv Sword",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    },
+    {
+      "id": 2979,
+      "name": "3rd Anniv Wings",
+      "type_id": 15,
+      "type_label": "[Magic Device]"
+    },
+    {
+      "id": 7312,
+      "name": "Anniv Festive Arrow II",
+      "type_id": 7,
+      "type_label": "[Arrow]"
+    },
+    {
+      "id": 4928,
+      "name": "Anniv Festive Dagger II",
+      "type_id": 11,
+      "type_label": "[Dagger]"
+    }
+  ]
+}

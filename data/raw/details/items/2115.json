@@ -1,0 +1,21 @@
+{
+  "id": 2115,
+  "name": "Prime Piercer [STF]",
+  "type_id": 3,
+  "type_label": "[Piercer]",
+  "sell": 0,
+  "process": 0,
+  "process_amount": 0,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 154,
+      "effect_name": "Adds 1 slot to a 1-slotted staff",
+      "amount": 1,
+      "applies_to": 8
+    }
+  ]
+}

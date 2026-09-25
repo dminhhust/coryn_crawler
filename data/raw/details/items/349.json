@@ -1,0 +1,21 @@
+{
+  "id": 349,
+  "name": "Refinement Ticket (400%)",
+  "type_id": 2,
+  "type_label": "[Refinement Support]",
+  "sell": 0,
+  "process": 0,
+  "process_amount": 0,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 77,
+      "effect_name": "Refine Success Rate %",
+      "amount": 400,
+      "applies_to": 0
+    }
+  ]
+}

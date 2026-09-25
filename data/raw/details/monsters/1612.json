@@ -1,0 +1,46 @@
+{
+  "id": 1612,
+  "name": "Thug Golem",
+  "level": 191,
+  "map_id": 295,
+  "map_name": "Dark Dragon Shrine: Middle",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 29190,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3796,
+      "name": "Ancient Ingot",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3798,
+      "name": "Pancake Ice Flower",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3797,
+      "name": "Shining Monoeye",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3799,
+      "name": "Thug Golem",
+      "type_id": 22,
+      "type_label": "[Armor Crysta]"
+    }
+  ]
+}

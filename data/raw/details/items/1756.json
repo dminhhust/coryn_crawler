@@ -1,0 +1,21 @@
+{
+  "id": 1756,
+  "name": "ASPD+60",
+  "type_id": 20,
+  "type_label": "[Normal Crysta]",
+  "sell": 1,
+  "process": 6,
+  "process_amount": 2,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 37,
+      "effect_name": "ASPD",
+      "amount": 60,
+      "applies_to": 0
+    }
+  ]
+}

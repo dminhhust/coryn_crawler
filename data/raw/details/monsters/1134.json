@@ -1,0 +1,46 @@
+{
+  "id": 1134,
+  "name": "Venomsch",
+  "level": 112,
+  "map_id": 224,
+  "map_name": "Ultimea Sewer: South",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 7000,
+  "exp": 143,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2805,
+      "name": "CSPD+100",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 2803,
+      "name": "Frog Venom",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2802,
+      "name": "Poisonous Needles",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2804,
+      "name": "Stout Tongue",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

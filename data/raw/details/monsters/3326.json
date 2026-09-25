@@ -1,0 +1,58 @@
+{
+  "id": 3326,
+  "name": "Gegner",
+  "level": 210,
+  "map_id": 639,
+  "map_name": "Tower of Clamor: Rooftop",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Easy",
+  "hp": 4440000,
+  "exp": 20000,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7365,
+      "name": "Gegner",
+      "type_id": 220,
+      "type_label": "[Enhancer Crysta (Green)]"
+    },
+    {
+      "id": 243,
+      "name": "Hematite",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 7644,
+      "name": "Iced Chicken Vita",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 8031,
+      "name": "Inverted Tree Crest",
+      "type_id": 18,
+      "type_label": "[Special]"
+    },
+    {
+      "id": 1716,
+      "name": "Revita V",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 8028,
+      "name": "Winter Outfit II",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    }
+  ]
+}

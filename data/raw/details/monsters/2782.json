@@ -1,0 +1,46 @@
+{
+  "id": 2782,
+  "name": "Pilferrel",
+  "level": 209,
+  "map_id": 490,
+  "map_name": "Freight Corridor",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 18490,
+  "exp": 258,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6622,
+      "name": "Cargo Woodchip",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6624,
+      "name": "Floral Hat",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 6621,
+      "name": "Half-Eaten Fruit",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 6623,
+      "name": "Sweet Nut",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

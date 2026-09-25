@@ -1,0 +1,33 @@
+{
+  "id": 5979,
+  "name": "Holy Katar",
+  "type_id": 13,
+  "type_label": "[Knuckles]",
+  "sell": 180,
+  "process": 3,
+  "process_amount": 180,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 202,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 90,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 113,
+      "effect_name": "Potential",
+      "amount": 44,
+      "applies_to": 0
+    }
+  ]
+}

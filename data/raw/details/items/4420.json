@@ -1,0 +1,14 @@
+{
+  "id": 4420,
+  "name": "Lefina's Neo Chocolate",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 100,
+  "process": 6,
+  "process_amount": 30,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

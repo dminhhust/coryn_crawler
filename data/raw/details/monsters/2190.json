@@ -1,0 +1,64 @@
+{
+  "id": 2190,
+  "name": "Arachnidemon",
+  "level": 206,
+  "map_id": 382,
+  "map_name": "Arche Valley: Depths",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Hard",
+  "hp": 4788000,
+  "exp": 23200,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5083,
+      "name": "Arachnid Claws",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    },
+    {
+      "id": 5082,
+      "name": "Arachnid Sword",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    },
+    {
+      "id": 5084,
+      "name": "Arachnidemon",
+      "type_id": 22,
+      "type_label": "[Armor Crysta]"
+    },
+    {
+      "id": 5080,
+      "name": "Arachnidemon Horn",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5079,
+      "name": "Arachnidemon Wing",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5081,
+      "name": "Evil Spirit Crystal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5089,
+      "name": "Radiant Miracle Water",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

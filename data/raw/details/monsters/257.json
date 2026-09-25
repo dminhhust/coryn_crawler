@@ -1,0 +1,76 @@
+{
+  "id": 257,
+  "name": "Resistle Merchant",
+  "level": 0,
+  "map_id": 1,
+  "map_name": "Sofya City",
+  "type_code": "C",
+  "type_label": "NPC",
+  "mode": "Normal",
+  "hp": 0,
+  "exp": 0,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 430,
+      "name": "Agile Gem",
+      "type_id": 12,
+      "type_label": "[Gem]"
+    },
+    {
+      "id": 431,
+      "name": "Dex Gem",
+      "type_id": 12,
+      "type_label": "[Gem]"
+    },
+    {
+      "id": 434,
+      "name": "Evade Gem",
+      "type_id": 12,
+      "type_label": "[Gem]"
+    },
+    {
+      "id": 433,
+      "name": "Guard Gem",
+      "type_id": 12,
+      "type_label": "[Gem]"
+    },
+    {
+      "id": 428,
+      "name": "Intellectual Gem",
+      "type_id": 12,
+      "type_label": "[Gem]"
+    },
+    {
+      "id": 432,
+      "name": "Mana Gem",
+      "type_id": 12,
+      "type_label": "[Gem]"
+    },
+    {
+      "id": 426,
+      "name": "Normal Gem",
+      "type_id": 12,
+      "type_label": "[Gem]"
+    },
+    {
+      "id": 427,
+      "name": "Strength Gem",
+      "type_id": 12,
+      "type_label": "[Gem]"
+    },
+    {
+      "id": 429,
+      "name": "Vital Gem",
+      "type_id": 12,
+      "type_label": "[Gem]"
+    }
+  ]
+}

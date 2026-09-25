@@ -1,0 +1,82 @@
+{
+  "id": 2311,
+  "name": "Bride Box",
+  "level": 0,
+  "map_id": 87,
+  "map_name": "Event",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 0,
+  "exp": 0,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2037,
+      "name": "Cara Tiara",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 2036,
+      "name": "Dark Truffle",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 4636,
+      "name": "Darling Tiara",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 3766,
+      "name": "Engagement Tiara",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 2919,
+      "name": "Jewelry Tiara",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 1606,
+      "name": "Marriage Tiara",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 2038,
+      "name": "Sauteed Lonogo Shrimp",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 2039,
+      "name": "Toss Bouquet",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5466,
+      "name": "Unity Tiara",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 2035,
+      "name": "Wedding Wine",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

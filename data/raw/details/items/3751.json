@@ -1,0 +1,39 @@
+{
+  "id": 3751,
+  "name": "Fluffy Cape",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 75,
+  "process": 4,
+  "process_amount": 37,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 79,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 17,
+      "effect_name": "MaxHP",
+      "amount": 800,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 19,
+      "effect_name": "MaxMP",
+      "amount": 400,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 53,
+      "effect_name": "Wind resistance %",
+      "amount": 10,
+      "applies_to": 0
+    }
+  ]
+}

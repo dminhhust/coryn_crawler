@@ -1,0 +1,34 @@
+{
+  "id": 293,
+  "name": "Copper Treasure Box",
+  "level": 0,
+  "map_id": 86,
+  "map_name": "Daily Stamp",
+  "type_code": "O",
+  "type_label": "Orb Shop",
+  "mode": "Normal",
+  "hp": 0,
+  "exp": 0,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 380,
+      "name": "Life Potion",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 917,
+      "name": "Orb Shard",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

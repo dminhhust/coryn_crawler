@@ -1,0 +1,88 @@
+{
+  "id": 912,
+  "name": "Nurethoth",
+  "level": 96,
+  "map_id": 102,
+  "map_name": "Gate to Another World: Front",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Nightmare",
+  "hp": 2500000,
+  "exp": 26800,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1157,
+      "name": "Cracked Face Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2545,
+      "name": "Faldios",
+      "type_id": 27,
+      "type_label": "[Katana]"
+    },
+    {
+      "id": 1164,
+      "name": "Nurethoth",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 1163,
+      "name": "Nurethoth Mask",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 1158,
+      "name": "Nurethoth's Hard Claw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1161,
+      "name": "Odd-Shaped Knife",
+      "type_id": 11,
+      "type_label": "[Dagger]"
+    },
+    {
+      "id": 1155,
+      "name": "Outer World Pebble",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1159,
+      "name": "Outer World Universe",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1160,
+      "name": "Outerworld Armor",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 1156,
+      "name": "Shining Soul Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1162,
+      "name": "Shooting Star Arrow",
+      "type_id": 7,
+      "type_label": "[Arrow]"
+    }
+  ]
+}

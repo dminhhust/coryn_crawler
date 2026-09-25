@@ -1,0 +1,64 @@
+{
+  "id": 3105,
+  "name": "Eripmav (Very Hard)",
+  "level": 275,
+  "map_id": 549,
+  "map_name": "Risus Valley: Depths",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 30000000,
+  "exp": 120000,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7402,
+      "name": "Broken Big Stake",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7411,
+      "name": "Crimson Moon Mystic Bow",
+      "type_id": 9,
+      "type_label": "[Bow]"
+    },
+    {
+      "id": 7412,
+      "name": "Crimson Moon Mystic Spear",
+      "type_id": 26,
+      "type_label": "[Halberd]"
+    },
+    {
+      "id": 7406,
+      "name": "Crimson Moon Rag",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 816,
+      "name": "Mithril Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 7413,
+      "name": "Primordial Moonlit",
+      "type_id": 21,
+      "type_label": "[Weapon Crysta]"
+    },
+    {
+      "id": 1463,
+      "name": "Sweets Box",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

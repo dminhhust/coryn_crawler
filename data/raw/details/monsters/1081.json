@@ -1,0 +1,70 @@
+{
+  "id": 1081,
+  "name": "Snowball Fight",
+  "level": 0,
+  "map_id": 87,
+  "map_name": "Event",
+  "type_code": "G",
+  "type_label": "",
+  "mode": "Normal",
+  "hp": 0,
+  "exp": 0,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2676,
+      "name": "Fur Hat",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 2675,
+      "name": "Iced Vita Plus",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 4405,
+      "name": "Orion's Sword",
+      "type_id": 27,
+      "type_label": "[Katana]"
+    },
+    {
+      "id": 2678,
+      "name": "Snow Rabbit",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 4403,
+      "name": "Snowboard",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 4402,
+      "name": "Snowboard Googles",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 2677,
+      "name": "Snowflake Headband",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 4404,
+      "name": "Snowwear",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    }
+  ]
+}

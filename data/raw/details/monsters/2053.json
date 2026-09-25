@@ -1,0 +1,46 @@
+{
+  "id": 2053,
+  "name": "Tardigrande",
+  "level": 159,
+  "map_id": 357,
+  "map_name": "Old Lufenas Mansion Ruins",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 12000,
+  "exp": 206,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4603,
+      "name": "Calcareous Tooth Stinger",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4605,
+      "name": "Corroded Tail Thorn",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4606,
+      "name": "Fruit Cap",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 4604,
+      "name": "Tardigrande Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

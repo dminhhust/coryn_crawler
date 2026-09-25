@@ -1,0 +1,46 @@
+{
+  "id": 2791,
+  "name": "Tarmuckus",
+  "level": 218,
+  "map_id": 493,
+  "map_name": "Operation Zone: Climate Control Area",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 40200,
+  "exp": 568,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6639,
+      "name": "Concentrated Tar",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6637,
+      "name": "Greasy Oil",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6638,
+      "name": "Iron Pipe",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6640,
+      "name": "Luster Staff",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    }
+  ]
+}

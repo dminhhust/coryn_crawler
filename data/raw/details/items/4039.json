@@ -1,0 +1,14 @@
+{
+  "id": 4039,
+  "name": "4th Anniv Champion Holder II",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 300,
+  "process": 6,
+  "process_amount": 35,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

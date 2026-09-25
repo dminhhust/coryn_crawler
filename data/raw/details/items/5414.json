@@ -1,0 +1,21 @@
+{
+  "id": 5414,
+  "name": "Pom Biscuit",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 1,
+  "process": 0,
+  "process_amount": 0,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 80,
+      "effect_name": "MP",
+      "amount": 150,
+      "applies_to": 0
+    }
+  ]
+}

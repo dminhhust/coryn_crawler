@@ -1,0 +1,46 @@
+{
+  "id": 1442,
+  "name": "Leedle Colon",
+  "level": 128,
+  "map_id": 261,
+  "map_name": "Rokoko Plains",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 8000,
+  "exp": 160,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3413,
+      "name": "Colon Big Leaf",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3416,
+      "name": "Colon Earrings",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 3414,
+      "name": "Colon Inner Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3415,
+      "name": "Ripe Nut",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

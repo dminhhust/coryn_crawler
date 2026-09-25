@@ -1,0 +1,14 @@
+{
+  "id": 4551,
+  "name": "Twilight Sakura Red Stone",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 10,
+  "process": 6,
+  "process_amount": 7,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

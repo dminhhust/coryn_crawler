@@ -1,0 +1,64 @@
+{
+  "id": 3153,
+  "name": "Vatudo",
+  "level": 275,
+  "map_id": 576,
+  "map_name": "Deep Sea: Deepest Zone",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Hard",
+  "hp": 14920000,
+  "exp": 59600,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7492,
+      "name": "Abyss Bow",
+      "type_id": 9,
+      "type_label": "[Bow]"
+    },
+    {
+      "id": 7491,
+      "name": "Abyss Katana",
+      "type_id": 27,
+      "type_label": "[Katana]"
+    },
+    {
+      "id": 7488,
+      "name": "Deep Grotesque Eye",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7493,
+      "name": "Vatudo",
+      "type_id": 210,
+      "type_label": "[Enhancer Crysta (Red)]"
+    },
+    {
+      "id": 7486,
+      "name": "Vatudo's Fragment",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7487,
+      "name": "Vatudo's Spiral Arm",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7489,
+      "name": "Vatudo's Tactile Hair",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

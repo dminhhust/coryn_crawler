@@ -1,0 +1,46 @@
+{
+  "id": 542,
+  "name": "Corroded Fighter",
+  "level": 88,
+  "map_id": 148,
+  "map_name": "Cradle of Soldier: Entrance",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 382,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1744,
+      "name": "Corroded Huge Arm",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1889,
+      "name": "Forehead Guard",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 1877,
+      "name": "Grudge of Soldier",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1757,
+      "name": "Strong-looking Fist",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

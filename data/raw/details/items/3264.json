@@ -1,0 +1,45 @@
+{
+  "id": 3264,
+  "name": "Usasama the Necromancer",
+  "type_id": 21,
+  "type_label": "[Weapon Crysta]",
+  "sell": 1,
+  "process": 6,
+  "process_amount": 100,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 18,
+      "effect_name": "MaxHP %",
+      "amount": -25,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 23,
+      "effect_name": "MATK %",
+      "amount": 6,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 40,
+      "effect_name": "CSPD %",
+      "amount": 12,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 71,
+      "effect_name": "Motion Speed %",
+      "amount": 3,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 165,
+      "effect_name": "Attack MP Recovery %",
+      "amount": -50,
+      "applies_to": 0
+    }
+  ]
+}

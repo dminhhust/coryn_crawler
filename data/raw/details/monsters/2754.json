@@ -1,0 +1,46 @@
+{
+  "id": 2754,
+  "name": "Galegon",
+  "level": 260,
+  "map_id": 483,
+  "map_name": "Boma Moja: Area 3",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 42627,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6545,
+      "name": "Endless Storm",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6535,
+      "name": "Flying Dragon Heart",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6534,
+      "name": "Flying Dragon Wing",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6546,
+      "name": "Galegon",
+      "type_id": 220,
+      "type_label": "[Enhancer Crysta (Green)]"
+    }
+  ]
+}

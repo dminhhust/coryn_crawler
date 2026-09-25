@@ -1,0 +1,46 @@
+{
+  "id": 1881,
+  "name": "Santabby",
+  "level": 118,
+  "map_id": 323,
+  "map_name": "Joulu House: Gift Room (Lv 100)",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 22000,
+  "exp": 464,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": true,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 243,
+      "name": "Hematite",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 4309,
+      "name": "Jingle Bells",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 4320,
+      "name": "Sacred Blue Candle",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1198,
+      "name": "White Petal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

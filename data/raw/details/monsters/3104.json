@@ -1,0 +1,64 @@
+{
+  "id": 3104,
+  "name": "Eripmav (Hard)",
+  "level": 250,
+  "map_id": 549,
+  "map_name": "Risus Valley: Depths",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 11000000,
+  "exp": 43400,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7402,
+      "name": "Broken Big Stake",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7931,
+      "name": "Crimson Moon Cape",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 7927,
+      "name": "Crimson Moon Hat",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 7406,
+      "name": "Crimson Moon Rag",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7403,
+      "name": "Eripmav",
+      "type_id": 230,
+      "type_label": "[Enhancer Crysta (Yellow)]"
+    },
+    {
+      "id": 816,
+      "name": "Mithril Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 1463,
+      "name": "Sweets Box",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

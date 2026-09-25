@@ -1,0 +1,58 @@
+{
+  "id": 1837,
+  "name": "Narumi Hina (Lv170 Raid)",
+  "level": 190,
+  "map_id": 87,
+  "map_name": "Event",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Nightmare",
+  "hp": 17500000,
+  "exp": 110000,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4251,
+      "name": "Dark Note Paper",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1977,
+      "name": "Hyper Anti-Degradation",
+      "type_id": 2,
+      "type_label": "[Refinement Support]"
+    },
+    {
+      "id": 4253,
+      "name": "Kinaco's Photo",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4250,
+      "name": "Narumi Hina",
+      "type_id": 23,
+      "type_label": "[Additional Crysta]"
+    },
+    {
+      "id": 3108,
+      "name": "Revita VI",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 4249,
+      "name": "Yashiro Azuki's Dad",
+      "type_id": 23,
+      "type_label": "[Additional Crysta]"
+    }
+  ]
+}

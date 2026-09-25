@@ -1,0 +1,27 @@
+{
+  "id": 2762,
+  "name": "Fighter's Red Loincloth",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 12,
+  "process": 5,
+  "process_amount": 13,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 17,
+      "effect_name": "MaxHP",
+      "amount": 500,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 61,
+      "effect_name": "Aggro %",
+      "amount": -15,
+      "applies_to": 0
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": 5078,
+  "name": "Sealing Talisman",
+  "type_id": 11,
+  "type_label": "[Dagger]",
+  "sell": 180,
+  "process": 5,
+  "process_amount": 90,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 72,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 23,
+      "effect_name": "MATK %",
+      "amount": 3,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 40,
+      "effect_name": "CSPD %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 55,
+      "effect_name": "Light resistance %",
+      "amount": -30,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 0,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 206,
+      "effect_name": "Light Resistance",
+      "amount": 25,
+      "applies_to": 8
+    }
+  ]
+}

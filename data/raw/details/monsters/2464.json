@@ -1,0 +1,46 @@
+{
+  "id": 2464,
+  "name": "Dryanymon",
+  "level": 196,
+  "map_id": 423,
+  "map_name": "Storage Yard: Area 1",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 32500,
+  "exp": 522,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5785,
+      "name": "Hard Wood Board",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5786,
+      "name": "Mysterious Flower",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5784,
+      "name": "Strong Branch",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5787,
+      "name": "Vine Staff",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    }
+  ]
+}

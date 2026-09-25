@@ -1,0 +1,14 @@
+{
+  "id": 7474,
+  "name": "Busted Wheel",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 24,
+  "process": 3,
+  "process_amount": 21,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

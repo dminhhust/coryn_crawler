@@ -1,0 +1,14 @@
+{
+  "id": 8123,
+  "name": "Fine Sakura Fabric",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 30,
+  "process": 4,
+  "process_amount": 30,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

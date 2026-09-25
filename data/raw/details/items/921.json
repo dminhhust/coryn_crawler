@@ -1,0 +1,21 @@
+{
+  "id": 921,
+  "name": "Special Revita",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 1,
+  "process": 0,
+  "process_amount": 0,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 84,
+      "effect_name": "HP %",
+      "amount": 25,
+      "applies_to": 0
+    }
+  ]
+}

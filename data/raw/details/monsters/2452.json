@@ -1,0 +1,70 @@
+{
+  "id": 2452,
+  "name": "Ferzen the Rock Dragon",
+  "level": 231,
+  "map_id": 420,
+  "map_name": "Guardian Forest: Giant Tree",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "NIghtmare",
+  "hp": 15855000,
+  "exp": 75750,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5753,
+      "name": "Blue Rock",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5757,
+      "name": "Ferzen the Rock Dragon",
+      "type_id": 220,
+      "type_label": "[Enhancer Crysta (Green)]"
+    },
+    {
+      "id": 816,
+      "name": "Mithril Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 5752,
+      "name": "Rock Dragon Armor Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5755,
+      "name": "Rock Dragon Bracers",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    },
+    {
+      "id": 5756,
+      "name": "Rock Dragon Heavy Shield",
+      "type_id": 17,
+      "type_label": "[Shield]"
+    },
+    {
+      "id": 5751,
+      "name": "Rock Dragon Pebble",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5754,
+      "name": "Terrestrial Tears",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

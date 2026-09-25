@@ -1,0 +1,88 @@
+{
+  "id": 2563,
+  "name": "P. Avatar (2022)",
+  "level": 400,
+  "map_id": 87,
+  "map_name": "Event",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 1000000,
+  "exp": 1,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 937,
+      "name": "Champagne",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1710,
+      "name": "Empress Mail",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 2911,
+      "name": "Energy Package",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 3530,
+      "name": "Golden Pom Liquor",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 3327,
+      "name": "Lizard Liquor",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 5192,
+      "name": "Ox Tongue Bento",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 2910,
+      "name": "P. Avatar",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 3811,
+      "name": "Salt Potato",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 6004,
+      "name": "Silver Armor Bit",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4883,
+      "name": "Super Delicious Yakitori",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1655,
+      "name": "Unicorn Helm",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    }
+  ]
+}

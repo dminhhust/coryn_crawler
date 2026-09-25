@@ -1,0 +1,46 @@
+{
+  "id": 3179,
+  "name": "Doridi",
+  "level": 244,
+  "map_id": 585,
+  "map_name": "Carretera Mar",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 0,
+  "exp": 293,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7578,
+      "name": "Mutated Membrane",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7497,
+      "name": "Sanguine Fragment",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7582,
+      "name": "Sea Cucumber",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 7585,
+      "name": "Talisman of Deep Silence",
+      "type_id": 18,
+      "type_label": "[Special]"
+    }
+  ]
+}

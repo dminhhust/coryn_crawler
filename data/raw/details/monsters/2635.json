@@ -1,0 +1,58 @@
+{
+  "id": 2635,
+  "name": "Oculasignio",
+  "level": 216,
+  "map_id": 469,
+  "map_name": "Mt. Vulcani: Summit",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Easy",
+  "hp": 470000,
+  "exp": 2110,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6197,
+      "name": "Corroded Bloody Spine",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6199,
+      "name": "Evil Crest Fan",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6198,
+      "name": "Evil Crest Shield Bit",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6203,
+      "name": "Evil Pearl",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6200,
+      "name": "Oculasignio Fan Staff",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    },
+    {
+      "id": 6201,
+      "name": "Oculasignio Knuckles",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    }
+  ]
+}

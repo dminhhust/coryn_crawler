@@ -1,0 +1,46 @@
+{
+  "id": 2438,
+  "name": "Arhinotops",
+  "level": 184,
+  "map_id": 418,
+  "map_name": "Movere Specula",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 15420,
+  "exp": 261,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 243,
+      "name": "Hematite",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 5709,
+      "name": "Herbivore's Horn",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5710,
+      "name": "Herbivore's Spine",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5711,
+      "name": "VIT+7",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    }
+  ]
+}

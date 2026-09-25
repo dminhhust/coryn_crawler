@@ -1,0 +1,46 @@
+{
+  "id": 2237,
+  "name": "Guard Colon",
+  "level": 173,
+  "map_id": 392,
+  "map_name": "Rokoko City Ruins",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 13920,
+  "exp": 236,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5245,
+      "name": "Bark Helm Fragment",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5240,
+      "name": "Catafnia Shield",
+      "type_id": 17,
+      "type_label": "[Shield]"
+    },
+    {
+      "id": 5247,
+      "name": "Colon Leaf Crest",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5246,
+      "name": "Cracked Acorn Shoe",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

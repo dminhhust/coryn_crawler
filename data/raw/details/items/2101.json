@@ -1,0 +1,39 @@
+{
+  "id": 2101,
+  "name": "Indigo Shield",
+  "type_id": 17,
+  "type_label": "[Shield]",
+  "sell": 90,
+  "process": 3,
+  "process_amount": 45,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 14,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 43,
+      "effect_name": "Critical Damage",
+      "amount": 2,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 58,
+      "effect_name": "Guard Power %",
+      "amount": 15,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 59,
+      "effect_name": "Guard Recharge %",
+      "amount": 24,
+      "applies_to": 0
+    }
+  ]
+}

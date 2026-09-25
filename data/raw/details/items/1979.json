@@ -1,0 +1,27 @@
+{
+  "id": 1979,
+  "name": "Super Magic Hammer",
+  "type_id": 2,
+  "type_label": "[Refinement Support]",
+  "sell": -1,
+  "process": -1,
+  "process_amount": -1,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 77,
+      "effect_name": "Refine Success Rate %",
+      "amount": 40,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 146,
+      "effect_name": "Equipment lost when failed",
+      "amount": 1,
+      "applies_to": 0
+    }
+  ]
+}

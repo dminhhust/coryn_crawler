@@ -1,0 +1,21 @@
+{
+  "id": 1719,
+  "name": "Magiadd IV",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 9,
+  "process": 5,
+  "process_amount": 8,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 19,
+      "effect_name": "MaxMP",
+      "amount": 400,
+      "applies_to": 0
+    }
+  ]
+}

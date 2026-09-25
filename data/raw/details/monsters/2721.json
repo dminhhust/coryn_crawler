@@ -1,0 +1,58 @@
+{
+  "id": 2721,
+  "name": "EX Prize Exchange (7th Anniv)",
+  "level": 0,
+  "map_id": 479,
+  "map_name": "Anniversary Arena: 7th Venue",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 0,
+  "exp": 0,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6494,
+      "name": "7th Anniv Beret",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 6495,
+      "name": "7th Anniv Ribbon",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 5541,
+      "name": "Anniv Festive Ticket",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6491,
+      "name": "Emotion Ticket L",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 6367,
+      "name": "Golpom 7th Anniv Medal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6484,
+      "name": "Memorial Silk",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

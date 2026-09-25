@@ -1,0 +1,52 @@
+{
+  "id": 1525,
+  "name": "Eidenliebe (Bitter)",
+  "level": 150,
+  "map_id": 103,
+  "map_name": "Maia Diela",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Nightmare",
+  "hp": 1500000,
+  "exp": 21600,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 436,
+      "name": "Adventurer's Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 3550,
+      "name": "Covenant Cacao",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3551,
+      "name": "Eidenliebe",
+      "type_id": 23,
+      "type_label": "[Additional Crysta]"
+    },
+    {
+      "id": 3549,
+      "name": "Love Cacao",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 911,
+      "name": "Orichalcum Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    }
+  ]
+}

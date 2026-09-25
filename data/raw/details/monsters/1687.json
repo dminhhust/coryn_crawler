@@ -1,0 +1,40 @@
+{
+  "id": 1687,
+  "name": "Masked Axeman",
+  "level": 150,
+  "map_id": 241,
+  "map_name": "Anniversary Arena: 3rd Venue",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Hard",
+  "hp": 960000,
+  "exp": 9200,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4004,
+      "name": "Pom 4th Anniv Medal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1716,
+      "name": "Revita V",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 2252,
+      "name": "Vita Plus V",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

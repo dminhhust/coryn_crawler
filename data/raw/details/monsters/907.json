@@ -1,0 +1,64 @@
+{
+  "id": 907,
+  "name": "Grass Dragon Yelb",
+  "level": 93,
+  "map_id": 96,
+  "map_name": "Albatif Village",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Nightmare",
+  "hp": 2195950,
+  "exp": 25200,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1118,
+      "name": "Folium Staff",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    },
+    {
+      "id": 1119,
+      "name": "Grass Dragon Yelb",
+      "type_id": 23,
+      "type_label": "[Additional Crysta]"
+    },
+    {
+      "id": 1116,
+      "name": "Grass Dragon's Petal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1115,
+      "name": "Grass Dragon's Scale",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1114,
+      "name": "Grass Dragon's Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 816,
+      "name": "Mithril Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 1117,
+      "name": "Phyto Blade",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    }
+  ]
+}

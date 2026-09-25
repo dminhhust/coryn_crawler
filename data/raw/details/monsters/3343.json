@@ -1,0 +1,46 @@
+{
+  "id": 3343,
+  "name": "Ivy",
+  "level": 222,
+  "map_id": 642,
+  "map_name": "Day Sakura Garden: Mountains",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 27090,
+  "exp": 701,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 78,
+      "name": "Flower Nectar",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 7634,
+      "name": "Sakura Branch Dagger",
+      "type_id": 11,
+      "type_label": "[Dagger]"
+    },
+    {
+      "id": 8111,
+      "name": "Sakura Tree Sap",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1063,
+      "name": "Sakuramochi",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

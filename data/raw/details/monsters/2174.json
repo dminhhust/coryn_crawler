@@ -1,0 +1,46 @@
+{
+  "id": 2174,
+  "name": "Porgy",
+  "level": 181,
+  "map_id": 378,
+  "map_name": "Ducia Coast: Area 3",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 17000,
+  "exp": 660,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4969,
+      "name": "Driftwood",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4970,
+      "name": "Fish Spirit Bone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4971,
+      "name": "Ryba Bow",
+      "type_id": 9,
+      "type_label": "[Bow]"
+    },
+    {
+      "id": 4953,
+      "name": "Transparent Fin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

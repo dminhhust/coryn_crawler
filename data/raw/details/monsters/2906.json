@@ -1,0 +1,46 @@
+{
+  "id": 2906,
+  "name": "Lavabat",
+  "level": 222,
+  "map_id": 515,
+  "map_name": "Propulsion System Zone: Power Converter",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 41676,
+  "exp": 643,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6944,
+      "name": "Chiroptera Wing",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6946,
+      "name": "Lantern Ember",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6947,
+      "name": "Reaper Bow",
+      "type_id": 9,
+      "type_label": "[Bow]"
+    },
+    {
+      "id": 6945,
+      "name": "Round Tail",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 2460,
+  "name": "Izuna",
+  "level": 184,
+  "map_id": 422,
+  "map_name": "Country Road",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 15500,
+  "exp": 235,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5775,
+      "name": "Furball Earrings",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 5774,
+      "name": "Outskirt Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5773,
+      "name": "Sharp Ear Hair",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5772,
+      "name": "Thick Tail",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": 207,
+  "name": "Steel Seed Coat",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 10,
+  "process": 2,
+  "process_amount": 11,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

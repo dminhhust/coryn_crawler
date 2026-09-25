@@ -1,0 +1,64 @@
+{
+  "id": 3297,
+  "name": "Biskyva",
+  "level": 323,
+  "map_id": 624,
+  "map_name": "Aquastida Central",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Ultimate",
+  "hp": 93920000,
+  "exp": 357720,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 8019,
+      "name": "Abyssal Greatsword",
+      "type_id": 5,
+      "type_label": "[2 Handed Sword]"
+    },
+    {
+      "id": 8020,
+      "name": "Abyssal Katana",
+      "type_id": 27,
+      "type_label": "[Katana]"
+    },
+    {
+      "id": 8021,
+      "name": "Biskyva",
+      "type_id": 220,
+      "type_label": "[Enhancer Crysta (Green)]"
+    },
+    {
+      "id": 8018,
+      "name": "Biskyva Horn",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 8016,
+      "name": "Biskyva Spine",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 8017,
+      "name": "Biskyva Web",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 8024,
+      "name": "Corroded Green Crystal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

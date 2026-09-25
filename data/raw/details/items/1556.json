@@ -1,0 +1,27 @@
+{
+  "id": 1556,
+  "name": "Muscle Oil",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 7,
+  "process": 5,
+  "process_amount": 8,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 20,
+      "effect_name": "ATK",
+      "amount": 30,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 21,
+      "effect_name": "ATK %",
+      "amount": 3,
+      "applies_to": 0
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": 718,
+  "name": "Flare Volg",
+  "level": 90,
+  "map_id": 41,
+  "map_name": "Fiery Volcano: Boss Map",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Ultimate",
+  "hp": 1200000,
+  "exp": 15000,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 70,
+      "name": "Fiery Gemstone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 300,
+      "name": "Flare Volg",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 76,
+      "name": "Flare Volg Claw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3707,
+      "name": "Flare Volg Flesh",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 77,
+      "name": "Flare Volg Horn",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 538,
+      "name": "Plate Armor",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 569,
+      "name": "Volcanic Claws",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    },
+    {
+      "id": 570,
+      "name": "Volcanic Sword",
+      "type_id": 5,
+      "type_label": "[2 Handed Sword]"
+    }
+  ]
+}

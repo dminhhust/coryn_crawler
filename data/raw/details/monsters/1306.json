@@ -1,0 +1,46 @@
+{
+  "id": 1306,
+  "name": "Galdon",
+  "level": 131,
+  "map_id": 246,
+  "map_name": "Buried Tower: Inside",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 20000,
+  "exp": 453,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3180,
+      "name": "Guardian Dagger",
+      "type_id": 11,
+      "type_label": "[Dagger]"
+    },
+    {
+      "id": 3177,
+      "name": "Huge Carapace",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3178,
+      "name": "Tough Jaw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3179,
+      "name": "Turtle Meat",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

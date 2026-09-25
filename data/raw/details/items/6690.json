@@ -1,0 +1,39 @@
+{
+  "id": 6690,
+  "name": "Corroded Dragon Claw Sword",
+  "type_id": 11,
+  "type_label": "[Dagger]",
+  "sell": 210,
+  "process": 1,
+  "process_amount": 105,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 183,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 61,
+      "effect_name": "Aggro %",
+      "amount": 20,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 68,
+      "effect_name": "Attack MP Recovery",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 173,
+      "effect_name": "Reduce Dmg (Floor) %",
+      "amount": 30,
+      "applies_to": 0
+    }
+  ]
+}

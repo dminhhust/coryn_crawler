@@ -1,0 +1,46 @@
+{
+  "id": 427,
+  "name": "Ropple",
+  "level": 61,
+  "map_id": 121,
+  "map_name": "Dunkel Valley",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 88,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 242,
+      "name": "Damascus Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 1443,
+      "name": "DEX+3",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 1442,
+      "name": "Fractured Rock",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1441,
+      "name": "Small Cotyledon",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

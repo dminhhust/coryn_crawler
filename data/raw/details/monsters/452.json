@@ -1,0 +1,46 @@
+{
+  "id": 452,
+  "name": "Hangged Mummy",
+  "level": 78,
+  "map_id": 129,
+  "map_name": "Lunagent Mountain: Area 3",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 248,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1550,
+      "name": "Big Paper Charm",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1521,
+      "name": "Scribbled Bandage",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1520,
+      "name": "Thin Fabric of Netherworld",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1522,
+      "name": "Tri Claws",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    }
+  ]
+}

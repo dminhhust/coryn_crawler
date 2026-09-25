@@ -1,0 +1,46 @@
+{
+  "id": 3358,
+  "name": "Aralago",
+  "level": 338,
+  "map_id": 656,
+  "map_name": "Grazen Forecourt",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": -1,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "Update 02/26/26",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 8202,
+      "name": "Aralago",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 8394,
+      "name": "Corroded Spher",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 8393,
+      "name": "Crystal Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 8392,
+      "name": "Mineral Claw",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    }
+  ]
+}

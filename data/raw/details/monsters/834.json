@@ -1,0 +1,46 @@
+{
+  "id": 834,
+  "name": "Cavern Rat",
+  "level": 99,
+  "map_id": 169,
+  "map_name": "Singolare Ruins: 1st Floor",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 168,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2276,
+      "name": "Broken Dagger",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2277,
+      "name": "Long Thin Tail",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2279,
+      "name": "Pointed Ore Arrow",
+      "type_id": 7,
+      "type_label": "[Arrow]"
+    },
+    {
+      "id": 2278,
+      "name": "Smoked Cheese",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

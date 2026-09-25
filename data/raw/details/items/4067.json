@@ -1,0 +1,14 @@
+{
+  "id": 4067,
+  "name": "Eryldan Wood",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 17,
+  "process": 2,
+  "process_amount": 17,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

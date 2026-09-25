@@ -1,0 +1,58 @@
+{
+  "id": 2412,
+  "name": "6th Anniversary Exchange B",
+  "level": 0,
+  "map_id": 413,
+  "map_name": "Anniversary Arena: 6th Venue",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 0,
+  "exp": 0,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5663,
+      "name": "6th Anniv Hat",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 5662,
+      "name": "6th Anniv Ribbon",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 5541,
+      "name": "Anniv Festive Ticket",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5669,
+      "name": "Emotion Ticket E",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 5540,
+      "name": "Golpom 6th Anniv Medal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5661,
+      "name": "Memorial Cloth",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

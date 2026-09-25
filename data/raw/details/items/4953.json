@@ -1,0 +1,14 @@
+{
+  "id": 4953,
+  "name": "Transparent Fin",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 16,
+  "process": 1,
+  "process_amount": 15,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

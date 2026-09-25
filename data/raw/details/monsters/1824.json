@@ -1,0 +1,46 @@
+{
+  "id": 1824,
+  "name": "Narumi Hina (Lv 110 Raid)",
+  "level": 100,
+  "map_id": 87,
+  "map_name": "Event",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Easy",
+  "hp": 86000,
+  "exp": 730,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4252,
+      "name": "Cutesy Cone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4251,
+      "name": "Dark Note Paper",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 902,
+      "name": "Revita IV",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1976,
+      "name": "Super Anti-Degradation",
+      "type_id": 2,
+      "type_label": "[Refinement Support]"
+    }
+  ]
+}

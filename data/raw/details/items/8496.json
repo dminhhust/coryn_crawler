@@ -1,0 +1,75 @@
+{
+  "id": 8496,
+  "name": "Beastmaster Scroll",
+  "type_id": 19,
+  "type_label": "[Staff]",
+  "sell": 290,
+  "process": 6,
+  "process_amount": 1000,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 620,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 23,
+      "effect_name": "MATK %",
+      "amount": 12,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 26,
+      "effect_name": "Magic Pierce %",
+      "amount": 20,
+      "applies_to": 524288
+    },
+    {
+      "effect_id": 39,
+      "effect_name": "CSPD",
+      "amount": 600,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 41,
+      "effect_name": "Critical Rate",
+      "amount": 40,
+      "applies_to": 524288
+    },
+    {
+      "effect_id": 67,
+      "effect_name": "Dark Element",
+      "amount": 1,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 70,
+      "effect_name": "Long Range Damage %",
+      "amount": 12,
+      "applies_to": 524288
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 60,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 140,
+      "effect_name": "Guard Break %",
+      "amount": 30,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 248,
+      "effect_name": "CSPD",
+      "amount": 600,
+      "applies_to": 524288
+    }
+  ]
+}

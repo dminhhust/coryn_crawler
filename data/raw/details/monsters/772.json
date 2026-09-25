@@ -1,0 +1,58 @@
+{
+  "id": 772,
+  "name": "Festival Golem Type B",
+  "level": 45,
+  "map_id": 87,
+  "map_name": "Event",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Nightmare",
+  "hp": 60000,
+  "exp": 1600,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 436,
+      "name": "Adventurer's Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 2236,
+      "name": "Bronze 2nd Anniv Medal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 254,
+      "name": "Magiadd I",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 259,
+      "name": "Regera I",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 260,
+      "name": "Revita I",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 594,
+      "name": "Vita Plus I",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

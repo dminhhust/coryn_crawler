@@ -1,0 +1,33 @@
+{
+  "id": 5971,
+  "name": "Reptilian Sword",
+  "type_id": 4,
+  "type_label": "[1 Handed Sword]",
+  "sell": 180,
+  "process": 1,
+  "process_amount": 90,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 2,
+      "effect_name": "Base ATK",
+      "amount": 289,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 111,
+      "effect_name": "Base Stability %",
+      "amount": 80,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 113,
+      "effect_name": "Potential",
+      "amount": 44,
+      "applies_to": 0
+    }
+  ]
+}

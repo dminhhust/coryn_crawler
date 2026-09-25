@@ -1,0 +1,64 @@
+{
+  "id": 1526,
+  "name": "Eidenliebe (Dark)",
+  "level": 180,
+  "map_id": 103,
+  "map_name": "Maia Diela",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Ultimate",
+  "hp": 900000,
+  "exp": 32000,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 436,
+      "name": "Adventurer's Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 3552,
+      "name": "Chocolate Gifts II",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    },
+    {
+      "id": 3550,
+      "name": "Covenant Cacao",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3551,
+      "name": "Eidenliebe",
+      "type_id": 23,
+      "type_label": "[Additional Crysta]"
+    },
+    {
+      "id": 3553,
+      "name": "Juno Shield II",
+      "type_id": 17,
+      "type_label": "[Shield]"
+    },
+    {
+      "id": 3549,
+      "name": "Love Cacao",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 911,
+      "name": "Orichalcum Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 629,
+  "name": "Ornis Demi Machina",
+  "level": 85,
+  "map_id": 163,
+  "map_name": "Artillery Defense Line",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 79,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2053,
+      "name": "Anti-Rust Oil",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2054,
+      "name": "Panzer Bow",
+      "type_id": 9,
+      "type_label": "[Bow]"
+    },
+    {
+      "id": 2051,
+      "name": "Rusted Iron Claw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2052,
+      "name": "Sharp Iron Feather",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 2907,
+  "name": "Elecita",
+  "level": 223,
+  "map_id": 515,
+  "map_name": "Propulsion System Zone: Power Converter",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 50457,
+  "exp": 792,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6950,
+      "name": "Hot Glass",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6951,
+      "name": "Iron Choker",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 6948,
+      "name": "Lampstand Fragment",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6949,
+      "name": "Small Wing",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

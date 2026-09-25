@@ -1,0 +1,39 @@
+{
+  "id": 5689,
+  "name": "Finpen Buoy",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 175,
+  "process": 5,
+  "process_amount": 87,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 75,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 17,
+      "effect_name": "MaxHP",
+      "amount": 2000,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 24,
+      "effect_name": "Stability %",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 104,
+      "effect_name": "Revive Time %",
+      "amount": -20,
+      "applies_to": 0
+    }
+  ]
+}

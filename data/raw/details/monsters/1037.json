@@ -1,0 +1,46 @@
+{
+  "id": 1037,
+  "name": "Nepenthe",
+  "level": 113,
+  "map_id": 199,
+  "map_name": "Monster's Forest: Foggy Way",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 12000,
+  "exp": 336,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2590,
+      "name": "Critical Rate +4",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 1440,
+      "name": "Flower Nectar (Bouquet)",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 2589,
+      "name": "Plant Fang",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2588,
+      "name": "Tough Vine",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

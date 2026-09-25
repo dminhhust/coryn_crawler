@@ -1,0 +1,21 @@
+{
+  "id": 4674,
+  "name": "Mock Strawberry",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 17,
+  "process": 5,
+  "process_amount": 17,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 80,
+      "effect_name": "MP",
+      "amount": 25,
+      "applies_to": 0
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 1775,
+  "name": "Refinement Ticket (+7)",
+  "type_id": 2,
+  "type_label": "[Refinement Support]",
+  "sell": 0,
+  "process": 0,
+  "process_amount": 0,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 137,
+      "effect_name": "When succeed on refining, item's refinement becomes",
+      "amount": 7,
+      "applies_to": 0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": 315,
+  "name": "Viscum (Hanami 2016)",
+  "level": 30,
+  "map_id": 87,
+  "map_name": "Event",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": -1,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1077,
+      "name": "Adventurer's Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 1077,
+      "name": "Adventurer's Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 1077,
+      "name": "Adventurer's Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 1075,
+      "name": "Broken Sakura Branch",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1076,
+      "name": "Sakura Crystal Fragment",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1078,
+      "name": "Viscum",
+      "type_id": 24,
+      "type_label": "[Special Crysta]"
+    }
+  ]
+}

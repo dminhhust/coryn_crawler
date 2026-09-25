@@ -1,0 +1,52 @@
+{
+  "id": 2115,
+  "name": "Super Vanilla Potum",
+  "level": 195,
+  "map_id": 367,
+  "map_name": "Anniversary Arena: 5th Venue",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 45000,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5317,
+      "name": "Fur Collar",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 4850,
+      "name": "Revita VII",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 4889,
+      "name": "Skirt Belt",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 4888,
+      "name": "Straye Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 2252,
+      "name": "Vita Plus V",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

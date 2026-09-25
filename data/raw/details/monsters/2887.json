@@ -1,0 +1,46 @@
+{
+  "id": 2887,
+  "name": "Flying Egg",
+  "level": 181,
+  "map_id": 512,
+  "map_name": "Sable Plains",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 13900,
+  "exp": 229,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6848,
+      "name": "Egg Sable",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1184,
+      "name": "Hard Eggshell",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6847,
+      "name": "Rich-Tasting Egg",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6849,
+      "name": "Sable Bracelet",
+      "type_id": 18,
+      "type_label": "[Special]"
+    }
+  ]
+}

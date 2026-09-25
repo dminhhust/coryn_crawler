@@ -1,0 +1,14 @@
+{
+  "id": 3169,
+  "name": "Mysterious Cube",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 17,
+  "process": 3,
+  "process_amount": 17,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

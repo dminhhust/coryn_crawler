@@ -1,0 +1,14 @@
+{
+  "id": 4121,
+  "name": "Kinote Slime Mold",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 17,
+  "process": 5,
+  "process_amount": 17,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

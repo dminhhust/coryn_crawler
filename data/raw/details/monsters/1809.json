@@ -1,0 +1,46 @@
+{
+  "id": 1809,
+  "name": "Sorcerabbit",
+  "level": 158,
+  "map_id": 313,
+  "map_name": "Zarth's Mansion: Study",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 285,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": true,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4062,
+      "name": "Fluffy Soft Fur",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4187,
+      "name": "Mini Witch Hat",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 4176,
+      "name": "Moving Carrot Cake",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 4063,
+      "name": "Racket Tail",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

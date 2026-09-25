@@ -1,0 +1,136 @@
+{
+  "id": 1291,
+  "name": "Venena Coenubia",
+  "level": 150,
+  "map_id": 242,
+  "map_name": "Ultimea Palace: Throne",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 30000,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3123,
+      "name": "Cracked Throne",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3124,
+      "name": "Lil Accessory Chip",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3139,
+      "name": "Lil Empress Arrow",
+      "type_id": 7,
+      "type_label": "[Arrow]"
+    },
+    {
+      "id": 3128,
+      "name": "Lil Empress Bow",
+      "type_id": 9,
+      "type_label": "[Bow]"
+    },
+    {
+      "id": 3129,
+      "name": "Lil Empress Bowgun",
+      "type_id": 10,
+      "type_label": "[Bowgun]"
+    },
+    {
+      "id": 3125,
+      "name": "Lil Empress Cloth Piece",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3140,
+      "name": "Lil Empress Crystal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3138,
+      "name": "Lil Empress Dagger",
+      "type_id": 11,
+      "type_label": "[Dagger]"
+    },
+    {
+      "id": 3141,
+      "name": "Lil Empress Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 3127,
+      "name": "Lil Empress Greatsword",
+      "type_id": 5,
+      "type_label": "[2 Handed Sword]"
+    },
+    {
+      "id": 3133,
+      "name": "Lil Empress Halberd",
+      "type_id": 26,
+      "type_label": "[Halberd]"
+    },
+    {
+      "id": 3136,
+      "name": "Lil Empress Horn",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3134,
+      "name": "Lil Empress Katana",
+      "type_id": 27,
+      "type_label": "[Katana]"
+    },
+    {
+      "id": 3132,
+      "name": "Lil Empress Knuckle",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    },
+    {
+      "id": 3131,
+      "name": "Lil Empress Magic Device",
+      "type_id": 15,
+      "type_label": "[Magic Device]"
+    },
+    {
+      "id": 3137,
+      "name": "Lil Empress Shield",
+      "type_id": 17,
+      "type_label": "[Shield]"
+    },
+    {
+      "id": 3130,
+      "name": "Lil Empress Staff",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    },
+    {
+      "id": 3126,
+      "name": "Lil Empress Sword",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    },
+    {
+      "id": 3135,
+      "name": "Venena",
+      "type_id": 24,
+      "type_label": "[Special Crysta]"
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "id": 1950,
+  "name": "Supply Depot",
+  "level": 0,
+  "map_id": 339,
+  "map_name": "Dikkit Sector",
+  "type_code": "C",
+  "type_label": "NPC",
+  "mode": "Normal",
+  "hp": 0,
+  "exp": 0,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 854,
+      "name": "Dark Gem",
+      "type_id": 12,
+      "type_label": "[Gem]"
+    },
+    {
+      "id": 4447,
+      "name": "Dikkit Sector",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 852,
+      "name": "Earth Gem",
+      "type_id": 12,
+      "type_label": "[Gem]"
+    },
+    {
+      "id": 1355,
+      "name": "El Scaro",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 849,
+      "name": "Fire Gem",
+      "type_id": 12,
+      "type_label": "[Gem]"
+    },
+    {
+      "id": 2640,
+      "name": "Force Gem",
+      "type_id": 12,
+      "type_label": "[Gem]"
+    },
+    {
+      "id": 2642,
+      "name": "Hora Diomedea",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 853,
+      "name": "Light Gem",
+      "type_id": 12,
+      "type_label": "[Gem]"
+    },
+    {
+      "id": 1287,
+      "name": "Magiadd III",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1285,
+      "name": "Regera III",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 589,
+      "name": "Revita III",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 902,
+      "name": "Revita IV",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1716,
+      "name": "Revita V",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 266,
+      "name": "Save Point",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 268,
+      "name": "Sofya City",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1533,
+      "name": "Vaccine III",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 1286,
+      "name": "Vita Plus III",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 850,
+      "name": "Water Gem",
+      "type_id": 12,
+      "type_label": "[Gem]"
+    },
+    {
+      "id": 851,
+      "name": "Wind Gem",
+      "type_id": 12,
+      "type_label": "[Gem]"
+    }
+  ]
+}

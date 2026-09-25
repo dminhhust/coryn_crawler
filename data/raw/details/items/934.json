@@ -1,0 +1,21 @@
+{
+  "id": 934,
+  "name": "Heart Chocolate (traded)",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 0,
+  "process": 0,
+  "process_amount": 0,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 79,
+      "effect_name": "HP",
+      "amount": 300,
+      "applies_to": 0
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 2486,
+  "name": "Manshadow",
+  "level": 160,
+  "map_id": 427,
+  "map_name": "Manor of Surprises",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 28300,
+  "exp": 457,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1043,
+      "name": "Lost Cane",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5893,
+      "name": "Mischievous Pocket Watch",
+      "type_id": 18,
+      "type_label": "[Special]"
+    },
+    {
+      "id": 1025,
+      "name": "Polyester Cloth",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5892,
+      "name": "Pumpkin Chips",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

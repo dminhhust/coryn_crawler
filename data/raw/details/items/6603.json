@@ -1,0 +1,14 @@
+{
+  "id": 6603,
+  "name": "Moonshade Candy",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 21,
+  "process": 6,
+  "process_amount": 41,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

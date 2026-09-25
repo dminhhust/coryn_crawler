@@ -1,0 +1,40 @@
+{
+  "id": 1773,
+  "name": "Mitta Tret",
+  "level": 50,
+  "map_id": 305,
+  "map_name": "Otsukimi Event Venue: Crater Zone",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 2000,
+  "exp": 60,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": true,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3509,
+      "name": "Cute Tail",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1568,
+      "name": "Fleecy Fur",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3244,
+      "name": "Otsukimi Dango",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

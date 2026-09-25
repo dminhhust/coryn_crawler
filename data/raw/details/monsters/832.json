@@ -1,0 +1,46 @@
+{
+  "id": 832,
+  "name": "Slum Potum",
+  "level": 89,
+  "map_id": 168,
+  "map_name": "Klaspe Slum",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 151,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2272,
+      "name": "Dirty Potum Hair",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2273,
+      "name": "Pine Cone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2274,
+      "name": "Potum Ear",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2275,
+      "name": "VIT+4",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    }
+  ]
+}

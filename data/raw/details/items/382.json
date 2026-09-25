@@ -1,0 +1,21 @@
+{
+  "id": 382,
+  "name": "Revive Droplet",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 0,
+  "process": 0,
+  "process_amount": 0,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 97,
+      "effect_name": "Ignores the resurrection time",
+      "amount": 0,
+      "applies_to": 0
+    }
+  ]
+}

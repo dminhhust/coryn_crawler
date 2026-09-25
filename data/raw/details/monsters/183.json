@@ -1,0 +1,52 @@
+{
+  "id": 183,
+  "name": "Voda Roar",
+  "level": 37,
+  "map_id": 52,
+  "map_name": "Lutaros Cavern Entrance",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 1700,
+  "exp": 50,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 45,
+      "name": "Clear Water",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 56,
+      "name": "Crystal of Flowing Water",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 67,
+      "name": "Fairy Feather",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 485,
+      "name": "Headband",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 316,
+      "name": "MP+100",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    }
+  ]
+}

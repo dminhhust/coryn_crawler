@@ -1,0 +1,21 @@
+{
+  "id": 2550,
+  "name": "Perro",
+  "type_id": 23,
+  "type_label": "[Additional Crysta]",
+  "sell": 1,
+  "process": 6,
+  "process_amount": 2,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 96,
+      "effect_name": "Drop Rate %",
+      "amount": 1,
+      "applies_to": 0
+    }
+  ]
+}

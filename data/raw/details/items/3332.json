@@ -1,0 +1,27 @@
+{
+  "id": 3332,
+  "name": "Lizard Dango",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 19,
+  "process": 5,
+  "process_amount": 19,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 27,
+      "effect_name": "DEF",
+      "amount": 100,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 29,
+      "effect_name": "MDEF",
+      "amount": -100,
+      "applies_to": 0
+    }
+  ]
+}

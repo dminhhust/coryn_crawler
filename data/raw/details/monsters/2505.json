@@ -1,0 +1,46 @@
+{
+  "id": 2505,
+  "name": "Anti-Xmas Killer Blade",
+  "level": 161,
+  "map_id": 443,
+  "map_name": "Noeliel Castle: B3F (150-170)",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 630,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5935,
+      "name": "Dull Crest",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3592,
+      "name": "Laurel Staff",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    },
+    {
+      "id": 4950,
+      "name": "Phantom Cloth",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3789,
+      "name": "Reaper Blade",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": 4139,
+  "name": "Archer Quiver",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 82,
+  "process": 2,
+  "process_amount": 41,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 90,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 34,
+      "effect_name": "Accuracy %",
+      "amount": 20,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 44,
+      "effect_name": "Critical Damage %",
+      "amount": 6,
+      "applies_to": 16
+    },
+    {
+      "effect_id": 70,
+      "effect_name": "Long Range Damage %",
+      "amount": 6,
+      "applies_to": 32
+    }
+  ]
+}

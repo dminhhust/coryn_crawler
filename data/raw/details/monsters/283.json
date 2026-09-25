@@ -1,0 +1,46 @@
+{
+  "id": 283,
+  "name": "Crow Destroyer",
+  "level": 43,
+  "map_id": 80,
+  "map_name": "Figo's Manor",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 43,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 798,
+      "name": "Broken Woodsman Axe",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 797,
+      "name": "Dried Straw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 817,
+      "name": "Google Hat",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 796,
+      "name": "Hard Wood",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

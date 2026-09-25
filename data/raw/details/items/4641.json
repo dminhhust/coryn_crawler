@@ -1,0 +1,27 @@
+{
+  "id": 4641,
+  "name": "Barrier Analyzer Lithograph",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 15,
+  "process": 5,
+  "process_amount": 16,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 23,
+      "effect_name": "MATK %",
+      "amount": 3,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 26,
+      "effect_name": "Magic Pierce %",
+      "amount": 10,
+      "applies_to": 0
+    }
+  ]
+}

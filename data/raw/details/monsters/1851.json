@@ -1,0 +1,46 @@
+{
+  "id": 1851,
+  "name": "Floragonet",
+  "level": 159,
+  "map_id": 316,
+  "map_name": "Fractum Sector: Area 1",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 16000,
+  "exp": 412,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4289,
+      "name": "Broken Stem",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4287,
+      "name": "Horn-Like Bud",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4290,
+      "name": "Serein Arrow",
+      "type_id": 7,
+      "type_label": "[Arrow]"
+    },
+    {
+      "id": 4288,
+      "name": "Torn Necklace",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

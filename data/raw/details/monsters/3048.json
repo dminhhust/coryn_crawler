@@ -1,0 +1,21 @@
+{
+  "id": 3048,
+  "name": "EX Arena Entry (8th Anniv)",
+  "level": 0,
+  "map_id": 538,
+  "map_name": "Anniversary Arena: 8th Venue",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": -1,
+  "element_id": -1,
+  "element_label": "Unknown",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": []
+}

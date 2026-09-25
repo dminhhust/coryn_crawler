@@ -1,0 +1,46 @@
+{
+  "id": 3218,
+  "name": "Magmanus",
+  "level": 250,
+  "map_id": 593,
+  "map_name": "Perdida Wasteland",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 0,
+  "exp": 375,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7704,
+      "name": "Broken Rock Arm",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7705,
+      "name": "Fiery Horn",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7706,
+      "name": "Lava Rock",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7707,
+      "name": "Melting Knife",
+      "type_id": 11,
+      "type_label": "[Dagger]"
+    }
+  ]
+}

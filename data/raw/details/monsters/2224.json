@@ -1,0 +1,21 @@
+{
+  "id": 2224,
+  "name": "Bonivio (New Year Event 2021)",
+  "level": 30,
+  "map_id": 87,
+  "map_name": "Event",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 40000,
+  "exp": -1,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": true,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": []
+}

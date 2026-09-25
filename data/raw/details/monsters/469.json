@@ -1,0 +1,46 @@
+{
+  "id": 469,
+  "name": "Pawn",
+  "level": 78,
+  "map_id": 132,
+  "map_name": "Fort Solfini: Wall",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 6500,
+  "exp": 152,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1592,
+      "name": "Broken Shield",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1593,
+      "name": "Broken Spear",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1594,
+      "name": "HP+300",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 1591,
+      "name": "Torn Green Cloth",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

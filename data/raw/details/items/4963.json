@@ -1,0 +1,14 @@
+{
+  "id": 4963,
+  "name": "Village Building Supply",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 20,
+  "process": 2,
+  "process_amount": 21,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

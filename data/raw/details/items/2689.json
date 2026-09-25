@@ -1,0 +1,39 @@
+{
+  "id": 2689,
+  "name": "Magic Crystal Armor",
+  "type_id": 8,
+  "type_label": "[Armor]",
+  "sell": 30,
+  "process": 6,
+  "process_amount": 15,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 24,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 19,
+      "effect_name": "MaxMP",
+      "amount": 750,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 31,
+      "effect_name": "Physical Resistance %",
+      "amount": -25,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 32,
+      "effect_name": "Magic Resistance %",
+      "amount": -25,
+      "applies_to": 0
+    }
+  ]
+}

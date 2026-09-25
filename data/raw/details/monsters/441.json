@@ -1,0 +1,40 @@
+{
+  "id": 441,
+  "name": "Grylle",
+  "level": 90,
+  "map_id": 110,
+  "map_name": "Wanderer's Plain",
+  "type_code": "M",
+  "type_label": "Mini Boss",
+  "mode": "Normal",
+  "hp": 150000,
+  "exp": 1720,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1531,
+      "name": "Eyepatch (Cat)",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 1530,
+      "name": "Grylle",
+      "type_id": 23,
+      "type_label": "[Additional Crysta]"
+    },
+    {
+      "id": 1532,
+      "name": "Strengthened Armor",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

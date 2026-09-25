@@ -1,0 +1,46 @@
+{
+  "id": 3322,
+  "name": "Corey",
+  "level": 232,
+  "map_id": 632,
+  "map_name": "Tower of Clamor: Area 1 (230-234)",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 59120,
+  "exp": 924,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7479,
+      "name": "Clamor Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7643,
+      "name": "Evil Gaze Arrow",
+      "type_id": 7,
+      "type_label": "[Arrow]"
+    },
+    {
+      "id": 8036,
+      "name": "Red Crystaline Lens",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7106,
+      "name": "Smooth Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

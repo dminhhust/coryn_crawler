@@ -1,0 +1,70 @@
+{
+  "id": 1240,
+  "name": "Goleps",
+  "level": 160,
+  "map_id": 51,
+  "map_name": "Yorl Highlands",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 1500000,
+  "exp": 9000,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3114,
+      "name": "1st Anniv Weapon Box",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 3115,
+      "name": "2nd Anniv Weapon Box",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 3113,
+      "name": "Goleps",
+      "type_id": 220,
+      "type_label": "[Enhancer Crysta (Green)]"
+    },
+    {
+      "id": 102,
+      "name": "Hard Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3111,
+      "name": "Hot Pebble",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 816,
+      "name": "Mithril Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 157,
+      "name": "Pebble",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3112,
+      "name": "Ribbon Charm",
+      "type_id": 15,
+      "type_label": "[Magic Device]"
+    }
+  ]
+}

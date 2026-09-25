@@ -1,0 +1,27 @@
+{
+  "id": 2043,
+  "name": "Marriage Gift (Traded)",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 3000,
+  "process": 6,
+  "process_amount": 300,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 14,
+      "effect_name": "Natural HP Regen %",
+      "amount": 100,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 96,
+      "effect_name": "Drop Rate %",
+      "amount": 1,
+      "applies_to": 0
+    }
+  ]
+}

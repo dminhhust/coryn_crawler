@@ -1,0 +1,46 @@
+{
+  "id": 1457,
+  "name": "Snowman",
+  "level": 139,
+  "map_id": 264,
+  "map_name": "Noeliel Castle 2F (120-140)",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 15000,
+  "exp": 303,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": true,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3458,
+      "name": "Chipped Scoop",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3459,
+      "name": "Navida Talisman",
+      "type_id": 18,
+      "type_label": "[Special]"
+    },
+    {
+      "id": 3456,
+      "name": "Sacred Snow",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3457,
+      "name": "Torn Scarf",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

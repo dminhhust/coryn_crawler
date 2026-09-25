@@ -1,0 +1,14 @@
+{
+  "id": 6992,
+  "name": "Stone Carapace",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 21,
+  "process": 1,
+  "process_amount": 21,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

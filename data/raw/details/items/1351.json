@@ -1,0 +1,27 @@
+{
+  "id": 1351,
+  "name": "Explorer's Hat",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 0,
+  "process": 0,
+  "process_amount": 0,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 10,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 36,
+      "effect_name": "Dodge %",
+      "amount": 10,
+      "applies_to": 0
+    }
+  ]
+}

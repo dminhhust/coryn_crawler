@@ -1,0 +1,46 @@
+{
+  "id": 2926,
+  "name": "Petraceras",
+  "level": 217,
+  "map_id": 519,
+  "map_name": "Kabla Jabali",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 21900,
+  "exp": 310,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6994,
+      "name": "Deadly Claw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6993,
+      "name": "Growing Ore",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 6995,
+      "name": "Rock Horn Beast Bangle",
+      "type_id": 18,
+      "type_label": "[Special]"
+    },
+    {
+      "id": 6992,
+      "name": "Stone Carapace",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

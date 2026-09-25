@@ -1,0 +1,39 @@
+{
+  "id": 670,
+  "name": "Hunter's Garb",
+  "type_id": 8,
+  "type_label": "[Armor]",
+  "sell": 20,
+  "process": 1,
+  "process_amount": 10,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 18,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 9,
+      "effect_name": "AGI",
+      "amount": 2,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 11,
+      "effect_name": "DEX",
+      "amount": 2,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 70,
+      "effect_name": "Long Range Damage %",
+      "amount": 1,
+      "applies_to": 0
+    }
+  ]
+}

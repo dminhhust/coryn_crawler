@@ -1,0 +1,46 @@
+{
+  "id": 1100,
+  "name": "Lyark Specialist",
+  "level": 119,
+  "map_id": 215,
+  "map_name": "Brahe Laboratory: 2nd Building",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 15000,
+  "exp": 286,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2742,
+      "name": "Broken Syringe",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2715,
+      "name": "Imperial Sword",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    },
+    {
+      "id": 2744,
+      "name": "Lyark Tranquilizer",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 2743,
+      "name": "Ox Fabric",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

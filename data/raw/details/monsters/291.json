@@ -1,0 +1,82 @@
+{
+  "id": 291,
+  "name": "Material Points",
+  "level": 0,
+  "map_id": 86,
+  "map_name": "Daily Stamp",
+  "type_code": "O",
+  "type_label": "Orb Shop",
+  "mode": "Normal",
+  "hp": 0,
+  "exp": 0,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 929,
+      "name": "Beast Box I",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 915,
+      "name": "Beast Box II",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 930,
+      "name": "Cloth Box I",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 914,
+      "name": "Cloth Box II",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 927,
+      "name": "Medicine Box I",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 916,
+      "name": "Medicine Box II",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 926,
+      "name": "Metal Box I",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 913,
+      "name": "Metal Box II",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 928,
+      "name": "Wood Box I",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 912,
+      "name": "Wood Box II",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

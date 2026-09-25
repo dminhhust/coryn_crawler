@@ -1,0 +1,21 @@
+{
+  "id": 5071,
+  "name": "Frosch Mushroom",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 22,
+  "process": 5,
+  "process_amount": 21,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 35,
+      "effect_name": "Dodge",
+      "amount": 50,
+      "applies_to": 0
+    }
+  ]
+}

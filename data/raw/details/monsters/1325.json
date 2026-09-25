@@ -1,0 +1,46 @@
+{
+  "id": 1325,
+  "name": "Healily",
+  "level": 119,
+  "map_id": 248,
+  "map_name": "Tolbas GrassLand",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 6500,
+  "exp": 130,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3236,
+      "name": "Bitter Root",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3232,
+      "name": "Healing Mint",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 3211,
+      "name": "Mage Cape",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 3231,
+      "name": "Withered Herb",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

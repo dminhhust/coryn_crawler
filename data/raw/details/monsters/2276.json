@@ -1,0 +1,46 @@
+{
+  "id": 2276,
+  "name": "†Dark Lord†",
+  "level": 220,
+  "map_id": 87,
+  "map_name": "Event",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 1500000,
+  "exp": 50000,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5380,
+      "name": "Gift from the Syndicate",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 5377,
+      "name": "Panchos Kita Makura",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 5379,
+      "name": "Yashiro Azuki's Mom II",
+      "type_id": 230,
+      "type_label": "[Enhancer Crysta (Yellow)]"
+    },
+    {
+      "id": 5378,
+      "name": "†Dark Lord†",
+      "type_id": 230,
+      "type_label": "[Enhancer Crysta (Yellow)]"
+    }
+  ]
+}

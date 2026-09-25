@@ -1,0 +1,14 @@
+{
+  "id": 5390,
+  "name": "Alcoholic Petal",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 23,
+  "process": 5,
+  "process_amount": 23,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

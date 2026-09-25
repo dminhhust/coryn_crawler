@@ -1,0 +1,27 @@
+{
+  "id": 3528,
+  "name": "Aggro Tonic",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": -1,
+  "process": 5,
+  "process_amount": -1,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 19,
+      "effect_name": "MaxMP",
+      "amount": 100,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 61,
+      "effect_name": "Aggro %",
+      "amount": 20,
+      "applies_to": 0
+    }
+  ]
+}

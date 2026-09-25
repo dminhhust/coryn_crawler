@@ -1,0 +1,14 @@
+{
+  "id": 6736,
+  "name": "Stolen Box (Red)",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 1,
+  "process": 5,
+  "process_amount": 2,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

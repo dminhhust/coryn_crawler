@@ -1,0 +1,28 @@
+{
+  "id": 2199,
+  "name": "Valentine Event (All Monsters)",
+  "level": 0,
+  "map_id": 87,
+  "map_name": "Event",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 0,
+  "exp": 0,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 938,
+      "name": "Red Wrapping Ribbon",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

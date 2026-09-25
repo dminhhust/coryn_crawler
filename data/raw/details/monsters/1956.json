@@ -1,0 +1,46 @@
+{
+  "id": 1956,
+  "name": "Strange Tentacle",
+  "level": 167,
+  "map_id": 341,
+  "map_name": "Avant Plastida: Area 2",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 10000,
+  "exp": 223,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4449,
+      "name": "Creasy Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4451,
+      "name": "Mutated Wood",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4450,
+      "name": "Perilous Essence",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4452,
+      "name": "Supple Ring",
+      "type_id": 18,
+      "type_label": "[Special]"
+    }
+  ]
+}

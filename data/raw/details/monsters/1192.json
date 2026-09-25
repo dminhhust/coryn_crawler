@@ -1,0 +1,46 @@
+{
+  "id": 1192,
+  "name": "High Tigris",
+  "level": 129,
+  "map_id": 236,
+  "map_name": "Ultimea Palace: Demi Machina Storage",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 16000,
+  "exp": 355,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2932,
+      "name": "Hard Armor Bit",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2933,
+      "name": "Hard Beast Fang",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2934,
+      "name": "Machina Blood",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2935,
+      "name": "Rifled Musket",
+      "type_id": 10,
+      "type_label": "[Bowgun]"
+    }
+  ]
+}

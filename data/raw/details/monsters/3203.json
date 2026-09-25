@@ -1,0 +1,46 @@
+{
+  "id": 3203,
+  "name": "Delphi",
+  "level": 244,
+  "map_id": 592,
+  "map_name": "Menabra Plains",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 0,
+  "exp": 317,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7663,
+      "name": "Flower Crystal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7662,
+      "name": "Menabra Wood",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7661,
+      "name": "Shattered Petrified Wood",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7660,
+      "name": "VIT+8",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    }
+  ]
+}

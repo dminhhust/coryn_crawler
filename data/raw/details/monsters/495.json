@@ -1,0 +1,46 @@
+{
+  "id": 495,
+  "name": "Paratized Dog",
+  "level": 69,
+  "map_id": 136,
+  "map_name": "Dark Wasteland",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 4500,
+  "exp": 104,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1752,
+      "name": "AGI+3",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 1750,
+      "name": "Corroded Beast Nail",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1751,
+      "name": "Corroded Fur",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1745,
+      "name": "Dark Crystal Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 7626,
+  "name": "Melty Chocolate Glasses",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 112,
+  "process": 5,
+  "process_amount": 56,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 55,
+      "effect_name": "Light resistance %",
+      "amount": 30,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 61,
+      "effect_name": "Aggro %",
+      "amount": 30,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 126,
+      "effect_name": "Reflect %",
+      "amount": 30,
+      "applies_to": 0
+    }
+  ]
+}

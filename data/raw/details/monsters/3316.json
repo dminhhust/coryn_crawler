@@ -1,0 +1,46 @@
+{
+  "id": 3316,
+  "name": "Galactopi",
+  "level": 231,
+  "map_id": 632,
+  "map_name": "Tower of Clamor: Area 1 (230-234)",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 67630,
+  "exp": 1070,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7458,
+      "name": "Aquila Glaive",
+      "type_id": 26,
+      "type_label": "[Halberd]"
+    },
+    {
+      "id": 4901,
+      "name": "Geometric Metal Bit",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 816,
+      "name": "Mithril Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 3797,
+      "name": "Shining Monoeye",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

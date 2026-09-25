@@ -1,0 +1,14 @@
+{
+  "id": 1750,
+  "name": "Corroded Beast Nail",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 9,
+  "process": 1,
+  "process_amount": 10,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

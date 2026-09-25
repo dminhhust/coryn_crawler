@@ -1,0 +1,46 @@
+{
+  "id": 2259,
+  "name": "Crow Killer",
+  "level": 130,
+  "map_id": 393,
+  "map_name": "Cookie Road",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 21800,
+  "exp": 390,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": true,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5297,
+      "name": "Cake Flour",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3415,
+      "name": "Ripe Nut",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 5301,
+      "name": "Round Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5272,
+      "name": "Scarecrow Marker",
+      "type_id": 18,
+      "type_label": "[Special]"
+    }
+  ]
+}

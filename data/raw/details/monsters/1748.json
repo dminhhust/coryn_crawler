@@ -1,0 +1,46 @@
+{
+  "id": 1748,
+  "name": "Antbee",
+  "level": 154,
+  "map_id": 302,
+  "map_name": "Eryldan Street: Area 2",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 16000,
+  "exp": 392,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4072,
+      "name": "Crescent Blade",
+      "type_id": 26,
+      "type_label": "[Halberd]"
+    },
+    {
+      "id": 4071,
+      "name": "Sharp Poison Needle",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4050,
+      "name": "Tasty Honey",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 4070,
+      "name": "Tough Insect Wings",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

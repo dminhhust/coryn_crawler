@@ -1,0 +1,46 @@
+{
+  "id": 2659,
+  "name": "Roar",
+  "level": 183,
+  "map_id": 471,
+  "map_name": "Celesa's Tree Garden",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 750,
+  "element_id": 6,
+  "element_label": "Light",
+  "tameable": true,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4531,
+      "name": "Fish Bone Cracker",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 78,
+      "name": "Flower Nectar",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 6568,
+      "name": "Moonlight Shield II",
+      "type_id": 17,
+      "type_label": "[Shield]"
+    },
+    {
+      "id": 1065,
+      "name": "Toram Liquor",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 290,
+  "name": "Handy",
+  "level": 0,
+  "map_id": 86,
+  "map_name": "Daily Stamp",
+  "type_code": "O",
+  "type_label": "Orb Shop",
+  "mode": "Normal",
+  "hp": 0,
+  "exp": 0,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 364,
+      "name": "Anti-Degradation",
+      "type_id": 2,
+      "type_label": "[Refinement Support]"
+    },
+    {
+      "id": 242,
+      "name": "Damascus Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 131,
+      "name": "Magic Hammer",
+      "type_id": 2,
+      "type_label": "[Refinement Support]"
+    },
+    {
+      "id": 332,
+      "name": "Mithril",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 363,
+  "name": "Resurrection Gem",
+  "type_id": 12,
+  "type_label": "[Gem]",
+  "sell": 0,
+  "process": 0,
+  "process_amount": 0,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 104,
+      "effect_name": "Revive Time %",
+      "amount": -25,
+      "applies_to": 0
+    }
+  ]
+}

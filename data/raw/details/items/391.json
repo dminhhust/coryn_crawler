@@ -1,0 +1,21 @@
+{
+  "id": 391,
+  "name": "Agile Gem +",
+  "type_id": 12,
+  "type_label": "[Gem]",
+  "sell": 0,
+  "process": 0,
+  "process_amount": 0,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 10,
+      "effect_name": "AGI %",
+      "amount": 30,
+      "applies_to": 0
+    }
+  ]
+}

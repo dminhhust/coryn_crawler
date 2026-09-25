@@ -1,0 +1,21 @@
+{
+  "id": 4158,
+  "name": "Revita (Alchemy)",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 1,
+  "process": 0,
+  "process_amount": 0,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 79,
+      "effect_name": "HP",
+      "amount": 400,
+      "applies_to": 0
+    }
+  ]
+}

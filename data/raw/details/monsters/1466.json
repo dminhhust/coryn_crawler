@@ -1,0 +1,52 @@
+{
+  "id": 1466,
+  "name": "Freeze Ghost",
+  "level": 101,
+  "map_id": 267,
+  "map_name": "Noeliel Castle: 2F (80-100)",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 12000,
+  "exp": 326,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3216,
+      "name": "Broken Lantern",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2268,
+      "name": "Filthy Cloth",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3449,
+      "name": "Frozen Wood",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2126,
+      "name": "Layered Magic System",
+      "type_id": 15,
+      "type_label": "[Magic Device]"
+    },
+    {
+      "id": 2017,
+      "name": "Pollaxe",
+      "type_id": 26,
+      "type_label": "[Halberd]"
+    }
+  ]
+}

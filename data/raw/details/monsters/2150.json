@@ -1,0 +1,136 @@
+{
+  "id": 2150,
+  "name": "Venena Metacoenubia",
+  "level": 215,
+  "map_id": 371,
+  "map_name": "Neo Plastida",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Nightmare",
+  "hp": -1,
+  "exp": 285000,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4913,
+      "name": "Demon Empress Arrow",
+      "type_id": 7,
+      "type_label": "[Arrow]"
+    },
+    {
+      "id": 4917,
+      "name": "Demon Empress Bow",
+      "type_id": 9,
+      "type_label": "[Bow]"
+    },
+    {
+      "id": 4923,
+      "name": "Demon Empress Bowgun",
+      "type_id": 10,
+      "type_label": "[Bowgun]"
+    },
+    {
+      "id": 4912,
+      "name": "Demon Empress Dagger",
+      "type_id": 11,
+      "type_label": "[Dagger]"
+    },
+    {
+      "id": 4914,
+      "name": "Demon Empress Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 4922,
+      "name": "Demon Empress Greatsword",
+      "type_id": 5,
+      "type_label": "[2 Handed Sword]"
+    },
+    {
+      "id": 4926,
+      "name": "Demon Empress Katana",
+      "type_id": 27,
+      "type_label": "[Katana]"
+    },
+    {
+      "id": 4919,
+      "name": "Demon Empress Knuckles",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    },
+    {
+      "id": 4924,
+      "name": "Demon Empress Magic Device",
+      "type_id": 15,
+      "type_label": "[Magic Device]"
+    },
+    {
+      "id": 4925,
+      "name": "Demon Empress Shield",
+      "type_id": 17,
+      "type_label": "[Shield]"
+    },
+    {
+      "id": 4920,
+      "name": "Demon Empress Spear",
+      "type_id": 26,
+      "type_label": "[Halberd]"
+    },
+    {
+      "id": 4918,
+      "name": "Demon Empress Staff",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    },
+    {
+      "id": 4916,
+      "name": "Demon Empress Sword",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    },
+    {
+      "id": 4910,
+      "name": "Empress Ogre Accessory Chip",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4921,
+      "name": "Empress Ogre Crystal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4915,
+      "name": "Empress Ogre Fang",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4909,
+      "name": "Empress Ogre Hair",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4911,
+      "name": "Empress Ogre Jaws",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4927,
+      "name": "Venena II",
+      "type_id": 240,
+      "type_label": "[Enhancer Crysta (Purple)]"
+    }
+  ]
+}

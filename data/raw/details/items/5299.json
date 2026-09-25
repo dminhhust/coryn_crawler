@@ -1,0 +1,14 @@
+{
+  "id": 5299,
+  "name": "Bitter Root",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 13,
+  "process": 5,
+  "process_amount": 14,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

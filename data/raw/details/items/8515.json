@@ -1,0 +1,14 @@
+{
+  "id": 8515,
+  "name": "Ghostfire Staff",
+  "type_id": 19,
+  "type_label": "[Staff]",
+  "sell": 300,
+  "process": 2,
+  "process_amount": 150,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

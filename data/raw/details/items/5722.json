@@ -1,0 +1,39 @@
+{
+  "id": 5722,
+  "name": "Forester's Hat",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 100,
+  "process": 4,
+  "process_amount": 50,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 47,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 23,
+      "effect_name": "MATK %",
+      "amount": 8,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 68,
+      "effect_name": "Attack MP Recovery",
+      "amount": 8,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 130,
+      "effect_name": "Additional Magic %",
+      "amount": 80,
+      "applies_to": 0
+    }
+  ]
+}

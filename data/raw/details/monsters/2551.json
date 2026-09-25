@@ -1,0 +1,46 @@
+{
+  "id": 2551,
+  "name": "Tackal",
+  "level": 201,
+  "map_id": 454,
+  "map_name": "Prime Ramus: Area 3",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 30000,
+  "exp": 500,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 5962,
+      "name": "Jackal Fang",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5960,
+      "name": "Jackal's Fur",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5961,
+      "name": "Ramus Wood",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 5920,
+      "name": "Repeating Crossbow",
+      "type_id": 10,
+      "type_label": "[Bowgun]"
+    }
+  ]
+}

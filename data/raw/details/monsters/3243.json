@@ -1,0 +1,64 @@
+{
+  "id": 3243,
+  "name": "Bemoz",
+  "level": 300,
+  "map_id": 613,
+  "map_name": "Deusania's Lab Innermost Chambers ",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Very Hard",
+  "hp": 100000000,
+  "exp": 151800,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7921,
+      "name": "Broken Huge Syringe",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7910,
+      "name": "Ectopiezm",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 7922,
+      "name": "Medical Messer",
+      "type_id": 11,
+      "type_label": "[Dagger]"
+    },
+    {
+      "id": 911,
+      "name": "Orichalcum Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 7914,
+      "name": "Patched Artificial Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7907,
+      "name": "Remnant of Beyond",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 1463,
+      "name": "Sweets Box",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

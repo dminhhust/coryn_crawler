@@ -1,0 +1,14 @@
+{
+  "id": 4356,
+  "name": "Zodiac Rat Box",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 1,
+  "process": 0,
+  "process_amount": 0,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

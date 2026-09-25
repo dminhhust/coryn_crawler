@@ -1,0 +1,14 @@
+{
+  "id": 5513,
+  "name": "Quartz Powder",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 25,
+  "process": 5,
+  "process_amount": 24,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

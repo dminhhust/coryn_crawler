@@ -1,0 +1,46 @@
+{
+  "id": 2076,
+  "name": "Sandsaur",
+  "level": 165,
+  "map_id": 362,
+  "map_name": "Inanis Wilderness",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 13000,
+  "exp": 195,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4684,
+      "name": "Holy Shield",
+      "type_id": 17,
+      "type_label": "[Shield]"
+    },
+    {
+      "id": 4682,
+      "name": "Inanis Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4683,
+      "name": "Sandstone Claw",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4681,
+      "name": "Sandstone Tiny Horn",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

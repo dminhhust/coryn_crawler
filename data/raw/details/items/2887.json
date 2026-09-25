@@ -1,0 +1,14 @@
+{
+  "id": 2887,
+  "name": "Spiky Fang",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 14,
+  "process": 1,
+  "process_amount": 14,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

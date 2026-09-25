@@ -1,0 +1,46 @@
+{
+  "id": 1002,
+  "name": "Chill Puffer",
+  "level": 109,
+  "map_id": 193,
+  "map_name": "Navida City: Crossroad (100-120)",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 342,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2487,
+      "name": "Frozen Wreath",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2281,
+      "name": "Hard Stone Horn",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2488,
+      "name": "MP+250",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 2481,
+      "name": "Navida Stone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

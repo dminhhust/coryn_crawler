@@ -1,0 +1,52 @@
+{
+  "id": 2201,
+  "name": "Red Steel Box",
+  "level": 0,
+  "map_id": 88,
+  "map_name": "-",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 0,
+  "exp": 0,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4558,
+      "name": "Red Steel Arcus",
+      "type_id": 9,
+      "type_label": "[Bow]"
+    },
+    {
+      "id": 4559,
+      "name": "Red Steel Buckler",
+      "type_id": 17,
+      "type_label": "[Shield]"
+    },
+    {
+      "id": 4555,
+      "name": "Red Steel Slayer",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    },
+    {
+      "id": 4556,
+      "name": "Red Steel Staff",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    },
+    {
+      "id": 4557,
+      "name": "Red Steel Tonfa",
+      "type_id": 13,
+      "type_label": "[Knuckles]"
+    }
+  ]
+}

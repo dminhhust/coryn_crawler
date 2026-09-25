@@ -1,0 +1,46 @@
+{
+  "id": 953,
+  "name": "Rugos Demi Machina",
+  "level": 108,
+  "map_id": 181,
+  "map_name": "Small Demi Machina Factory: Area 2",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 20000,
+  "exp": 426,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 2406,
+      "name": "Broken Leather Shoes",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2408,
+      "name": "Broken Self-Destruct Button",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 2409,
+      "name": "Top Hat",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 2407,
+      "name": "Torn Black Coat",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

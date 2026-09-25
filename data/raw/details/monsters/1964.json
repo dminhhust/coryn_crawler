@@ -1,0 +1,64 @@
+{
+  "id": 1964,
+  "name": "Sapphire Roga",
+  "level": 181,
+  "map_id": 343,
+  "map_name": "Avant Plastida: Deepest Area",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 3800000,
+  "exp": 20270,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4468,
+      "name": "Broken Crystal Stick",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4470,
+      "name": "Core of Sapphire Roga",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4469,
+      "name": "Floating Corroded Crystal Bit",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4473,
+      "name": "Sapphire Mace",
+      "type_id": 4,
+      "type_label": "[1 Handed Sword]"
+    },
+    {
+      "id": 4474,
+      "name": "Sapphire Roga",
+      "type_id": 220,
+      "type_label": "[Enhancer Crysta (Green)]"
+    },
+    {
+      "id": 4471,
+      "name": "Sapphire Roga Horns",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4472,
+      "name": "Sapphire Shield",
+      "type_id": 17,
+      "type_label": "[Shield]"
+    }
+  ]
+}

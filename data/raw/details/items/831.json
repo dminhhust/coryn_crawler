@@ -1,0 +1,21 @@
+{
+  "id": 831,
+  "name": "Chicken Tender",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 9,
+  "process": 5,
+  "process_amount": 8,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 80,
+      "effect_name": "MP",
+      "amount": 15,
+      "applies_to": 0
+    }
+  ]
+}

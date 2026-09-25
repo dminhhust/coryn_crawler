@@ -1,0 +1,46 @@
+{
+  "id": 3342,
+  "name": "Spiraz",
+  "level": 221,
+  "map_id": 642,
+  "map_name": "Day Sakura Garden: Mountains",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Spiraz",
+  "hp": 30980,
+  "exp": 497,
+  "element_id": 3,
+  "element_label": "Wind",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 78,
+      "name": "Flower Nectar",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 7635,
+      "name": "Red Hanten",
+      "type_id": 6,
+      "type_label": "[Additional]"
+    },
+    {
+      "id": 8110,
+      "name": "Sakura Spirit Leaf",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1065,
+      "name": "Toram Liquor",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

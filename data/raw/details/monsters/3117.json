@@ -1,0 +1,46 @@
+{
+  "id": 3117,
+  "name": "Actilunia",
+  "level": 242,
+  "map_id": 552,
+  "map_name": "Abandoned District: Area 2",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 745,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 7445,
+      "name": "Delicious Fillet",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 7443,
+      "name": "Fish Poison Fang",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7444,
+      "name": "Sharp Pectoral Fin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 7446,
+      "name": "Twisted Staff",
+      "type_id": 19,
+      "type_label": "[Staff]"
+    }
+  ]
+}

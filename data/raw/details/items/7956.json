@@ -1,0 +1,14 @@
+{
+  "id": 7956,
+  "name": "Drumette",
+  "type_id": 1,
+  "type_label": "[Usable]",
+  "sell": 25,
+  "process": 5,
+  "process_amount": 25,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

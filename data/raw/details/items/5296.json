@@ -1,0 +1,21 @@
+{
+  "id": 5296,
+  "name": "Royal Syrup",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 15,
+  "process": 5,
+  "process_amount": 16,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 79,
+      "effect_name": "HP",
+      "amount": 10,
+      "applies_to": 0
+    }
+  ]
+}

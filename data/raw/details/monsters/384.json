@@ -1,0 +1,46 @@
+{
+  "id": 384,
+  "name": "Kiliznar",
+  "level": 66,
+  "map_id": 105,
+  "map_name": "Akaku Desert: Area 1",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": 253,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 1304,
+      "name": "Akaku Sand",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1332,
+      "name": "Flamberge",
+      "type_id": 5,
+      "type_label": "[2 Handed Sword]"
+    },
+    {
+      "id": 1303,
+      "name": "Mottled Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 1333,
+      "name": "Pliable Neck Bone",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

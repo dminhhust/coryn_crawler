@@ -1,0 +1,46 @@
+{
+  "id": 2066,
+  "name": "Swirly Whirly",
+  "level": 175,
+  "map_id": 360,
+  "map_name": "Deltzon Research Zone: Area 3",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 23000,
+  "exp": 434,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 4626,
+      "name": "Broken Artificial Arm",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4627,
+      "name": "Floating Sphere",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4625,
+      "name": "Frock Coat Scrap",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4628,
+      "name": "Triangulum Bowgun",
+      "type_id": 10,
+      "type_label": "[Bowgun]"
+    }
+  ]
+}

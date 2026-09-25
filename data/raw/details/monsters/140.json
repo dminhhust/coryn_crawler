@@ -1,0 +1,46 @@
+{
+  "id": 140,
+  "name": "Flame Butterfly",
+  "level": 29,
+  "map_id": 39,
+  "map_name": "Fiery Volcano: Area 2",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 950,
+  "exp": 34,
+  "element_id": 1,
+  "element_label": "Fire",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 72,
+      "name": "Fire Feather",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 75,
+      "name": "Flame Grass",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 495,
+      "name": "Iron Bow",
+      "type_id": 9,
+      "type_label": "[Bow]"
+    },
+    {
+      "id": 268,
+      "name": "Sofya City",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": 3580,
+  "name": "Small Fairy Wings",
+  "type_id": 6,
+  "type_label": "[Additional]",
+  "sell": 70,
+  "process": 4,
+  "process_amount": 35,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": [
+    {
+      "effect_id": 1,
+      "effect_name": "Base DEF",
+      "amount": 36,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 129,
+      "effect_name": "Additional Melee %",
+      "amount": 50,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 130,
+      "effect_name": "Additional Magic %",
+      "amount": 50,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 131,
+      "effect_name": "ATK UP (INT %)",
+      "amount": 25,
+      "applies_to": 0
+    },
+    {
+      "effect_id": 163,
+      "effect_name": "MATK UP (STR %)",
+      "amount": 25,
+      "applies_to": 0
+    }
+  ]
+}

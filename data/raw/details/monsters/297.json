@@ -1,0 +1,106 @@
+{
+  "id": 297,
+  "name": "Dedel",
+  "level": 0,
+  "map_id": 22,
+  "map_name": "Rugio Ruins",
+  "type_code": "C",
+  "type_label": "NPC",
+  "mode": "Normal",
+  "hp": 0,
+  "exp": 0,
+  "element_id": 0,
+  "element_label": "Neutral",
+  "tameable": false,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 331,
+      "name": "Damascus Steel",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 244,
+      "name": "Iron",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 254,
+      "name": "Magiadd I",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 332,
+      "name": "Mithril",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 335,
+      "name": "Orichalcum",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 259,
+      "name": "Regera I",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 260,
+      "name": "Revita I",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 588,
+      "name": "Revita II",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 589,
+      "name": "Revita III",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 263,
+      "name": "Rugio Ruins",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 266,
+      "name": "Save Point",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 268,
+      "name": "Sofya City",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 592,
+      "name": "Vaccine I",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    },
+    {
+      "id": 594,
+      "name": "Vita Plus I",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

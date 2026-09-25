@@ -1,0 +1,14 @@
+{
+  "id": 224,
+  "name": "Torn Page",
+  "type_id": 14,
+  "type_label": "[Material]",
+  "sell": 3,
+  "process": 5,
+  "process_amount": 3,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "stats": []
+}

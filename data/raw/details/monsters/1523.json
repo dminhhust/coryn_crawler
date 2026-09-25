@@ -1,0 +1,52 @@
+{
+  "id": 1523,
+  "name": "Eidenliebe (Milk)",
+  "level": 90,
+  "map_id": 103,
+  "map_name": "Maia Diela",
+  "type_code": "B",
+  "type_label": "Boss",
+  "mode": "Normal",
+  "hp": 370000,
+  "exp": 8000,
+  "element_id": 5,
+  "element_label": "Dark",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 436,
+      "name": "Adventurer's Garb",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    },
+    {
+      "id": 2622,
+      "name": "Cacao Crystal",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 3551,
+      "name": "Eidenliebe",
+      "type_id": 23,
+      "type_label": "[Additional Crysta]"
+    },
+    {
+      "id": 816,
+      "name": "Mithril Ore",
+      "type_id": 16,
+      "type_label": "[Ore]"
+    },
+    {
+      "id": 3548,
+      "name": "Prime Chocolate Chip",
+      "type_id": 14,
+      "type_label": "[Material]"
+    }
+  ]
+}

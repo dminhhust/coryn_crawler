@@ -1,0 +1,46 @@
+{
+  "id": 2522,
+  "name": "Iceberg",
+  "level": 162,
+  "map_id": 442,
+  "map_name": "Noeliel Castle: B2F (150-170)",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": -1,
+  "exp": -1,
+  "element_id": 2,
+  "element_label": "Water",
+  "tameable": false,
+  "limited": true,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 3780,
+      "name": "Achti Bowgun",
+      "type_id": 10,
+      "type_label": "[Bowgun]"
+    },
+    {
+      "id": 5935,
+      "name": "Dull Crest",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4280,
+      "name": "Hard Epidermis",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 4454,
+      "name": "Hard Water",
+      "type_id": 1,
+      "type_label": "[Usable]"
+    }
+  ]
+}

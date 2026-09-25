@@ -1,0 +1,52 @@
+{
+  "id": 103,
+  "name": "Boar",
+  "level": 26,
+  "map_id": 28,
+  "map_name": "Nisel Mountain: Mountainside",
+  "type_code": "N",
+  "type_label": "Normal",
+  "mode": "Normal",
+  "hp": 1000,
+  "exp": 39,
+  "element_id": 4,
+  "element_label": "Earth",
+  "tameable": true,
+  "limited": false,
+  "meta": {
+    "badge": "",
+    "note": ""
+  },
+  "drops": [
+    {
+      "id": 6,
+      "name": "Animal Skin",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 14,
+      "name": "Big Mane",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 288,
+      "name": "Critical Rate+1",
+      "type_id": 20,
+      "type_label": "[Normal Crysta]"
+    },
+    {
+      "id": 213,
+      "name": "Sturdy Fur",
+      "type_id": 14,
+      "type_label": "[Material]"
+    },
+    {
+      "id": 574,
+      "name": "Warrior Mail",
+      "type_id": 8,
+      "type_label": "[Armor]"
+    }
+  ]
+}
