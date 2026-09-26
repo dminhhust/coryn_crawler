@@ -1,0 +1,15 @@
+{
+  "item_id": 4000,
+  "item_name": "Seaweed Hat",
+  "page_url": "https://coryn.club/item.php?id=4000",
+  "image_url": "https://coryn.club/app/6-Seaweed Hat.jpg?v=1741034529",
+  "local_path": "images/items/4000_seaweed_hat.jpg",
+  "content_type": "image/jpeg",
+  "sha256": "83a193db40d80582e26abd358054296fff8b913d3a5c56a1dc53d33024e10853",
+  "file_size": 32269,
+  "width": 150,
+  "height": 180,
+  "downloaded_at": "2026-09-26T06:50:45.365506+00:00",
+  "status": "downloaded",
+  "error": ""
+}

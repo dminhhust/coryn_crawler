@@ -1,0 +1,15 @@
+{
+  "item_id": 333,
+  "item_name": "Santa Hat",
+  "page_url": "https://coryn.club/item.php?id=333",
+  "image_url": "https://coryn.club/app/6-Santa Hat.jpg?v=1741034529",
+  "local_path": "images/items/333_santa_hat.jpg",
+  "content_type": "image/jpeg",
+  "sha256": "904718e776d55e2a494d1f738676cfae9a212955dab33fb150f1d503ebd1b3c5",
+  "file_size": 6655,
+  "width": 150,
+  "height": 180,
+  "downloaded_at": "2026-09-26T08:35:02.931729+00:00",
+  "status": "downloaded",
+  "error": ""
+}

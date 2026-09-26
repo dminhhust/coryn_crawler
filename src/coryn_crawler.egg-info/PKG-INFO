@@ -1,35 +1,28 @@
 Metadata-Version: 2.4
 Name: coryn-crawler
-Version: 0.1.0
-Summary: Polite, resumable crawler for Coryn Club's public JSON API
+Version: 0.3.0
+Summary: Polite, resumable crawler for Coryn Club API data and item images
 Requires-Python: >=3.10
 Description-Content-Type: text/markdown
 Requires-Dist: requests<3,>=2.32
 Requires-Dist: python-dotenv<2,>=1.0
+Requires-Dist: beautifulsoup4<5,>=4.12
+Requires-Dist: Pillow<13,>=10
 
 # Coryn Club Crawler
 
-A small, resumable Python crawler for Coryn Club's **public read-only JSON API**.
+A polite, resumable Python crawler for Coryn Club structured data and item images, with a **self-contained offline dataset builder**.
 
 It collects:
 
-- all items
-- item stats (via detail lookups)
-- all monsters
-- bosses / mini-bosses
-- monster drop relationships
-- all maps
-- map → monster relationships
-
-The crawler uses Coryn's documented API instead of scraping HTML pages.
-
-## API used
-
-- `https://coryn.club/api/v1/items.php`
-- `https://coryn.club/api/v1/monsters.php`
-- `https://coryn.club/api/v1/maps.php`
-
-The documented maximum page size is 100, so the crawler paginates with `limit` and `offset`.
+- items and complete item stats
+- monsters, bosses / mini-bosses, difficulties and drops
+- maps and map → monster relationships
+- item images from public item pages
+- image checksums, file sizes, dimensions and timestamps
+- normalized CSV tables
+- consolidated raw JSONL API responses
+- a portable offline folder / optional ZIP that does not require Coryn to remain online
 
 ## Project layout
 
@@ -39,44 +32,20 @@ coryn-crawler/
 ├── pyproject.toml
 ├── requirements.txt
 ├── README.md
-├── src/
-│   └── coryn_crawler/
-│       ├── api.py
-│       ├── cli.py
-│       ├── config.py
-│       ├── exporters.py
-│       ├── http.py
-│       ├── normalize.py
-│       └── storage.py
+├── src/coryn_crawler/
+│   ├── api.py
+│   ├── cli.py
+│   ├── config.py
+│   ├── exporters.py
+│   ├── http.py
+│   ├── images.py
+│   ├── normalize.py
+│   ├── offline.py
+│   └── storage.py
 └── tests/
-    ├── test_api.py
-    └── test_normalize.py
 ```
 
-Runtime output:
-
-```text
-data/
-├── raw/
-│   ├── items.jsonl
-│   ├── monsters.jsonl
-│   ├── maps.jsonl
-│   ├── items_details.jsonl
-│   ├── monsters_details.jsonl
-│   └── details/
-│       ├── items/<id>.json
-│       └── monsters/<id>.json
-└── processed/
-    ├── items.csv
-    ├── item_stats.csv
-    ├── monsters.csv
-    ├── bosses.csv
-    ├── monster_drops.csv
-    ├── maps.csv
-    └── map_monsters.csv
-```
-
-## 1. Setup
+## Setup
 
 ### PowerShell
 
@@ -98,140 +67,234 @@ pip install -e .
 cp .env.example .env
 ```
 
-## 2. Crawl only the paginated collections
+## Recommended: create the full offline-ready dataset
 
-Fastest / fewest requests:
+```powershell
+coryn-crawl full --offline-ready
+```
+
+This performs the complete workflow:
+
+1. crawl all item, monster and map collections;
+2. fetch/cache item details;
+3. fetch/cache monster details and drops;
+4. export normalized CSV tables;
+5. visit item HTML pages and download item images;
+6. calculate SHA-256, file size and image dimensions;
+7. build `data/offline/` using only relative local asset paths.
+
+To also create a portable ZIP:
+
+```powershell
+coryn-crawl full --offline-ready --offline-zip
+```
+
+The resulting archive is:
+
+```text
+data/coryn-offline-dataset.zip
+```
+
+If the crawl is interrupted, run the same command again. API details and successfully crawled images are reused.
+
+## Offline output
+
+```text
+data/offline/
+├── manifest.json
+├── README.txt
+├── data/
+│   ├── items.csv
+│   ├── items_with_images.csv
+│   ├── items_with_images.jsonl
+│   ├── item_stats.csv
+│   ├── item_images.csv
+│   ├── monsters.csv
+│   ├── bosses.csv
+│   ├── monster_drops.csv
+│   ├── maps.csv
+│   ├── map_monsters.csv
+│   └── catalog.json
+├── raw/
+│   ├── items.jsonl
+│   ├── items_details.jsonl
+│   ├── monsters.jsonl
+│   ├── monsters_details.jsonl
+│   ├── maps.jsonl
+│   └── item_images.jsonl
+└── images/
+    └── items/
+        ├── 8571_reindeer_antlers.png
+        └── ...
+```
+
+`items_with_images.csv` is the easiest table for an offline application. It contains:
+
+```text
+item_id
+name
+type_id
+type_label
+...
+image_status
+offline_image_path
+image_sha256
+image_file_size
+image_width
+image_height
+image_content_type
+source_page_url
+source_image_url
+```
+
+Use `offline_image_path` for applications. For example:
+
+```python
+from pathlib import Path
+
+OFFLINE_ROOT = Path("data/offline")
+image_file = OFFLINE_ROOT / row["offline_image_path"]
+```
+
+`source_page_url` and `source_image_url` are preserved only as provenance. The offline dataset does **not** require those URLs to work.
+
+## Manifest and integrity
+
+`data/offline/manifest.json` records:
+
+- whether the dataset is complete enough to be considered `offline_ready`;
+- row counts;
+- number of copied images;
+- unindexed items;
+- image crawl errors;
+- downloaded-image records whose local files are missing;
+- SHA-256 and byte size for each bundled file.
+
+A bundle is marked `offline_ready: false` if, for example, the image crawl was only partially completed or an image previously marked as downloaded has disappeared locally.
+
+## Crawl commands
+
+Collection-only crawl:
 
 ```powershell
 coryn-crawl crawl all
 ```
 
-Or separately:
-
-```powershell
-coryn-crawl crawl items
-coryn-crawl crawl monsters
-coryn-crawl crawl maps
-```
-
-## 3. Complete crawl including item stats and monster drops
+Complete API crawl without images:
 
 ```powershell
 coryn-crawl full
 ```
 
-`full` does this:
-
-1. paginate all items, monsters, and maps;
-2. cache an ID detail response for each item;
-3. cache an ID detail response for each monster;
-4. export normalized CSV tables.
-
-Because the site has thousands of records, this intentionally runs sequentially with a configurable delay rather than hammering the API.
-
-If interrupted, run the exact command again. Existing detail files are reused.
-
-## 4. Fetch details for only one resource
+Individual resources:
 
 ```powershell
 coryn-crawl crawl items --details
 coryn-crawl crawl monsters --details
+coryn-crawl crawl maps
 ```
 
-Maps are lightweight; their collection response is normally enough for `maps.csv`.
+## Item images
 
-## 5. Export CSVs again without re-crawling
+Coryn's structured API does not provide the main item image, so the image crawler visits:
+
+```text
+item.php?id=<item_id>
+```
+
+and discovers image candidates from normal/lazy `<img>` tags, linked full-size images, `srcset`, OpenGraph/Twitter metadata, JSON-LD, CSS background images and image-like data attributes.
+
+Run:
+
+```powershell
+coryn-crawl images
+```
+
+Smoke test only the first 20 items:
+
+```powershell
+coryn-crawl images --limit 20
+```
+
+The normal image index is:
+
+```text
+data/processed/item_images.csv
+```
+
+with fields:
+
+```text
+item_id,item_name,page_url,image_url,local_path,content_type,sha256,file_size,width,height,downloaded_at,status,error
+```
+
+Image crawling is resumable. `downloaded` and confirmed `no_image` results are reused; prior `error` results are retried.
+
+## Build/rebuild offline bundle without crawling
+
+If you have already crawled/exported everything:
+
+```powershell
+coryn-crawl offline
+```
+
+Or build it and ZIP it:
+
+```powershell
+coryn-crawl offline --zip
+```
+
+This command makes no network requests. It packages the local crawl you already have.
+
+## Export normalized tables again
 
 ```powershell
 coryn-crawl export
 ```
 
-If detailed files exist, they are preferred automatically.
+Detailed JSONL files are preferred automatically when available.
 
-To export only collection-level information:
-
-```powershell
-coryn-crawl export --no-prefer-details
-```
-
-## 6. Configuration
+## Configuration
 
 Edit `.env`:
 
 ```dotenv
+CORYN_SITE_URL=https://coryn.club
 CORYN_BASE_URL=https://coryn.club/api/v1
 CORYN_PAGE_SIZE=100
 CORYN_REQUEST_DELAY=0.30
 CORYN_TIMEOUT=30
 CORYN_MAX_RETRIES=5
-CORYN_USER_AGENT=CorynResearchCrawler/0.1 (educational data collection; public API)
+CORYN_USER_AGENT=CorynResearchCrawler/0.3 (educational data collection; public API)
 CORYN_OUTPUT_DIR=data
 ```
 
-For a public community API, keep a non-zero delay. If you receive HTTP 429, the code backs off automatically.
+Keep a non-zero request delay. HTTP 429 responses are retried with backoff.
 
-## 7. Output tables
+## Main normalized tables
 
-### `items.csv`
+- `items.csv`: one row per item.
+- `item_stats.csv`: one row per item/stat pair.
+- `monsters.csv`: one row per monster/difficulty record.
+- `bosses.csv`: boss and mini-boss subset; do not deduplicate solely by name because modes/difficulties may differ.
+- `monster_drops.csv`: monster → dropped item relationship.
+- `maps.csv`: maps.
+- `map_monsters.csv`: map → monster relationship.
+- `item_images.csv`: source/local image index and integrity metadata.
 
-One row per item:
-
-```text
-item_id,name,type_id,type_label,sell,process,process_amount,badge,note
-```
-
-### `item_stats.csv`
-
-One row per item/stat pair:
-
-```text
-item_id,item_name,effect_id,effect_name,amount,applies_to
-```
-
-### `monsters.csv`
-
-One row per monster record/difficulty:
-
-```text
-monster_id,name,level,map_id,map_name,type_code,type_label,mode,hp,exp,element_id,element_label,...
-```
-
-### `bosses.csv`
-
-Subset of monster rows where `type_label` contains `boss`. Do **not** deduplicate solely by boss name because different difficulty/mode records may exist.
-
-### `monster_drops.csv`
-
-Relationship table:
-
-```text
-monster_id,monster_name,monster_type,monster_level,monster_mode,map_id,map_name,item_id,item_name,item_type_id,item_type_label
-```
-
-### `maps.csv`
-
-```text
-map_id,name,monster_count
-```
-
-### `map_monsters.csv`
-
-Relationship table reconstructed from each monster's map fields.
-
-## 8. Run tests
+## Tests
 
 ```powershell
 pip install pytest
 pytest -q
 ```
 
-The tests use a fake HTTP client, so they do not hit Coryn Club.
+Tests are offline and use fake HTTP clients; they do not hit Coryn Club.
 
 ## Notes
 
-- Uses only public read-only endpoints.
-- No login/session scraping.
+- Uses public read-only data/pages only.
+- No login scraping.
 - No Selenium required.
-- Pagination and details are resumable.
-- Individual detail objects are cached as `data/raw/details/<resource>/<id>.json`.
-- `--no-resume` disables reuse of crawler state/detail caches.
+- Raw API responses are preserved so future code can recover fields not represented by normalized CSVs.
+- The offline bundle keeps source URLs only for provenance; local images and local tables are the canonical assets for offline use.

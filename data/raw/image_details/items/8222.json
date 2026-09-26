@@ -1,0 +1,15 @@
+{
+  "item_id": 8222,
+  "item_name": "Pirate Hat",
+  "page_url": "https://coryn.club/item.php?id=8222",
+  "image_url": "https://coryn.club/images/item_gallery/item-8222-user-1000074-1774393465-6683354c.png?v=1774393465",
+  "local_path": "images/items/8222_pirate_hat.png",
+  "content_type": "image/png",
+  "sha256": "3e3661f391f99dd98f36355fd66407c5a09a171d2b809b19c7d655a25522598f",
+  "file_size": 164511,
+  "width": 1024,
+  "height": 1536,
+  "downloaded_at": "2026-09-26T04:52:37.660531+00:00",
+  "status": "downloaded",
+  "error": ""
+}

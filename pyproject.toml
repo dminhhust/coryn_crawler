@@ -4,13 +4,15 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "coryn-crawler"
-version = "0.1.0"
-description = "Polite, resumable crawler for Coryn Club's public JSON API"
+version = "0.3.0"
+description = "Polite, resumable crawler for Coryn Club API data and item images"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
   "requests>=2.32,<3",
   "python-dotenv>=1.0,<2",
+  "beautifulsoup4>=4.12,<5",
+  "Pillow>=10,<13",
 ]
 
 [project.scripts]

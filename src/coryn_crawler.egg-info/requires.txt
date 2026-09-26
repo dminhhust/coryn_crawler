@@ -1,2 +1,4 @@
 requests<3,>=2.32
 python-dotenv<2,>=1.0
+beautifulsoup4<5,>=4.12
+Pillow<13,>=10

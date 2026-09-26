@@ -6,7 +6,9 @@ src/coryn_crawler/cli.py
 src/coryn_crawler/config.py
 src/coryn_crawler/exporters.py
 src/coryn_crawler/http.py
+src/coryn_crawler/images.py
 src/coryn_crawler/normalize.py
+src/coryn_crawler/offline.py
 src/coryn_crawler/storage.py
 src/coryn_crawler.egg-info/PKG-INFO
 src/coryn_crawler.egg-info/SOURCES.txt
@@ -15,4 +17,6 @@ src/coryn_crawler.egg-info/entry_points.txt
 src/coryn_crawler.egg-info/requires.txt
 src/coryn_crawler.egg-info/top_level.txt
 tests/test_api.py
+tests/test_images.py
 tests/test_normalize.py
+tests/test_offline.py

@@ -16,6 +16,7 @@ class Settings:
     max_retries: int
     user_agent: str
     output_dir: Path
+    site_url: str = "https://coryn.club"
 
     @classmethod
     def from_env(cls) -> "Settings":
@@ -32,4 +33,5 @@ class Settings:
                 "CorynResearchCrawler/0.1 (educational data collection; public API)",
             ),
             output_dir=Path(os.getenv("CORYN_OUTPUT_DIR", "data")),
+            site_url=os.getenv("CORYN_SITE_URL", "https://coryn.club").rstrip("/"),
         )

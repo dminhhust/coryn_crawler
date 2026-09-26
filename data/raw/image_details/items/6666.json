@@ -1,0 +1,15 @@
+{
+  "item_id": 6666,
+  "item_name": "Laguna Sword",
+  "page_url": "https://coryn.club/item.php?id=6666",
+  "image_url": "https://coryn.club/app/4-Laguna Sword.jpg?v=1741034509",
+  "local_path": "images/items/6666_laguna_sword.jpg",
+  "content_type": "image/jpeg",
+  "sha256": "a51675527f1d10c1f1eba4880b566b497b549956b9e8869421d46055ac357901",
+  "file_size": 25028,
+  "width": 150,
+  "height": 180,
+  "downloaded_at": "2026-09-26T05:33:25.045056+00:00",
+  "status": "downloaded",
+  "error": ""
+}
